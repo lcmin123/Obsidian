@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "p9082.md",
+                "file": "알고리즘/2. 동적 계획.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "25192bdd3f6894eb",
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "p9082.md",
+                "file": "알고리즘/2. 동적 계획.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "p9082.md",
+                "file": "알고리즘/2. 동적 계획.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "p9082.md"
+                "file": "알고리즘/2. 동적 계획.md"
               }
             }
           },
@@ -168,18 +168,18 @@
   },
   "active": "0e580cb45613e193",
   "lastOpenFiles": [
-    "p9120.md",
-    "객체1/C++/3. Instance and initialize.md",
-    "p9090.md",
+    "객체1/C++/lab/lab1001.md",
     "객체1/C++/4. Information hiding.md",
-    "p9082.md",
+    "객체1/C++/lab/lab1000.md",
+    "객체1/C++/lab/p9082.md",
+    "객체1/C++/lab/p9120.md",
+    "객체1/C++/3. Instance and initialize.md",
+    "객체1/C++/lab/p9090.md",
     "객체1/C++/lab/p8060.md",
     "객체1/C++/lab/lab0804.md",
     "객체1/C++/lab/lab1004.md",
     "객체1/C++/lab/lab0908.md",
     "객체1/C++/lab/lab1002.md",
-    "객체1/C++/lab/lab1001.md",
-    "객체1/C++/lab/lab1000.md",
     "객체1/C++/lab/lab0907.md",
     "객체1/C++/lab/lab0903.md",
     "lab0905.md",

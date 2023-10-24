@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "<분할 정복>",
+      "path": "알고리즘/<분할 정복>.md"
+    },
+    {
+      "basename": "2. 동적 계획",
+      "path": "알고리즘/2. 동적 계획.md"
+    },
+    {
+      "basename": "lab1001",
+      "path": "객체1/C++/lab/lab1001.md"
+    },
+    {
+      "basename": "4. Information hiding",
+      "path": "객체1/C++/4. Information hiding.md"
+    },
+    {
+      "basename": "lab1000",
+      "path": "객체1/C++/lab/lab1000.md"
+    },
+    {
       "basename": "p9082",
-      "path": "p9082.md"
+      "path": "객체1/C++/lab/p9082.md"
     },
     {
       "basename": "p9120",
-      "path": "p9120.md"
+      "path": "객체1/C++/lab/p9120.md"
     },
     {
       "basename": "3. Instance and initialize",
@@ -14,11 +34,7 @@
     },
     {
       "basename": "p9090",
-      "path": "p9090.md"
-    },
-    {
-      "basename": "4. Information hiding",
-      "path": "객체1/C++/4. Information hiding.md"
+      "path": "객체1/C++/lab/p9090.md"
     },
     {
       "basename": "p8060",
@@ -39,14 +55,6 @@
     {
       "basename": "lab1002",
       "path": "객체1/C++/lab/lab1002.md"
-    },
-    {
-      "basename": "lab1001",
-      "path": "객체1/C++/lab/lab1001.md"
-    },
-    {
-      "basename": "lab1000",
-      "path": "객체1/C++/lab/lab1000.md"
     },
     {
       "basename": "lab0907",
@@ -191,14 +199,6 @@
     {
       "basename": "lab2208",
       "path": "객체1/C/lab/lab2208.md"
-    },
-    {
-      "basename": "lab2207",
-      "path": "객체1/C/lab/lab2207.md"
-    },
-    {
-      "basename": "lab2205",
-      "path": "객체1/C/lab/lab2205.md"
     }
   ],
   "omittedPaths": [],
