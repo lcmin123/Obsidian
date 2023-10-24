@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "bf3d686f3e7cc87f",
+    "type": "split",
+    "children": [
+      {
+        "id": "aadebcdbf91fbc08",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51bd17ff14295423",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b4147df86baed2c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "964ef856596d486d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e580cb45613e193",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6cb6d36e4721a6ec",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c8a89d582a863b03",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "25192bdd3f6894eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "f73db0fbb6256863",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d94df696221797c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7ff60fe76242b9d9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a3de3292b1fa0328",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bcfd42fa5be4b166",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "markdown-importer:마크다운 형식 가져오기 열기": false,
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "0e580cb45613e193",
+  "lastOpenFiles": [
+    "Context/spacesLastSync.log",
+    "Attached Files/Pasted image 20231017021429.png",
+    "Attached Files/Pasted image 20231017093946.png",
+    "Attached Files/Pasted image 20231017093809.png",
+    "Attached Files/Pasted image 20231017021020.png",
+    "Attached Files/Pasted image 20231017093928.png",
+    "컴퓨터 보안/RSA.md",
+    "컴퓨터 보안/해쉬.md",
+    "컴퓨터 보안/컴퓨터 보안.md",
+    "컴퓨터 보안/ECC.md",
+    "컴퓨터 보안/가용성.md",
+    "컴퓨터 보안/대칭키.md",
+    "컴퓨터 보안/스트림 싸이퍼.md",
+    "컴퓨터 보안/무결성.md",
+    "컴퓨터 보안/족보 중간/2016 Midterm A.md",
+    "컴퓨터 보안/족보 중간",
+    "컴퓨터 보안/피스텔 싸이퍼 스트럭처.md",
+    "컴퓨터 보안/기밀성.md",
+    "컴퓨터 보안/보안의 4원칙.md",
+    "컴퓨터 보안/MAC.md",
+    "컴퓨터 보안/El Gammal.md",
+    "컴퓨터 보안/페르마 정리.md",
+    "컴퓨터 보안/오일러 정리.md",
+    "컴퓨터 보안/인증.md",
+    "컴퓨터 보안/확장된 유클리드 알고리즘.md",
+    "컴퓨터 보안/블럭 오퍼레이션 모드.md",
+    "컴퓨터 보안/블럭 싸이퍼.md",
+    "컴퓨터 보안/모듈러 연산.md",
+    "컴퓨터 보안/키.md",
+    "컴퓨터 보안/공개키.md",
+    "컴퓨터 보안/전자 서명.md",
+    "컴퓨터 보안/피스텔 싸이퍼 파라미터.md",
+    "객체1/C/lab",
+    "객체1/C",
+    "객체1/C++/lab",
+    "객체1/C++",
+    "Context",
+    "객체1",
+    "Attached Files"
+  ]
+}
