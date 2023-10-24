@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "객체1/C/lab/lab2207.md",
+                "file": "객체1/C/lab/lab2515.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "객체1/C/lab/lab2207.md",
+                "file": "객체1/C/lab/lab2515.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "객체1/C/lab/lab2207.md",
+                "file": "객체1/C/lab/lab2515.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "객체1/C/lab/lab2207.md"
+                "file": "객체1/C/lab/lab2515.md"
               }
             }
           },
@@ -168,7 +168,18 @@
   },
   "active": "51bd17ff14295423",
   "lastOpenFiles": [
+    "객체1/C/3. 포인터.md",
+    "객체1/C/lab/lab2514.md",
+    "객체1/C/lab/lab2513.md",
+    "객체1/C/lab/lab2512.md",
+    "객체1/C/lab/lab2511.md",
+    "객체1/C/lab/lab2510.md",
+    "객체1/C/lab/lab2508.md",
+    "객체1/C/lab/lab2506.md",
     "객체1/C/2. 구조체.md",
+    "객체1/C/lab/p22530.md",
+    "객체1/C/lab/lab2208.md",
+    "객체1/C/lab/lab2207.md",
     "객체1/C/lab/lab2205.md",
     "객체1/C/lab/lab2203.md",
     "객체1/C/lab/p16870.md",
@@ -183,17 +194,6 @@
     "알고리즘/배낭 채우기.md",
     "컴퓨터 보안/무제 폴더/무제 파일.md",
     "알고리즘/2. 동적 계획.md",
-    "알고리즘/모든 쌍 최단 경로 찾기.md",
-    "알고리즘/막대 자르기.md",
-    "알고리즘/기본 연산.md",
-    "알고리즘/피보나치.md",
-    "알고리즘/1. 분할 정복.md",
-    "알고리즘/합병 정렬.md",
-    "알고리즘/최댓값과 최솟값 찾기.md",
-    "알고리즘/선택 문제.md",
-    "알고리즘/빠른 정렬.md",
-    "알고리즘/이진 탐색.md",
-    "객체1/C++/2. Class and method.md",
     "Context/spacesLastSync.log",
     "Attached Files/Pasted image 20231017021429.png",
     "Attached Files/Pasted image 20231017093946.png",
