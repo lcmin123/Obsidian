@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "모든 쌍 최단 경로 찾기",
-      "path": "알고리즘/모든 쌍 최단 경로 찾기.md"
+      "basename": "배낭 채우기",
+      "path": "알고리즘/배낭 채우기.md"
     },
     {
       "basename": "2. 동적 계획",
       "path": "알고리즘/2. 동적 계획.md"
+    },
+    {
+      "basename": "모든 쌍 최단 경로 찾기",
+      "path": "알고리즘/모든 쌍 최단 경로 찾기.md"
     },
     {
       "basename": "막대 자르기",
@@ -195,10 +199,6 @@
     {
       "basename": "lab2514",
       "path": "객체1/C/lab/lab2514.md"
-    },
-    {
-      "basename": "lab2513",
-      "path": "객체1/C/lab/lab2513.md"
     }
   ],
   "omittedPaths": [],
