@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "가용성",
+      "path": "컴퓨터 보안/가용성.md"
+    },
+    {
+      "basename": "2016 Midterm A",
+      "path": "컴퓨터 보안/족보 중간/2016 Midterm A.md"
+    },
+    {
       "basename": "배낭 채우기",
       "path": "알고리즘/배낭 채우기.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "lab2506",
       "path": "객체1/C/lab/lab2506.md"
-    },
-    {
-      "basename": "lab2515",
-      "path": "객체1/C/lab/lab2515.md"
-    },
-    {
-      "basename": "lab2514",
-      "path": "객체1/C/lab/lab2514.md"
     }
   ],
   "omittedPaths": [],
