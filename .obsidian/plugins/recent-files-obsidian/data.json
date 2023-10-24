@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "lab0807",
-      "path": "객체1/C++/lab/lab0807.md"
+      "basename": "lab0808",
+      "path": "객체1/C++/lab/lab0808.md"
     },
     {
       "basename": "2. Class and method",
       "path": "객체1/C++/2. Class and method.md"
+    },
+    {
+      "basename": "lab0807",
+      "path": "객체1/C++/lab/lab0807.md"
     },
     {
       "basename": "3. Instance and initialize",
@@ -195,10 +199,6 @@
     {
       "basename": "합병 정렬",
       "path": "알고리즘/합병 정렬.md"
-    },
-    {
-      "basename": "최댓값과 최솟값 찾기",
-      "path": "알고리즘/최댓값과 최솟값 찾기.md"
     }
   ],
   "omittedPaths": [],
