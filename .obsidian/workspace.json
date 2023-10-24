@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "객체1/C++/2. Class and method.md",
+                "file": "lab0905.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#include",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "객체1/C++/2. Class and method.md",
+                "file": "lab0905.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "객체1/C++/2. Class and method.md",
+                "file": "lab0905.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "객체1/C++/2. Class and method.md"
+                "file": "lab0905.md"
               }
             }
           },
@@ -166,9 +167,14 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "51bd17ff14295423",
+  "active": "6cb6d36e4721a6ec",
   "lastOpenFiles": [
     "객체1/C++/3. Instance and initialize.md",
+    "lab0905.md",
+    "lab0903.md",
+    "lab0902.md",
+    "객체1/C++/lab/p8060.md",
+    "객체1/C++/2. Class and method.md",
     "Context/spacesLastSync.log",
     "Attached Files/Pasted image 20231017021429.png",
     "Attached Files/Pasted image 20231017093946.png",
@@ -196,11 +202,6 @@
     "컴퓨터 보안/확장된 유클리드 알고리즘.md",
     "컴퓨터 보안/블럭 오퍼레이션 모드.md",
     "컴퓨터 보안/블럭 싸이퍼.md",
-    "컴퓨터 보안/모듈러 연산.md",
-    "컴퓨터 보안/키.md",
-    "컴퓨터 보안/공개키.md",
-    "컴퓨터 보안/전자 서명.md",
-    "컴퓨터 보안/피스텔 싸이퍼 파라미터.md",
     "객체1/C/lab",
     "객체1/C",
     "객체1/C++/lab",
