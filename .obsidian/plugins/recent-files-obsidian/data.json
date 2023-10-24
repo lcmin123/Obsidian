@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "lab0802c",
-      "path": "객체1/C++/lab/lab0802c.md"
+      "basename": "lab0803",
+      "path": "객체1/C++/lab/lab0803.md"
     },
     {
       "basename": "2. Class and method",
       "path": "객체1/C++/2. Class and method.md"
+    },
+    {
+      "basename": "lab0802c",
+      "path": "객체1/C++/lab/lab0802c.md"
     },
     {
       "basename": "lab0802b",
@@ -195,10 +199,6 @@
     {
       "basename": "빠른 정렬",
       "path": "알고리즘/빠른 정렬.md"
-    },
-    {
-      "basename": "이진 탐색",
-      "path": "알고리즘/이진 탐색.md"
     }
   ],
   "omittedPaths": [],
