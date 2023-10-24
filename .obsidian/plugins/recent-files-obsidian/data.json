@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "빠른 정렬",
+      "path": "알고리즘/빠른 정렬.md"
+    },
+    {
       "basename": "1. 분할 정복",
       "path": "알고리즘/1. 분할 정복.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "p16730",
       "path": "객체1/C/lab/p16730.md"
-    },
-    {
-      "basename": "lab2208",
-      "path": "객체1/C/lab/lab2208.md"
     }
   ],
   "omittedPaths": [],
