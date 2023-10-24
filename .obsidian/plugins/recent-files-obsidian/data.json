@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "lab0704b",
+      "path": "객체1/C++/lab/lab0704b.md"
+    },
+    {
+      "basename": "1. C++ Basic",
+      "path": "객체1/C++/1. C++ Basic.md"
+    },
+    {
+      "basename": "lab0704",
+      "path": "객체1/C++/lab/lab0704.md"
+    },
+    {
+      "basename": "4. Information hiding",
+      "path": "객체1/C++/4. Information hiding.md"
+    },
+    {
+      "basename": "3. Instance and initialize",
+      "path": "객체1/C++/3. Instance and initialize.md"
+    },
+    {
+      "basename": "2. Class and method",
+      "path": "객체1/C++/2. Class and method.md"
+    },
+    {
       "basename": "lab2515",
       "path": "객체1/C/lab/lab2515.md"
     },
@@ -145,16 +169,8 @@
       "path": "알고리즘/이진 탐색.md"
     },
     {
-      "basename": "2. Class and method",
-      "path": "객체1/C++/2. Class and method.md"
-    },
-    {
       "basename": "lab1001",
       "path": "객체1/C++/lab/lab1001.md"
-    },
-    {
-      "basename": "4. Information hiding",
-      "path": "객체1/C++/4. Information hiding.md"
     },
     {
       "basename": "lab1000",
@@ -167,10 +183,6 @@
     {
       "basename": "p9120",
       "path": "객체1/C++/lab/p9120.md"
-    },
-    {
-      "basename": "3. Instance and initialize",
-      "path": "객체1/C++/3. Instance and initialize.md"
     },
     {
       "basename": "p9090",
@@ -187,18 +199,6 @@
     {
       "basename": "lab1004",
       "path": "객체1/C++/lab/lab1004.md"
-    },
-    {
-      "basename": "lab0908",
-      "path": "객체1/C++/lab/lab0908.md"
-    },
-    {
-      "basename": "lab1002",
-      "path": "객체1/C++/lab/lab1002.md"
-    },
-    {
-      "basename": "lab0907",
-      "path": "객체1/C++/lab/lab0907.md"
     }
   ],
   "omittedPaths": [],
