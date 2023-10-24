@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "lab0803",
-      "path": "객체1/C++/lab/lab0803.md"
+      "basename": "lab0807",
+      "path": "객체1/C++/lab/lab0807.md"
     },
     {
       "basename": "2. Class and method",
       "path": "객체1/C++/2. Class and method.md"
+    },
+    {
+      "basename": "3. Instance and initialize",
+      "path": "객체1/C++/3. Instance and initialize.md"
+    },
+    {
+      "basename": "4. Information hiding",
+      "path": "객체1/C++/4. Information hiding.md"
+    },
+    {
+      "basename": "lab0804",
+      "path": "객체1/C++/lab/lab0804.md"
+    },
+    {
+      "basename": "lab0803",
+      "path": "객체1/C++/lab/lab0803.md"
     },
     {
       "basename": "lab0802c",
@@ -51,14 +67,6 @@
     {
       "basename": "lab0704",
       "path": "객체1/C++/lab/lab0704.md"
-    },
-    {
-      "basename": "4. Information hiding",
-      "path": "객체1/C++/4. Information hiding.md"
-    },
-    {
-      "basename": "3. Instance and initialize",
-      "path": "객체1/C++/3. Instance and initialize.md"
     },
     {
       "basename": "lab2515",
@@ -191,14 +199,6 @@
     {
       "basename": "최댓값과 최솟값 찾기",
       "path": "알고리즘/최댓값과 최솟값 찾기.md"
-    },
-    {
-      "basename": "선택 문제",
-      "path": "알고리즘/선택 문제.md"
-    },
-    {
-      "basename": "빠른 정렬",
-      "path": "알고리즘/빠른 정렬.md"
     }
   ],
   "omittedPaths": [],
