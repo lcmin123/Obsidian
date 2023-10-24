@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "lab0704b",
-      "path": "객체1/C++/lab/lab0704b.md"
+      "basename": "lab0705",
+      "path": "객체1/C++/lab/lab0705.md"
     },
     {
       "basename": "1. C++ Basic",
       "path": "객체1/C++/1. C++ Basic.md"
+    },
+    {
+      "basename": "lab0704b",
+      "path": "객체1/C++/lab/lab0704b.md"
     },
     {
       "basename": "lab0704",
@@ -195,10 +199,6 @@
     {
       "basename": "lab0804",
       "path": "객체1/C++/lab/lab0804.md"
-    },
-    {
-      "basename": "lab1004",
-      "path": "객체1/C++/lab/lab1004.md"
     }
   ],
   "omittedPaths": [],
