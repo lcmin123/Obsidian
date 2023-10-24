@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "피보나치",
+      "path": "알고리즘/피보나치.md"
+    },
+    {
+      "basename": "2. 동적 계획",
+      "path": "알고리즘/2. 동적 계획.md"
+    },
+    {
       "basename": "막대 자르기",
       "path": "알고리즘/막대 자르기.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "합병 정렬",
       "path": "알고리즘/합병 정렬.md"
-    },
-    {
-      "basename": "피보나치",
-      "path": "알고리즘/피보나치.md"
     },
     {
       "basename": "최댓값과 최솟값 찾기",
@@ -31,10 +35,6 @@
     {
       "basename": "이진 탐색",
       "path": "알고리즘/이진 탐색.md"
-    },
-    {
-      "basename": "2. 동적 계획",
-      "path": "알고리즘/2. 동적 계획.md"
     },
     {
       "basename": "2. Class and method",
