@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lab0905.md",
+                "file": "lab0908.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#include",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lab0905.md",
+                "file": "lab0908.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lab0905.md",
+                "file": "lab0908.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lab0905.md"
+                "file": "lab0908.md"
               }
             }
           },
@@ -167,11 +166,13 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "6cb6d36e4721a6ec",
+  "active": "51bd17ff14295423",
   "lastOpenFiles": [
+    "lab0907.md",
+    "lab0903.md",
+    "lab0908.md",
     "객체1/C++/3. Instance and initialize.md",
     "lab0905.md",
-    "lab0903.md",
     "lab0902.md",
     "객체1/C++/lab/p8060.md",
     "객체1/C++/2. Class and method.md",
@@ -200,8 +201,6 @@
     "컴퓨터 보안/오일러 정리.md",
     "컴퓨터 보안/인증.md",
     "컴퓨터 보안/확장된 유클리드 알고리즘.md",
-    "컴퓨터 보안/블럭 오퍼레이션 모드.md",
-    "컴퓨터 보안/블럭 싸이퍼.md",
     "객체1/C/lab",
     "객체1/C",
     "객체1/C++/lab",

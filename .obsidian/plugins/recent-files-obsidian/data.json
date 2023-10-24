@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "lab0905",
-      "path": "lab0905.md"
+      "basename": "lab0908",
+      "path": "lab0908.md"
     },
     {
-      "basename": "3. Instance and initialize",
-      "path": "객체1/C++/3. Instance and initialize.md"
+      "basename": "lab0907",
+      "path": "lab0907.md"
     },
     {
       "basename": "lab0903",
       "path": "lab0903.md"
+    },
+    {
+      "basename": "3. Instance and initialize",
+      "path": "객체1/C++/3. Instance and initialize.md"
     },
     {
       "basename": "lab0902",
@@ -195,10 +199,6 @@
     {
       "basename": "RSA",
       "path": "컴퓨터 보안/RSA.md"
-    },
-    {
-      "basename": "오일러 정리",
-      "path": "컴퓨터 보안/오일러 정리.md"
     }
   ],
   "omittedPaths": [],
