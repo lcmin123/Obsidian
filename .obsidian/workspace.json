@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘/막대 자르기.md",
+                "file": "알고리즘/모든 쌍 최단 경로 찾기.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘/막대 자르기.md",
+                "file": "알고리즘/모든 쌍 최단 경로 찾기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘/막대 자르기.md",
+                "file": "알고리즘/모든 쌍 최단 경로 찾기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘/막대 자르기.md"
+                "file": "알고리즘/모든 쌍 최단 경로 찾기.md"
               }
             }
           },
@@ -169,8 +169,10 @@
   "active": "51bd17ff14295423",
   "lastOpenFiles": [
     "알고리즘/2. 동적 계획.md",
-    "알고리즘/피보나치.md",
     "알고리즘/막대 자르기.md",
+    "알고리즘/기본 연산.md",
+    "알고리즘/모든 쌍 최단 경로 찾기.md",
+    "알고리즘/피보나치.md",
     "알고리즘/1. 분할 정복.md",
     "알고리즘/합병 정렬.md",
     "알고리즘/최댓값과 최솟값 찾기.md",
@@ -192,8 +194,6 @@
     "객체1/C++/lab/lab1002.md",
     "객체1/C++/lab/lab0907.md",
     "객체1/C++/lab/lab0903.md",
-    "lab0905.md",
-    "객체1/C++/lab/lab0902.md",
     "Context/spacesLastSync.log",
     "Attached Files/Pasted image 20231017021429.png",
     "Attached Files/Pasted image 20231017093946.png",

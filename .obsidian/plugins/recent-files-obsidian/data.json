@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "막대 자르기",
-      "path": "알고리즘/막대 자르기.md"
+      "basename": "모든 쌍 최단 경로 찾기",
+      "path": "알고리즘/모든 쌍 최단 경로 찾기.md"
     },
     {
       "basename": "2. 동적 계획",
       "path": "알고리즘/2. 동적 계획.md"
+    },
+    {
+      "basename": "막대 자르기",
+      "path": "알고리즘/막대 자르기.md"
+    },
+    {
+      "basename": "기본 연산",
+      "path": "알고리즘/기본 연산.md"
     },
     {
       "basename": "피보나치",
@@ -191,14 +199,6 @@
     {
       "basename": "lab2513",
       "path": "객체1/C/lab/lab2513.md"
-    },
-    {
-      "basename": "lab2512",
-      "path": "객체1/C/lab/lab2512.md"
-    },
-    {
-      "basename": "lab2511",
-      "path": "객체1/C/lab/lab2511.md"
     }
   ],
   "omittedPaths": [],
