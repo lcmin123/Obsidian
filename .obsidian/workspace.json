@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "객체1/C++/1. C++ Basic.md",
+                "file": "객체1/C++/lab/lab0706.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "객체1/C++/1. C++ Basic.md",
+                "file": "객체1/C++/lab/lab0706.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "객체1/C++/1. C++ Basic.md",
+                "file": "객체1/C++/lab/lab0706.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "객체1/C++/1. C++ Basic.md"
+                "file": "객체1/C++/lab/lab0706.md"
               }
             }
           },
@@ -168,8 +168,8 @@
   },
   "active": "51bd17ff14295423",
   "lastOpenFiles": [
-    "객체1/C++/lab/lab0705.md",
     "객체1/C++/1. C++ Basic.md",
+    "객체1/C++/lab/lab0705.md",
     "객체1/C++/lab/lab0704b.md",
     "객체1/C++/lab/lab0704.md",
     "객체1/C++/4. Information hiding.md",
