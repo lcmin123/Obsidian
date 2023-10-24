@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "p9082",
+      "path": "p9082.md"
+    },
+    {
+      "basename": "p9120",
+      "path": "p9120.md"
+    },
+    {
+      "basename": "3. Instance and initialize",
+      "path": "객체1/C++/3. Instance and initialize.md"
+    },
+    {
+      "basename": "p9090",
+      "path": "p9090.md"
+    },
+    {
+      "basename": "4. Information hiding",
+      "path": "객체1/C++/4. Information hiding.md"
+    },
+    {
       "basename": "p8060",
       "path": "객체1/C++/lab/p8060.md"
     },
@@ -21,20 +41,12 @@
       "path": "객체1/C++/lab/lab1002.md"
     },
     {
-      "basename": "4. Information hiding",
-      "path": "객체1/C++/4. Information hiding.md"
-    },
-    {
       "basename": "lab1001",
       "path": "객체1/C++/lab/lab1001.md"
     },
     {
       "basename": "lab1000",
       "path": "객체1/C++/lab/lab1000.md"
-    },
-    {
-      "basename": "3. Instance and initialize",
-      "path": "객체1/C++/3. Instance and initialize.md"
     },
     {
       "basename": "lab0907",
@@ -187,18 +199,6 @@
     {
       "basename": "lab2205",
       "path": "객체1/C/lab/lab2205.md"
-    },
-    {
-      "basename": "lab2203",
-      "path": "객체1/C/lab/lab2203.md"
-    },
-    {
-      "basename": "lab1622",
-      "path": "객체1/C/lab/lab1622.md"
-    },
-    {
-      "basename": "lab1611",
-      "path": "객체1/C/lab/lab1611.md"
     }
   ],
   "omittedPaths": [],
