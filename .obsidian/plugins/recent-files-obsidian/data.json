@@ -1,8 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "빠른 정렬",
-      "path": "알고리즘/빠른 정렬.md"
+      "basename": "선택 문제",
+      "path": "알고리즘/선택 문제.md"
     },
     {
       "basename": "1. 분할 정복",
@@ -11,6 +11,10 @@
     {
       "basename": "2. 동적 계획",
       "path": "알고리즘/2. 동적 계획.md"
+    },
+    {
+      "basename": "빠른 정렬",
+      "path": "알고리즘/빠른 정렬.md"
     },
     {
       "basename": "2. Class and method",
@@ -195,10 +199,6 @@
     {
       "basename": "p16870",
       "path": "객체1/C/lab/p16870.md"
-    },
-    {
-      "basename": "p16730",
-      "path": "객체1/C/lab/p16730.md"
     }
   ],
   "omittedPaths": [],

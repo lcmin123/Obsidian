@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘/빠른 정렬.md",
+                "file": "알고리즘/선택 문제.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘/빠른 정렬.md",
+                "file": "알고리즘/선택 문제.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘/빠른 정렬.md",
+                "file": "알고리즘/선택 문제.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘/빠른 정렬.md"
+                "file": "알고리즘/선택 문제.md"
               }
             }
           },
@@ -169,8 +169,9 @@
   "active": "51bd17ff14295423",
   "lastOpenFiles": [
     "알고리즘/1. 분할 정복.md",
-    "알고리즘/빠른 정렬.md",
     "알고리즘/2. 동적 계획.md",
+    "알고리즘/선택 문제.md",
+    "알고리즘/빠른 정렬.md",
     "객체1/C++/2. Class and method.md",
     "객체1/C++/lab/lab1001.md",
     "객체1/C++/4. Information hiding.md",
@@ -199,7 +200,6 @@
     "컴퓨터 보안/컴퓨터 보안.md",
     "컴퓨터 보안/ECC.md",
     "컴퓨터 보안/가용성.md",
-    "컴퓨터 보안/대칭키.md",
     "컴퓨터 보안/족보 중간",
     "객체1/C/lab",
     "객체1/C",
