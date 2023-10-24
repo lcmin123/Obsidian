@@ -1,28 +1,52 @@
 {
   "recentFiles": [
     {
+      "basename": "p8060",
+      "path": "객체1/C++/lab/p8060.md"
+    },
+    {
+      "basename": "lab0804",
+      "path": "객체1/C++/lab/lab0804.md"
+    },
+    {
+      "basename": "lab1004",
+      "path": "객체1/C++/lab/lab1004.md"
+    },
+    {
       "basename": "lab0908",
-      "path": "lab0908.md"
+      "path": "객체1/C++/lab/lab0908.md"
     },
     {
-      "basename": "lab0907",
-      "path": "lab0907.md"
+      "basename": "lab1002",
+      "path": "객체1/C++/lab/lab1002.md"
     },
     {
-      "basename": "lab0903",
-      "path": "lab0903.md"
+      "basename": "4. Information hiding",
+      "path": "객체1/C++/4. Information hiding.md"
+    },
+    {
+      "basename": "lab1001",
+      "path": "객체1/C++/lab/lab1001.md"
+    },
+    {
+      "basename": "lab1000",
+      "path": "객체1/C++/lab/lab1000.md"
     },
     {
       "basename": "3. Instance and initialize",
       "path": "객체1/C++/3. Instance and initialize.md"
     },
     {
-      "basename": "lab0902",
-      "path": "lab0902.md"
+      "basename": "lab0907",
+      "path": "객체1/C++/lab/lab0907.md"
     },
     {
-      "basename": "p8060",
-      "path": "객체1/C++/lab/p8060.md"
+      "basename": "lab0903",
+      "path": "객체1/C++/lab/lab0903.md"
+    },
+    {
+      "basename": "lab0902",
+      "path": "객체1/C++/lab/lab0902.md"
     },
     {
       "basename": "2. Class and method",
@@ -43,10 +67,6 @@
     {
       "basename": "lab0807",
       "path": "객체1/C++/lab/lab0807.md"
-    },
-    {
-      "basename": "lab0804",
-      "path": "객체1/C++/lab/lab0804.md"
     },
     {
       "basename": "lab0803",
@@ -71,10 +91,6 @@
     {
       "basename": "lab0802",
       "path": "객체1/C++/lab/lab0802.md"
-    },
-    {
-      "basename": "4. Information hiding",
-      "path": "객체1/C++/4. Information hiding.md"
     },
     {
       "basename": "3. 포인터",
@@ -183,22 +199,6 @@
     {
       "basename": "lab1611",
       "path": "객체1/C/lab/lab1611.md"
-    },
-    {
-      "basename": "<동적 계획>",
-      "path": "알고리즘/<동적 계획>.md"
-    },
-    {
-      "basename": "배낭 채우기",
-      "path": "알고리즘/배낭 채우기.md"
-    },
-    {
-      "basename": "2016 Midterm A",
-      "path": "컴퓨터 보안/족보 중간/2016 Midterm A.md"
-    },
-    {
-      "basename": "RSA",
-      "path": "컴퓨터 보안/RSA.md"
     }
   ],
   "omittedPaths": [],
