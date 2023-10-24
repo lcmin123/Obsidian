@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "이진 탐색",
-      "path": "알고리즘/이진 탐색.md"
+      "basename": "빠른 정렬",
+      "path": "알고리즘/빠른 정렬.md"
+    },
+    {
+      "basename": "최댓값과 최솟값 찾기",
+      "path": "알고리즘/최댓값과 최솟값 찾기.md"
     },
     {
       "basename": "1. 분할 정복",
       "path": "알고리즘/1. 분할 정복.md"
+    },
+    {
+      "basename": "이진 탐색",
+      "path": "알고리즘/이진 탐색.md"
     },
     {
       "basename": "선택 문제",
@@ -15,10 +23,6 @@
     {
       "basename": "2. 동적 계획",
       "path": "알고리즘/2. 동적 계획.md"
-    },
-    {
-      "basename": "빠른 정렬",
-      "path": "알고리즘/빠른 정렬.md"
     },
     {
       "basename": "2. Class and method",
@@ -195,10 +199,6 @@
     {
       "basename": "p22530",
       "path": "객체1/C/lab/p22530.md"
-    },
-    {
-      "basename": "p16870",
-      "path": "객체1/C/lab/p16870.md"
     }
   ],
   "omittedPaths": [],
