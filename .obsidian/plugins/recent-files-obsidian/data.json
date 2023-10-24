@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "lab0708",
-      "path": "객체1/C++/lab/lab0708.md"
+      "basename": "lab0802",
+      "path": "객체1/C++/lab/lab0802.md"
+    },
+    {
+      "basename": "2. Class and method",
+      "path": "객체1/C++/2. Class and method.md"
+    },
+    {
+      "basename": "lab0801",
+      "path": "객체1/C++/lab/lab0801.md"
     },
     {
       "basename": "1. C++ Basic",
       "path": "객체1/C++/1. C++ Basic.md"
+    },
+    {
+      "basename": "lab0708",
+      "path": "객체1/C++/lab/lab0708.md"
     },
     {
       "basename": "lab0707",
@@ -35,10 +47,6 @@
     {
       "basename": "3. Instance and initialize",
       "path": "객체1/C++/3. Instance and initialize.md"
-    },
-    {
-      "basename": "2. Class and method",
-      "path": "객체1/C++/2. Class and method.md"
     },
     {
       "basename": "lab2515",
@@ -191,14 +199,6 @@
     {
       "basename": "lab1000",
       "path": "객체1/C++/lab/lab1000.md"
-    },
-    {
-      "basename": "p9082",
-      "path": "객체1/C++/lab/p9082.md"
-    },
-    {
-      "basename": "p9120",
-      "path": "객체1/C++/lab/p9120.md"
     }
   ],
   "omittedPaths": [],
