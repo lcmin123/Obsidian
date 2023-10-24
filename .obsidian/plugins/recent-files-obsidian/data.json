@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "lab0808",
-      "path": "객체1/C++/lab/lab0808.md"
+      "basename": "p8060",
+      "path": "객체1/C++/lab/p8060.md"
     },
     {
       "basename": "2. Class and method",
       "path": "객체1/C++/2. Class and method.md"
     },
     {
-      "basename": "lab0807",
-      "path": "객체1/C++/lab/lab0807.md"
-    },
-    {
       "basename": "3. Instance and initialize",
       "path": "객체1/C++/3. Instance and initialize.md"
+    },
+    {
+      "basename": "lab0808",
+      "path": "객체1/C++/lab/lab0808.md"
+    },
+    {
+      "basename": "lab0807",
+      "path": "객체1/C++/lab/lab0807.md"
     },
     {
       "basename": "4. Information hiding",
@@ -195,10 +199,6 @@
     {
       "basename": "1. 분할 정복",
       "path": "알고리즘/1. 분할 정복.md"
-    },
-    {
-      "basename": "합병 정렬",
-      "path": "알고리즘/합병 정렬.md"
     }
   ],
   "omittedPaths": [],
