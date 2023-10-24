@@ -1,6 +1,50 @@
 {
   "recentFiles": [
     {
+      "basename": "lab2207",
+      "path": "객체1/C/lab/lab2207.md"
+    },
+    {
+      "basename": "2. 구조체",
+      "path": "객체1/C/2. 구조체.md"
+    },
+    {
+      "basename": "lab2205",
+      "path": "객체1/C/lab/lab2205.md"
+    },
+    {
+      "basename": "lab2203",
+      "path": "객체1/C/lab/lab2203.md"
+    },
+    {
+      "basename": "p16870",
+      "path": "객체1/C/lab/p16870.md"
+    },
+    {
+      "basename": "1. 배열",
+      "path": "객체1/C/1. 배열.md"
+    },
+    {
+      "basename": "p16730",
+      "path": "객체1/C/lab/p16730.md"
+    },
+    {
+      "basename": "lab1622",
+      "path": "객체1/C/lab/lab1622.md"
+    },
+    {
+      "basename": "lab1611",
+      "path": "객체1/C/lab/lab1611.md"
+    },
+    {
+      "basename": "lab1608",
+      "path": "객체1/C/lab/lab1608.md"
+    },
+    {
+      "basename": "lab1605",
+      "path": "객체1/C/lab/lab1605.md"
+    },
+    {
       "basename": "가용성",
       "path": "컴퓨터 보안/가용성.md"
     },
@@ -155,50 +199,6 @@
     {
       "basename": "lab0802",
       "path": "객체1/C++/lab/lab0802.md"
-    },
-    {
-      "basename": "3. 포인터",
-      "path": "객체1/C/3. 포인터.md"
-    },
-    {
-      "basename": "2. 구조체",
-      "path": "객체1/C/2. 구조체.md"
-    },
-    {
-      "basename": "1. 배열",
-      "path": "객체1/C/1. 배열.md"
-    },
-    {
-      "basename": "lab0707",
-      "path": "객체1/C++/lab/lab0707.md"
-    },
-    {
-      "basename": "lab0706",
-      "path": "객체1/C++/lab/lab0706.md"
-    },
-    {
-      "basename": "lab0705",
-      "path": "객체1/C++/lab/lab0705.md"
-    },
-    {
-      "basename": "lab0704b",
-      "path": "객체1/C++/lab/lab0704b.md"
-    },
-    {
-      "basename": "lab0704",
-      "path": "객체1/C++/lab/lab0704.md"
-    },
-    {
-      "basename": "lab1608",
-      "path": "객체1/C/lab/lab1608.md"
-    },
-    {
-      "basename": "lab1605",
-      "path": "객체1/C/lab/lab1605.md"
-    },
-    {
-      "basename": "lab2506",
-      "path": "객체1/C/lab/lab2506.md"
     }
   ],
   "omittedPaths": [],
