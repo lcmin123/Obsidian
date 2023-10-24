@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2. Class and method",
+      "path": "객체1/C++/2. Class and method.md"
+    },
+    {
+      "basename": "3. Instance and initialize",
+      "path": "객체1/C++/3. Instance and initialize.md"
+    },
+    {
       "basename": "이진 탐색",
       "path": "알고리즘/이진 탐색.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "lab0801",
       "path": "객체1/C++/lab/lab0801.md"
-    },
-    {
-      "basename": "2. Class and method",
-      "path": "객체1/C++/2. Class and method.md"
     },
     {
       "basename": "lab0808",
@@ -51,10 +55,6 @@
     {
       "basename": "lab0802",
       "path": "객체1/C++/lab/lab0802.md"
-    },
-    {
-      "basename": "3. Instance and initialize",
-      "path": "객체1/C++/3. Instance and initialize.md"
     },
     {
       "basename": "4. Information hiding",
