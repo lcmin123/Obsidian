@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "합병 정렬",
-      "path": "알고리즘/합병 정렬.md"
+      "basename": "막대 자르기",
+      "path": "알고리즘/막대 자르기.md"
     },
     {
       "basename": "1. 분할 정복",
       "path": "알고리즘/1. 분할 정복.md"
+    },
+    {
+      "basename": "합병 정렬",
+      "path": "알고리즘/합병 정렬.md"
     },
     {
       "basename": "피보나치",
@@ -195,10 +199,6 @@
     {
       "basename": "lab2511",
       "path": "객체1/C/lab/lab2511.md"
-    },
-    {
-      "basename": "lab2510",
-      "path": "객체1/C/lab/lab2510.md"
     }
   ],
   "omittedPaths": [],

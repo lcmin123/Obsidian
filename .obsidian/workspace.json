@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘/합병 정렬.md",
+                "file": "알고리즘/막대 자르기.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘/합병 정렬.md",
+                "file": "알고리즘/막대 자르기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘/합병 정렬.md",
+                "file": "알고리즘/막대 자르기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘/합병 정렬.md"
+                "file": "알고리즘/막대 자르기.md"
               }
             }
           },
@@ -169,6 +169,7 @@
   "active": "51bd17ff14295423",
   "lastOpenFiles": [
     "알고리즘/1. 분할 정복.md",
+    "알고리즘/합병 정렬.md",
     "알고리즘/피보나치.md",
     "알고리즘/최댓값과 최솟값 찾기.md",
     "알고리즘/선택 문제.md",
@@ -199,7 +200,6 @@
     "Attached Files/Pasted image 20231017021020.png",
     "Attached Files/Pasted image 20231017093928.png",
     "컴퓨터 보안/RSA.md",
-    "컴퓨터 보안/해쉬.md",
     "컴퓨터 보안/족보 중간",
     "객체1/C/lab",
     "객체1/C",
