@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "lab0908",
-      "path": "객체1/C++/lab/lab0908.md"
+      "basename": "lab1000",
+      "path": "객체1/C++/lab/lab1000.md"
+    },
+    {
+      "basename": "4. Information hiding",
+      "path": "객체1/C++/4. Information hiding.md"
     },
     {
       "basename": "3. Instance and initialize",
       "path": "객체1/C++/3. Instance and initialize.md"
+    },
+    {
+      "basename": "p9082",
+      "path": "객체1/C++/lab/p9082.md"
+    },
+    {
+      "basename": "lab0908",
+      "path": "객체1/C++/lab/lab0908.md"
     },
     {
       "basename": "lab0907",
@@ -35,10 +47,6 @@
     {
       "basename": "lab0807",
       "path": "객체1/C++/lab/lab0807.md"
-    },
-    {
-      "basename": "4. Information hiding",
-      "path": "객체1/C++/4. Information hiding.md"
     },
     {
       "basename": "lab0804",
@@ -191,14 +199,6 @@
     {
       "basename": "배낭 채우기",
       "path": "알고리즘/배낭 채우기.md"
-    },
-    {
-      "basename": "2. 동적 계획",
-      "path": "알고리즘/2. 동적 계획.md"
-    },
-    {
-      "basename": "모든 쌍 최단 경로 찾기",
-      "path": "알고리즘/모든 쌍 최단 경로 찾기.md"
     }
   ],
   "omittedPaths": [],

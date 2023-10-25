@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "객체1/C++/lab/lab0908.md",
+                "file": "객체1/C++/lab/lab1000.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "객체1/C++/lab/lab0908.md",
+                "file": "객체1/C++/lab/lab1000.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "객체1/C++/lab/lab0908.md",
+                "file": "객체1/C++/lab/lab1000.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "객체1/C++/lab/lab0908.md"
+                "file": "객체1/C++/lab/lab1000.md"
               }
             }
           },
@@ -168,7 +168,10 @@
   },
   "active": "51bd17ff14295423",
   "lastOpenFiles": [
+    "객체1/C++/4. Information hiding.md",
     "객체1/C++/3. Instance and initialize.md",
+    "객체1/C++/lab/p9082.md",
+    "객체1/C++/lab/lab0908.md",
     "객체1/C++/lab/lab0907.md",
     "객체1/C++/lab/lab0903.md",
     "객체1/C++/lab/lab0902.md",
@@ -176,7 +179,6 @@
     "객체1/C++/2. Class and method.md",
     "객체1/C++/lab/lab0808.md",
     "객체1/C++/lab/lab0807.md",
-    "객체1/C++/4. Information hiding.md",
     "객체1/C++/lab/lab0804.md",
     "객체1/C++/lab/lab0803.md",
     "객체1/C++/lab/lab0802c.md",
@@ -192,8 +194,6 @@
     "객체1/C++/lab/lab0704.md",
     "객체1/C/lab/lab2515.md",
     "객체1/C/3. 포인터.md",
-    "객체1/C/lab/lab2514.md",
-    "객체1/C/lab/lab2513.md",
     "Context/spacesLastSync.log",
     "Attached Files/Pasted image 20231017021429.png",
     "Attached Files/Pasted image 20231017093946.png",
