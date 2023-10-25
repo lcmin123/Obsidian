@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "lab0902",
-      "path": "객체1/C++/lab/lab0902.md"
+      "basename": "lab0903",
+      "path": "객체1/C++/lab/lab0903.md"
     },
     {
       "basename": "3. Instance and initialize",
       "path": "객체1/C++/3. Instance and initialize.md"
+    },
+    {
+      "basename": "lab0902",
+      "path": "객체1/C++/lab/lab0902.md"
     },
     {
       "basename": "p8060",
@@ -195,10 +199,6 @@
     {
       "basename": "기본 연산",
       "path": "알고리즘/기본 연산.md"
-    },
-    {
-      "basename": "피보나치",
-      "path": "알고리즘/피보나치.md"
     }
   ],
   "omittedPaths": [],
