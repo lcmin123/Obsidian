@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2016 Midterm A",
+      "path": "컴퓨터 보안/족보 중간/2016 Midterm A.md"
+    },
+    {
+      "basename": "MAC",
+      "path": "컴퓨터 보안/MAC.md"
+    },
+    {
       "basename": "El Gammal",
       "path": "컴퓨터 보안/El Gammal.md"
     },
@@ -83,10 +91,6 @@
     {
       "basename": "해쉬",
       "path": "컴퓨터 보안/해쉬.md"
-    },
-    {
-      "basename": "MAC",
-      "path": "컴퓨터 보안/MAC.md"
     },
     {
       "basename": "가용성",
@@ -195,10 +199,6 @@
     {
       "basename": "lab0705",
       "path": "객체1/C++/lab/lab0705.md"
-    },
-    {
-      "basename": "lab0704b",
-      "path": "객체1/C++/lab/lab0704b.md"
     }
   ],
   "omittedPaths": [],
