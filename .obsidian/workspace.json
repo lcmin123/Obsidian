@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "컴퓨터 보안/El Gammal.md",
+                "file": "컴퓨터 보안/키.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "컴퓨터 보안/El Gammal.md",
+                "file": "컴퓨터 보안/키.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "컴퓨터 보안/El Gammal.md",
+                "file": "컴퓨터 보안/키.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "컴퓨터 보안/El Gammal.md"
+                "file": "컴퓨터 보안/키.md"
               }
             }
           },
@@ -168,6 +168,8 @@
   },
   "active": "51bd17ff14295423",
   "lastOpenFiles": [
+    "컴퓨터 보안/컴퓨터 보안.md",
+    "컴퓨터 보안/키.md",
     "컴퓨터 보안/RSA.md",
     "컴퓨터 보안/El Gammal.md",
     "컴퓨터 보안/해쉬.md",
@@ -187,9 +189,7 @@
     "컴퓨터 보안/모듈러 연산.md",
     "컴퓨터 보안/보안의 4원칙.md",
     "컴퓨터 보안/오일러 정리.md",
-    "컴퓨터 보안/컴퓨터 보안.md",
     "컴퓨터 보안/페르마 정리.md",
-    "컴퓨터 보안/키.md",
     "컴퓨터 보안/피스텔 싸이퍼 스트럭처.md",
     "컴퓨터 보안/피스텔 싸이퍼 파라미터.md",
     "컴퓨터 보안/확장된 유클리드 알고리즘.md",
