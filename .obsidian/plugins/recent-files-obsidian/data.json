@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "페르마 정리",
+      "path": "컴퓨터 보안/페르마 정리.md"
+    },
+    {
       "basename": "RSA",
       "path": "컴퓨터 보안/RSA.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "오일러 정리",
       "path": "컴퓨터 보안/오일러 정리.md"
-    },
-    {
-      "basename": "페르마 정리",
-      "path": "컴퓨터 보안/페르마 정리.md"
     },
     {
       "basename": "피스텔 싸이퍼 스트럭처",
