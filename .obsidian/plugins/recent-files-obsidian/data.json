@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "lab1000",
-      "path": "객체1/C++/lab/lab1000.md"
+      "basename": "lab1001",
+      "path": "객체1/C++/lab/lab1001.md"
     },
     {
       "basename": "4. Information hiding",
       "path": "객체1/C++/4. Information hiding.md"
+    },
+    {
+      "basename": "lab1000",
+      "path": "객체1/C++/lab/lab1000.md"
     },
     {
       "basename": "3. Instance and initialize",
@@ -195,10 +199,6 @@
     {
       "basename": "2016 Midterm A",
       "path": "컴퓨터 보안/족보 중간/2016 Midterm A.md"
-    },
-    {
-      "basename": "배낭 채우기",
-      "path": "알고리즘/배낭 채우기.md"
     }
   ],
   "omittedPaths": [],
