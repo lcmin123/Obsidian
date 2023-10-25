@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "lab0903",
-      "path": "객체1/C++/lab/lab0903.md"
+      "basename": "lab0908",
+      "path": "객체1/C++/lab/lab0908.md"
     },
     {
       "basename": "3. Instance and initialize",
       "path": "객체1/C++/3. Instance and initialize.md"
+    },
+    {
+      "basename": "lab0907",
+      "path": "객체1/C++/lab/lab0907.md"
+    },
+    {
+      "basename": "lab0903",
+      "path": "객체1/C++/lab/lab0903.md"
     },
     {
       "basename": "lab0902",
@@ -191,14 +199,6 @@
     {
       "basename": "모든 쌍 최단 경로 찾기",
       "path": "알고리즘/모든 쌍 최단 경로 찾기.md"
-    },
-    {
-      "basename": "막대 자르기",
-      "path": "알고리즘/막대 자르기.md"
-    },
-    {
-      "basename": "기본 연산",
-      "path": "알고리즘/기본 연산.md"
     }
   ],
   "omittedPaths": [],
