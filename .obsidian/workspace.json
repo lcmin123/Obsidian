@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "컴퓨터 보안/페르마 정리.md",
+                "file": "컴퓨터 보안/블럭 오퍼레이션 모드.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "컴퓨터 보안/페르마 정리.md",
+                "file": "컴퓨터 보안/블럭 오퍼레이션 모드.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "컴퓨터 보안/페르마 정리.md",
+                "file": "컴퓨터 보안/블럭 오퍼레이션 모드.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "컴퓨터 보안/페르마 정리.md"
+                "file": "컴퓨터 보안/블럭 오퍼레이션 모드.md"
               }
             }
           },
@@ -168,6 +168,7 @@
   },
   "active": "51bd17ff14295423",
   "lastOpenFiles": [
+    "컴퓨터 보안/페르마 정리.md",
     "컴퓨터 보안/RSA.md",
     "알고리즘/합병 정렬.md",
     "알고리즘/1. 분할 정복.md",
@@ -193,7 +194,6 @@
     "컴퓨터 보안/모듈러 연산.md",
     "컴퓨터 보안/보안의 4원칙.md",
     "컴퓨터 보안/오일러 정리.md",
-    "컴퓨터 보안/페르마 정리.md",
     "Context/spacesLastSync.log",
     "Attached Files/Pasted image 20231017021429.png",
     "Attached Files/Pasted image 20231017093946.png",
