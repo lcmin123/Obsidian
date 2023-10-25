@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "블럭 오퍼레이션 모드",
+      "path": "컴퓨터 보안/블럭 오퍼레이션 모드.md"
+    },
+    {
       "basename": "RSA",
       "path": "컴퓨터 보안/RSA.md"
     },
@@ -51,10 +55,6 @@
     {
       "basename": "보안의 4원칙",
       "path": "컴퓨터 보안/보안의 4원칙.md"
-    },
-    {
-      "basename": "블럭 오퍼레이션 모드",
-      "path": "컴퓨터 보안/블럭 오퍼레이션 모드.md"
     },
     {
       "basename": "오일러 정리",
