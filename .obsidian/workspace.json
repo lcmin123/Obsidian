@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "객체1/C++/lab/p8060.md",
+                "file": "객체1/C++/lab/lab0902.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "객체1/C++/lab/p8060.md",
+                "file": "객체1/C++/lab/lab0902.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "객체1/C++/lab/p8060.md",
+                "file": "객체1/C++/lab/lab0902.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "객체1/C++/lab/p8060.md"
+                "file": "객체1/C++/lab/lab0902.md"
               }
             }
           },
@@ -168,9 +168,9 @@
   },
   "active": "51bd17ff14295423",
   "lastOpenFiles": [
-    "객체1/C++/2. Class and method.md",
     "객체1/C++/3. Instance and initialize.md",
     "객체1/C++/lab/p8060.md",
+    "객체1/C++/2. Class and method.md",
     "객체1/C++/lab/lab0808.md",
     "객체1/C++/lab/lab0807.md",
     "객체1/C++/4. Information hiding.md",
