@@ -20,7 +20,7 @@ O. [[대칭키]]
 _c. 기밀성과 무결성을 제공한다_
 X. [[대칭키]]는 암호화를 통해 [[기밀성]]을 제공하지만, 암호문의 [[무결성]]은 제공할 수 없다. [[무결성]]을 제공하는 것은 [[해쉬]]이다
 _d. 전자서명에 서명을 위해 사용된다_
-O.
+X.
 _e. diffie-hellman으로 일회성 대칭키를 생성할 수 있다_
 X. [[El Gammal]] 기법으로는 공개키 생성
 
@@ -86,7 +86,7 @@ O. [[블럭 오퍼레이션 모드]]의 OFB 방식은 CFB 방식에 비해서 �
 ### 8. Digital signature 에 대한 설명 중 틀린 것은?
 
 _(a) 주로 public key cryptography상에서 쓰이며, symmetric cryptography에선 불가능하다._
-X.
+O.
 _(b) sign 은 보내는 사람의 private key를 이용한다._
 O. 서명은 송신자의 비밀키를 이용하며, 그를 통해 [[인증]]의 Sender Authentication을 제공한다
 _(c) 검증은 제 3의 기관(예,CA)에서 한다._
