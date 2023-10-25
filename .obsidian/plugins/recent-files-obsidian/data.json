@@ -1,24 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "lab1001",
-      "path": "객체1/C++/lab/lab1001.md"
-    },
-    {
-      "basename": "4. Information hiding",
-      "path": "객체1/C++/4. Information hiding.md"
-    },
-    {
-      "basename": "lab1000",
-      "path": "객체1/C++/lab/lab1000.md"
+      "basename": "p9082",
+      "path": "객체1/C++/lab/p9082.md"
     },
     {
       "basename": "3. Instance and initialize",
       "path": "객체1/C++/3. Instance and initialize.md"
     },
     {
-      "basename": "p9082",
-      "path": "객체1/C++/lab/p9082.md"
+      "basename": "4. Information hiding",
+      "path": "객체1/C++/4. Information hiding.md"
+    },
+    {
+      "basename": "lab1004",
+      "path": "객체1/C++/lab/lab1004.md"
+    },
+    {
+      "basename": "lab1002",
+      "path": "객체1/C++/lab/lab1002.md"
+    },
+    {
+      "basename": "lab1001",
+      "path": "객체1/C++/lab/lab1001.md"
+    },
+    {
+      "basename": "lab1000",
+      "path": "객체1/C++/lab/lab1000.md"
     },
     {
       "basename": "lab0908",
@@ -191,14 +199,6 @@
     {
       "basename": "lab1605",
       "path": "객체1/C/lab/lab1605.md"
-    },
-    {
-      "basename": "가용성",
-      "path": "컴퓨터 보안/가용성.md"
-    },
-    {
-      "basename": "2016 Midterm A",
-      "path": "컴퓨터 보안/족보 중간/2016 Midterm A.md"
     }
   ],
   "omittedPaths": [],
