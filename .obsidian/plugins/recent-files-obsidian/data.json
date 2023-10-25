@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "공개키",
-      "path": "컴퓨터 보안/공개키.md"
+      "basename": "RSA",
+      "path": "컴퓨터 보안/RSA.md"
     },
     {
       "basename": "대칭키",
       "path": "컴퓨터 보안/대칭키.md"
+    },
+    {
+      "basename": "공개키",
+      "path": "컴퓨터 보안/공개키.md"
     },
     {
       "basename": "El Gammal",
@@ -195,10 +199,6 @@
     {
       "basename": "p16870",
       "path": "객체1/C/lab/p16870.md"
-    },
-    {
-      "basename": "1. 배열",
-      "path": "객체1/C/1. 배열.md"
     }
   ],
   "omittedPaths": [],
