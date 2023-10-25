@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "공개키",
+      "path": "컴퓨터 보안/공개키.md"
+    },
+    {
+      "basename": "대칭키",
+      "path": "컴퓨터 보안/대칭키.md"
+    },
+    {
+      "basename": "El Gammal",
+      "path": "컴퓨터 보안/El Gammal.md"
+    },
+    {
+      "basename": "ECC",
+      "path": "컴퓨터 보안/ECC.md"
+    },
+    {
+      "basename": "가용성",
+      "path": "컴퓨터 보안/가용성.md"
+    },
+    {
       "basename": "p9082",
       "path": "객체1/C++/lab/p9082.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "1. 배열",
       "path": "객체1/C/1. 배열.md"
-    },
-    {
-      "basename": "p16730",
-      "path": "객체1/C/lab/p16730.md"
-    },
-    {
-      "basename": "lab1622",
-      "path": "객체1/C/lab/lab1622.md"
-    },
-    {
-      "basename": "lab1611",
-      "path": "객체1/C/lab/lab1611.md"
-    },
-    {
-      "basename": "lab1608",
-      "path": "객체1/C/lab/lab1608.md"
-    },
-    {
-      "basename": "lab1605",
-      "path": "객체1/C/lab/lab1605.md"
     }
   ],
   "omittedPaths": [],
