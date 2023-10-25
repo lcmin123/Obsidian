@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "컴퓨터 보안/RSA.md",
+                "file": "컴퓨터 보안/El Gammal.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "컴퓨터 보안/RSA.md",
+                "file": "컴퓨터 보안/El Gammal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "컴퓨터 보안/RSA.md",
+                "file": "컴퓨터 보안/El Gammal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "컴퓨터 보안/RSA.md"
+                "file": "컴퓨터 보안/El Gammal.md"
               }
             }
           },
@@ -168,8 +168,8 @@
   },
   "active": "51bd17ff14295423",
   "lastOpenFiles": [
-    "컴퓨터 보안/El Gammal.md",
     "컴퓨터 보안/RSA.md",
+    "컴퓨터 보안/El Gammal.md",
     "컴퓨터 보안/해쉬.md",
     "컴퓨터 보안/MAC.md",
     "컴퓨터 보안/가용성.md",
