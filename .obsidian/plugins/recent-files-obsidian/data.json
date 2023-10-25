@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "El Gammal",
+      "path": "컴퓨터 보안/El Gammal.md"
+    },
+    {
       "basename": "RSA",
       "path": "컴퓨터 보안/RSA.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "공개키",
       "path": "컴퓨터 보안/공개키.md"
-    },
-    {
-      "basename": "El Gammal",
-      "path": "컴퓨터 보안/El Gammal.md"
     },
     {
       "basename": "ECC",
