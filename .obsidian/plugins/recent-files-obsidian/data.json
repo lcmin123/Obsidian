@@ -9,6 +9,10 @@
       "path": "컴퓨터 보안/RSA.md"
     },
     {
+      "basename": "ECC",
+      "path": "컴퓨터 보안/ECC.md"
+    },
+    {
       "basename": "대칭키",
       "path": "컴퓨터 보안/대칭키.md"
     },
@@ -17,8 +21,72 @@
       "path": "컴퓨터 보안/공개키.md"
     },
     {
-      "basename": "ECC",
-      "path": "컴퓨터 보안/ECC.md"
+      "basename": "기밀성",
+      "path": "컴퓨터 보안/기밀성.md"
+    },
+    {
+      "basename": "모듈러 연산",
+      "path": "컴퓨터 보안/모듈러 연산.md"
+    },
+    {
+      "basename": "보안의 4원칙",
+      "path": "컴퓨터 보안/보안의 4원칙.md"
+    },
+    {
+      "basename": "블럭 싸이퍼",
+      "path": "컴퓨터 보안/블럭 싸이퍼.md"
+    },
+    {
+      "basename": "블럭 오퍼레이션 모드",
+      "path": "컴퓨터 보안/블럭 오퍼레이션 모드.md"
+    },
+    {
+      "basename": "스트림 싸이퍼",
+      "path": "컴퓨터 보안/스트림 싸이퍼.md"
+    },
+    {
+      "basename": "오일러 정리",
+      "path": "컴퓨터 보안/오일러 정리.md"
+    },
+    {
+      "basename": "인증",
+      "path": "컴퓨터 보안/인증.md"
+    },
+    {
+      "basename": "전자 서명",
+      "path": "컴퓨터 보안/전자 서명.md"
+    },
+    {
+      "basename": "컴퓨터 보안",
+      "path": "컴퓨터 보안/컴퓨터 보안.md"
+    },
+    {
+      "basename": "페르마 정리",
+      "path": "컴퓨터 보안/페르마 정리.md"
+    },
+    {
+      "basename": "키",
+      "path": "컴퓨터 보안/키.md"
+    },
+    {
+      "basename": "피스텔 싸이퍼 스트럭처",
+      "path": "컴퓨터 보안/피스텔 싸이퍼 스트럭처.md"
+    },
+    {
+      "basename": "피스텔 싸이퍼 파라미터",
+      "path": "컴퓨터 보안/피스텔 싸이퍼 파라미터.md"
+    },
+    {
+      "basename": "확장된 유클리드 알고리즘",
+      "path": "컴퓨터 보안/확장된 유클리드 알고리즘.md"
+    },
+    {
+      "basename": "해쉬",
+      "path": "컴퓨터 보안/해쉬.md"
+    },
+    {
+      "basename": "MAC",
+      "path": "컴퓨터 보안/MAC.md"
     },
     {
       "basename": "가용성",
@@ -131,74 +199,6 @@
     {
       "basename": "lab0704b",
       "path": "객체1/C++/lab/lab0704b.md"
-    },
-    {
-      "basename": "lab0704",
-      "path": "객체1/C++/lab/lab0704.md"
-    },
-    {
-      "basename": "lab2515",
-      "path": "객체1/C/lab/lab2515.md"
-    },
-    {
-      "basename": "3. 포인터",
-      "path": "객체1/C/3. 포인터.md"
-    },
-    {
-      "basename": "lab2514",
-      "path": "객체1/C/lab/lab2514.md"
-    },
-    {
-      "basename": "lab2513",
-      "path": "객체1/C/lab/lab2513.md"
-    },
-    {
-      "basename": "lab2512",
-      "path": "객체1/C/lab/lab2512.md"
-    },
-    {
-      "basename": "lab2511",
-      "path": "객체1/C/lab/lab2511.md"
-    },
-    {
-      "basename": "lab2510",
-      "path": "객체1/C/lab/lab2510.md"
-    },
-    {
-      "basename": "lab2508",
-      "path": "객체1/C/lab/lab2508.md"
-    },
-    {
-      "basename": "lab2506",
-      "path": "객체1/C/lab/lab2506.md"
-    },
-    {
-      "basename": "2. 구조체",
-      "path": "객체1/C/2. 구조체.md"
-    },
-    {
-      "basename": "p22530",
-      "path": "객체1/C/lab/p22530.md"
-    },
-    {
-      "basename": "lab2208",
-      "path": "객체1/C/lab/lab2208.md"
-    },
-    {
-      "basename": "lab2207",
-      "path": "객체1/C/lab/lab2207.md"
-    },
-    {
-      "basename": "lab2205",
-      "path": "객체1/C/lab/lab2205.md"
-    },
-    {
-      "basename": "lab2203",
-      "path": "객체1/C/lab/lab2203.md"
-    },
-    {
-      "basename": "p16870",
-      "path": "객체1/C/lab/p16870.md"
     }
   ],
   "omittedPaths": [],
