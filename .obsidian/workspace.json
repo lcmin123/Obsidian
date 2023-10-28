@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "aadebcdbf91fbc08",
+        "id": "f278d657a81603c8",
         "type": "tabs",
         "children": [
           {
-            "id": "51bd17ff14295423",
+            "id": "9071e33caa3c102d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기/객체1/C++/1. C++ Basic.md",
+                "file": "이미지 표시하는 법.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3학년 2학기/객체1/C++/1. C++ Basic.md",
+                "file": "이미지 표시하는 법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3학년 2학기/객체1/C++/1. C++ Basic.md",
+                "file": "이미지 표시하는 법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기/객체1/C++/1. C++ Basic.md"
+                "file": "이미지 표시하는 법.md"
               }
             }
           },
@@ -166,11 +166,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "51bd17ff14295423",
+  "active": "9071e33caa3c102d",
   "lastOpenFiles": [
+    "Attached Files/image-name.png",
+    "3학년 2학기/객체1/C++/1. C++ Basic.md",
     "accents.md",
     "이미지 표시하는 법.md",
-    "Attached Files/image-name.png",
     "Attached Files/Pasted image 20231017021020.png",
     "Attached Files/Pasted image 20231017093946.png",
     "Attached Files/Pasted image 20231017093928.png",
@@ -180,7 +181,6 @@
     "your-first-note.md",
     "move your body every day.md",
     "프론트엔드/유데미/\bHello World.md",
-    "3학년 2학기/객체1/C++/1. C++ Basic.md",
     "프론트엔드/유데미",
     "프론트엔드",
     "컴퓨터 보안/블럭 오퍼레이션 모드.md",
