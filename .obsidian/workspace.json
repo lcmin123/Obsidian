@@ -173,10 +173,7 @@
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false,
-      "digitalgarden:Digital Garden Publication Center": false,
-      "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "command-palette:명령어 팔레트 열기": false
     }
   },
   "active": "c204bda5e38e9ac5",
