@@ -11,8 +11,12 @@
             "id": "17a044709307e43e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "consistency.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -69,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -90,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프론트엔드/유데미/\bHello World.md",
+                "file": "consistency.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프론트엔드/유데미/\bHello World.md",
+                "file": "consistency.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프론트엔드/유데미/\bHello World.md"
+                "file": "consistency.md"
               }
             }
           },
@@ -163,10 +166,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "87d28742e0a0d3ac",
+  "active": "17a044709307e43e",
   "lastOpenFiles": [
-    "3학년 2학기/객체1/C++/1. C++ Basic.md",
+    "your-first-note.md",
+    "move your body every day.md",
+    "consistency.md",
+    "accents.md",
+    "안녕하세요.md",
+    "animals/cats.md",
     "프론트엔드/유데미/\bHello World.md",
+    "3학년 2학기/객체1/C++/1. C++ Basic.md",
     "프론트엔드/유데미",
     "프론트엔드",
     "컴퓨터 보안/블럭 오퍼레이션 모드.md",
@@ -188,12 +197,6 @@
     "3학년 2학기/컴퓨터 보안/무결성.md",
     "3학년 2학기/컴퓨터 보안/모듈러 연산.md",
     "3학년 2학기/컴퓨터 보안/대칭키.md",
-    "3학년 2학기/컴퓨터 보안/기밀성.md",
-    "3학년 2학기/컴퓨터 보안/공개키.md",
-    "3학년 2학기/컴퓨터 보안/가용성.md",
-    "3학년 2학기/컴퓨터 보안/RSA.md",
-    "3학년 2학기/컴퓨터 보안/MAC.md",
-    "3학년 2학기/컴퓨터 보안/El Gammal.md",
     "3학년 2학기/컴퓨터 보안/Attached Files",
     "3학년 2학기/컴퓨터 보안",
     "3학년 2학기/알고리즘",

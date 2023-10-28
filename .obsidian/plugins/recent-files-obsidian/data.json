@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "consistency",
+      "path": "consistency.md"
+    },
+    {
+      "basename": "your-first-note",
+      "path": "your-first-note.md"
+    },
+    {
+      "basename": "move your body every day",
+      "path": "move your body every day.md"
+    },
+    {
+      "basename": "accents",
+      "path": "accents.md"
+    },
+    {
+      "basename": "안녕하세요",
+      "path": "안녕하세요.md"
+    },
+    {
+      "basename": "cats",
+      "path": "animals/cats.md"
+    },
+    {
       "basename": "\bHello World",
       "path": "프론트엔드/유데미/\bHello World.md"
     },
