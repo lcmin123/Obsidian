@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프론트엔드/유데미/\bHello World.md",
+                "file": "프론트엔드/유데미/섹션 2/무제 파일.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프론트엔드/유데미/\bHello World.md",
+                "file": "프론트엔드/유데미/섹션 2/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프론트엔드/유데미/\bHello World.md",
+                "file": "프론트엔드/유데미/섹션 2/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프론트엔드/유데미/\bHello World.md"
+                "file": "프론트엔드/유데미/섹션 2/무제 파일.md"
               }
             }
           },
@@ -179,8 +179,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "36ce2589f4d0776d",
+  "active": "0e580cb45613e193",
   "lastOpenFiles": [
+    "프론트엔드/유데미/유데미.md",
+    "프론트엔드/유데미/섹션 2/무제 파일.md",
+    "프론트엔드/유데미/섹션 6",
+    "프론트엔드/유데미/섹션 4",
+    "프론트엔드/유데미/섹션 5",
+    "프론트엔드/유데미/섹션 3",
+    "프론트엔드/유데미/섹션 2",
     "3학년 2학기/알고리즘/2. 동적 계획.md",
     "3학년 2학기/알고리즘/1. 분할 정복.md",
     "3학년 2학기/객체1/객체1.md",
@@ -192,7 +199,6 @@
     "3학년 2학기/객체1/C/3. 포인터.md",
     "3학년 2학기/객체1/C/2. 구조체.md",
     "3학년 2학기/객체1/C/1. 배열.md",
-    "프론트엔드/유데미/\bHello World.md",
     "3학년 2학기/컴퓨터 보안/블럭 오퍼레이션 모드.md",
     "Attached Files/BlockOperation_OFB.png",
     "Attached Files/BlockOperation_CFB.png",
@@ -214,14 +220,8 @@
     "3학년 2학기/컴퓨터 보안/확장된 유클리드 알고리즘.md",
     "3학년 2학기/컴퓨터 보안/해쉬.md",
     "3학년 2학기/컴퓨터 보안/피스텔 싸이퍼 파라미터.md",
-    "3학년 2학기/컴퓨터 보안/피스텔 싸이퍼 스트럭처.md",
     "3학년 2학기/컴퓨터 보안/족보 중간",
     "3학년 2학기/컴퓨터 보안/Attached Files",
-    "3학년 2학기/컴퓨터 보안",
-    "3학년 2학기/알고리즘",
-    "3학년 2학기/객체1/C++/lab",
-    "3학년 2학기/객체1/C/lab",
-    "3학년 2학기/객체1/C++",
-    "3학년 2학기/객체1/C"
+    "3학년 2학기/컴퓨터 보안"
   ]
 }
