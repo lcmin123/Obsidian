@@ -1,7 +1,7 @@
 {
-  "githubRepo": "",
-  "githubToken": "",
-  "githubUserName": "",
+  "githubRepo": "Obsidian-Publish",
+  "githubToken": "my first token",
+  "githubUserName": "lcmin123",
   "gardenBaseUrl": "",
   "prHistory": [],
   "baseTheme": "dark",
