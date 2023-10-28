@@ -1,8 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "1. C++ Basic",
+      "path": "3학년 2학기/객체1/C++/1. C++ Basic.md"
+    },
+    {
       "basename": "accents",
       "path": "accents.md"
+    },
+    {
+      "basename": "이미지 표시하는 법",
+      "path": "이미지 표시하는 법.md"
+    },
+    {
+      "basename": "image-name",
+      "path": "Attached Files/image-name.png"
+    },
+    {
+      "basename": "Pasted image 20231017021020",
+      "path": "Attached Files/Pasted image 20231017021020.png"
+    },
+    {
+      "basename": "Pasted image 20231017093946",
+      "path": "Attached Files/Pasted image 20231017093946.png"
+    },
+    {
+      "basename": "Pasted image 20231017093928",
+      "path": "Attached Files/Pasted image 20231017093928.png"
+    },
+    {
+      "basename": "Pasted image 20231017093809",
+      "path": "Attached Files/Pasted image 20231017093809.png"
+    },
+    {
+      "basename": "Pasted image 20231017021429",
+      "path": "Attached Files/Pasted image 20231017021429.png"
     },
     {
       "basename": "안녕하세요",
@@ -19,10 +51,6 @@
     {
       "basename": "\bHello World",
       "path": "프론트엔드/유데미/\bHello World.md"
-    },
-    {
-      "basename": "1. C++ Basic",
-      "path": "3학년 2학기/객체1/C++/1. C++ Basic.md"
     }
   ],
   "omittedPaths": [],
