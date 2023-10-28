@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기/객체1/객체 1 Index.md",
+                "file": "Digital Garden.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3학년 2학기/객체1/객체 1 Index.md",
+                "file": "Digital Garden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3학년 2학기/객체1/객체 1 Index.md",
+                "file": "Digital Garden.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기/객체1/객체 1 Index.md"
+                "file": "Digital Garden.md"
               }
             }
           },
@@ -179,10 +179,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0e580cb45613e193",
+  "active": "36ce2589f4d0776d",
   "lastOpenFiles": [
+    "3학년 2학기/객체1/객체1.md",
+    "Digital Garden.md",
+    "animals/cats.md",
     "이미지 표시하는 법.md",
-    "3학년 2학기/객체1/객체 1 Index.md",
     "3학년 2학기/객체1/C++/2. Class and method.md",
     "3학년 2학기/객체1/C++/1. C++ Basic.md",
     "3학년 2학기/객체1/C/3. 포인터.md",
@@ -190,7 +192,6 @@
     "3학년 2학기/객체1/C/1. 배열.md",
     "프론트엔드/유데미/\bHello World.md",
     "3학년 2학기/컴퓨터 보안/블럭 오퍼레이션 모드.md",
-    "Digital Garden.md",
     "Attached Files/BlockOperation_OFB.png",
     "Attached Files/BlockOperation_CFB.png",
     "Attached Files/Pasted image 20231017093928.png",
@@ -204,7 +205,6 @@
     "conflict-files-obsidian-git.md",
     "accents.md",
     "move your body every day.md",
-    "animals/cats.md",
     "프론트엔드/유데미",
     "프론트엔드",
     "컴퓨터 보안/블럭 오퍼레이션 모드.md",

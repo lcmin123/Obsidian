@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "객체 1 Index",
-      "path": "3학년 2학기/객체1/객체 1 Index.md"
+      "basename": "Digital Garden",
+      "path": "Digital Garden.md"
+    },
+    {
+      "basename": "객체1",
+      "path": "3학년 2학기/객체1/객체1.md"
+    },
+    {
+      "basename": "cats",
+      "path": "animals/cats.md"
     },
     {
       "basename": "이미지 표시하는 법",
@@ -35,10 +43,6 @@
     {
       "basename": "블럭 오퍼레이션 모드",
       "path": "3학년 2학기/컴퓨터 보안/블럭 오퍼레이션 모드.md"
-    },
-    {
-      "basename": "Digital Garden",
-      "path": "Digital Garden.md"
     },
     {
       "basename": "BlockOperation_OFB",
@@ -79,10 +83,6 @@
     {
       "basename": "move your body every day",
       "path": "move your body every day.md"
-    },
-    {
-      "basename": "cats",
-      "path": "animals/cats.md"
     }
   ],
   "omittedPaths": [],

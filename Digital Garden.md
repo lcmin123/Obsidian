@@ -4,7 +4,7 @@ title: Your first seed
 
 ### Welcome!
 
-This is your first note. You'll find it in the [`notes/`](https://github.com/lcmin123/Obsidian-Publish/tree/main/_notes) directory. 
+- [[객체1]]
 
 ### Link syntax
 
