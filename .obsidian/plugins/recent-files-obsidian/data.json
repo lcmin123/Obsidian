@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "\bHello World",
+      "path": "프론트엔드/유데미/\bHello World.md"
+    },
+    {
       "basename": "블럭 오퍼레이션 모드",
       "path": "3학년 2학기/컴퓨터 보안/블럭 오퍼레이션 모드.md"
     },
@@ -55,10 +59,6 @@
     {
       "basename": "cats",
       "path": "animals/cats.md"
-    },
-    {
-      "basename": "\bHello World",
-      "path": "프론트엔드/유데미/\bHello World.md"
     },
     {
       "basename": "1. C++ Basic",

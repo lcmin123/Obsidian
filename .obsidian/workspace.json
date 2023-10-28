@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기/컴퓨터 보안/블럭 오퍼레이션 모드.md",
+                "file": "프론트엔드/유데미/\bHello World.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3학년 2학기/컴퓨터 보안/블럭 오퍼레이션 모드.md",
+                "file": "프론트엔드/유데미/\bHello World.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3학년 2학기/컴퓨터 보안/블럭 오퍼레이션 모드.md",
+                "file": "프론트엔드/유데미/\bHello World.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기/컴퓨터 보안/블럭 오퍼레이션 모드.md"
+                "file": "프론트엔드/유데미/\bHello World.md"
               }
             }
           },
@@ -168,9 +168,9 @@
   },
   "active": "5a7771dde75f98d2",
   "lastOpenFiles": [
+    "3학년 2학기/컴퓨터 보안/블럭 오퍼레이션 모드.md",
     "이미지 표시하는 법.md",
     "Digital Garden.md",
-    "3학년 2학기/컴퓨터 보안/블럭 오퍼레이션 모드.md",
     "Attached Files/BlockOperation_OFB.png",
     "Attached Files/BlockOperation_CFB.png",
     "Attached Files/Pasted image 20231017093928.png",
