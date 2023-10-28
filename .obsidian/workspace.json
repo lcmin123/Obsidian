@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프론트엔드/유데미/\bHello World.md",
+                "file": "이미지 표시하는 법.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "36ce2589f4d0776d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3학년 2학기/객체1/객체 1 Index.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프론트엔드/유데미/\bHello World.md",
+                "file": "3학년 2학기/객체1/객체 1 Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프론트엔드/유데미/\bHello World.md",
+                "file": "3학년 2학기/객체1/객체 1 Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프론트엔드/유데미/\bHello World.md"
+                "file": "3학년 2학기/객체1/객체 1 Index.md"
               }
             }
           },
@@ -166,10 +179,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5a7771dde75f98d2",
+  "active": "0e580cb45613e193",
   "lastOpenFiles": [
-    "3학년 2학기/컴퓨터 보안/블럭 오퍼레이션 모드.md",
     "이미지 표시하는 법.md",
+    "3학년 2학기/객체1/객체 1 Index.md",
+    "3학년 2학기/객체1/C++/2. Class and method.md",
+    "3학년 2학기/객체1/C++/1. C++ Basic.md",
+    "3학년 2학기/객체1/C/3. 포인터.md",
+    "3학년 2학기/객체1/C/2. 구조체.md",
+    "3학년 2학기/객체1/C/1. 배열.md",
+    "프론트엔드/유데미/\bHello World.md",
+    "3학년 2학기/컴퓨터 보안/블럭 오퍼레이션 모드.md",
     "Digital Garden.md",
     "Attached Files/BlockOperation_OFB.png",
     "Attached Files/BlockOperation_CFB.png",
@@ -185,8 +205,6 @@
     "accents.md",
     "move your body every day.md",
     "animals/cats.md",
-    "프론트엔드/유데미/\bHello World.md",
-    "3학년 2학기/객체1/C++/1. C++ Basic.md",
     "프론트엔드/유데미",
     "프론트엔드",
     "컴퓨터 보안/블럭 오퍼레이션 모드.md",
@@ -198,10 +216,6 @@
     "3학년 2학기/컴퓨터 보안/페르마 정리.md",
     "3학년 2학기/컴퓨터 보안/키.md",
     "3학년 2학기/컴퓨터 보안/족보 중간",
-    "3학년 2학기/컴퓨터 보안/전자 서명.md",
-    "3학년 2학기/컴퓨터 보안/인증.md",
-    "3학년 2학기/컴퓨터 보안/오일러 정리.md",
-    "3학년 2학기/컴퓨터 보안/스트림 싸이퍼.md",
     "3학년 2학기/컴퓨터 보안/Attached Files",
     "3학년 2학기/컴퓨터 보안",
     "3학년 2학기/알고리즘",

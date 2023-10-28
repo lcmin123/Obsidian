@@ -1,16 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "객체 1 Index",
+      "path": "3학년 2학기/객체1/객체 1 Index.md"
+    },
+    {
+      "basename": "이미지 표시하는 법",
+      "path": "이미지 표시하는 법.md"
+    },
+    {
+      "basename": "2. Class and method",
+      "path": "3학년 2학기/객체1/C++/2. Class and method.md"
+    },
+    {
+      "basename": "1. C++ Basic",
+      "path": "3학년 2학기/객체1/C++/1. C++ Basic.md"
+    },
+    {
+      "basename": "3. 포인터",
+      "path": "3학년 2학기/객체1/C/3. 포인터.md"
+    },
+    {
+      "basename": "2. 구조체",
+      "path": "3학년 2학기/객체1/C/2. 구조체.md"
+    },
+    {
+      "basename": "1. 배열",
+      "path": "3학년 2학기/객체1/C/1. 배열.md"
+    },
+    {
       "basename": "\bHello World",
       "path": "프론트엔드/유데미/\bHello World.md"
     },
     {
       "basename": "블럭 오퍼레이션 모드",
       "path": "3학년 2학기/컴퓨터 보안/블럭 오퍼레이션 모드.md"
-    },
-    {
-      "basename": "이미지 표시하는 법",
-      "path": "이미지 표시하는 법.md"
     },
     {
       "basename": "Digital Garden",
@@ -59,10 +83,6 @@
     {
       "basename": "cats",
       "path": "animals/cats.md"
-    },
-    {
-      "basename": "1. C++ Basic",
-      "path": "3학년 2학기/객체1/C++/1. C++ Basic.md"
     }
   ],
   "omittedPaths": [],
