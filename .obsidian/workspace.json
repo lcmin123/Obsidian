@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Digital Garden.md",
+                "file": "3학년 2학기/컴퓨터 보안/블럭 오퍼레이션 모드.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Digital Garden.md",
+                "file": "3학년 2학기/컴퓨터 보안/블럭 오퍼레이션 모드.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Digital Garden.md",
+                "file": "3학년 2학기/컴퓨터 보안/블럭 오퍼레이션 모드.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Digital Garden.md"
+                "file": "3학년 2학기/컴퓨터 보안/블럭 오퍼레이션 모드.md"
               }
             }
           },
@@ -168,14 +168,14 @@
   },
   "active": "5a7771dde75f98d2",
   "lastOpenFiles": [
+    "이미지 표시하는 법.md",
+    "Digital Garden.md",
     "3학년 2학기/컴퓨터 보안/블럭 오퍼레이션 모드.md",
     "Attached Files/image-name.png",
-    "이미지 표시하는 법.md",
     "안녕하세요.md",
     "consistency.md",
     "conflict-files-obsidian-git.md",
     "accents.md",
-    "Digital Garden.md",
     "move your body every day.md",
     "animals/cats.md",
     "프론트엔드/유데미/\bHello World.md",
