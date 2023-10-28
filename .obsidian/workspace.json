@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프론트엔드/유데미/섹션 2/무제 파일.md",
+                "file": "프론트엔드/유데미/섹션 2/섹션 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프론트엔드/유데미/섹션 2/무제 파일.md",
+                "file": "프론트엔드/유데미/섹션 2/섹션 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프론트엔드/유데미/섹션 2/무제 파일.md",
+                "file": "프론트엔드/유데미/섹션 2/섹션 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프론트엔드/유데미/섹션 2/무제 파일.md"
+                "file": "프론트엔드/유데미/섹션 2/섹션 2.md"
               }
             }
           },
@@ -179,10 +179,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0e580cb45613e193",
+  "active": "36ce2589f4d0776d",
   "lastOpenFiles": [
     "프론트엔드/유데미/유데미.md",
-    "프론트엔드/유데미/섹션 2/무제 파일.md",
+    "프론트엔드/유데미/섹션 2/섹션 2.md",
     "프론트엔드/유데미/섹션 6",
     "프론트엔드/유데미/섹션 4",
     "프론트엔드/유데미/섹션 5",
