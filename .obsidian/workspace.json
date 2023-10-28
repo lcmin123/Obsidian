@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "9c2de72c39768d7b",
+        "id": "8dc4cc85ed306ea2",
         "type": "tabs",
         "children": [
           {
-            "id": "17a044709307e43e",
+            "id": "5a7771dde75f98d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "consistency.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ffbad41f82ac9b74",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "3학년 2학기/컴퓨터 보안/블럭 오퍼레이션 모드.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "3학년 2학기/컴퓨터 보안/블럭 오퍼레이션 모드.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "3학년 2학기/컴퓨터 보안/블럭 오퍼레이션 모드.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "3학년 2학기/컴퓨터 보안/블럭 오퍼레이션 모드.md"
               }
             }
           },
@@ -179,16 +166,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ffbad41f82ac9b74",
+  "active": "5a7771dde75f98d2",
   "lastOpenFiles": [
-    "이미지 표시하는 법.md",
     "Attached Files/image-name.png",
+    "이미지 표시하는 법.md",
+    "안녕하세요.md",
     "consistency.md",
     "conflict-files-obsidian-git.md",
+    "accents.md",
     "your-first-note.md",
     "move your body every day.md",
-    "accents.md",
-    "안녕하세요.md",
     "animals/cats.md",
     "프론트엔드/유데미/\bHello World.md",
     "3학년 2학기/객체1/C++/1. C++ Basic.md",
@@ -210,7 +197,6 @@
     "3학년 2학기/컴퓨터 보안/블럭 오퍼레이션 모드.md",
     "3학년 2학기/컴퓨터 보안/블럭 싸이퍼.md",
     "3학년 2학기/컴퓨터 보안/보안의 4원칙.md",
-    "3학년 2학기/컴퓨터 보안/무결성.md",
     "3학년 2학기/컴퓨터 보안/Attached Files",
     "3학년 2학기/컴퓨터 보안",
     "3학년 2학기/알고리즘",
