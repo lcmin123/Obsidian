@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기/컴퓨터 보안/블럭 오퍼레이션 모드.md",
+                "file": "Digital Garden.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3학년 2학기/컴퓨터 보안/블럭 오퍼레이션 모드.md",
+                "file": "Digital Garden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3학년 2학기/컴퓨터 보안/블럭 오퍼레이션 모드.md",
+                "file": "Digital Garden.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기/컴퓨터 보안/블럭 오퍼레이션 모드.md"
+                "file": "Digital Garden.md"
               }
             }
           },
@@ -160,18 +160,22 @@
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "command-palette:명령어 팔레트 열기": false,
+      "digitalgarden:Digital Garden Publication Center": false,
+      "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "5a7771dde75f98d2",
   "lastOpenFiles": [
+    "3학년 2학기/컴퓨터 보안/블럭 오퍼레이션 모드.md",
     "Attached Files/image-name.png",
     "이미지 표시하는 법.md",
     "안녕하세요.md",
     "consistency.md",
     "conflict-files-obsidian-git.md",
     "accents.md",
-    "your-first-note.md",
+    "Digital Garden.md",
     "move your body every day.md",
     "animals/cats.md",
     "프론트엔드/유데미/\bHello World.md",
@@ -191,7 +195,6 @@
     "3학년 2학기/컴퓨터 보안/인증.md",
     "3학년 2학기/컴퓨터 보안/오일러 정리.md",
     "3학년 2학기/컴퓨터 보안/스트림 싸이퍼.md",
-    "3학년 2학기/컴퓨터 보안/블럭 오퍼레이션 모드.md",
     "3학년 2학기/컴퓨터 보안/블럭 싸이퍼.md",
     "3학년 2학기/컴퓨터 보안/보안의 4원칙.md",
     "3학년 2학기/컴퓨터 보안/Attached Files",
