@@ -1,8 +1,8 @@
 {
   "githubRepo": "Obsidian-Publish",
-  "githubToken": "my first token",
+  "githubToken": "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",
   "githubUserName": "lcmin123",
-  "gardenBaseUrl": "",
+  "gardenBaseUrl": "https://publishchang.netlify.app/",
   "prHistory": [],
   "baseTheme": "dark",
   "theme": "{\"name\": \"default\", \"modes\": [\"dark\"]}",
