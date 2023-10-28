@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "aadebcdbf91fbc08",
+        "id": "9c2de72c39768d7b",
         "type": "tabs",
         "children": [
           {
-            "id": "51bd17ff14295423",
+            "id": "17a044709307e43e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3학년 2학기/객체1/C++/1. C++ Basic.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c204bda5e38e9ac5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "프론트엔드/유데미/\bHello World.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,7 +69,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -173,10 +157,13 @@
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "command-palette:명령어 팔레트 열기": false,
+      "digitalgarden:Digital Garden Publication Center": false,
+      "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c204bda5e38e9ac5",
+  "active": "87d28742e0a0d3ac",
   "lastOpenFiles": [
     "3학년 2학기/객체1/C++/1. C++ Basic.md",
     "프론트엔드/유데미/\bHello World.md",
