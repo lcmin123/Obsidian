@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "43ec30d3f84af878",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Attached Files/image-name.png"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3학년 2학기/컴퓨터 보안/블럭 오퍼레이션 모드.md",
+                "file": "Attached Files/image-name.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3학년 2학기/컴퓨터 보안/블럭 오퍼레이션 모드.md",
+                "file": "Attached Files/image-name.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기/컴퓨터 보안/블럭 오퍼레이션 모드.md"
+                "file": "Attached Files/image-name.png"
               }
             }
           },
@@ -166,11 +177,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5a7771dde75f98d2",
+  "active": "43ec30d3f84af878",
   "lastOpenFiles": [
     "이미지 표시하는 법.md",
-    "Digital Garden.md",
     "3학년 2학기/컴퓨터 보안/블럭 오퍼레이션 모드.md",
+    "블럭 오퍼레이션 모드.md",
+    "Digital Garden.md",
     "Attached Files/image-name.png",
     "안녕하세요.md",
     "consistency.md",
