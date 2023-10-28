@@ -11,9 +11,11 @@
             "id": "5a7771dde75f98d2",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Attached Files/Pasted image 20231017093809.png"
+                "file": "3학년 2학기/컴퓨터 보안/블럭 오퍼레이션 모드.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Attached Files/Pasted image 20231017093809.png",
+                "file": "3학년 2학기/컴퓨터 보안/블럭 오퍼레이션 모드.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Attached Files/Pasted image 20231017093809.png",
+                "file": "3학년 2학기/컴퓨터 보안/블럭 오퍼레이션 모드.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Attached Files/Pasted image 20231017093809.png"
+                "file": "3학년 2학기/컴퓨터 보안/블럭 오퍼레이션 모드.md"
               }
             }
           },
@@ -166,12 +168,16 @@
   },
   "active": "5a7771dde75f98d2",
   "lastOpenFiles": [
-    "Attached Files/Pasted image 20231017021429.png",
-    "Attached Files/Pasted image 20231017021020.png",
-    "Digital Garden.md",
-    "Attached Files/image-name.png",
     "이미지 표시하는 법.md",
+    "Digital Garden.md",
     "3학년 2학기/컴퓨터 보안/블럭 오퍼레이션 모드.md",
+    "Attached Files/BlockOperation_OFB.png",
+    "Attached Files/BlockOperation_CFB.png",
+    "Attached Files/Pasted image 20231017093928.png",
+    "Attached Files/BlockOperation_CBC.png",
+    "Attached Files/BlockOperation_ECB.png",
+    "3학년 2학기/컴퓨터 보안/모듈러 연산.md",
+    "Attached Files/image-name.png",
     "블럭 오퍼레이션 모드.md",
     "안녕하세요.md",
     "consistency.md",
@@ -196,16 +202,12 @@
     "3학년 2학기/컴퓨터 보안/인증.md",
     "3학년 2학기/컴퓨터 보안/오일러 정리.md",
     "3학년 2학기/컴퓨터 보안/스트림 싸이퍼.md",
-    "3학년 2학기/컴퓨터 보안/블럭 싸이퍼.md",
     "3학년 2학기/컴퓨터 보안/Attached Files",
     "3학년 2학기/컴퓨터 보안",
     "3학년 2학기/알고리즘",
     "3학년 2학기/객체1/C++/lab",
     "3학년 2학기/객체1/C/lab",
     "3학년 2학기/객체1/C++",
-    "3학년 2학기/객체1/C",
-    "Attached Files/Pasted image 20231017093946.png",
-    "Attached Files/Pasted image 20231017093809.png",
-    "Attached Files/Pasted image 20231017093928.png"
+    "3학년 2학기/객체1/C"
   ]
 }
