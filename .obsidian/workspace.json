@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프론트엔드/유데미/섹션 2/섹션 2.md",
+                "file": "프론트엔드/유데미/섹션 3/섹션 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프론트엔드/유데미/섹션 2/섹션 2.md",
+                "file": "프론트엔드/유데미/섹션 3/섹션 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프론트엔드/유데미/섹션 2/섹션 2.md",
+                "file": "프론트엔드/유데미/섹션 3/섹션 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프론트엔드/유데미/섹션 2/섹션 2.md"
+                "file": "프론트엔드/유데미/섹션 3/섹션 3.md"
               }
             }
           },
@@ -182,6 +182,7 @@
   "active": "36ce2589f4d0776d",
   "lastOpenFiles": [
     "프론트엔드/유데미/유데미.md",
+    "프론트엔드/유데미/섹션 3/섹션 3.md",
     "프론트엔드/유데미/섹션 2/섹션 2.md",
     "프론트엔드/유데미/섹션 6",
     "프론트엔드/유데미/섹션 4",
@@ -219,7 +220,6 @@
     "3학년 2학기/컴퓨터 보안/족보 중간/2016 Midterm A.md",
     "3학년 2학기/컴퓨터 보안/확장된 유클리드 알고리즘.md",
     "3학년 2학기/컴퓨터 보안/해쉬.md",
-    "3학년 2학기/컴퓨터 보안/피스텔 싸이퍼 파라미터.md",
     "3학년 2학기/컴퓨터 보안/족보 중간",
     "3학년 2학기/컴퓨터 보안/Attached Files",
     "3학년 2학기/컴퓨터 보안"
