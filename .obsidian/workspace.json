@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기/컴퓨터 보안/대칭키.md",
+                "file": "프론트엔드/유데미/섹션 3/html 태그.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3학년 2학기/컴퓨터 보안/대칭키.md",
+                "file": "프론트엔드/유데미/섹션 3/html 태그.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3학년 2학기/컴퓨터 보안/대칭키.md",
+                "file": "프론트엔드/유데미/섹션 3/html 태그.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기/컴퓨터 보안/대칭키.md"
+                "file": "프론트엔드/유데미/섹션 3/html 태그.md"
               }
             }
           },
@@ -168,11 +168,12 @@
   },
   "active": "36ce2589f4d0776d",
   "lastOpenFiles": [
+    "프론트엔드/유데미/섹션 3/섹션 3.md",
+    "프론트엔드/유데미/섹션 3/html 태그.md",
+    "3학년 2학기/컴퓨터 보안/대칭키.md",
     "3학년 2학기/컴퓨터 보안/PGP.md",
     "3학년 2학기/컴퓨터 보안/El Gammal.md",
     "3학년 2학기/컴퓨터 보안/스트림 싸이퍼.md",
-    "3학년 2학기/컴퓨터 보안/대칭키.md",
-    "프론트엔드/유데미/섹션 3/섹션 3.md",
     "프론트엔드/유데미/유데미.md",
     "프론트엔드/유데미/섹션 2/섹션 2.md",
     "프론트엔드/유데미/섹션 6",
@@ -204,7 +205,6 @@
     "consistency.md",
     "conflict-files-obsidian-git.md",
     "accents.md",
-    "move your body every day.md",
     "프론트엔드/유데미",
     "프론트엔드",
     "3학년 2학기/컴퓨터 보안/족보 중간",
