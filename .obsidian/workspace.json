@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프론트엔드/유데미/섹션 4/엔티티 코드.md",
+                "file": "프론트엔드/유데미/섹션 4/시멘틱 마크업.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프론트엔드/유데미/섹션 4/엔티티 코드.md",
+                "file": "프론트엔드/유데미/섹션 4/시멘틱 마크업.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프론트엔드/유데미/섹션 4/엔티티 코드.md",
+                "file": "프론트엔드/유데미/섹션 4/시멘틱 마크업.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프론트엔드/유데미/섹션 4/엔티티 코드.md"
+                "file": "프론트엔드/유데미/섹션 4/시멘틱 마크업.md"
               }
             }
           },
@@ -168,8 +168,9 @@
   },
   "active": "36ce2589f4d0776d",
   "lastOpenFiles": [
-    "프론트엔드/유데미/섹션 4/인라인.md",
     "프론트엔드/유데미/섹션 4/엔티티 코드.md",
+    "프론트엔드/유데미/섹션 4/시멘틱 마크업.md",
+    "프론트엔드/유데미/섹션 4/인라인.md",
     "프론트엔드/유데미/섹션 4/블록.md",
     "프론트엔드/유데미/섹션 3/head.md",
     "프론트엔드/유데미/섹션 4/.md",
@@ -203,7 +204,6 @@
     "Attached Files/Pasted image 20231017093928.png",
     "Attached Files/BlockOperation_CBC.png",
     "Attached Files/BlockOperation_ECB.png",
-    "3학년 2학기/컴퓨터 보안/모듈러 연산.md",
     "Attached Files/image-name.png",
     "프론트엔드/유데미",
     "프론트엔드",
