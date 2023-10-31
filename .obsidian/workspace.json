@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Digital Garden.md",
+                "file": "프론트엔드/유데미/섹션 4/인라인.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Digital Garden.md",
+                "file": "프론트엔드/유데미/섹션 4/인라인.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Digital Garden.md",
+                "file": "프론트엔드/유데미/섹션 4/인라인.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Digital Garden.md"
+                "file": "프론트엔드/유데미/섹션 4/인라인.md"
               }
             }
           },
@@ -168,15 +168,15 @@
   },
   "active": "36ce2589f4d0776d",
   "lastOpenFiles": [
+    "프론트엔드/유데미/섹션 4/블록.md",
+    "Digital Garden.md",
     "프론트엔드/유데미/섹션 6/섹션 6.md",
     "프론트엔드/유데미/섹션 5/섹션 5.md",
     "프론트엔드/유데미/섹션 4/섹션 4.md",
     "프론트엔드/유데미/섹션 3/섹션 3.md",
     "프론트엔드/유데미/유데미.md",
-    "Digital Garden.md",
     "프론트엔드/유데미/섹션 3/body.md",
     "프론트엔드/유데미/섹션 3/head.md",
-    "프론트엔드/유데미/섹션 4/블록.md",
     "프론트엔드/유데미/섹션 4/시멘틱 마크업.md",
     "프론트엔드/유데미/섹션 4/엔티티 코드.md",
     "프론트엔드/유데미/섹션 4/인라인.md",

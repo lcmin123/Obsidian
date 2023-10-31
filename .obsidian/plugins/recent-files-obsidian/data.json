@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "인라인",
+      "path": "프론트엔드/유데미/섹션 4/인라인.md"
+    },
+    {
+      "basename": "블록",
+      "path": "프론트엔드/유데미/섹션 4/블록.md"
+    },
+    {
       "basename": "Digital Garden",
       "path": "Digital Garden.md"
     },
@@ -33,20 +41,12 @@
       "path": "프론트엔드/유데미/섹션 3/head.md"
     },
     {
-      "basename": "블록",
-      "path": "프론트엔드/유데미/섹션 4/블록.md"
-    },
-    {
       "basename": "시멘틱 마크업",
       "path": "프론트엔드/유데미/섹션 4/시멘틱 마크업.md"
     },
     {
       "basename": "엔티티 코드",
       "path": "프론트엔드/유데미/섹션 4/엔티티 코드.md"
-    },
-    {
-      "basename": "인라인",
-      "path": "프론트엔드/유데미/섹션 4/인라인.md"
     },
     {
       "basename": "테이블",
