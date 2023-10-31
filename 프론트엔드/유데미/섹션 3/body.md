@@ -10,7 +10,7 @@
 	- ol : ordered list
 		- 숫자로 순서 정해진 리스트
 	- ul : unordered list
-	  점 찍힌 순서 없는 리스트
+	점 찍힌 순서 없는 리스트
 	  
 	- li : list item
 	  ol, ul의 리스트 항목들을 표시
