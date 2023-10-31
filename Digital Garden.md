@@ -4,7 +4,10 @@ title: Your first seed
 
 ### Welcome!
 
-- [[객체1]]
+- [[섹션 3]]
+- [[섹션 4]]
+- [[섹션 5]]
+- [[섹션 6]]
 
 ### Link syntax
 

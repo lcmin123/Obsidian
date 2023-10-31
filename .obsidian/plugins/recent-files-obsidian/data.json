@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Digital Garden",
+      "path": "Digital Garden.md"
+    },
+    {
+      "basename": "섹션 6",
+      "path": "프론트엔드/유데미/섹션 6/섹션 6.md"
+    },
+    {
+      "basename": "섹션 5",
+      "path": "프론트엔드/유데미/섹션 5/섹션 5.md"
+    },
+    {
+      "basename": "섹션 4",
+      "path": "프론트엔드/유데미/섹션 4/섹션 4.md"
+    },
+    {
+      "basename": "섹션 3",
+      "path": "프론트엔드/유데미/섹션 3/섹션 3.md"
+    },
+    {
+      "basename": "유데미",
+      "path": "프론트엔드/유데미/유데미.md"
+    },
+    {
       "basename": "body",
       "path": "프론트엔드/유데미/섹션 3/body.md"
     },
@@ -37,10 +61,6 @@
       "path": "3학년 2학기/컴퓨터 보안/가용성.md"
     },
     {
-      "basename": "섹션 3",
-      "path": "프론트엔드/유데미/섹션 3/섹션 3.md"
-    },
-    {
       "basename": "대칭키",
       "path": "3학년 2학기/컴퓨터 보안/대칭키.md"
     },
@@ -57,10 +77,6 @@
       "path": "3학년 2학기/컴퓨터 보안/스트림 싸이퍼.md"
     },
     {
-      "basename": "유데미",
-      "path": "프론트엔드/유데미/유데미.md"
-    },
-    {
       "basename": "2. 동적 계획",
       "path": "3학년 2학기/알고리즘/2. 동적 계획.md"
     },
@@ -71,10 +87,6 @@
     {
       "basename": "객체1",
       "path": "3학년 2학기/객체1/객체1.md"
-    },
-    {
-      "basename": "Digital Garden",
-      "path": "Digital Garden.md"
     },
     {
       "basename": "cats",

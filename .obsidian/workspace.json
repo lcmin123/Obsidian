@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프론트엔드/유데미/섹션 3/body.md",
+                "file": "Digital Garden.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프론트엔드/유데미/섹션 3/body.md",
+                "file": "Digital Garden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프론트엔드/유데미/섹션 3/body.md",
+                "file": "Digital Garden.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프론트엔드/유데미/섹션 3/body.md"
+                "file": "Digital Garden.md"
               }
             }
           },
@@ -168,8 +168,14 @@
   },
   "active": "36ce2589f4d0776d",
   "lastOpenFiles": [
-    "프론트엔드/유데미/섹션 3/head.md",
+    "프론트엔드/유데미/섹션 6/섹션 6.md",
+    "프론트엔드/유데미/섹션 5/섹션 5.md",
+    "프론트엔드/유데미/섹션 4/섹션 4.md",
+    "프론트엔드/유데미/섹션 3/섹션 3.md",
+    "프론트엔드/유데미/유데미.md",
+    "Digital Garden.md",
     "프론트엔드/유데미/섹션 3/body.md",
+    "프론트엔드/유데미/섹션 3/head.md",
     "프론트엔드/유데미/섹션 4/블록.md",
     "프론트엔드/유데미/섹션 4/시멘틱 마크업.md",
     "프론트엔드/유데미/섹션 4/엔티티 코드.md",
@@ -178,12 +184,10 @@
     "3학년 2학기/컴퓨터 보안/족보 중간/2016 Midterm A.md",
     "3학년 2학기/컴퓨터 보안/가용성.md",
     "프론트엔드/유데미/섹션 4/.md",
-    "프론트엔드/유데미/섹션 3/섹션 3.md",
     "3학년 2학기/컴퓨터 보안/대칭키.md",
     "3학년 2학기/컴퓨터 보안/PGP.md",
     "3학년 2학기/컴퓨터 보안/El Gammal.md",
     "3학년 2학기/컴퓨터 보안/스트림 싸이퍼.md",
-    "프론트엔드/유데미/유데미.md",
     "프론트엔드/유데미/섹션 2/섹션 2.md",
     "프론트엔드/유데미/섹션 6",
     "프론트엔드/유데미/섹션 4",
@@ -193,12 +197,8 @@
     "3학년 2학기/알고리즘/2. 동적 계획.md",
     "3학년 2학기/알고리즘/1. 분할 정복.md",
     "3학년 2학기/객체1/객체1.md",
-    "Digital Garden.md",
     "animals/cats.md",
     "이미지 표시하는 법.md",
-    "3학년 2학기/객체1/C++/2. Class and method.md",
-    "3학년 2학기/객체1/C++/1. C++ Basic.md",
-    "3학년 2학기/객체1/C/3. 포인터.md",
     "Attached Files/BlockOperation_OFB.png",
     "Attached Files/BlockOperation_CFB.png",
     "Attached Files/Pasted image 20231017093928.png",
