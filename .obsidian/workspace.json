@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기/데이터베이스 설계/엔티티타입.md",
+                "file": "3학년 2학기/데이터베이스 설계/식별 관계.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3학년 2학기/데이터베이스 설계/엔티티타입.md",
+                "file": "3학년 2학기/데이터베이스 설계/식별 관계.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3학년 2학기/데이터베이스 설계/엔티티타입.md",
+                "file": "3학년 2학기/데이터베이스 설계/식별 관계.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기/데이터베이스 설계/엔티티타입.md"
+                "file": "3학년 2학기/데이터베이스 설계/식별 관계.md"
               }
             }
           },
@@ -168,8 +168,9 @@
   },
   "active": "36ce2589f4d0776d",
   "lastOpenFiles": [
-    "3학년 2학기/데이터베이스 설계/데이터 모델링.md",
     "3학년 2학기/데이터베이스 설계/엔티티타입.md",
+    "3학년 2학기/데이터베이스 설계/식별 관계.md",
+    "3학년 2학기/데이터베이스 설계/데이터 모델링.md",
     "3학년 2학기/데이터베이스 설계/aggregation.md",
     "3학년 2학기/데이터베이스 설계/Specialization & Generalization.md",
     "Attached Files/eac52a56bedcdc4d0a7ae5db237b2504_MD5.jpeg",
@@ -197,7 +198,6 @@
     "3학년 2학기/데이터베이스 설계/스키마와 인스턴스.md",
     "3학년 2학기/데이터베이스 설계/트랜잭션.md",
     "3학년 2학기/데이터베이스 설계/키.md",
-    "3학년 2학기/데이터베이스 설계/관계형 데이터 모델.md",
     "3학년 2학기/데이터베이스 설계",
     "프론트엔드/유데미/섹션 6",
     "프론트엔드/유데미/섹션 4",
