@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "NVL",
-      "path": "3학년 2학기/데이터베이스 설계/NVL.md"
+      "basename": "LIKE",
+      "path": "3학년 2학기/데이터베이스 설계/LIKE.md"
+    },
+    {
+      "basename": "where",
+      "path": "3학년 2학기/데이터베이스 설계/where.md"
+    },
+    {
+      "basename": "sql",
+      "path": "3학년 2학기/데이터베이스 설계/sql.md"
     },
     {
       "basename": "select",
       "path": "3학년 2학기/데이터베이스 설계/select.md"
     },
     {
-      "basename": "sql",
-      "path": "3학년 2학기/데이터베이스 설계/sql.md"
+      "basename": "NVL",
+      "path": "3학년 2학기/데이터베이스 설계/NVL.md"
     },
     {
       "basename": "DML",
@@ -191,14 +199,6 @@
     {
       "basename": "BlockOperation_ECB",
       "path": "Attached Files/BlockOperation_ECB.png"
-    },
-    {
-      "basename": "모듈러 연산",
-      "path": "3학년 2학기/컴퓨터 보안/모듈러 연산.md"
-    },
-    {
-      "basename": "image-name",
-      "path": "Attached Files/image-name.png"
     }
   ],
   "omittedPaths": [],
