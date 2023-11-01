@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프론트엔드/유데미/섹션 4/인라인.md",
+                "file": "3학년 2학기/데이터베이스 설계/무제 파일.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프론트엔드/유데미/섹션 4/인라인.md",
+                "file": "3학년 2학기/데이터베이스 설계/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프론트엔드/유데미/섹션 4/인라인.md",
+                "file": "3학년 2학기/데이터베이스 설계/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프론트엔드/유데미/섹션 4/인라인.md"
+                "file": "3학년 2학기/데이터베이스 설계/무제 파일.md"
               }
             }
           },
@@ -168,6 +168,9 @@
   },
   "active": "36ce2589f4d0776d",
   "lastOpenFiles": [
+    "프론트엔드/유데미/섹션 4/인라인.md",
+    "3학년 2학기/데이터베이스 설계/무제 파일.md",
+    "3학년 2학기/데이터베이스 설계",
     "프론트엔드/유데미/섹션 4/블록.md",
     "Digital Garden.md",
     "프론트엔드/유데미/섹션 6/섹션 6.md",
@@ -179,7 +182,6 @@
     "프론트엔드/유데미/섹션 3/head.md",
     "프론트엔드/유데미/섹션 4/시멘틱 마크업.md",
     "프론트엔드/유데미/섹션 4/엔티티 코드.md",
-    "프론트엔드/유데미/섹션 4/인라인.md",
     "프론트엔드/유데미/섹션 5/테이블.md",
     "3학년 2학기/컴퓨터 보안/족보 중간/2016 Midterm A.md",
     "3학년 2학기/컴퓨터 보안/가용성.md",
@@ -198,7 +200,6 @@
     "3학년 2학기/알고리즘/1. 분할 정복.md",
     "3학년 2학기/객체1/객체1.md",
     "animals/cats.md",
-    "이미지 표시하는 법.md",
     "Attached Files/BlockOperation_OFB.png",
     "Attached Files/BlockOperation_CFB.png",
     "Attached Files/Pasted image 20231017093928.png",
@@ -208,7 +209,6 @@
     "프론트엔드/유데미",
     "프론트엔드",
     "3학년 2학기/컴퓨터 보안/족보 중간",
-    "3학년 2학기/컴퓨터 보안/Attached Files",
-    "3학년 2학기/컴퓨터 보안"
+    "3학년 2학기/컴퓨터 보안/Attached Files"
   ]
 }
