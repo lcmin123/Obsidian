@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "엔티티타입",
+      "path": "3학년 2학기/데이터베이스 설계/엔티티타입.md"
+    },
+    {
+      "basename": "데이터 모델링",
+      "path": "3학년 2학기/데이터베이스 설계/데이터 모델링.md"
+    },
+    {
       "basename": "aggregation",
       "path": "3학년 2학기/데이터베이스 설계/aggregation.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "객체1",
       "path": "3학년 2학기/객체1/객체1.md"
-    },
-    {
-      "basename": "cats",
-      "path": "animals/cats.md"
-    },
-    {
-      "basename": "이미지 표시하는 법",
-      "path": "이미지 표시하는 법.md"
     }
   ],
   "omittedPaths": [],
