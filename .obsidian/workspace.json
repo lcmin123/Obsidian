@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기/데이터베이스 설계/스키마 중복.md",
+                "file": "3학년 2학기/데이터베이스 설계/Specialization & Generalization.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3학년 2학기/데이터베이스 설계/스키마 중복.md",
+                "file": "3학년 2학기/데이터베이스 설계/Specialization & Generalization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3학년 2학기/데이터베이스 설계/스키마 중복.md",
+                "file": "3학년 2학기/데이터베이스 설계/Specialization & Generalization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기/데이터베이스 설계/스키마 중복.md"
+                "file": "3학년 2학기/데이터베이스 설계/Specialization & Generalization.md"
               }
             }
           },
@@ -168,8 +168,9 @@
   },
   "active": "36ce2589f4d0776d",
   "lastOpenFiles": [
-    "3학년 2학기/데이터베이스 설계/e.r diagram.md",
     "3학년 2학기/데이터베이스 설계/스키마 중복.md",
+    "3학년 2학기/데이터베이스 설계/Specialization & Generalization.md",
+    "3학년 2학기/데이터베이스 설계/e.r diagram.md",
     "Attached Files/11873fb7dcd6e7802171bae047c6e5c1_MD5.jpeg",
     "Attached Files/Pasted image 20231102060700.png",
     "3학년 2학기/데이터베이스 설계/\bcardinality.md",
@@ -195,7 +196,6 @@
     "3학년 2학기/데이터베이스 설계/데이터 모델.md",
     "3학년 2학기/데이터베이스 설계/추상화 수준.md",
     "프론트엔드/유데미/섹션 4/인라인.md",
-    "3학년 2학기/데이터베이스 설계/.md",
     "3학년 2학기/데이터베이스 설계",
     "프론트엔드/유데미/섹션 6",
     "프론트엔드/유데미/섹션 4",
