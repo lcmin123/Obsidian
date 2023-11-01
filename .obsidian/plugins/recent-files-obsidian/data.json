@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "GROUP BY & AGGREGATION",
+      "path": "3학년 2학기/데이터베이스 설계/GROUP BY & AGGREGATION.md"
+    },
+    {
+      "basename": "데이터베이스 언어",
+      "path": "3학년 2학기/데이터베이스 설계/데이터베이스 언어.md"
+    },
+    {
       "basename": "join",
       "path": "3학년 2학기/데이터베이스 설계/join.md"
     },
@@ -31,10 +39,6 @@
     {
       "basename": "DML",
       "path": "3학년 2학기/데이터베이스 설계/DML.md"
-    },
-    {
-      "basename": "데이터베이스 언어",
-      "path": "3학년 2학기/데이터베이스 설계/데이터베이스 언어.md"
     },
     {
       "basename": "DCL",
@@ -195,10 +199,6 @@
     {
       "basename": "BlockOperation_OFB",
       "path": "Attached Files/BlockOperation_OFB.png"
-    },
-    {
-      "basename": "BlockOperation_CFB",
-      "path": "Attached Files/BlockOperation_CFB.png"
     }
   ],
   "omittedPaths": [],
