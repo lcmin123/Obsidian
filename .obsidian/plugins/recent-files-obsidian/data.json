@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "join",
+      "path": "3학년 2학기/데이터베이스 설계/join.md"
+    },
+    {
       "basename": "order by",
       "path": "3학년 2학기/데이터베이스 설계/order by.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "BlockOperation_CFB",
       "path": "Attached Files/BlockOperation_CFB.png"
-    },
-    {
-      "basename": "BlockOperation_CBC",
-      "path": "Attached Files/BlockOperation_CBC.png"
     }
   ],
   "omittedPaths": [],
