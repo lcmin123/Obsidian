@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "aggregation",
+      "path": "3학년 2학기/데이터베이스 설계/aggregation.md"
+    },
+    {
       "basename": "Specialization & Generalization",
       "path": "3학년 2학기/데이터베이스 설계/Specialization & Generalization.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "이미지 표시하는 법",
       "path": "이미지 표시하는 법.md"
-    },
-    {
-      "basename": "2. Class and method",
-      "path": "3학년 2학기/객체1/C++/2. Class and method.md"
     }
   ],
   "omittedPaths": [],

@@ -1,0 +1,2 @@
+- decomposition의 반대
+- 
