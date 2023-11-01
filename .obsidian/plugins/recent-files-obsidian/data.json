@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "\bcardinality",
+      "path": "3학년 2학기/데이터베이스 설계/\bcardinality.md"
+    },
+    {
       "basename": "attribute",
       "path": "3학년 2학기/데이터베이스 설계/attribute.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2. 구조체",
       "path": "3학년 2학기/객체1/C/2. 구조체.md"
-    },
-    {
-      "basename": "1. 배열",
-      "path": "3학년 2학기/객체1/C/1. 배열.md"
     }
   ],
   "omittedPaths": [],

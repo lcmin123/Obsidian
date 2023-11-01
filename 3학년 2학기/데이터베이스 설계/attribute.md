@@ -1,1 +1,9 @@
-- composite attruv
+- composite attribute
+	- 여러 부분으로 쪼개질 수 있는 속성
+	- 예 : 이름 - 성, 이름
+- multivalued attribute 
+	- 둘 이상의 값을 가질 수 있는 속성
+	- 예: 전화번호
+- derived attribute 
+	- 다른 가치로 부터 파생되는 속성
+	- 예: 나이 from 생년월일
