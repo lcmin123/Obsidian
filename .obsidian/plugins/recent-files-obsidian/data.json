@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "attribute",
+      "path": "3학년 2학기/데이터베이스 설계/attribute.md"
+    },
+    {
       "basename": "DBMS",
       "path": "3학년 2학기/데이터베이스 설계/DBMS.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "1. 배열",
       "path": "3학년 2학기/객체1/C/1. 배열.md"
-    },
-    {
-      "basename": "블럭 오퍼레이션 모드",
-      "path": "3학년 2학기/컴퓨터 보안/블럭 오퍼레이션 모드.md"
     }
   ],
   "omittedPaths": [],

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기/데이터베이스 설계/DBMS.md",
+                "file": "3학년 2학기/데이터베이스 설계/attribute.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3학년 2학기/데이터베이스 설계/DBMS.md",
+                "file": "3학년 2학기/데이터베이스 설계/attribute.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3학년 2학기/데이터베이스 설계/DBMS.md",
+                "file": "3학년 2학기/데이터베이스 설계/attribute.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기/데이터베이스 설계/DBMS.md"
+                "file": "3학년 2학기/데이터베이스 설계/attribute.md"
               }
             }
           },
@@ -168,6 +168,8 @@
   },
   "active": "36ce2589f4d0776d",
   "lastOpenFiles": [
+    "3학년 2학기/데이터베이스 설계/DBMS.md",
+    "3학년 2학기/데이터베이스 설계/attribute.md",
     "3학년 2학기/데이터베이스 설계/set operations.md",
     "3학년 2학기/데이터베이스 설계/GROUP BY & AGGREGATION.md",
     "3학년 2학기/데이터베이스 설계/데이터베이스 언어.md",
@@ -187,14 +189,12 @@
     "3학년 2학기/데이터베이스 설계/관계형 데이터 모델.md",
     "3학년 2학기/데이터베이스 설계/데이터 모델.md",
     "3학년 2학기/데이터베이스 설계/추상화 수준.md",
-    "3학년 2학기/데이터베이스 설계/DBMS.md",
     "프론트엔드/유데미/섹션 4/인라인.md",
     "3학년 2학기/데이터베이스 설계/.md",
     "3학년 2학기/데이터베이스 설계",
     "프론트엔드/유데미/섹션 4/블록.md",
     "Digital Garden.md",
     "프론트엔드/유데미/섹션 6/섹션 6.md",
-    "프론트엔드/유데미/섹션 5/섹션 5.md",
     "프론트엔드/유데미/섹션 6",
     "프론트엔드/유데미/섹션 4",
     "프론트엔드/유데미/섹션 5",
