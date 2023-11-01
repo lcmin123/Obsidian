@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "DDL",
-      "path": "3학년 2학기/데이터베이스 설계/DDL.md"
+      "basename": "DCL",
+      "path": "3학년 2학기/데이터베이스 설계/DCL.md"
     },
     {
       "basename": "데이터베이스 언어",
       "path": "3학년 2학기/데이터베이스 설계/데이터베이스 언어.md"
+    },
+    {
+      "basename": "DDL",
+      "path": "3학년 2학기/데이터베이스 설계/DDL.md"
     },
     {
       "basename": "트랜잭션",
