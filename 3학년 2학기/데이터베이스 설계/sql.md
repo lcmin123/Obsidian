@@ -9,4 +9,5 @@ A typical SQL query has the form:
 [[select]]
 from
 [[where]]
+[[order by]]
 
