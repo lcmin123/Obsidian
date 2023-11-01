@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기/데이터베이스 설계/DML.md",
+                "file": "3학년 2학기/데이터베이스 설계/sql.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3학년 2학기/데이터베이스 설계/DML.md",
+                "file": "3학년 2학기/데이터베이스 설계/sql.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3학년 2학기/데이터베이스 설계/DML.md",
+                "file": "3학년 2학기/데이터베이스 설계/sql.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기/데이터베이스 설계/DML.md"
+                "file": "3학년 2학기/데이터베이스 설계/sql.md"
               }
             }
           },
@@ -168,8 +168,9 @@
   },
   "active": "36ce2589f4d0776d",
   "lastOpenFiles": [
-    "3학년 2학기/데이터베이스 설계/데이터베이스 언어.md",
     "3학년 2학기/데이터베이스 설계/DML.md",
+    "3학년 2학기/데이터베이스 설계/sql.md",
+    "3학년 2학기/데이터베이스 설계/데이터베이스 언어.md",
     "3학년 2학기/데이터베이스 설계/DCL.md",
     "3학년 2학기/데이터베이스 설계/DDL.md",
     "3학년 2학기/데이터베이스 설계/스키마와 인스턴스.md",
@@ -194,7 +195,6 @@
     "프론트엔드/유데미/섹션 4/시멘틱 마크업.md",
     "프론트엔드/유데미/섹션 4/엔티티 코드.md",
     "프론트엔드/유데미/섹션 5/테이블.md",
-    "3학년 2학기/컴퓨터 보안/족보 중간/2016 Midterm A.md",
     "프론트엔드/유데미/섹션 6",
     "프론트엔드/유데미/섹션 4",
     "프론트엔드/유데미/섹션 5",
