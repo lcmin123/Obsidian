@@ -33,3 +33,18 @@
 	–동일테이블의컬럼만이용가능
 
   
+
+제약조건추가
+–**ALTER TABLE**테이블이름**ADD CONSTRAINT**…
+–NOT NULL은추가못함
+
+**ALTER TABLE emp ADD CONSTRAINTemp_mgr_fk**
+**FOREIGN KEY(mgr)REFERENCES emp(empno);**
+
+제약조건삭제
+–**ALTER TABLE** 테이블이름**DROP CONSTRAINT** 제약조건이름
+–PRIMARY KEY의경우FK 조건이걸린경우에는CASCADE로삭제해야함
+
+**ALTER TABLE book DROP CONSTRAINTc_emp_u;**
+**ALTER TABLE dept DROP PRIMARY KEY CASCADE;**
+  

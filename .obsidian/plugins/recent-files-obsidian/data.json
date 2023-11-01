@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "DCL",
-      "path": "3학년 2학기/데이터베이스 설계/DCL.md"
-    },
-    {
-      "basename": "스키마와 인스턴스",
-      "path": "3학년 2학기/데이터베이스 설계/스키마와 인스턴스.md"
+      "basename": "DML",
+      "path": "3학년 2학기/데이터베이스 설계/DML.md"
     },
     {
       "basename": "데이터베이스 언어",
       "path": "3학년 2학기/데이터베이스 설계/데이터베이스 언어.md"
     },
     {
+      "basename": "DCL",
+      "path": "3학년 2학기/데이터베이스 설계/DCL.md"
+    },
+    {
       "basename": "DDL",
       "path": "3학년 2학기/데이터베이스 설계/DDL.md"
+    },
+    {
+      "basename": "스키마와 인스턴스",
+      "path": "3학년 2학기/데이터베이스 설계/스키마와 인스턴스.md"
     },
     {
       "basename": "트랜잭션",
@@ -195,10 +199,6 @@
     {
       "basename": "accents",
       "path": "accents.md"
-    },
-    {
-      "basename": "move your body every day",
-      "path": "move your body every day.md"
     }
   ],
   "omittedPaths": [],
