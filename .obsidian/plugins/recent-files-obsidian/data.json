@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "index",
-      "path": "3학년 2학기/데이터베이스 설계/index.md"
-    },
-    {
       "basename": "selection operation",
       "path": "3학년 2학기/데이터베이스 설계/selection operation.md"
+    },
+    {
+      "basename": "indexed nested loop join",
+      "path": "3학년 2학기/데이터베이스 설계/indexed nested loop join.md"
+    },
+    {
+      "basename": "index",
+      "path": "3학년 2학기/데이터베이스 설계/index.md"
     },
     {
       "basename": "3NF",
@@ -31,10 +35,6 @@
     {
       "basename": "join operation",
       "path": "3학년 2학기/데이터베이스 설계/join operation.md"
-    },
-    {
-      "basename": "indexed nested loop join",
-      "path": "3학년 2학기/데이터베이스 설계/indexed nested loop join.md"
     },
     {
       "basename": "block nested loop join",
