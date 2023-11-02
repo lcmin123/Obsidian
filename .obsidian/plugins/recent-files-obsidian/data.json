@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "evaluation",
+      "path": "3학년 2학기/데이터베이스 설계/evaluation.md"
+    },
+    {
+      "basename": "e.r diagram",
+      "path": "3학년 2학기/데이터베이스 설계/e.r diagram.md"
+    },
+    {
+      "basename": "DML",
+      "path": "3학년 2학기/데이터베이스 설계/DML.md"
+    },
+    {
+      "basename": "Denormalization",
+      "path": "3학년 2학기/데이터베이스 설계/Denormalization.md"
+    },
+    {
+      "basename": "decomposition",
+      "path": "3학년 2학기/데이터베이스 설계/decomposition.md"
+    },
+    {
+      "basename": "DDL",
+      "path": "3학년 2학기/데이터베이스 설계/DDL.md"
+    },
+    {
+      "basename": "DCL",
+      "path": "3학년 2학기/데이터베이스 설계/DCL.md"
+    },
+    {
       "basename": "DBMS",
       "path": "3학년 2학기/데이터베이스 설계/DBMS.md"
     },
@@ -85,10 +113,6 @@
       "path": "3학년 2학기/데이터베이스 설계/external sort merge.md"
     },
     {
-      "basename": "evaluation",
-      "path": "3학년 2학기/데이터베이스 설계/evaluation.md"
-    },
-    {
       "basename": "엔티티타입",
       "path": "3학년 2학기/데이터베이스 설계/엔티티타입.md"
     },
@@ -111,18 +135,6 @@
     {
       "basename": "데이터베이스 언어",
       "path": "3학년 2학기/데이터베이스 설계/데이터베이스 언어.md"
-    },
-    {
-      "basename": "DCL",
-      "path": "3학년 2학기/데이터베이스 설계/DCL.md"
-    },
-    {
-      "basename": "DML",
-      "path": "3학년 2학기/데이터베이스 설계/DML.md"
-    },
-    {
-      "basename": "DDL",
-      "path": "3학년 2학기/데이터베이스 설계/DDL.md"
     },
     {
       "basename": "데이터 모델",
@@ -157,24 +169,12 @@
       "path": "3학년 2학기/데이터베이스 설계/1NF.md"
     },
     {
-      "basename": "Denormalization",
-      "path": "3학년 2학기/데이터베이스 설계/Denormalization.md"
-    },
-    {
       "basename": "Normalization",
       "path": "3학년 2학기/데이터베이스 설계/Normalization.md"
     },
     {
-      "basename": "decomposition",
-      "path": "3학년 2학기/데이터베이스 설계/decomposition.md"
-    },
-    {
       "basename": "Specialization & Generalization",
       "path": "3학년 2학기/데이터베이스 설계/Specialization & Generalization.md"
-    },
-    {
-      "basename": "e.r diagram",
-      "path": "3학년 2학기/데이터베이스 설계/e.r diagram.md"
     },
     {
       "basename": "order by",
