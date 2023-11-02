@@ -2,6 +2,11 @@
 1. a -> b 가 자명한 경우
 2. a가 R의 수퍼키
 3. 모든 비자명한 함수 종속에서 결정자가 key인 경우
+
+- **lossless [[decomposition]] 가능
+- **data redundancy 없음
+- **dependency preserving 불가능할 수 있음(-)
+ -> [[BCNF]] 보다 약한 정규형이 필요**
  
  - BCNF아닌 예
 inst_dept(ID, name, salary, dept_name,building, budget)
@@ -17,5 +22,4 @@ dept_name이 수퍼키가 아니므로 bcnf가 아니다
 		  R1 : a가 R1의 수퍼키이므로 [[BCNF]] 
 		  R2 : 비자명한 함수 종속에서 ID가 Key이므로 [[BCNF]] 
 
-**bcnf 분해는 의존성을 보존하지 않을 수 있음
--> [[BCNF]] 보다 약한 정규형이 필요**
+

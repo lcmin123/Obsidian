@@ -9,6 +9,10 @@
       "path": "3학년 2학기/데이터베이스 설계/BCNF.md"
     },
     {
+      "basename": "anomaly",
+      "path": "3학년 2학기/데이터베이스 설계/anomaly.md"
+    },
+    {
       "basename": "decomposition",
       "path": "3학년 2학기/데이터베이스 설계/decomposition.md"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "functional dependency",
       "path": "3학년 2학기/데이터베이스 설계/functional dependency.md"
-    },
-    {
-      "basename": "anomaly",
-      "path": "3학년 2학기/데이터베이스 설계/anomaly.md"
     },
     {
       "basename": "cardinality",
