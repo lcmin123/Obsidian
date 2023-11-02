@@ -8,3 +8,8 @@ R1~Rn은 R의 [[decomposition]]
 	- 반대 : lossless decomposition
 - lossless decomposition
 	- R = R1 join R2
+
+- goal of [[decomposition]] 
+	- lossless [[decomposition]] 
+	- no redundancy
+	- dependency preserve
