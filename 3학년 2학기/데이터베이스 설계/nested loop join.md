@@ -1,6 +1,6 @@
 cartesian product와 같은 역할
 
-**nr x bs + br(bt), 
+## **nr x bs + br(bt), nr + br(sk)
 
 **for each**tuple tr**in** r**do begin
 	for each tuple** ts**in** s**do begin**

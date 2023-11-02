@@ -121,7 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기/데이터베이스 설계/nested loop join.md",
+                "file": "3학년 2학기/데이터베이스 설계/block nested loop join.md",
                 "mode": "source",
                 "source": false
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3학년 2학기/데이터베이스 설계/nested loop join.md",
+                "file": "3학년 2학기/데이터베이스 설계/block nested loop join.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3학년 2학기/데이터베이스 설계/nested loop join.md",
+                "file": "3학년 2학기/데이터베이스 설계/block nested loop join.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기/데이터베이스 설계/nested loop join.md"
+                "file": "3학년 2학기/데이터베이스 설계/block nested loop join.md"
               }
             }
           },
@@ -277,9 +277,10 @@
   },
   "active": "d91d93596466a3be",
   "lastOpenFiles": [
+    "3학년 2학기/데이터베이스 설계/nested loop join.md",
     "3학년 2학기/데이터베이스 설계/join operation.md",
     "3학년 2학기/데이터베이스 설계/block nested loop join.md",
-    "3학년 2학기/데이터베이스 설계/nested loop join.md",
+    "3학년 2학기/데이터베이스 설계/cardinality.md",
     "3학년 2학기/데이터베이스 설계/join.md",
     "Attached Files/bcfadf0664c458034c5fa318d6572093_MD5.jpeg",
     "Attached Files/Pasted image 20231102142331.png",
@@ -299,7 +300,6 @@
     "3학년 2학기/데이터베이스 설계/데이터 모델.md",
     "3학년 2학기/데이터베이스 설계/관계형 데이터 모델.md",
     "3학년 2학기/데이터베이스 설계/functional dependency.md",
-    "3학년 2학기/데이터베이스 설계/cardinality.md",
     "Attached Files/a833c651e16446a680e84433c3a73726_MD5.jpeg",
     "Attached Files/Pasted image 20231102091833.png",
     "3학년 2학기/데이터베이스 설계/식별 관계.md",
