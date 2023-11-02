@@ -6,4 +6,14 @@
 - null을 사용할 수는 있지만 다루기 어려움
 
 발생하는 Anomaly
-- insertion anomaly
+- insertion anomaly 
+	- loan-number 없이 branch-name 등을 insert 불가
+- deletion anomaly 
+	- 어떤 branch의 마지막 loan을 delete하면 branch 자체가 사라짐
+- update anomaly 
+	- 어떤 특정한 branch의 정보(downtown 의 asset 등)을 update하면 해당 튜플을 모두 업데이트해야함 
+- 원인
+	- 정보의 중복
+	- 여러 entity가 하나의 table에 합쳐짐
+- 해결책
+	- [[decomposition]]
