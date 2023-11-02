@@ -1,12 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "DCL",
-      "path": "3학년 2학기/데이터베이스 설계/DCL.md"
+      "basename": "evaluation",
+      "path": "3학년 2학기/데이터베이스 설계/evaluation.md"
+    },
+    {
+      "basename": "쿼리 프로세싱",
+      "path": "3학년 2학기/데이터베이스 설계/쿼리 프로세싱.md"
+    },
+    {
+      "basename": "추상화 수준",
+      "path": "3학년 2학기/데이터베이스 설계/추상화 수준.md"
+    },
+    {
+      "basename": "정규화 프로세스",
+      "path": "3학년 2학기/데이터베이스 설계/정규화 프로세스.md"
+    },
+    {
+      "basename": "엔티티타입",
+      "path": "3학년 2학기/데이터베이스 설계/엔티티타입.md"
+    },
+    {
+      "basename": "식별 관계",
+      "path": "3학년 2학기/데이터베이스 설계/식별 관계.md"
+    },
+    {
+      "basename": "스키마와 인스턴스",
+      "path": "3학년 2학기/데이터베이스 설계/스키마와 인스턴스.md"
+    },
+    {
+      "basename": "스키마 중복",
+      "path": "3학년 2학기/데이터베이스 설계/스키마 중복.md"
+    },
+    {
+      "basename": "데이터 모델링",
+      "path": "3학년 2학기/데이터베이스 설계/데이터 모델링.md"
     },
     {
       "basename": "데이터베이스 언어",
       "path": "3학년 2학기/데이터베이스 설계/데이터베이스 언어.md"
+    },
+    {
+      "basename": "DCL",
+      "path": "3학년 2학기/데이터베이스 설계/DCL.md"
     },
     {
       "basename": "DML",
@@ -15,10 +51,6 @@
     {
       "basename": "DDL",
       "path": "3학년 2학기/데이터베이스 설계/DDL.md"
-    },
-    {
-      "basename": "데이터 모델링",
-      "path": "3학년 2학기/데이터베이스 설계/데이터 모델링.md"
     },
     {
       "basename": "데이터 모델",
@@ -65,14 +97,6 @@
       "path": "3학년 2학기/데이터베이스 설계/index.md"
     },
     {
-      "basename": "evaluation",
-      "path": "3학년 2학기/데이터베이스 설계/evaluation.md"
-    },
-    {
-      "basename": "쿼리 프로세싱",
-      "path": "3학년 2학기/데이터베이스 설계/쿼리 프로세싱.md"
-    },
-    {
       "basename": "hash join",
       "path": "3학년 2학기/데이터베이스 설계/hash join.md"
     },
@@ -97,10 +121,6 @@
       "path": "3학년 2학기/데이터베이스 설계/external sort merge.md"
     },
     {
-      "basename": "정규화 프로세스",
-      "path": "3학년 2학기/데이터베이스 설계/정규화 프로세스.md"
-    },
-    {
       "basename": "Denormalization",
       "path": "3학년 2학기/데이터베이스 설계/Denormalization.md"
     },
@@ -121,24 +141,12 @@
       "path": "3학년 2학기/데이터베이스 설계/functional dependency.md"
     },
     {
-      "basename": "식별 관계",
-      "path": "3학년 2학기/데이터베이스 설계/식별 관계.md"
-    },
-    {
-      "basename": "엔티티타입",
-      "path": "3학년 2학기/데이터베이스 설계/엔티티타입.md"
-    },
-    {
       "basename": "aggregation",
       "path": "3학년 2학기/데이터베이스 설계/aggregation.md"
     },
     {
       "basename": "Specialization & Generalization",
       "path": "3학년 2학기/데이터베이스 설계/Specialization & Generalization.md"
-    },
-    {
-      "basename": "스키마 중복",
-      "path": "3학년 2학기/데이터베이스 설계/스키마 중복.md"
     },
     {
       "basename": "e.r diagram",
@@ -181,20 +189,12 @@
       "path": "3학년 2학기/데이터베이스 설계/NVL.md"
     },
     {
-      "basename": "스키마와 인스턴스",
-      "path": "3학년 2학기/데이터베이스 설계/스키마와 인스턴스.md"
-    },
-    {
       "basename": "트랜잭션",
       "path": "3학년 2학기/데이터베이스 설계/트랜잭션.md"
     },
     {
       "basename": "키",
       "path": "3학년 2학기/데이터베이스 설계/키.md"
-    },
-    {
-      "basename": "추상화 수준",
-      "path": "3학년 2학기/데이터베이스 설계/추상화 수준.md"
     },
     {
       "basename": "인라인",
