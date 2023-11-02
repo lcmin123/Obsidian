@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "anomaly",
+      "path": "3학년 2학기/데이터베이스 설계/anomaly.md"
+    },
+    {
       "basename": "식별 관계",
       "path": "3학년 2학기/데이터베이스 설계/식별 관계.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2. 동적 계획",
       "path": "3학년 2학기/알고리즘/2. 동적 계획.md"
-    },
-    {
-      "basename": "1. 분할 정복",
-      "path": "3학년 2학기/알고리즘/1. 분할 정복.md"
     }
   ],
   "omittedPaths": [],

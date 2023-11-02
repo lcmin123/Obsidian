@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ac9a6b096fe729c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3학년 2학기/데이터베이스 설계/anomaly.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3학년 2학기/데이터베이스 설계/식별 관계.md",
+                "file": "3학년 2학기/데이터베이스 설계/anomaly.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3학년 2학기/데이터베이스 설계/식별 관계.md",
+                "file": "3학년 2학기/데이터베이스 설계/anomaly.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기/데이터베이스 설계/식별 관계.md"
+                "file": "3학년 2학기/데이터베이스 설계/anomaly.md"
               }
             }
           },
@@ -166,10 +179,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "36ce2589f4d0776d",
+  "active": "ac9a6b096fe729c9",
   "lastOpenFiles": [
-    "3학년 2학기/데이터베이스 설계/엔티티타입.md",
+    "Attached Files/a833c651e16446a680e84433c3a73726_MD5.jpeg",
+    "Attached Files/Pasted image 20231102091833.png",
     "3학년 2학기/데이터베이스 설계/식별 관계.md",
+    "3학년 2학기/데이터베이스 설계/anomaly.md",
+    "3학년 2학기/데이터베이스 설계/엔티티타입.md",
     "3학년 2학기/데이터베이스 설계/데이터 모델링.md",
     "3학년 2학기/데이터베이스 설계/aggregation.md",
     "3학년 2학기/데이터베이스 설계/Specialization & Generalization.md",
@@ -196,8 +212,6 @@
     "3학년 2학기/데이터베이스 설계/DCL.md",
     "3학년 2학기/데이터베이스 설계/DDL.md",
     "3학년 2학기/데이터베이스 설계/스키마와 인스턴스.md",
-    "3학년 2학기/데이터베이스 설계/트랜잭션.md",
-    "3학년 2학기/데이터베이스 설계/키.md",
     "3학년 2학기/데이터베이스 설계",
     "프론트엔드/유데미/섹션 6",
     "프론트엔드/유데미/섹션 4",
@@ -209,7 +223,6 @@
     "Attached Files/Pasted image 20231017093928.png",
     "Attached Files/BlockOperation_CBC.png",
     "Attached Files/BlockOperation_ECB.png",
-    "Attached Files/image-name.png",
     "프론트엔드/유데미",
     "프론트엔드",
     "3학년 2학기/컴퓨터 보안/족보 중간",
