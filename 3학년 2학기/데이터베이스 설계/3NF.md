@@ -9,4 +9,13 @@
 조건
 - a -> b가 자명
 - a가 R의 수퍼키
-- (new) 
+- (new) b - a의 모든 속성이 캔디드 키의 일부일 경우
+
+예시
+  dept_advisor (s_ID, i_ID, dept)
+  F = {s_ID, dept -> i_ID,  i_ID -> dept
+  two candidate keys: (s_ID, dept), (i_ID, s_ID)
+  1. s_ID, dept -> i_iD 
+     s_ID, dept가 수퍼키이므로 만족
+2. i_ID -> dept
+   b - a = dept가 candidate key의 일부이므로 만족
