@@ -145,7 +145,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기/데이터베이스 설계/추상화 수준.md",
+                "file": "3학년 2학기/데이터베이스 설계/데이터 모델.md",
                 "mode": "source",
                 "source": false
               }
@@ -210,7 +210,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 293.5
   },
   "right": {
     "id": "25192bdd3f6894eb",
@@ -226,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3학년 2학기/데이터베이스 설계/추상화 수준.md",
+                "file": "3학년 2학기/데이터베이스 설계/데이터 모델.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +243,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3학년 2학기/데이터베이스 설계/추상화 수준.md",
+                "file": "3학년 2학기/데이터베이스 설계/데이터 모델.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -266,7 +266,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기/데이터베이스 설계/추상화 수준.md"
+                "file": "3학년 2학기/데이터베이스 설계/데이터 모델.md"
               }
             }
           },
@@ -301,6 +301,12 @@
   },
   "active": "761ab257f397bed5",
   "lastOpenFiles": [
+    "3학년 2학기/데이터베이스 설계/관계형 데이터 모델.md",
+    "3학년 2학기/데이터베이스 설계/join operation.md",
+    "3학년 2학기/데이터베이스 설계/hash join.md",
+    "3학년 2학기/데이터베이스 설계/merge join.md",
+    "3학년 2학기/데이터베이스 설계/nested loop join.md",
+    "3학년 2학기/데이터베이스 설계/추상화 수준.md",
     "3학년 2학기/데이터베이스 설계/쿼리 프로세싱.md",
     "3학년 2학기/데이터베이스 설계/attribute.md",
     "3학년 2학기/데이터베이스 설계/트랜잭션.md",
@@ -319,14 +325,8 @@
     "3학년 2학기/데이터베이스 설계/order by.md",
     "3학년 2학기/데이터베이스 설계/NVL.md",
     "3학년 2학기/데이터베이스 설계/Normalization.md",
-    "3학년 2학기/데이터베이스 설계/nested loop join.md",
-    "3학년 2학기/데이터베이스 설계/merge join.md",
     "3학년 2학기/데이터베이스 설계/LIKE.md",
-    "3학년 2학기/데이터베이스 설계/join operation.md",
     "3학년 2학기/데이터베이스 설계/join.md",
-    "3학년 2학기/데이터베이스 설계/index.md",
-    "3학년 2학기/데이터베이스 설계/hash join.md",
-    "3학년 2학기/데이터베이스 설계/GROUP BY & AGGREGATION.md",
     "Attached Files/bcfadf0664c458034c5fa318d6572093_MD5.jpeg",
     "Attached Files/Pasted image 20231102142331.png",
     "무제 폴더",

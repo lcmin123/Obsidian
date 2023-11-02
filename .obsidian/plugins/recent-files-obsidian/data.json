@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "데이터 모델",
+      "path": "3학년 2학기/데이터베이스 설계/데이터 모델.md"
+    },
+    {
+      "basename": "관계형 데이터 모델",
+      "path": "3학년 2학기/데이터베이스 설계/관계형 데이터 모델.md"
+    },
+    {
+      "basename": "join operation",
+      "path": "3학년 2학기/데이터베이스 설계/join operation.md"
+    },
+    {
+      "basename": "hash join",
+      "path": "3학년 2학기/데이터베이스 설계/hash join.md"
+    },
+    {
+      "basename": "merge join",
+      "path": "3학년 2학기/데이터베이스 설계/merge join.md"
+    },
+    {
+      "basename": "nested loop join",
+      "path": "3학년 2학기/데이터베이스 설계/nested loop join.md"
+    },
+    {
       "basename": "추상화 수준",
       "path": "3학년 2학기/데이터베이스 설계/추상화 수준.md"
     },
@@ -77,20 +101,8 @@
       "path": "3학년 2학기/데이터베이스 설계/Normalization.md"
     },
     {
-      "basename": "nested loop join",
-      "path": "3학년 2학기/데이터베이스 설계/nested loop join.md"
-    },
-    {
-      "basename": "merge join",
-      "path": "3학년 2학기/데이터베이스 설계/merge join.md"
-    },
-    {
       "basename": "LIKE",
       "path": "3학년 2학기/데이터베이스 설계/LIKE.md"
-    },
-    {
-      "basename": "join operation",
-      "path": "3학년 2학기/데이터베이스 설계/join operation.md"
     },
     {
       "basename": "join",
@@ -99,10 +111,6 @@
     {
       "basename": "index",
       "path": "3학년 2학기/데이터베이스 설계/index.md"
-    },
-    {
-      "basename": "hash join",
-      "path": "3학년 2학기/데이터베이스 설계/hash join.md"
     },
     {
       "basename": "GROUP BY & AGGREGATION",
@@ -175,14 +183,6 @@
     {
       "basename": "데이터베이스 언어",
       "path": "3학년 2학기/데이터베이스 설계/데이터베이스 언어.md"
-    },
-    {
-      "basename": "데이터 모델",
-      "path": "3학년 2학기/데이터베이스 설계/데이터 모델.md"
-    },
-    {
-      "basename": "관계형 데이터 모델",
-      "path": "3학년 2학기/데이터베이스 설계/관계형 데이터 모델.md"
     },
     {
       "basename": "4.BCNF",
