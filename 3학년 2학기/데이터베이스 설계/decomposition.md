@@ -6,3 +6,5 @@ R1~Rn은 R의 [[decomposition]]
 	- relationship을 상실하는 connection trap
 	- natural join시 tuple 증가
 	- 반대 : lossless decomposition
+- lossless decomposition
+	- R = R1 join R2

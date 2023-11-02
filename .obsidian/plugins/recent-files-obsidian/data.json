@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "functional dependency",
+      "path": "3학년 2학기/데이터베이스 설계/functional dependency.md"
+    },
+    {
       "basename": "decomposition",
       "path": "3학년 2학기/데이터베이스 설계/decomposition.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "PGP",
       "path": "3학년 2학기/컴퓨터 보안/PGP.md"
-    },
-    {
-      "basename": "El Gammal",
-      "path": "3학년 2학기/컴퓨터 보안/El Gammal.md"
     }
   ],
   "omittedPaths": [],
