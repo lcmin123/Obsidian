@@ -1,6 +1,66 @@
 {
   "recentFiles": [
     {
+      "basename": "select",
+      "path": "3학년 2학기/데이터베이스 설계/select.md"
+    },
+    {
+      "basename": "order by",
+      "path": "3학년 2학기/데이터베이스 설계/order by.md"
+    },
+    {
+      "basename": "NVL",
+      "path": "3학년 2학기/데이터베이스 설계/NVL.md"
+    },
+    {
+      "basename": "Normalization",
+      "path": "3학년 2학기/데이터베이스 설계/Normalization.md"
+    },
+    {
+      "basename": "nested loop join",
+      "path": "3학년 2학기/데이터베이스 설계/nested loop join.md"
+    },
+    {
+      "basename": "merge join",
+      "path": "3학년 2학기/데이터베이스 설계/merge join.md"
+    },
+    {
+      "basename": "LIKE",
+      "path": "3학년 2학기/데이터베이스 설계/LIKE.md"
+    },
+    {
+      "basename": "join operation",
+      "path": "3학년 2학기/데이터베이스 설계/join operation.md"
+    },
+    {
+      "basename": "join",
+      "path": "3학년 2학기/데이터베이스 설계/join.md"
+    },
+    {
+      "basename": "indexed nested loop join",
+      "path": "3학년 2학기/데이터베이스 설계/indexed nested loop join.md"
+    },
+    {
+      "basename": "index",
+      "path": "3학년 2학기/데이터베이스 설계/index.md"
+    },
+    {
+      "basename": "hash join",
+      "path": "3학년 2학기/데이터베이스 설계/hash join.md"
+    },
+    {
+      "basename": "GROUP BY & AGGREGATION",
+      "path": "3학년 2학기/데이터베이스 설계/GROUP BY & AGGREGATION.md"
+    },
+    {
+      "basename": "functional dependency",
+      "path": "3학년 2학기/데이터베이스 설계/functional dependency.md"
+    },
+    {
+      "basename": "external sort merge",
+      "path": "3학년 2학기/데이터베이스 설계/external sort merge.md"
+    },
+    {
       "basename": "evaluation",
       "path": "3학년 2학기/데이터베이스 설계/evaluation.md"
     },
@@ -73,46 +133,6 @@
       "path": "3학년 2학기/데이터베이스 설계/정규화 프로세스.md"
     },
     {
-      "basename": "nested loop join",
-      "path": "3학년 2학기/데이터베이스 설계/nested loop join.md"
-    },
-    {
-      "basename": "join operation",
-      "path": "3학년 2학기/데이터베이스 설계/join operation.md"
-    },
-    {
-      "basename": "join",
-      "path": "3학년 2학기/데이터베이스 설계/join.md"
-    },
-    {
-      "basename": "indexed nested loop join",
-      "path": "3학년 2학기/데이터베이스 설계/indexed nested loop join.md"
-    },
-    {
-      "basename": "index",
-      "path": "3학년 2학기/데이터베이스 설계/index.md"
-    },
-    {
-      "basename": "merge join",
-      "path": "3학년 2학기/데이터베이스 설계/merge join.md"
-    },
-    {
-      "basename": "hash join",
-      "path": "3학년 2학기/데이터베이스 설계/hash join.md"
-    },
-    {
-      "basename": "GROUP BY & AGGREGATION",
-      "path": "3학년 2학기/데이터베이스 설계/GROUP BY & AGGREGATION.md"
-    },
-    {
-      "basename": "functional dependency",
-      "path": "3학년 2학기/데이터베이스 설계/functional dependency.md"
-    },
-    {
-      "basename": "external sort merge",
-      "path": "3학년 2학기/데이터베이스 설계/external sort merge.md"
-    },
-    {
       "basename": "엔티티타입",
       "path": "3학년 2학기/데이터베이스 설계/엔티티타입.md"
     },
@@ -169,36 +189,16 @@
       "path": "3학년 2학기/데이터베이스 설계/1NF.md"
     },
     {
-      "basename": "Normalization",
-      "path": "3학년 2학기/데이터베이스 설계/Normalization.md"
-    },
-    {
       "basename": "Specialization & Generalization",
       "path": "3학년 2학기/데이터베이스 설계/Specialization & Generalization.md"
-    },
-    {
-      "basename": "order by",
-      "path": "3학년 2학기/데이터베이스 설계/order by.md"
     },
     {
       "basename": "sql",
       "path": "3학년 2학기/데이터베이스 설계/sql.md"
     },
     {
-      "basename": "LIKE",
-      "path": "3학년 2학기/데이터베이스 설계/LIKE.md"
-    },
-    {
       "basename": "where",
       "path": "3학년 2학기/데이터베이스 설계/where.md"
-    },
-    {
-      "basename": "select",
-      "path": "3학년 2학기/데이터베이스 설계/select.md"
-    },
-    {
-      "basename": "NVL",
-      "path": "3학년 2학기/데이터베이스 설계/NVL.md"
     }
   ],
   "omittedPaths": [],
