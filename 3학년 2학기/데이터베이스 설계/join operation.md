@@ -1,0 +1,5 @@
+- [[nested loop join]]
+- [[block nested loop join]]
+- [[indexed nested loop join]]
+- [[merge join]]
+- [[hash join]]

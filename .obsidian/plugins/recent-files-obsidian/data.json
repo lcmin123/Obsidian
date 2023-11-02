@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "무제 파일",
-      "path": "3학년 2학기/데이터베이스 설계/무제 파일.md"
+      "basename": "nested loop join",
+      "path": "3학년 2학기/데이터베이스 설계/nested loop join.md"
+    },
+    {
+      "basename": "join operation",
+      "path": "3학년 2학기/데이터베이스 설계/join operation.md"
+    },
+    {
+      "basename": "external sort merge",
+      "path": "3학년 2학기/데이터베이스 설계/external sort merge.md"
     },
     {
       "basename": "쿼리 프로세싱",
@@ -191,14 +199,6 @@
     {
       "basename": "섹션 3",
       "path": "프론트엔드/유데미/섹션 3/섹션 3.md"
-    },
-    {
-      "basename": "유데미",
-      "path": "프론트엔드/유데미/유데미.md"
-    },
-    {
-      "basename": "body",
-      "path": "프론트엔드/유데미/섹션 3/body.md"
     }
   ],
   "omittedPaths": [],
