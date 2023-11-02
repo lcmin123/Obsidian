@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "정규화 프로세스",
+      "path": "3학년 2학기/데이터베이스 설계/정규화 프로세스.md"
+    },
+    {
       "basename": "Denormalization",
       "path": "3학년 2학기/데이터베이스 설계/Denormalization.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "시멘틱 마크업",
       "path": "프론트엔드/유데미/섹션 4/시멘틱 마크업.md"
-    },
-    {
-      "basename": "엔티티 코드",
-      "path": "프론트엔드/유데미/섹션 4/엔티티 코드.md"
     }
   ],
   "omittedPaths": [],
