@@ -24,9 +24,30 @@
 	- 크기 비교
 	- cost = (hi ) x (tT + ts) + tT x b + ts
 	  **== A3**
-- A6 - secondary index, comparison 
-
-
-
+- A6 
+	- secondary index, comparison 
 	- cost = (hi + n) x (tT + ts)
 	  **== A4**
+
+
+a1 linear search 
+tT x br + ts
+tT x (br/2) + ts
+
+a2 pk eqauil on key
+(hi + 1) (tT + ts)
+
+a3 pk equail on nonkey 
+hi x (tT + ts) + b x tT + ts
+
+a4 secondary 
+1) single value
+   (hi + 1) (tT + ts)
+2) multivalue 
+   (hi + n) (tT + ts)
+
+a5 pk comparison 
+hi x (tT + ts ) + b x tT + ts
+
+a6 secondary comparison 
+(hi + n) (tT + ts)

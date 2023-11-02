@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "1NF",
+      "path": "3학년 2학기/데이터베이스 설계/1NF.md"
+    },
+    {
       "basename": "selection operation",
       "path": "3학년 2학기/데이터베이스 설계/selection operation.md"
     },
@@ -79,10 +83,6 @@
     {
       "basename": "decomposition",
       "path": "3학년 2학기/데이터베이스 설계/decomposition.md"
-    },
-    {
-      "basename": "1NF",
-      "path": "3학년 2학기/데이터베이스 설계/1NF.md"
     },
     {
       "basename": "데이터 모델링",
