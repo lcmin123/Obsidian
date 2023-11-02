@@ -20,7 +20,7 @@
 2. i_ID -> dept
    b - a = dept가 candidate key의 일부이므로 만족
    (BCNF는 성립하지 않음)
-### 만약 b - a 가 dept, i_ID어도 3NF를 만족하나요?
+
 
 다른 정의:
 2NF에서 pk에 대해 연속 종속이 아닌 column들만 있을때

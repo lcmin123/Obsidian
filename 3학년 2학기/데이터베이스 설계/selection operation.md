@@ -41,9 +41,9 @@ a3 pk equail on nonkey
 hi x (tT + ts) + b x tT + ts
 
 a4 secondary 
-1) single value
+1) single value on key
    (hi + 1) (tT + ts)
-2) multivalue 
+2) multivalue non key
    (hi + n) (tT + ts)
 
 a5 pk comparison 

@@ -5,6 +5,22 @@
       "path": "3학년 2학기/데이터베이스 설계/3NF.md"
     },
     {
+      "basename": "selection operation",
+      "path": "3학년 2학기/데이터베이스 설계/selection operation.md"
+    },
+    {
+      "basename": "set operations",
+      "path": "3학년 2학기/데이터베이스 설계/set operations.md"
+    },
+    {
+      "basename": "indexed nested loop join",
+      "path": "3학년 2학기/데이터베이스 설계/indexed nested loop join.md"
+    },
+    {
+      "basename": "nested loop join",
+      "path": "3학년 2학기/데이터베이스 설계/nested loop join.md"
+    },
+    {
       "basename": "4.BCNF",
       "path": "3학년 2학기/데이터베이스 설계/4.BCNF.md"
     },
@@ -15,14 +31,6 @@
     {
       "basename": "1NF",
       "path": "3학년 2학기/데이터베이스 설계/1NF.md"
-    },
-    {
-      "basename": "selection operation",
-      "path": "3학년 2학기/데이터베이스 설계/selection operation.md"
-    },
-    {
-      "basename": "indexed nested loop join",
-      "path": "3학년 2학기/데이터베이스 설계/indexed nested loop join.md"
     },
     {
       "basename": "index",
@@ -47,10 +55,6 @@
     {
       "basename": "block nested loop join",
       "path": "3학년 2학기/데이터베이스 설계/block nested loop join.md"
-    },
-    {
-      "basename": "nested loop join",
-      "path": "3학년 2학기/데이터베이스 설계/nested loop join.md"
     },
     {
       "basename": "cardinality",
@@ -131,10 +135,6 @@
     {
       "basename": "DBMS",
       "path": "3학년 2학기/데이터베이스 설계/DBMS.md"
-    },
-    {
-      "basename": "set operations",
-      "path": "3학년 2학기/데이터베이스 설계/set operations.md"
     },
     {
       "basename": "GROUP BY & AGGREGATION",
