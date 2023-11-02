@@ -166,7 +166,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3학년 2학기/데이터베이스 설계/정규화 프로세스.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +182,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3학년 2학기/데이터베이스 설계/정규화 프로세스.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기/데이터베이스 설계/정규화 프로세스.md"
+                "file": "3학년 2학기/데이터베이스 설계/무제 파일.md"
               }
             }
           },
@@ -239,10 +237,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c376bbcd23d45fdd",
+  "active": "0e580cb45613e193",
   "lastOpenFiles": [
-    "3학년 2학기/데이터베이스 설계/Denormalization.md",
     "3학년 2학기/데이터베이스 설계/정규화 프로세스.md",
+    "3학년 2학기/데이터베이스 설계/무제 파일.md",
+    "무제 폴더",
+    "3학년 2학기/데이터베이스 설계/Denormalization.md",
     "3학년 2학기/데이터베이스 설계/3NF.md",
     "3학년 2학기/데이터베이스 설계/2NF.md",
     "3학년 2학기/데이터베이스 설계/Normalization.md",
@@ -272,7 +272,6 @@
     "3학년 2학기/데이터베이스 설계/set operations.md",
     "3학년 2학기/데이터베이스 설계/GROUP BY & AGGREGATION.md",
     "3학년 2학기/데이터베이스 설계/데이터베이스 언어.md",
-    "3학년 2학기/데이터베이스 설계/join.md",
     "3학년 2학기/데이터베이스 설계",
     "프론트엔드/유데미/섹션 6",
     "프론트엔드/유데미/섹션 4",
@@ -285,7 +284,6 @@
     "Attached Files/BlockOperation_CBC.png",
     "프론트엔드/유데미",
     "프론트엔드",
-    "3학년 2학기/컴퓨터 보안/족보 중간",
-    "3학년 2학기/컴퓨터 보안/Attached Files"
+    "3학년 2학기/컴퓨터 보안/족보 중간"
   ]
 }
