@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "BCNF",
+      "path": "3학년 2학기/데이터베이스 설계/BCNF.md"
+    },
+    {
+      "basename": "Normalization",
+      "path": "3학년 2학기/데이터베이스 설계/Normalization.md"
+    },
+    {
+      "basename": "1NF",
+      "path": "3학년 2학기/데이터베이스 설계/1NF.md"
+    },
+    {
+      "basename": "데이터 모델링",
+      "path": "3학년 2학기/데이터베이스 설계/데이터 모델링.md"
+    },
+    {
+      "basename": "데이터 모델",
+      "path": "3학년 2학기/데이터베이스 설계/데이터 모델.md"
+    },
+    {
+      "basename": "관계형 데이터 모델",
+      "path": "3학년 2학기/데이터베이스 설계/관계형 데이터 모델.md"
+    },
+    {
       "basename": "decomposition",
       "path": "3학년 2학기/데이터베이스 설계/decomposition.md"
     },
@@ -17,20 +41,12 @@
       "path": "3학년 2학기/데이터베이스 설계/cardinality.md"
     },
     {
-      "basename": "Normalization",
-      "path": "3학년 2학기/데이터베이스 설계/Normalization.md"
-    },
-    {
       "basename": "식별 관계",
       "path": "3학년 2학기/데이터베이스 설계/식별 관계.md"
     },
     {
       "basename": "엔티티타입",
       "path": "3학년 2학기/데이터베이스 설계/엔티티타입.md"
-    },
-    {
-      "basename": "데이터 모델링",
-      "path": "3학년 2학기/데이터베이스 설계/데이터 모델링.md"
     },
     {
       "basename": "aggregation",
@@ -121,14 +137,6 @@
       "path": "3학년 2학기/데이터베이스 설계/키.md"
     },
     {
-      "basename": "관계형 데이터 모델",
-      "path": "3학년 2학기/데이터베이스 설계/관계형 데이터 모델.md"
-    },
-    {
-      "basename": "데이터 모델",
-      "path": "3학년 2학기/데이터베이스 설계/데이터 모델.md"
-    },
-    {
       "basename": "추상화 수준",
       "path": "3학년 2학기/데이터베이스 설계/추상화 수준.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "가용성",
       "path": "3학년 2학기/컴퓨터 보안/가용성.md"
-    },
-    {
-      "basename": "대칭키",
-      "path": "3학년 2학기/컴퓨터 보안/대칭키.md"
-    },
-    {
-      "basename": "PGP",
-      "path": "3학년 2학기/컴퓨터 보안/PGP.md"
     }
   ],
   "omittedPaths": [],
