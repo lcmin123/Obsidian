@@ -1,0 +1,1 @@
+1NF에서 모든 non-key value가 pk에 fully FD일때
