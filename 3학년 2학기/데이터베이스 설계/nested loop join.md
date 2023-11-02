@@ -1,5 +1,7 @@
 cartesian product와 같은 역할
 
+**nr x bs + br(bt), 
+
 **for each**tuple tr**in** r**do begin
 	for each tuple** ts**in** s**do begin**
 		test pair (tr , ts) to see if they satisfy the join condition 
@@ -20,4 +22,11 @@ s : inner join
 [[Attached Files/bcfadf0664c458034c5fa318d6572093_MD5.jpeg|Open: Pasted image 20231102142331.png]]
 ![[Attached Files/bcfadf0664c458034c5fa318d6572093_MD5.jpeg]]
 1. student가 outer 
-   
+   5000 x 400 + 100 = 2000100 bt
+   5000 + 100 = 5100 sk
+2. takes가 outer 
+   10000 x 100 + 400 = 1000400 bt
+   10000 + 400 = 10400 sk 
+   (effective)
+   **--> 무엇을 outer로 놓느냐에 따라 join cost 천지차이
+   만약 student가 fit in memory라면, 그걸 inner로 놓았을 때 코스트는 400 + 100 + 2 = 502
