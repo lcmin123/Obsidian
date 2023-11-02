@@ -1,6 +1,62 @@
 {
   "recentFiles": [
     {
+      "basename": "DBMS",
+      "path": "3학년 2학기/데이터베이스 설계/DBMS.md"
+    },
+    {
+      "basename": "cardinality",
+      "path": "3학년 2학기/데이터베이스 설계/cardinality.md"
+    },
+    {
+      "basename": "block nested loop join",
+      "path": "3학년 2학기/데이터베이스 설계/block nested loop join.md"
+    },
+    {
+      "basename": "attribute",
+      "path": "3학년 2학기/데이터베이스 설계/attribute.md"
+    },
+    {
+      "basename": "anomaly",
+      "path": "3학년 2학기/데이터베이스 설계/anomaly.md"
+    },
+    {
+      "basename": "aggregation",
+      "path": "3학년 2학기/데이터베이스 설계/aggregation.md"
+    },
+    {
+      "basename": "트랜잭션",
+      "path": "3학년 2학기/데이터베이스 설계/트랜잭션.md"
+    },
+    {
+      "basename": "키",
+      "path": "3학년 2학기/데이터베이스 설계/키.md"
+    },
+    {
+      "basename": "쿼리 프로세싱",
+      "path": "3학년 2학기/데이터베이스 설계/쿼리 프로세싱.md"
+    },
+    {
+      "basename": "추상화 수준",
+      "path": "3학년 2학기/데이터베이스 설계/추상화 수준.md"
+    },
+    {
+      "basename": "정규화 프로세스",
+      "path": "3학년 2학기/데이터베이스 설계/정규화 프로세스.md"
+    },
+    {
+      "basename": "nested loop join",
+      "path": "3학년 2학기/데이터베이스 설계/nested loop join.md"
+    },
+    {
+      "basename": "join operation",
+      "path": "3학년 2학기/데이터베이스 설계/join operation.md"
+    },
+    {
+      "basename": "join",
+      "path": "3학년 2학기/데이터베이스 설계/join.md"
+    },
+    {
       "basename": "indexed nested loop join",
       "path": "3학년 2학기/데이터베이스 설계/indexed nested loop join.md"
     },
@@ -11,10 +67,6 @@
     {
       "basename": "merge join",
       "path": "3학년 2학기/데이터베이스 설계/merge join.md"
-    },
-    {
-      "basename": "join operation",
-      "path": "3학년 2학기/데이터베이스 설계/join operation.md"
     },
     {
       "basename": "hash join",
@@ -35,18 +87,6 @@
     {
       "basename": "evaluation",
       "path": "3학년 2학기/데이터베이스 설계/evaluation.md"
-    },
-    {
-      "basename": "쿼리 프로세싱",
-      "path": "3학년 2학기/데이터베이스 설계/쿼리 프로세싱.md"
-    },
-    {
-      "basename": "추상화 수준",
-      "path": "3학년 2학기/데이터베이스 설계/추상화 수준.md"
-    },
-    {
-      "basename": "정규화 프로세스",
-      "path": "3학년 2학기/데이터베이스 설계/정규화 프로세스.md"
     },
     {
       "basename": "엔티티타입",
@@ -109,28 +149,12 @@
       "path": "3학년 2학기/데이터베이스 설계/set operations.md"
     },
     {
-      "basename": "nested loop join",
-      "path": "3학년 2학기/데이터베이스 설계/nested loop join.md"
-    },
-    {
       "basename": "2NF",
       "path": "3학년 2학기/데이터베이스 설계/2NF.md"
     },
     {
       "basename": "1NF",
       "path": "3학년 2학기/데이터베이스 설계/1NF.md"
-    },
-    {
-      "basename": "block nested loop join",
-      "path": "3학년 2학기/데이터베이스 설계/block nested loop join.md"
-    },
-    {
-      "basename": "cardinality",
-      "path": "3학년 2학기/데이터베이스 설계/cardinality.md"
-    },
-    {
-      "basename": "join",
-      "path": "3학년 2학기/데이터베이스 설계/join.md"
     },
     {
       "basename": "Denormalization",
@@ -141,16 +165,8 @@
       "path": "3학년 2학기/데이터베이스 설계/Normalization.md"
     },
     {
-      "basename": "anomaly",
-      "path": "3학년 2학기/데이터베이스 설계/anomaly.md"
-    },
-    {
       "basename": "decomposition",
       "path": "3학년 2학기/데이터베이스 설계/decomposition.md"
-    },
-    {
-      "basename": "aggregation",
-      "path": "3학년 2학기/데이터베이스 설계/aggregation.md"
     },
     {
       "basename": "Specialization & Generalization",
@@ -159,14 +175,6 @@
     {
       "basename": "e.r diagram",
       "path": "3학년 2학기/데이터베이스 설계/e.r diagram.md"
-    },
-    {
-      "basename": "attribute",
-      "path": "3학년 2학기/데이터베이스 설계/attribute.md"
-    },
-    {
-      "basename": "DBMS",
-      "path": "3학년 2학기/데이터베이스 설계/DBMS.md"
     },
     {
       "basename": "order by",
@@ -191,14 +199,6 @@
     {
       "basename": "NVL",
       "path": "3학년 2학기/데이터베이스 설계/NVL.md"
-    },
-    {
-      "basename": "트랜잭션",
-      "path": "3학년 2학기/데이터베이스 설계/트랜잭션.md"
-    },
-    {
-      "basename": "키",
-      "path": "3학년 2학기/데이터베이스 설계/키.md"
     }
   ],
   "omittedPaths": [],
