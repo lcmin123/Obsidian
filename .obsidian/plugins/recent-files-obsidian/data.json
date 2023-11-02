@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "evaluation",
+      "path": "3학년 2학기/데이터베이스 설계/evaluation.md"
+    },
+    {
+      "basename": "쿼리 프로세싱",
+      "path": "3학년 2학기/데이터베이스 설계/쿼리 프로세싱.md"
+    },
+    {
+      "basename": "hash join",
+      "path": "3학년 2학기/데이터베이스 설계/hash join.md"
+    },
+    {
+      "basename": "join operation",
+      "path": "3학년 2학기/데이터베이스 설계/join operation.md"
+    },
+    {
+      "basename": "indexed nested loop join",
+      "path": "3학년 2학기/데이터베이스 설계/indexed nested loop join.md"
+    },
+    {
       "basename": "block nested loop join",
       "path": "3학년 2학기/데이터베이스 설계/block nested loop join.md"
     },
     {
       "basename": "nested loop join",
       "path": "3학년 2학기/데이터베이스 설계/nested loop join.md"
-    },
-    {
-      "basename": "join operation",
-      "path": "3학년 2학기/데이터베이스 설계/join operation.md"
     },
     {
       "basename": "cardinality",
@@ -23,10 +39,6 @@
     {
       "basename": "external sort merge",
       "path": "3학년 2학기/데이터베이스 설계/external sort merge.md"
-    },
-    {
-      "basename": "쿼리 프로세싱",
-      "path": "3학년 2학기/데이터베이스 설계/쿼리 프로세싱.md"
     },
     {
       "basename": "정규화 프로세스",
@@ -187,18 +199,6 @@
     {
       "basename": "Digital Garden",
       "path": "Digital Garden.md"
-    },
-    {
-      "basename": "섹션 6",
-      "path": "프론트엔드/유데미/섹션 6/섹션 6.md"
-    },
-    {
-      "basename": "섹션 5",
-      "path": "프론트엔드/유데미/섹션 5/섹션 5.md"
-    },
-    {
-      "basename": "섹션 4",
-      "path": "프론트엔드/유데미/섹션 4/섹션 4.md"
     }
   ],
   "omittedPaths": [],
