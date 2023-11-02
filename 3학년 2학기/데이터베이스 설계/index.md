@@ -1,0 +1,4 @@
+- primary index (clustering index)
+- secondary [[index]] 
+- dense [[index]] 
+	- 

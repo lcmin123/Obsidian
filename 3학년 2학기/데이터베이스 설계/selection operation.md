@@ -1,0 +1,4 @@
+- A1 - linear search
+	- cost = tT x br + ts
+	- if selection on key = tT x (br/2) + ts
+- 
