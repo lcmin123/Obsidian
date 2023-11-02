@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "3NF",
+      "path": "3학년 2학기/데이터베이스 설계/3NF.md"
+    },
+    {
+      "basename": "BCNF",
+      "path": "3학년 2학기/데이터베이스 설계/BCNF.md"
+    },
+    {
       "basename": "evaluation",
       "path": "3학년 2학기/데이터베이스 설계/evaluation.md"
     },
@@ -49,20 +57,12 @@
       "path": "3학년 2학기/데이터베이스 설계/Denormalization.md"
     },
     {
-      "basename": "3NF",
-      "path": "3학년 2학기/데이터베이스 설계/3NF.md"
-    },
-    {
       "basename": "2NF",
       "path": "3학년 2학기/데이터베이스 설계/2NF.md"
     },
     {
       "basename": "Normalization",
       "path": "3학년 2학기/데이터베이스 설계/Normalization.md"
-    },
-    {
-      "basename": "BCNF",
-      "path": "3학년 2학기/데이터베이스 설계/BCNF.md"
     },
     {
       "basename": "anomaly",
