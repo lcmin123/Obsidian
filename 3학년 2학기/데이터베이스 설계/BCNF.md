@@ -16,3 +16,6 @@ dept_name이 수퍼키가 아니므로 bcnf가 아니다
 		  R2 (Id, name, salary, dept_name)으로 나눈다면
 		  R1 : a가 R1의 수퍼키이므로 [[BCNF]] 
 		  R2 : 비자명한 함수 종속에서 ID가 Key이므로 [[BCNF]] 
+
+**bcnf 분해는 의존성을 보존하지 않을 수 있음
+-> [[BCNF]] 보다 약한 정규형이 필요**

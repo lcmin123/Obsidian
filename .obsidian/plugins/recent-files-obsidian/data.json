@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "3NF",
+      "path": "3학년 2학기/데이터베이스 설계/3NF.md"
+    },
+    {
       "basename": "BCNF",
       "path": "3학년 2학기/데이터베이스 설계/BCNF.md"
+    },
+    {
+      "basename": "decomposition",
+      "path": "3학년 2학기/데이터베이스 설계/decomposition.md"
     },
     {
       "basename": "Normalization",
@@ -23,10 +31,6 @@
     {
       "basename": "관계형 데이터 모델",
       "path": "3학년 2학기/데이터베이스 설계/관계형 데이터 모델.md"
-    },
-    {
-      "basename": "decomposition",
-      "path": "3학년 2학기/데이터베이스 설계/decomposition.md"
     },
     {
       "basename": "functional dependency",
@@ -195,10 +199,6 @@
     {
       "basename": "2016 Midterm A",
       "path": "3학년 2학기/컴퓨터 보안/족보 중간/2016 Midterm A.md"
-    },
-    {
-      "basename": "가용성",
-      "path": "3학년 2학기/컴퓨터 보안/가용성.md"
     }
   ],
   "omittedPaths": [],
