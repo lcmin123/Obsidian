@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Specialization & Generalization",
+      "path": "3학년 2학기/데이터베이스 설계/Specialization & Generalization.md"
+    },
+    {
+      "basename": "set operations",
+      "path": "3학년 2학기/데이터베이스 설계/set operations.md"
+    },
+    {
       "basename": "select",
       "path": "3학년 2학기/데이터베이스 설계/select.md"
+    },
+    {
+      "basename": "selection operation",
+      "path": "3학년 2학기/데이터베이스 설계/selection operation.md"
+    },
+    {
+      "basename": "where",
+      "path": "3학년 2학기/데이터베이스 설계/where.md"
+    },
+    {
+      "basename": "sql",
+      "path": "3학년 2학기/데이터베이스 설계/sql.md"
     },
     {
       "basename": "order by",
@@ -173,32 +193,12 @@
       "path": "3학년 2학기/데이터베이스 설계/3NF.md"
     },
     {
-      "basename": "selection operation",
-      "path": "3학년 2학기/데이터베이스 설계/selection operation.md"
-    },
-    {
-      "basename": "set operations",
-      "path": "3학년 2학기/데이터베이스 설계/set operations.md"
-    },
-    {
       "basename": "2NF",
       "path": "3학년 2학기/데이터베이스 설계/2NF.md"
     },
     {
       "basename": "1NF",
       "path": "3학년 2학기/데이터베이스 설계/1NF.md"
-    },
-    {
-      "basename": "Specialization & Generalization",
-      "path": "3학년 2학기/데이터베이스 설계/Specialization & Generalization.md"
-    },
-    {
-      "basename": "sql",
-      "path": "3학년 2학기/데이터베이스 설계/sql.md"
-    },
-    {
-      "basename": "where",
-      "path": "3학년 2학기/데이터베이스 설계/where.md"
     }
   ],
   "omittedPaths": [],

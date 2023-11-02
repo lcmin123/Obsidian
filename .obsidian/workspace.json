@@ -145,7 +145,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기/데이터베이스 설계/select.md",
+                "file": "3학년 2학기/데이터베이스 설계/Specialization & Generalization.md",
                 "mode": "source",
                 "source": false
               }
@@ -226,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3학년 2학기/데이터베이스 설계/select.md",
+                "file": "3학년 2학기/데이터베이스 설계/Specialization & Generalization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +243,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3학년 2학기/데이터베이스 설계/select.md",
+                "file": "3학년 2학기/데이터베이스 설계/Specialization & Generalization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -266,7 +266,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기/데이터베이스 설계/select.md"
+                "file": "3학년 2학기/데이터베이스 설계/Specialization & Generalization.md"
               }
             }
           },
@@ -301,6 +301,12 @@
   },
   "active": "761ab257f397bed5",
   "lastOpenFiles": [
+    "3학년 2학기/데이터베이스 설계/set operations.md",
+    "3학년 2학기/데이터베이스 설계/select.md",
+    "3학년 2학기/데이터베이스 설계/selection operation.md",
+    "3학년 2학기/데이터베이스 설계/where.md",
+    "3학년 2학기/데이터베이스 설계/sql.md",
+    "3학년 2학기/데이터베이스 설계/Specialization & Generalization.md",
     "3학년 2학기/데이터베이스 설계/order by.md",
     "3학년 2학기/데이터베이스 설계/NVL.md",
     "3학년 2학기/데이터베이스 설계/Normalization.md",
@@ -321,12 +327,6 @@
     "3학년 2학기/데이터베이스 설계/Denormalization.md",
     "3학년 2학기/데이터베이스 설계/decomposition.md",
     "3학년 2학기/데이터베이스 설계/DDL.md",
-    "3학년 2학기/데이터베이스 설계/DCL.md",
-    "3학년 2학기/데이터베이스 설계/DBMS.md",
-    "3학년 2학기/데이터베이스 설계/cardinality.md",
-    "3학년 2학기/데이터베이스 설계/block nested loop join.md",
-    "3학년 2학기/데이터베이스 설계/attribute.md",
-    "3학년 2학기/데이터베이스 설계/anomaly.md",
     "Attached Files/bcfadf0664c458034c5fa318d6572093_MD5.jpeg",
     "Attached Files/Pasted image 20231102142331.png",
     "무제 폴더",
