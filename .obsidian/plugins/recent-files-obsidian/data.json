@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Specialization & Generalization",
-      "path": "3학년 2학기/데이터베이스 설계/Specialization & Generalization.md"
+      "basename": "selection operation",
+      "path": "3학년 2학기/데이터베이스 설계/selection operation.md"
+    },
+    {
+      "basename": "indexed nested loop join",
+      "path": "3학년 2학기/데이터베이스 설계/indexed nested loop join.md"
     },
     {
       "basename": "set operations",
       "path": "3학년 2학기/데이터베이스 설계/set operations.md"
     },
     {
-      "basename": "select",
-      "path": "3학년 2학기/데이터베이스 설계/select.md"
+      "basename": "evaluation",
+      "path": "3학년 2학기/데이터베이스 설계/evaluation.md"
     },
     {
-      "basename": "selection operation",
-      "path": "3학년 2학기/데이터베이스 설계/selection operation.md"
+      "basename": "external sort merge",
+      "path": "3학년 2학기/데이터베이스 설계/external sort merge.md"
+    },
+    {
+      "basename": "Specialization & Generalization",
+      "path": "3학년 2학기/데이터베이스 설계/Specialization & Generalization.md"
     },
     {
       "basename": "where",
@@ -23,6 +31,10 @@
     {
       "basename": "sql",
       "path": "3학년 2학기/데이터베이스 설계/sql.md"
+    },
+    {
+      "basename": "select",
+      "path": "3학년 2학기/데이터베이스 설계/select.md"
     },
     {
       "basename": "order by",
@@ -57,10 +69,6 @@
       "path": "3학년 2학기/데이터베이스 설계/join.md"
     },
     {
-      "basename": "indexed nested loop join",
-      "path": "3학년 2학기/데이터베이스 설계/indexed nested loop join.md"
-    },
-    {
       "basename": "index",
       "path": "3학년 2학기/데이터베이스 설계/index.md"
     },
@@ -75,14 +83,6 @@
     {
       "basename": "functional dependency",
       "path": "3학년 2학기/데이터베이스 설계/functional dependency.md"
-    },
-    {
-      "basename": "external sort merge",
-      "path": "3학년 2학기/데이터베이스 설계/external sort merge.md"
-    },
-    {
-      "basename": "evaluation",
-      "path": "3학년 2학기/데이터베이스 설계/evaluation.md"
     },
     {
       "basename": "e.r diagram",

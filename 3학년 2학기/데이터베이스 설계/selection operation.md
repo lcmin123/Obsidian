@@ -31,23 +31,31 @@
 
 
 a1 linear search 
-tT x br + ts
-tT x (br/2) + ts
+br x tT + tS
 
-a2 pk eqauil on key
-(hi + 1) (tT + ts)
+a2 primary on key
+(hi + 1)(tT + ts)
 
-a3 pk equail on nonkey 
-hi x (tT + ts) + b x tT + ts
+a3 primary on nonkey 
+hi(tT + ts) + b x tT + ts
 
 a4 secondary 
-1) single value on key
-   (hi + 1) (tT + ts)
-2) multivalue non key
-   (hi + n) (tT + ts)
+on key
+(hi + 1) (tT + ts)
+non key
+(hi + n) (tT + ts)
 
-a5 pk comparison 
-hi x (tT + ts ) + b x tT + ts
+a5 primary comparison 
+hi (tT + ts ) + b x tT + ts
 
 a6 secondary comparison 
 (hi + n) (tT + ts)
+
+[[nested loop join]] 
+nr x bs + br (bt) nr + br (seek)
+
+[[block nested loop join]] 
+br x bs + br (bt) 2br(seek)
+
+[[indexed nested loop join]] 
+br (tT + ts) + nr x c
