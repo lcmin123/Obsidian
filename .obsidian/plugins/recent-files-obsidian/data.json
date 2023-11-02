@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2NF",
+      "path": "3학년 2학기/데이터베이스 설계/2NF.md"
+    },
+    {
       "basename": "1NF",
       "path": "3학년 2학기/데이터베이스 설계/1NF.md"
     },
@@ -67,10 +71,6 @@
     {
       "basename": "Denormalization",
       "path": "3학년 2학기/데이터베이스 설계/Denormalization.md"
-    },
-    {
-      "basename": "2NF",
-      "path": "3학년 2학기/데이터베이스 설계/2NF.md"
     },
     {
       "basename": "Normalization",
