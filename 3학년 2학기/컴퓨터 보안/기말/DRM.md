@@ -1,5 +1,6 @@
 - Digital 저작권 관리
 	- Digital Contents의 불법 사용 ( 복제, 재생, 열람, 시청, 개변, 연쇄, 유통 등)을 제한/ 방지하고, 저작권을 보호하기 위한 기술 및 서비스
+	- 암호화를 사용하지는 않는다
 - Digital Contents
 	- Audio
 	- Video

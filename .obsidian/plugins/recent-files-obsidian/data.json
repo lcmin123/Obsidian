@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "\bSteganography",
-      "path": "3학년 2학기/컴퓨터 보안/기말/\bSteganography.md"
-    },
-    {
       "basename": "\bDRM",
       "path": "3학년 2학기/컴퓨터 보안/기말/\bDRM.md"
+    },
+    {
+      "basename": "Watermark",
+      "path": "3학년 2학기/컴퓨터 보안/기말/Watermark.md"
+    },
+    {
+      "basename": "\bSteganography",
+      "path": "3학년 2학기/컴퓨터 보안/기말/\bSteganography.md"
     },
     {
       "basename": "\bCommon DRM Business Model",
@@ -195,10 +199,6 @@
     {
       "basename": "block nested loop join",
       "path": "3학년 2학기/데이터베이스 설계/block nested loop join.md"
-    },
-    {
-      "basename": "키",
-      "path": "3학년 2학기/데이터베이스 설계/키.md"
     }
   ],
   "omittedPaths": [],
