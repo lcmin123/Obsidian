@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "DRM",
-      "path": "3학년 2학기/컴퓨터 보안/DRM.md"
+      "basename": "\bDRM",
+      "path": "3학년 2학기/컴퓨터 보안/기말/\bDRM.md"
+    },
+    {
+      "basename": "RSA",
+      "path": "3학년 2학기/컴퓨터 보안/중간/RSA.md"
     },
     {
       "basename": "공개키",
-      "path": "3학년 2학기/컴퓨터 보안/공개키.md"
+      "path": "3학년 2학기/컴퓨터 보안/중간/공개키.md"
     },
     {
       "basename": "데이터베이스 언어",
@@ -195,10 +199,6 @@
     {
       "basename": "4.BCNF",
       "path": "3학년 2학기/데이터베이스 설계/4.BCNF.md"
-    },
-    {
-      "basename": "3NF",
-      "path": "3학년 2학기/데이터베이스 설계/3NF.md"
     }
   ],
   "omittedPaths": [],

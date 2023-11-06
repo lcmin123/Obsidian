@@ -157,26 +157,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기/컴퓨터 보안/공개키.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bd24d671afc49616",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3학년 2학기/컴퓨터 보안/DRM.md",
+                "file": "3학년 2학기/컴퓨터 보안/기말/\bDRM.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -250,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3학년 2학기/컴퓨터 보안/DRM.md",
+                "file": "3학년 2학기/컴퓨터 보안/기말/\bDRM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -267,7 +255,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3학년 2학기/컴퓨터 보안/DRM.md",
+                "file": "3학년 2학기/컴퓨터 보안/기말/\bDRM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -290,7 +278,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기/컴퓨터 보안/DRM.md"
+                "file": "3학년 2학기/컴퓨터 보안/기말/\bDRM.md"
               }
             }
           },
@@ -323,10 +311,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bd24d671afc49616",
+  "active": "d92104cda275e0ef",
   "lastOpenFiles": [
-    "3학년 2학기/컴퓨터 보안/공개키.md",
+    "3학년 2학기/컴퓨터 보안/중간/RSA.md",
+    "3학년 2학기/컴퓨터 보안/기말/\bDRM.md",
+    "3학년 2학기/컴퓨터 보안/기말",
     "3학년 2학기/컴퓨터 보안/DRM.md",
+    "3학년 2학기/컴퓨터 보안/중간",
+    "3학년 2학기/컴퓨터 보안/중간/공개키.md",
     "3학년 2학기/데이터베이스 설계/데이터베이스 언어.md",
     "3학년 2학기/데이터베이스 설계/무제 파일.md",
     "3학년 2학기/데이터베이스 설계/데이터 모델.md",
@@ -349,11 +341,8 @@
     "3학년 2학기/데이터베이스 설계/set operations.md",
     "3학년 2학기/데이터베이스 설계/Specialization & Generalization.md",
     "3학년 2학기/데이터베이스 설계/where.md",
-    "3학년 2학기/데이터베이스 설계/sql.md",
-    "3학년 2학기/데이터베이스 설계/select.md",
     "Attached Files/bcfadf0664c458034c5fa318d6572093_MD5.jpeg",
     "Attached Files/Pasted image 20231102142331.png",
-    "무제 폴더",
     "Attached Files/a833c651e16446a680e84433c3a73726_MD5.jpeg",
     "Attached Files/Pasted image 20231102091833.png",
     "Attached Files/eac52a56bedcdc4d0a7ae5db237b2504_MD5.jpeg",
@@ -369,7 +358,6 @@
     "Attached Files/BlockOperation_OFB.png",
     "Attached Files/BlockOperation_CFB.png",
     "프론트엔드/유데미",
-    "프론트엔드",
-    "3학년 2학기/컴퓨터 보안/족보 중간"
+    "프론트엔드"
   ]
 }
