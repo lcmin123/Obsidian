@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "dbdda2433475a29e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3학년 2학기/컴퓨터 보안/기말/\bSteganography.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3학년 2학기/컴퓨터 보안/기말/\bCommon DRM Business Model.md",
+                "file": "3학년 2학기/컴퓨터 보안/기말/\bSteganography.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3학년 2학기/컴퓨터 보안/기말/\bCommon DRM Business Model.md",
+                "file": "3학년 2학기/컴퓨터 보안/기말/\bSteganography.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기/컴퓨터 보안/기말/\bCommon DRM Business Model.md"
+                "file": "3학년 2학기/컴퓨터 보안/기말/\bSteganography.md"
               }
             }
           },
@@ -179,12 +191,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2a0b8e5f6fc14233",
+  "active": "dbdda2433475a29e",
   "lastOpenFiles": [
+    "3학년 2학기/컴퓨터 보안/기말/\bDRM.md",
+    "3학년 2학기/컴퓨터 보안/기말/\bSteganography.md",
+    "3학년 2학기/컴퓨터 보안/기말/\bCommon DRM Business Model.md",
     "Attached Files/ef215e2b5e272d27a5f339314d8a5754_MD5.jpeg",
     "Attached Files/Pasted image 20231106111922.png",
-    "3학년 2학기/컴퓨터 보안/기말/\bDRM.md",
-    "3학년 2학기/컴퓨터 보안/기말/\bCommon DRM Business Model.md",
     "3학년 2학기/데이터베이스 설계/데이터 모델.md",
     "3학년 2학기/데이터베이스 설계/selection operation.md",
     "3학년 2학기/데이터베이스 설계/3NF.md",
@@ -224,7 +237,6 @@
     "프론트엔드/유데미/섹션 5",
     "프론트엔드/유데미/섹션 3",
     "프론트엔드/유데미/섹션 2",
-    "Attached Files/BlockOperation_OFB.png",
     "프론트엔드/유데미",
     "프론트엔드"
   ]

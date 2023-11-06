@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "\bCommon DRM Business Model",
-      "path": "3학년 2학기/컴퓨터 보안/기말/\bCommon DRM Business Model.md"
+      "basename": "\bSteganography",
+      "path": "3학년 2학기/컴퓨터 보안/기말/\bSteganography.md"
     },
     {
       "basename": "\bDRM",
       "path": "3학년 2학기/컴퓨터 보안/기말/\bDRM.md"
+    },
+    {
+      "basename": "\bCommon DRM Business Model",
+      "path": "3학년 2학기/컴퓨터 보안/기말/\bCommon DRM Business Model.md"
+    },
+    {
+      "basename": "ef215e2b5e272d27a5f339314d8a5754_MD5",
+      "path": "Attached Files/ef215e2b5e272d27a5f339314d8a5754_MD5.jpeg"
     },
     {
       "basename": "데이터 모델",
@@ -191,14 +199,6 @@
     {
       "basename": "키",
       "path": "3학년 2학기/데이터베이스 설계/키.md"
-    },
-    {
-      "basename": "엔티티타입",
-      "path": "3학년 2학기/데이터베이스 설계/엔티티타입.md"
-    },
-    {
-      "basename": "스키마와 인스턴스",
-      "path": "3학년 2학기/데이터베이스 설계/스키마와 인스턴스.md"
     }
   ],
   "omittedPaths": [],
