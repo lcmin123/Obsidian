@@ -150,9 +150,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d92104cda275e0ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3학년 2학기/컴퓨터 보안/공개키.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bd24d671afc49616",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3학년 2학기/컴퓨터 보안/DRM.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -226,7 +250,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3학년 2학기/데이터베이스 설계/데이터 모델.md",
+                "file": "3학년 2학기/컴퓨터 보안/DRM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +267,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3학년 2학기/데이터베이스 설계/데이터 모델.md",
+                "file": "3학년 2학기/컴퓨터 보안/DRM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -266,7 +290,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기/데이터베이스 설계/데이터 모델.md"
+                "file": "3학년 2학기/컴퓨터 보안/DRM.md"
               }
             }
           },
@@ -299,8 +323,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "761ab257f397bed5",
+  "active": "bd24d671afc49616",
   "lastOpenFiles": [
+    "3학년 2학기/컴퓨터 보안/공개키.md",
+    "3학년 2학기/컴퓨터 보안/DRM.md",
+    "3학년 2학기/데이터베이스 설계/데이터베이스 언어.md",
+    "3학년 2학기/데이터베이스 설계/무제 파일.md",
+    "3학년 2학기/데이터베이스 설계/데이터 모델.md",
     "3학년 2학기/데이터베이스 설계/관계형 데이터 모델.md",
     "3학년 2학기/데이터베이스 설계/join operation.md",
     "3학년 2학기/데이터베이스 설계/hash join.md",
@@ -322,11 +351,6 @@
     "3학년 2학기/데이터베이스 설계/where.md",
     "3학년 2학기/데이터베이스 설계/sql.md",
     "3학년 2학기/데이터베이스 설계/select.md",
-    "3학년 2학기/데이터베이스 설계/order by.md",
-    "3학년 2학기/데이터베이스 설계/NVL.md",
-    "3학년 2학기/데이터베이스 설계/Normalization.md",
-    "3학년 2학기/데이터베이스 설계/LIKE.md",
-    "3학년 2학기/데이터베이스 설계/join.md",
     "Attached Files/bcfadf0664c458034c5fa318d6572093_MD5.jpeg",
     "Attached Files/Pasted image 20231102142331.png",
     "무제 폴더",
