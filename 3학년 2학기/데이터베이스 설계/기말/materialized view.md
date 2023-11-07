@@ -59,6 +59,9 @@ group by는 sorting이 들어갈 수 밖에 없음. -> 오버헤드
 
 - materialized view selection
 	- materialized view selection과 index selection은 근본적으로 같은 질문이다
-	- view와 index는 maintenance cost가 존재하므로, 중구난방으로 만들 수는 없다. 
+	- view와 index는 maintenance cost가 존재하므로, 중구난방으로 만들 수는 없다.  -> workload에 따라 view나 index를 생성해야한다
 	- **workload** : DB의 사용 패턴. 어떤 쿼리가 자주 등장하고, 어떤 튜플이 자주 업데이트되는지.
-	- 
+	- 데모 시나리오의 성능 최적화 고민시 추측에 의한 workload, 혹은 주력으로 두고싶은 서비스에 집중한 workload를 선택할 수 있다
+
+summary
+transformation : relation algebra형태로 변환할 때, 하나의 sql이 여러 RA로 번역될 수 있는데(equivalence rule), join되는 tuple의 개수를 따지는 등 가장 최적의 조합을 고려하여 결정해야 하며 [[evaluation]] plan은 cost-based, heuristics등이 있고 materialized view는 
