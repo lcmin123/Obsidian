@@ -1,0 +1,4 @@
+- 송금등의 행위는 atomicity하게 행해져야함 (avoids inconsistency)
+- failure에 대해서는 all or nothing을 적용해야함 
+  -> 양쪽 모두에 행해지지 않으면 아예 행하지 말아야함
+- insert, delete, update 등 테이블을 수정하는 행위는 tran

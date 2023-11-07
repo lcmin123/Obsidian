@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "transaction",
+      "path": "3학년 2학기/데이터베이스 설계/기말/transaction.md"
+    },
+    {
       "basename": "materialized view",
       "path": "3학년 2학기/데이터베이스 설계/기말/materialized view.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "GROUP BY & AGGREGATION",
       "path": "3학년 2학기/데이터베이스 설계/중간/GROUP BY & AGGREGATION.md"
-    },
-    {
-      "basename": "functional dependency",
-      "path": "3학년 2학기/데이터베이스 설계/중간/functional dependency.md"
     }
   ],
   "omittedPaths": [],

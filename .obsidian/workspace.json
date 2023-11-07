@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기/데이터베이스 설계/기말/materialized view.md",
+                "file": "3학년 2학기/데이터베이스 설계/기말/transaction.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3학년 2학기/데이터베이스 설계/기말/materialized view.md",
+                "file": "3학년 2학기/데이터베이스 설계/기말/transaction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3학년 2학기/데이터베이스 설계/기말/materialized view.md",
+                "file": "3학년 2학기/데이터베이스 설계/기말/transaction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기/데이터베이스 설계/기말/materialized view.md"
+                "file": "3학년 2학기/데이터베이스 설계/기말/transaction.md"
               }
             }
           },
@@ -168,13 +168,14 @@
   },
   "active": "4be5fb96010569b9",
   "lastOpenFiles": [
+    "3학년 2학기/데이터베이스 설계/기말/materialized view.md",
+    "3학년 2학기/데이터베이스 설계/기말/transaction.md",
     "Attached Files/03d4897ab199789a6ef33ef66b1cfe69_MD5.jpeg",
     "Attached Files/Pasted image 20231107152317.png",
     "Attached Files/Pasted image 20231107152315.png",
     "Attached Files/8ea9a5c7d7732f61759453b1d7f16963_MD5.jpeg",
     "Attached Files/Pasted image 20231107152045.png",
     "3학년 2학기/데이터베이스 설계/중간/1NF.md",
-    "3학년 2학기/데이터베이스 설계/기말/materialized view.md",
     "3학년 2학기/데이터베이스 설계/기말",
     "3학년 2학기/고인문/어린왕자.md",
     "3학년 2학기/데이터베이스 설계/중간",
@@ -208,7 +209,6 @@
     "Attached Files/bcfadf0664c458034c5fa318d6572093_MD5.jpeg",
     "Attached Files/Pasted image 20231102142331.png",
     "Attached Files/a833c651e16446a680e84433c3a73726_MD5.jpeg",
-    "Attached Files/Pasted image 20231102091833.png",
     "3학년 2학기/데이터베이스 설계",
     "프론트엔드/유데미/섹션 6",
     "프론트엔드/유데미/섹션 4",
