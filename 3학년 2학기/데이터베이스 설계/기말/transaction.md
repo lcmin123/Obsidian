@@ -37,5 +37,11 @@
 - sql에서의 transaction 
 	- sql문의 시작부터 commit의 호출까지가 transaction의 한 호흡
 	- rollbak 호출 시 트랜잭션 취소
-	- autocommit 모드일 경우 sql 문장 하나 단위로 transaction -> 한 호흡 단위로 실행 불가. 보통 꺼놓는다
+	- autocommit 모드일 경우 sql 문장 하나 단위로 transaction 
+		- 한 호흡 단위로 실행 불가. 보통 꺼놓는다
+		- transaction은 순서가 상관 없으므로, sql문 단위로 transaction을 생성한다면 sql문의 순서가 뒤죽박죽이 되게 된다.
+
+- oracle에서의 transaction 호흡
+	- commit, rollback을 만날때 까지
+	- DDL command를 만날때 까지(CREATE, DROP, RENAME) -> DDL의 전후에 각각 commit이 존재하기 때문
 
