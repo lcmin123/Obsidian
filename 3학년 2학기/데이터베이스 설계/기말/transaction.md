@@ -12,4 +12,10 @@
 		- implicit
 			- 예를 들어, 송금할 때 송금자의 잔액과 수금자의 잔액의 합은 늘 일정해야한다.
 			- 좀더 논리적인 개념이다
-		- DB의 st
+		- DB의 statement를 변화시킬 수 있는 것은 transaction 뿐이다. 
+		- 초기 statement는 문제가 없어야 함
+		- transaction 중 문제가 생긴다면 기존 statement로 회귀한다
+		- transaction 성공 시, DB는 consistent 한 상황이다
+		  ->erroneous transaction logic 작성시 inconsistency 가 발생하고, 이건 DBMS의 책임이 아닌 개발자의 책임이다.
+	- Isolation 
+		- 
