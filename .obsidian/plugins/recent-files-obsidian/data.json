@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "materialized view",
+      "path": "3학년 2학기/데이터베이스 설계/기말/materialized view.md"
+    },
+    {
+      "basename": "1NF",
+      "path": "3학년 2학기/데이터베이스 설계/중간/1NF.md"
+    },
+    {
       "basename": "어린왕자",
       "path": "3학년 2학기/고인문/어린왕자.md"
     },
@@ -38,47 +46,47 @@
     },
     {
       "basename": "데이터 모델",
-      "path": "3학년 2학기/데이터베이스 설계/데이터 모델.md"
+      "path": "3학년 2학기/데이터베이스 설계/중간/데이터 모델.md"
     },
     {
       "basename": "selection operation",
-      "path": "3학년 2학기/데이터베이스 설계/selection operation.md"
+      "path": "3학년 2학기/데이터베이스 설계/중간/selection operation.md"
     },
     {
       "basename": "3NF",
-      "path": "3학년 2학기/데이터베이스 설계/3NF.md"
+      "path": "3학년 2학기/데이터베이스 설계/중간/3NF.md"
     },
     {
       "basename": "external sort merge",
-      "path": "3학년 2학기/데이터베이스 설계/external sort merge.md"
+      "path": "3학년 2학기/데이터베이스 설계/중간/external sort merge.md"
     },
     {
       "basename": "쿼리 프로세싱",
-      "path": "3학년 2학기/데이터베이스 설계/쿼리 프로세싱.md"
+      "path": "3학년 2학기/데이터베이스 설계/중간/쿼리 프로세싱.md"
     },
     {
       "basename": "정규화 프로세스",
-      "path": "3학년 2학기/데이터베이스 설계/정규화 프로세스.md"
+      "path": "3학년 2학기/데이터베이스 설계/중간/정규화 프로세스.md"
     },
     {
       "basename": "Denormalization",
-      "path": "3학년 2학기/데이터베이스 설계/Denormalization.md"
+      "path": "3학년 2학기/데이터베이스 설계/중간/Denormalization.md"
     },
     {
       "basename": "4.BCNF",
-      "path": "3학년 2학기/데이터베이스 설계/4.BCNF.md"
+      "path": "3학년 2학기/데이터베이스 설계/중간/4.BCNF.md"
     },
     {
       "basename": "decomposition",
-      "path": "3학년 2학기/데이터베이스 설계/decomposition.md"
+      "path": "3학년 2학기/데이터베이스 설계/중간/decomposition.md"
     },
     {
       "basename": "anomaly",
-      "path": "3학년 2학기/데이터베이스 설계/anomaly.md"
+      "path": "3학년 2학기/데이터베이스 설계/중간/anomaly.md"
     },
     {
       "basename": "식별 관계",
-      "path": "3학년 2학기/데이터베이스 설계/식별 관계.md"
+      "path": "3학년 2학기/데이터베이스 설계/중간/식별 관계.md"
     },
     {
       "basename": "RSA",
@@ -90,111 +98,107 @@
     },
     {
       "basename": "데이터베이스 언어",
-      "path": "3학년 2학기/데이터베이스 설계/데이터베이스 언어.md"
+      "path": "3학년 2학기/데이터베이스 설계/중간/데이터베이스 언어.md"
     },
     {
       "basename": "관계형 데이터 모델",
-      "path": "3학년 2학기/데이터베이스 설계/관계형 데이터 모델.md"
+      "path": "3학년 2학기/데이터베이스 설계/중간/관계형 데이터 모델.md"
     },
     {
       "basename": "join operation",
-      "path": "3학년 2학기/데이터베이스 설계/join operation.md"
+      "path": "3학년 2학기/데이터베이스 설계/중간/join operation.md"
     },
     {
       "basename": "hash join",
-      "path": "3학년 2학기/데이터베이스 설계/hash join.md"
+      "path": "3학년 2학기/데이터베이스 설계/중간/hash join.md"
     },
     {
       "basename": "merge join",
-      "path": "3학년 2학기/데이터베이스 설계/merge join.md"
+      "path": "3학년 2학기/데이터베이스 설계/중간/merge join.md"
     },
     {
       "basename": "nested loop join",
-      "path": "3학년 2학기/데이터베이스 설계/nested loop join.md"
+      "path": "3학년 2학기/데이터베이스 설계/중간/nested loop join.md"
     },
     {
       "basename": "추상화 수준",
-      "path": "3학년 2학기/데이터베이스 설계/추상화 수준.md"
+      "path": "3학년 2학기/데이터베이스 설계/중간/추상화 수준.md"
     },
     {
       "basename": "attribute",
-      "path": "3학년 2학기/데이터베이스 설계/attribute.md"
+      "path": "3학년 2학기/데이터베이스 설계/중간/attribute.md"
     },
     {
       "basename": "트랜잭션",
-      "path": "3학년 2학기/데이터베이스 설계/트랜잭션.md"
+      "path": "3학년 2학기/데이터베이스 설계/중간/트랜잭션.md"
     },
     {
       "basename": "aggregation",
-      "path": "3학년 2학기/데이터베이스 설계/aggregation.md"
+      "path": "3학년 2학기/데이터베이스 설계/중간/aggregation.md"
     },
     {
       "basename": "evaluation",
-      "path": "3학년 2학기/데이터베이스 설계/evaluation.md"
+      "path": "3학년 2학기/데이터베이스 설계/중간/evaluation.md"
     },
     {
       "basename": "DML",
-      "path": "3학년 2학기/데이터베이스 설계/DML.md"
+      "path": "3학년 2학기/데이터베이스 설계/중간/DML.md"
     },
     {
       "basename": "indexed nested loop join",
-      "path": "3학년 2학기/데이터베이스 설계/indexed nested loop join.md"
+      "path": "3학년 2학기/데이터베이스 설계/중간/indexed nested loop join.md"
     },
     {
       "basename": "set operations",
-      "path": "3학년 2학기/데이터베이스 설계/set operations.md"
+      "path": "3학년 2학기/데이터베이스 설계/중간/set operations.md"
     },
     {
       "basename": "Specialization & Generalization",
-      "path": "3학년 2학기/데이터베이스 설계/Specialization & Generalization.md"
+      "path": "3학년 2학기/데이터베이스 설계/중간/Specialization & Generalization.md"
     },
     {
       "basename": "where",
-      "path": "3학년 2학기/데이터베이스 설계/where.md"
+      "path": "3학년 2학기/데이터베이스 설계/중간/where.md"
     },
     {
       "basename": "sql",
-      "path": "3학년 2학기/데이터베이스 설계/sql.md"
+      "path": "3학년 2학기/데이터베이스 설계/중간/sql.md"
     },
     {
       "basename": "select",
-      "path": "3학년 2학기/데이터베이스 설계/select.md"
+      "path": "3학년 2학기/데이터베이스 설계/중간/select.md"
     },
     {
       "basename": "order by",
-      "path": "3학년 2학기/데이터베이스 설계/order by.md"
+      "path": "3학년 2학기/데이터베이스 설계/중간/order by.md"
     },
     {
       "basename": "NVL",
-      "path": "3학년 2학기/데이터베이스 설계/NVL.md"
+      "path": "3학년 2학기/데이터베이스 설계/중간/NVL.md"
     },
     {
       "basename": "Normalization",
-      "path": "3학년 2학기/데이터베이스 설계/Normalization.md"
+      "path": "3학년 2학기/데이터베이스 설계/중간/Normalization.md"
     },
     {
       "basename": "LIKE",
-      "path": "3학년 2학기/데이터베이스 설계/LIKE.md"
+      "path": "3학년 2학기/데이터베이스 설계/중간/LIKE.md"
     },
     {
       "basename": "join",
-      "path": "3학년 2학기/데이터베이스 설계/join.md"
+      "path": "3학년 2학기/데이터베이스 설계/중간/join.md"
     },
     {
       "basename": "index",
-      "path": "3학년 2학기/데이터베이스 설계/index.md"
+      "path": "3학년 2학기/데이터베이스 설계/중간/index.md"
     },
     {
       "basename": "GROUP BY & AGGREGATION",
-      "path": "3학년 2학기/데이터베이스 설계/GROUP BY & AGGREGATION.md"
+      "path": "3학년 2학기/데이터베이스 설계/중간/GROUP BY & AGGREGATION.md"
     },
     {
       "basename": "functional dependency",
-      "path": "3학년 2학기/데이터베이스 설계/functional dependency.md"
-    },
-    {
-      "basename": "e.r diagram",
-      "path": "3학년 2학기/데이터베이스 설계/e.r diagram.md"
+      "path": "3학년 2학기/데이터베이스 설계/중간/functional dependency.md"
     }
   ],
   "omittedPaths": [],

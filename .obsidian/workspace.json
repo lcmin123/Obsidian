@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기/고인문/어린왕자.md",
+                "file": "3학년 2학기/데이터베이스 설계/기말/materialized view.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3학년 2학기/고인문/어린왕자.md",
+                "file": "3학년 2학기/데이터베이스 설계/기말/materialized view.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3학년 2학기/고인문/어린왕자.md",
+                "file": "3학년 2학기/데이터베이스 설계/기말/materialized view.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기/고인문/어린왕자.md"
+                "file": "3학년 2학기/데이터베이스 설계/기말/materialized view.md"
               }
             }
           },
@@ -168,8 +168,12 @@
   },
   "active": "4be5fb96010569b9",
   "lastOpenFiles": [
-    "Digital Garden.md",
+    "3학년 2학기/데이터베이스 설계/중간/1NF.md",
+    "3학년 2학기/데이터베이스 설계/기말/materialized view.md",
+    "3학년 2학기/데이터베이스 설계/기말",
     "3학년 2학기/고인문/어린왕자.md",
+    "3학년 2학기/데이터베이스 설계/중간",
+    "Digital Garden.md",
     "안녕하세요.md",
     "이미지 표시하는 법.md",
     "move your body every day.md",
@@ -183,22 +187,20 @@
     "3학년 2학기/컴퓨터 보안/기말/\bCommon DRM Business Model.md",
     "Attached Files/ef215e2b5e272d27a5f339314d8a5754_MD5.jpeg",
     "Attached Files/Pasted image 20231106111922.png",
-    "3학년 2학기/데이터베이스 설계/데이터 모델.md",
-    "3학년 2학기/데이터베이스 설계/selection operation.md",
-    "3학년 2학기/데이터베이스 설계/3NF.md",
-    "3학년 2학기/데이터베이스 설계/external sort merge.md",
-    "3학년 2학기/데이터베이스 설계/쿼리 프로세싱.md",
-    "3학년 2학기/데이터베이스 설계/정규화 프로세스.md",
-    "3학년 2학기/데이터베이스 설계/Denormalization.md",
-    "3학년 2학기/데이터베이스 설계/4.BCNF.md",
-    "3학년 2학기/데이터베이스 설계/decomposition.md",
-    "3학년 2학기/데이터베이스 설계/anomaly.md",
-    "3학년 2학기/데이터베이스 설계/식별 관계.md",
+    "3학년 2학기/데이터베이스 설계/중간/데이터 모델.md",
+    "3학년 2학기/데이터베이스 설계/중간/selection operation.md",
+    "3학년 2학기/데이터베이스 설계/중간/3NF.md",
+    "3학년 2학기/데이터베이스 설계/중간/external sort merge.md",
+    "3학년 2학기/데이터베이스 설계/중간/쿼리 프로세싱.md",
+    "3학년 2학기/데이터베이스 설계/중간/정규화 프로세스.md",
+    "3학년 2학기/데이터베이스 설계/중간/Denormalization.md",
+    "3학년 2학기/데이터베이스 설계/중간/4.BCNF.md",
+    "3학년 2학기/데이터베이스 설계/중간/decomposition.md",
+    "3학년 2학기/데이터베이스 설계/중간/anomaly.md",
+    "3학년 2학기/데이터베이스 설계/중간/식별 관계.md",
     "3학년 2학기/컴퓨터 보안/중간/RSA.md",
     "3학년 2학기/컴퓨터 보안/기말",
-    "3학년 2학기/컴퓨터 보안/DRM.md",
     "3학년 2학기/컴퓨터 보안/중간",
-    "3학년 2학기/컴퓨터 보안/중간/공개키.md",
     "Attached Files/bcfadf0664c458034c5fa318d6572093_MD5.jpeg",
     "Attached Files/Pasted image 20231102142331.png",
     "Attached Files/a833c651e16446a680e84433c3a73726_MD5.jpeg",
@@ -211,8 +213,6 @@
     "프론트엔드/유데미/섹션 6",
     "프론트엔드/유데미/섹션 4",
     "프론트엔드/유데미/섹션 5",
-    "프론트엔드/유데미/섹션 3",
-    "프론트엔드/유데미/섹션 2",
-    "프론트엔드/유데미"
+    "프론트엔드/유데미/섹션 3"
   ]
 }

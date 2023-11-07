@@ -1,4 +1,4 @@
-**[[Join Operation]]**
+**[[join operation]]**
 
 두개이상의테이블을합쳐서하나의큰테이블로만드는방법
 
