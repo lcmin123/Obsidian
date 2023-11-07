@@ -19,4 +19,11 @@ group by는 sorting이 들어갈 수 밖에 없음. -> 오버헤드
 	  -> 기존 테이블과 새로운 튜플의 합집합
 	- [[Attached Files/8ea9a5c7d7732f61759453b1d7f16963_MD5.jpeg|Open: Pasted image 20231107152045.png]]
 ![[Attached Files/8ea9a5c7d7732f61759453b1d7f16963_MD5.jpeg]]
-	- r<sup>new</sup>
+	- r<sup>new</sup>과 s의 join 연산을 다시 계산할 필요 없이, 새로운 튜플만 가지고 join해서 연산을 수행하면 된다
+
+- [[selection operation]] 
+	- [[Attached Files/03d4897ab199789a6ef33ef66b1cfe69_MD5.jpeg|Open: Pasted image 20231107152317.png]]
+![[Attached Files/03d4897ab199789a6ef33ef66b1cfe69_MD5.jpeg]]
+
+- projection operation 
+	- 
