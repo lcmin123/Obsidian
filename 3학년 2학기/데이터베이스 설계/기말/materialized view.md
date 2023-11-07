@@ -33,6 +33,8 @@ group by는 sorting이 들어갈 수 밖에 없음. -> 오버헤드
 
 - [[aggregation]] operation 
 	- v = dept.name **G** **count** (ID)(Instructor)
+	  여기의 count는 [[aggregation]] 연산으로써의 count 
+	  (not metadata)
 		- insert시 
 			- 기존에 그룹 존재 : 1 증가
 			- 기존에 그룹 미존재 : 새로운 그룹 생성 후 1 증가
@@ -42,3 +44,13 @@ group by는 sorting이 들어갈 수 밖에 없음. -> 오버헤드
 	- v = dept.name **G** **sum** (ID)(Instructor)
 		- **keep the count** 필요 -> metadata로써
 		- sum이 0이 되더라도 그룹을 삭제할 수 없다
+	- v = dept.name **G** **avg** (ID)(Instructor)
+		- sum과 count를 유지 후 마지막에 나눠서 구한다
+	- v = dept.name **G** **min/max** (ID)(Instructor)
+		- 기존의 min/max값을 갱신하는 tuple insert시 해당 tuple의 값으로 update
+		- 기존의 min/max값이 갱신되는 tuple delete시 새로운 min/max를 찾아야 하는 부담이 생긴다
+
+- other operation 
+	- v = r n s
+		- insert시 : r에 튜플 insert시, s에도 존재하는지 체크 후  존재하면 v에 add
+		- delete시 : r에서 튜플 delete시 
