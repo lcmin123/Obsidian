@@ -53,4 +53,12 @@ group by는 sorting이 들어갈 수 밖에 없음. -> 오버헤드
 - other operation 
 	- v = r n s
 		- insert시 : r에 튜플 insert시, s에도 존재하는지 체크 후  존재하면 v에 add
-		- delete시 : r에서 튜플 delete시 
+		- delete시 : r에서 튜플 delete시 체크과정 없이 v에서 delete 
+		  -> table은 중복 데이터 없으므로 한 튜플 delete시 체크없이 바로 교집합에서 제거
+		  
+
+- materialized view selection
+	- materialized view selection과 index selection은 근본적으로 같은 질문이다
+	- view와 index는 maintenance cost가 존재하므로, 중구난방으로 만들 수는 없다. 
+	- **workload** : DB의 사용 패턴. 어떤 쿼리가 자주 등장하고, 어떤 튜플이 자주 업데이트되는지.
+	- 
