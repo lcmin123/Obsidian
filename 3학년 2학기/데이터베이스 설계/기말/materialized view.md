@@ -26,11 +26,19 @@ group by는 sorting이 들어갈 수 밖에 없음. -> 오버헤드
 ![[Attached Files/03d4897ab199789a6ef33ef66b1cfe69_MD5.jpeg]]
 
 - projection operation 
-	- projection 연산은 중복을 제거하기 때문에 **keep the count**를 해야한다.
+	- projection 연산은 중복을 제거하기 때문에 **keep the count**를 해야한다. -> metadata로써 
 	- R= (A, B), and r(R) = { (a,2), (a,3)}
 	- TTA(r) has a single tuple (a)
 	- a는 (a,2), (a,3) 두개의 튜플과 매핑되어 있으므로 a가 매핑되어 있는 튜플의 개수를 계속 추적해야한다.
 
 - [[aggregation]] operation 
-	- v = dept.name **G** count (ID)(Instructor)
-	- 
+	- v = dept.name **G** **count** (ID)(Instructor)
+		- insert시 
+			- 기존에 그룹 존재 : 1 증가
+			- 기존에 그룹 미존재 : 새로운 그룹 생성 후 1 증가
+		- delete 시
+			- 기존에 그룹의 [[aggregation]] 값 1 초과 : 1 감소
+			- 기존에 그룹의 [[aggregation]] 값 1 이하 : 그룹 삭제 ( [[aggregation]] 값이 0이면 그룹 삭제해야함)
+	- v = dept.name **G** **sum** (ID)(Instructor)
+		- **keep the count** 필요 -> metadata로써
+		- sum이 0이 되더라도 그룹을 삭제할 수 없다
