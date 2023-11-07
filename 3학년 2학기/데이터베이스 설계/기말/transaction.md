@@ -18,14 +18,15 @@
 		- transaction 성공 시, DB는 consistent 한 상황이다
 		  ->erroneous transaction logic 작성시 inconsistency 가 발생하고, 이건 DBMS의 책임이 아닌 개발자의 책임이다.
 	- Isolation(격리성)
-		- 각 tran은 격리되어 수행되어야 한다
-		- [[Attached Files/b4500ab8ff9f281743de2b16b3af41be_MD5.jpeg|Open: Pasted image 20231107162448.png]]
+		- 각 tran은 격리되어 수행되어야 한다[[Attached Files/b4500ab8ff9f281743de2b16b3af41be_MD5.jpeg|]]
 ![[Attached Files/b4500ab8ff9f281743de2b16b3af41be_MD5.jpeg]]
-		- Q)T1 -> T2 가 올바른가 T2 -> T1이 올바른가?
-		  A) 둘다 올바르다
-		- 만약 꼭 송금후에 잔액이 출력되는게 올바르다! 라고 주장하고 싶으면 T1 -> T2의 순서만을 고집하는게 아닌 T1의 뒤에 T2를 붙여 하나의 transaction으로 만들어야한다.
-		  -> transaction은 isolation하기 때문에 순서는 상관없어야한다.
-		  - concurrency-control system
-	- Durability
-		- transaction이 성공적으로 끝마치면, failure가 일어나더라도 그 결과는 영속적으로 DB에 유지되어야 한다
-		- recovery system의 필요성
+			- Q)T1 -> T2 가 올바른가 T2 -> T1이 올바른가?
+			  A) 둘다 올바르다
+			- 만약 꼭 송금후에 잔액이 출력되는게 올바르다! 라고 주장하고 싶으면 T1 -> T2의 순서만을 고집하는게 아닌 T1의 뒤에 T2를 붙여 하나의 transaction으로 만들어야한다.
+			  -> transaction은 isolation하기 때문에 순서는 상관없어야한다.
+			  - concurrency-control system가 담당
+		- Durability
+			- transaction이 성공적으로 끝마치면, failure가 일어나더라도 그 결과는 영속적으로 DB에 유지되어야 한다
+			- recovery system가 담당
+
+
