@@ -4,9 +4,9 @@
 	- insert, delete, update 등 테이블을 수정하는 행위는 transaction을 잘 관리해야 함
 
 - ACID
-	- Atomicity
+	- Atomicity(원자성)
 		- 부분적으로 업데이트된 데이터가 DB에 반영되지 않도록 all or nothing을 원자적으로 수행
-	- Consistency
+	- Consistency(일관성)
 		- explicit
 			- PK, FK등의 지정으로 constraint 지정
 		- implicit
@@ -17,5 +17,9 @@
 		- transaction 중 문제가 생긴다면 기존 statement로 회귀한다
 		- transaction 성공 시, DB는 consistent 한 상황이다
 		  ->erroneous transaction logic 작성시 inconsistency 가 발생하고, 이건 DBMS의 책임이 아닌 개발자의 책임이다.
-	- Isolation 
-		- 
+	- Isolation(격리성)
+		- 각 tran은 격리되어 수행되어야 한다
+		- ![[Pasted image 20231107162224.png]]
+		- Q)T1 -> T2 가 올바른가 T2 -> T1이 올바른가?
+		  A) 둘다 올바르다
+		- 만약 꼭 송금후에 잔액이 출력되는게 올바르다! 라고 주장하고 싶으면 T1 -> T2의 ㅅ
