@@ -45,3 +45,7 @@
 	- commit, rollback을 만날때 까지
 	- DDL command를 만날때 까지(CREATE, DROP, RENAME) -> DDL의 전후에 각각 commit이 존재하기 때문
 
+- stable storage
+	- 정보가 절대 사라지지 않는 스토리지(이론상)
+	- data를 여러 비휘발성 스토리지에 2중 3중으로 백업
+	- 로그만 제대로 남아있다면 failure가 생겨도 rollback 가능
