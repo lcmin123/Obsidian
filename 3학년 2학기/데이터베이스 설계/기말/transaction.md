@@ -1,4 +1,15 @@
 - 송금등의 행위는 atomicity하게 행해져야함 (avoids inconsistency)
-- failure에 대해서는 all or nothing을 적용해야함 
-  -> 양쪽 모두에 행해지지 않으면 아예 행하지 말아야함
-- insert, delete, update 등 테이블을 수정하는 행위는 tran
+	- failure에 대해서는 all or nothing을 적용해야함 
+	  -> 양쪽 모두에 행해지지 않으면 아예 행하지 말아야함
+	- insert, delete, update 등 테이블을 수정하는 행위는 transaction을 잘 관리해야 함
+
+- ACID
+	- Atomicity
+		- 부분적으로 업데이트된 데이터가 DB에 반영되지 않도록 all or nothing을 원자적으로 수행
+	- Consistency
+		- explicit
+			- PK, FK등의 지정으로 constraint 지정
+		- implicit
+			- 예를 들어, 송금할 때 송금자의 잔액과 수금자의 잔액의 합은 늘 일정해야한다.
+			- 좀더 논리적인 개념이다
+		- DB의 st
