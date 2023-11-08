@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기/고인문/어린왕자.md",
+                "file": "3학년 2학기/컴퓨터 보안/기말/\bCommon DRM Business Model.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5af7ba744a84d1f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3학년 2학기/컴퓨터 보안/기말/무제 파일.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3학년 2학기/고인문/어린왕자.md",
+                "file": "3학년 2학기/컴퓨터 보안/기말/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3학년 2학기/고인문/어린왕자.md",
+                "file": "3학년 2학기/컴퓨터 보안/기말/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기/고인문/어린왕자.md"
+                "file": "3학년 2학기/컴퓨터 보안/기말/무제 파일.md"
               }
             }
           },
@@ -166,8 +179,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4be5fb96010569b9",
+  "active": "5af7ba744a84d1f2",
   "lastOpenFiles": [
+    "3학년 2학기/컴퓨터 보안/기말/\bCommon DRM Business Model.md",
+    "3학년 2학기/컴퓨터 보안/기말/무제 파일.md",
+    "3학년 2학기/컴퓨터 보안/기말/\bDRM.md",
+    "3학년 2학기/컴퓨터 보안/기말/Watermark.md",
+    "3학년 2학기/컴퓨터 보안/기말/\bSteganography.md",
+    "3학년 2학기/컴퓨터 보안/기말/PGP.md",
+    "3학년 2학기/고인문/어린왕자.md",
     "3학년 2학기/데이터베이스 설계/기말/transaction.md",
     "3학년 2학기/데이터베이스 설계/기말/materialized view.md",
     "3학년 2학기/데이터베이스 설계/기말/Pasted image 20231107162224.png.md",
@@ -183,7 +203,6 @@
     "Attached Files/Pasted image 20231107152317.png",
     "3학년 2학기/데이터베이스 설계/중간/1NF.md",
     "3학년 2학기/데이터베이스 설계/기말",
-    "3학년 2학기/고인문/어린왕자.md",
     "3학년 2학기/데이터베이스 설계/중간",
     "Digital Garden.md",
     "안녕하세요.md",
@@ -191,12 +210,7 @@
     "move your body every day.md",
     "consistency.md",
     "accents.md",
-    "3학년 2학기/컴퓨터 보안/기말/\bDRM.md",
     "3학년 2학기/고인문",
-    "3학년 2학기/컴퓨터 보안/기말/PGP.md",
-    "3학년 2학기/컴퓨터 보안/기말/Watermark.md",
-    "3학년 2학기/컴퓨터 보안/기말/\bSteganography.md",
-    "3학년 2학기/컴퓨터 보안/기말/\bCommon DRM Business Model.md",
     "3학년 2학기/데이터베이스 설계/중간/데이터 모델.md",
     "3학년 2학기/데이터베이스 설계/중간/selection operation.md",
     "3학년 2학기/데이터베이스 설계/중간/3NF.md",
