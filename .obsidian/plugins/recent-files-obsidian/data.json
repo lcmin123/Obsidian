@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "PKI",
+      "path": "3학년 2학기/컴퓨터 보안/기말/PKI.md"
+    },
+    {
+      "basename": "공인인증서",
+      "path": "3학년 2학기/컴퓨터 보안/기말/공인인증서.md"
+    },
+    {
       "basename": "\bCA",
       "path": "3학년 2학기/컴퓨터 보안/기말/\bCA.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Normalization",
       "path": "3학년 2학기/데이터베이스 설계/중간/Normalization.md"
-    },
-    {
-      "basename": "LIKE",
-      "path": "3학년 2학기/데이터베이스 설계/중간/LIKE.md"
-    },
-    {
-      "basename": "join",
-      "path": "3학년 2학기/데이터베이스 설계/중간/join.md"
     }
   ],
   "omittedPaths": [],
