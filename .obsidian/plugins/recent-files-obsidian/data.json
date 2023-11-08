@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "다익스트라 알고리즘",
+      "path": "3학년 2학기/알고리즘/기말/다익스트라 알고리즘.md"
+    },
+    {
+      "basename": "1. 탐욕 기법",
+      "path": "3학년 2학기/알고리즘/기말/1. 탐욕 기법.md"
+    },
+    {
+      "basename": "크루스칼 알고리즘",
+      "path": "3학년 2학기/알고리즘/기말/크루스칼 알고리즘.md"
+    },
+    {
+      "basename": "프림 알고리즘",
+      "path": "3학년 2학기/알고리즘/기말/프림 알고리즘.md"
+    },
+    {
+      "basename": "1. 분할 정복",
+      "path": "3학년 2학기/알고리즘/중간/1. 분할 정복.md"
+    },
+    {
       "basename": "PKI",
       "path": "3학년 2학기/컴퓨터 보안/기말/PKI.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "where",
       "path": "3학년 2학기/데이터베이스 설계/중간/where.md"
-    },
-    {
-      "basename": "sql",
-      "path": "3학년 2학기/데이터베이스 설계/중간/sql.md"
-    },
-    {
-      "basename": "select",
-      "path": "3학년 2학기/데이터베이스 설계/중간/select.md"
-    },
-    {
-      "basename": "order by",
-      "path": "3학년 2학기/데이터베이스 설계/중간/order by.md"
-    },
-    {
-      "basename": "NVL",
-      "path": "3학년 2학기/데이터베이스 설계/중간/NVL.md"
-    },
-    {
-      "basename": "Normalization",
-      "path": "3학년 2학기/데이터베이스 설계/중간/Normalization.md"
     }
   ],
   "omittedPaths": [],
