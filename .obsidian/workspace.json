@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기/컴퓨터 보안/기말/KDC.md",
+                "file": "3학년 2학기/컴퓨터 보안/기말/PKI.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3학년 2학기/컴퓨터 보안/기말/KDC.md",
+                "file": "3학년 2학기/컴퓨터 보안/기말/PKI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3학년 2학기/컴퓨터 보안/기말/KDC.md",
+                "file": "3학년 2학기/컴퓨터 보안/기말/PKI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기/컴퓨터 보안/기말/KDC.md"
+                "file": "3학년 2학기/컴퓨터 보안/기말/PKI.md"
               }
             }
           },
@@ -217,10 +217,10 @@
   },
   "active": "0166b8b342bdd4a2",
   "lastOpenFiles": [
+    "3학년 2학기/컴퓨터 보안/기말/KDC.md",
     "3학년 2학기/컴퓨터 보안/기말/PKI.md",
     "3학년 2학기/컴퓨터 보안/기말/\bCA.md",
     "3학년 2학기/컴퓨터 보안/기말/공인인증서.md",
-    "3학년 2학기/컴퓨터 보안/기말/KDC.md",
     "3학년 2학기/컴퓨터 보안/중간/RSA.md",
     "3학년 2학기/컴퓨터 보안/기말/\bCommon DRM Business Model.md",
     "3학년 2학기/컴퓨터 보안/기말/\bDRM.md",
