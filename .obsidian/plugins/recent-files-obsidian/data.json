@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "무제 파일",
-      "path": "3학년 2학기/컴퓨터 보안/기말/무제 파일.md"
+      "basename": "\bCA",
+      "path": "3학년 2학기/컴퓨터 보안/기말/\bCA.md"
+    },
+    {
+      "basename": "RSA",
+      "path": "3학년 2학기/컴퓨터 보안/중간/RSA.md"
+    },
+    {
+      "basename": "KDC",
+      "path": "3학년 2학기/컴퓨터 보안/기말/KDC.md"
     },
     {
       "basename": "\bCommon DRM Business Model",
@@ -95,10 +103,6 @@
     {
       "basename": "식별 관계",
       "path": "3학년 2학기/데이터베이스 설계/중간/식별 관계.md"
-    },
-    {
-      "basename": "RSA",
-      "path": "3학년 2학기/컴퓨터 보안/중간/RSA.md"
     },
     {
       "basename": "공개키",
@@ -195,10 +199,6 @@
     {
       "basename": "join",
       "path": "3학년 2학기/데이터베이스 설계/중간/join.md"
-    },
-    {
-      "basename": "index",
-      "path": "3학년 2학기/데이터베이스 설계/중간/index.md"
     }
   ],
   "omittedPaths": [],
