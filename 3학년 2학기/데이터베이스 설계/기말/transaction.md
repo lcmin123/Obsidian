@@ -95,7 +95,8 @@
 	- schedule
 		- concurrent transaction의 시간적인 순서를 결정하는 정보의 연
 		- 개별적인 transaction의 순서를 유지해야함
-		- serial schedule
+		- serial schedule 
+		  ![[Pasted image 20231109153143.png]]
 		column은 transaction
-		  가로줄은 시간 순서 
-		-
+		가로줄은 시간 순서 
+		- 

@@ -5,6 +5,10 @@
       "path": "3학년 2학기/데이터베이스 설계/기말/transaction.md"
     },
     {
+      "basename": "751a17aad1bfcc5acf35f217c3e0cb7f_MD5",
+      "path": "Attached Files/751a17aad1bfcc5acf35f217c3e0cb7f_MD5.jpeg"
+    },
+    {
       "basename": "materialized view",
       "path": "3학년 2학기/데이터베이스 설계/기말/materialized view.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Specialization & Generalization",
       "path": "3학년 2학기/데이터베이스 설계/중간/Specialization & Generalization.md"
-    },
-    {
-      "basename": "where",
-      "path": "3학년 2학기/데이터베이스 설계/중간/where.md"
     }
   ],
   "omittedPaths": [],
