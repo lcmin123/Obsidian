@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "transaction",
+      "path": "3학년 2학기/데이터베이스 설계/기말/transaction.md"
+    },
+    {
+      "basename": "materialized view",
+      "path": "3학년 2학기/데이터베이스 설계/기말/materialized view.md"
+    },
+    {
       "basename": "다익스트라 알고리즘",
       "path": "3학년 2학기/알고리즘/기말/다익스트라 알고리즘.md"
     },
@@ -63,14 +71,6 @@
     {
       "basename": "어린왕자",
       "path": "3학년 2학기/고인문/어린왕자.md"
-    },
-    {
-      "basename": "transaction",
-      "path": "3학년 2학기/데이터베이스 설계/기말/transaction.md"
-    },
-    {
-      "basename": "materialized view",
-      "path": "3학년 2학기/데이터베이스 설계/기말/materialized view.md"
     },
     {
       "basename": "1NF",
