@@ -103,4 +103,7 @@
 - serializability 
 	- atomic하게만 state를 유지해주면 DBMS는 항상 consistent state -> consistent state로 transaction한다.
 	- transaction의 오류는 전적으로 개발자 책임
-	- 어떤 스케줄이 serializable하다는 것은 그 스케줄이 serial schedule과 equivalent하다는 것이고
+	- 어떤 스케줄이 serializable하다는 것은 그 스케줄이 serial schedule과 equivalent하다는 것이다
+	- **conflict serializability
+		- serializability 판단
+		- 
