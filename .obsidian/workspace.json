@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "76fe34d5ca974c59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3학년 2학기/데이터베이스 설계/기말/공지사항.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -118,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3학년 2학기/데이터베이스 설계/기말/하청기업.md",
+                "file": "3학년 2학기/데이터베이스 설계/기말/공지사항.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3학년 2학기/데이터베이스 설계/기말/하청기업.md",
+                "file": "3학년 2학기/데이터베이스 설계/기말/공지사항.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기/데이터베이스 설계/기말/하청기업.md"
+                "file": "3학년 2학기/데이터베이스 설계/기말/공지사항.md"
               }
             }
           },
@@ -190,10 +202,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4475b2a1efb5ba56",
+  "active": "76fe34d5ca974c59",
   "lastOpenFiles": [
-    "3학년 2학기/데이터베이스 설계/기말/출장.md",
     "3학년 2학기/데이터베이스 설계/기말/하청기업.md",
+    "3학년 2학기/데이터베이스 설계/기말/공지사항.md",
+    "3학년 2학기/데이터베이스 설계/기말/출장.md",
     "3학년 2학기/데이터베이스 설계/기말/transaction.md",
     "Attached Files/Pasted image 20231109153143.png",
     "Attached Files/751a17aad1bfcc5acf35f217c3e0cb7f_MD5.jpeg",
@@ -232,7 +245,6 @@
     "Digital Garden.md",
     "안녕하세요.md",
     "이미지 표시하는 법.md",
-    "move your body every day.md",
     "3학년 2학기/고인문",
     "3학년 2학기/컴퓨터 보안/기말",
     "3학년 2학기/컴퓨터 보안/중간",
