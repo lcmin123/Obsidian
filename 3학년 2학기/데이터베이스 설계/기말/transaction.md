@@ -93,3 +93,9 @@
 		- ACID의 I기능 담당
 		- concurrent 한 transaction 사이의 consistency 깨지지 않게 manage 
 	- schedule
+		- concurrent transaction의 시간적인 순서를 결정하는 정보의 연
+		- 개별적인 transaction의 순서를 유지해야함
+		- serial schedule
+		column은 transaction
+		  가로줄은 시간 순서 
+		-
