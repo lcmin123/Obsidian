@@ -48,4 +48,15 @@
 - stable storage
 	- 정보가 절대 사라지지 않는 스토리지(이론상)
 	- data를 여러 비휘발성 스토리지에 2중 3중으로 백업
-	- 로그만 제대로 남아있다면 failure가 생겨도 rollback 가능
+	- DBMS는 DML 실행 전에 항상 log를 남긴다
+	- log만 제대로 남아있다면 failure가 생겨도 rollback 가능
+
+- RAID(Redundant Array of Inexpensive Disks)
+	- 비싸지 않은 여러 개의 디스크를 배열하여 속도, 안정성, 효율성, 가용성 등의 증대를 위해 사용
+	- RAID 0 : 성능
+		- 모든 드라이브에 디스크 스트라이핑을 제공
+		- 데이터 중복성은 제공하지 않지만 최적의 성능을 제공
+	- RAID 1 : 데이터 보호
+		- mirroring mode -> 용량을 절반으로 이용
+		- 절반은 데이터 보관에 이용, 절반은 사본 복제에 이용
+	- 
