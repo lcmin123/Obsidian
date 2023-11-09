@@ -50,6 +50,7 @@
 	- data를 여러 비휘발성 스토리지에 2중 3중으로 백업
 	- DBMS는 DML 실행 전에 항상 log를 남긴다
 	- log만 제대로 남아있다면 failure가 생겨도 rollback 가능
+	- ACID의 A와 D는 stability에 전부 달려있다해도 과언x
 
 - RAID(Redundant Array of Inexpensive Disks)
 	- 비싸지 않은 여러 개의 디스크를 배열하여 속도, 안정성, 효율성, 가용성 등의 증대를 위해 사용
@@ -70,3 +71,11 @@
 		- 세그먼트를 스트라이핑하여 매우 높은 입출력 속도
 		- 용량은 절반
 		- 최대 성능 및 높은 내결함성이 중요한 업무 (예: **데이터 베이스 관리 솔루션**)에 사용
+
+- transaction abort
+	- abort가 날 시 transaction이 일으킨 모든 변화는 undo후 rollback
+	- commit 후에는 abort되었어도 undo할 수 없다
+	- commit 후 undo하는 유일한 방법은 반대되는 transaction인 compensating transaction 실행 뿐
+	- compensating transaction의 실행 책임은 사용자에게 
+
+- transaction state
