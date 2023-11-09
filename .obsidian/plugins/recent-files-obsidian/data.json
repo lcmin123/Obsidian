@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "출장",
+      "path": "3학년 2학기/데이터베이스 설계/기말/출장.md"
+    },
+    {
       "basename": "transaction",
       "path": "3학년 2학기/데이터베이스 설계/기말/transaction.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "set operations",
       "path": "3학년 2학기/데이터베이스 설계/중간/set operations.md"
-    },
-    {
-      "basename": "Specialization & Generalization",
-      "path": "3학년 2학기/데이터베이스 설계/중간/Specialization & Generalization.md"
     }
   ],
   "omittedPaths": [],

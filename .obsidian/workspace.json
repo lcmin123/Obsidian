@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "694a8e783b0faef2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3학년 2학기/데이터베이스 설계/기말/출장.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3학년 2학기/데이터베이스 설계/기말/transaction.md",
+                "file": "3학년 2학기/데이터베이스 설계/기말/출장.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3학년 2학기/데이터베이스 설계/기말/transaction.md",
+                "file": "3학년 2학기/데이터베이스 설계/기말/출장.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기/데이터베이스 설계/기말/transaction.md"
+                "file": "3학년 2학기/데이터베이스 설계/기말/출장.md"
               }
             }
           },
@@ -165,11 +178,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0166b8b342bdd4a2",
+  "active": "694a8e783b0faef2",
   "lastOpenFiles": [
+    "3학년 2학기/데이터베이스 설계/기말/transaction.md",
+    "3학년 2학기/데이터베이스 설계/기말/출장.md",
     "Attached Files/Pasted image 20231109153143.png",
     "Attached Files/751a17aad1bfcc5acf35f217c3e0cb7f_MD5.jpeg",
-    "3학년 2학기/데이터베이스 설계/기말/transaction.md",
     "Attached Files/Pasted image 20231109153007.png",
     "Attached Files/Pasted image 20231109152818.png",
     "3학년 2학기/데이터베이스 설계/기말/materialized view.md",
@@ -199,7 +213,6 @@
     "Attached Files/Pasted image 20231107162224.png",
     "Attached Files/Pasted image 20231107162206.png",
     "Attached Files/Pasted image 20231107162204.png",
-    "Attached Files/de68dc77e33314142f7a141f3d9053ab_MD5.jpeg",
     "3학년 2학기/데이터베이스 설계/중간/1NF.md",
     "3학년 2학기/데이터베이스 설계/기말",
     "3학년 2학기/데이터베이스 설계/중간",
