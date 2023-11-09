@@ -79,3 +79,17 @@
 	- compensating transaction의 실행 책임은 사용자에게 
 
 - transaction state
+	- Active
+	- Partially committed
+	- Failed
+	- Aborted
+	- Committed
+
+- **concurrent execution
+	- 여러 transaction이 concurrent 하게 시스템에서 run될시 장점은
+		- 프로세서와 디스크 활용빈도가 높아져 throughput 상승
+		- 평균 응답 시간 감소
+	- **concurrency control schemes 
+		- ACID의 I기능 담당
+		- concurrent 한 transaction 사이의 consistency 깨지지 않게 manage 
+	- schedule
