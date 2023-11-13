@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프론트엔드/유데미/섹션 5/폼.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프론트엔드/유데미/섹션 5/폼.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프론트엔드/유데미/섹션 5/폼.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프론트엔드/유데미/섹션 5/폼.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -158,6 +158,14 @@
             "type": "leaf",
             "state": {
               "type": "custom-frames-todoist",
+              "state": {}
+            }
+          },
+          {
+            "id": "d4acd53e27d142f3",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-chatgpt",
               "state": {}
             }
           }
@@ -182,10 +190,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cf02eb99520f9127",
+  "active": "76fe34d5ca974c59",
   "lastOpenFiles": [
-    "프론트엔드/유데미/섹션 5/테이블.md",
     "프론트엔드/유데미/섹션 5/폼.md",
+    "Untitled.md",
+    "프론트엔드/유데미/섹션 5/테이블.md",
     "프론트엔드/유데미/섹션 5/섹션 5.md",
     "프론트엔드/유데미/섹션 3/섹션 3.md",
     "3학년 2학기/객체1/객체1.md",
@@ -222,7 +231,6 @@
     "3학년 2학기/컴퓨터 보안/기말/KDC.md",
     "3학년 2학기/컴퓨터 보안/기말/\bCA.md",
     "3학년 2학기/컴퓨터 보안/기말/공인인증서.md",
-    "3학년 2학기/컴퓨터 보안/중간/RSA.md",
     "Attached Files/b4500ab8ff9f281743de2b16b3af41be_MD5.jpeg",
     "Attached Files/Pasted image 20231107162448.png",
     "Attached Files/c94812b5d16178484dee9fde1d300959_MD5.jpeg",
