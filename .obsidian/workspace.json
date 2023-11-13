@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODOIST.md",
+                "file": "프론트엔드/유데미/섹션 5/폼.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODOIST.md",
+                "file": "프론트엔드/유데미/섹션 5/폼.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODOIST.md",
+                "file": "프론트엔드/유데미/섹션 5/폼.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODOIST.md"
+                "file": "프론트엔드/유데미/섹션 5/폼.md"
               }
             }
           },
@@ -174,7 +174,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 600.5
+    "width": 600.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,13 +193,14 @@
   },
   "active": "76fe34d5ca974c59",
   "lastOpenFiles": [
+    "#TODOIST.md",
+    "Digital Garden.md",
+    "안녕하세요.md",
     "프론트엔드/유데미/섹션 5/폼.md",
-    "TODOIST.md",
     "프론트엔드/유데미/섹션 5/테이블.md",
     "프론트엔드/유데미/섹션 5/섹션 5.md",
     "프론트엔드/유데미/섹션 3/섹션 3.md",
     "3학년 2학기/객체1/객체1.md",
-    "Digital Garden.md",
     "Excalidraw/Drawing 2023-11-13 15.43.47.excalidraw.md",
     "프론트엔드/유데미/섹션 4/인라인.md",
     "todoist-backup-20231113155739.json",
@@ -230,7 +232,6 @@
     "3학년 2학기/알고리즘/중간",
     "3학년 2학기/컴퓨터 보안/기말/KDC.md",
     "3학년 2학기/컴퓨터 보안/기말/\bCA.md",
-    "3학년 2학기/컴퓨터 보안/기말/공인인증서.md",
     "Attached Files/b4500ab8ff9f281743de2b16b3af41be_MD5.jpeg",
     "Attached Files/Pasted image 20231107162448.png",
     "Attached Files/c94812b5d16178484dee9fde1d300959_MD5.jpeg",

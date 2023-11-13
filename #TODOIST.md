@@ -7,5 +7,3 @@ sorting:
 group: true
 ```
 
-
-/
