@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기/컴퓨터 보안/기말/\bDiffieHellman.md",
+                "file": "3학년 2학기/컴퓨터 보안/기말/DiffieHellman.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3학년 2학기/컴퓨터 보안/기말/\bDiffieHellman.md",
+                "file": "3학년 2학기/컴퓨터 보안/기말/DiffieHellman.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3학년 2학기/컴퓨터 보안/기말/\bDiffieHellman.md",
+                "file": "3학년 2학기/컴퓨터 보안/기말/DiffieHellman.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기/컴퓨터 보안/기말/\bDiffieHellman.md"
+                "file": "3학년 2학기/컴퓨터 보안/기말/DiffieHellman.md"
               }
             }
           },
@@ -202,10 +202,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "76fe34d5ca974c59",
+  "active": "0e580cb45613e193",
   "lastOpenFiles": [
-    "3학년 2학기/데이터베이스 설계/기말/공지사항.md",
     "3학년 2학기/컴퓨터 보안/기말/\bDiffieHellman.md",
+    "3학년 2학기/컴퓨터 보안/기말/DiffieHellman.md",
+    "3학년 2학기/데이터베이스 설계/기말/공지사항.md",
     "3학년 2학기/데이터베이스 설계/기말/하청기업.md",
     "3학년 2학기/데이터베이스 설계/기말/출장.md",
     "3학년 2학기/데이터베이스 설계/기말/transaction.md",
@@ -244,7 +245,6 @@
     "3학년 2학기/데이터베이스 설계/기말",
     "3학년 2학기/데이터베이스 설계/중간",
     "Digital Garden.md",
-    "안녕하세요.md",
     "3학년 2학기/고인문",
     "3학년 2학기/컴퓨터 보안/기말",
     "3학년 2학기/컴퓨터 보안/중간",

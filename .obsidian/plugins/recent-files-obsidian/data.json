@@ -1,8 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "\bDiffieHellman",
-      "path": "3학년 2학기/컴퓨터 보안/기말/\bDiffieHellman.md"
+      "basename": "DiffieHellman",
+      "path": "3학년 2학기/컴퓨터 보안/기말/DiffieHellman.md"
     },
     {
       "basename": "공지사항",
@@ -195,10 +195,6 @@
     {
       "basename": "aggregation",
       "path": "3학년 2학기/데이터베이스 설계/중간/aggregation.md"
-    },
-    {
-      "basename": "evaluation",
-      "path": "3학년 2학기/데이터베이스 설계/중간/evaluation.md"
     }
   ],
   "omittedPaths": [],
