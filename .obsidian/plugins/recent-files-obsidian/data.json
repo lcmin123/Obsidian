@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Digital Garden",
+      "path": "Digital Garden.md"
+    },
+    {
+      "basename": "Drawing 2023-11-13 15.43.47.excalidraw",
+      "path": "Excalidraw/Drawing 2023-11-13 15.43.47.excalidraw.md"
+    },
+    {
       "basename": "인라인",
       "path": "프론트엔드/유데미/섹션 4/인라인.md"
     },
@@ -23,10 +31,6 @@
     {
       "basename": "테이블",
       "path": "프론트엔드/유데미/섹션 5/테이블.md"
-    },
-    {
-      "basename": "Drawing 2023-11-13 15.43.47.excalidraw",
-      "path": "Excalidraw/Drawing 2023-11-13 15.43.47.excalidraw.md"
     },
     {
       "basename": "DH기출1",
@@ -127,10 +131,6 @@
     {
       "basename": "1NF",
       "path": "3학년 2학기/데이터베이스 설계/중간/1NF.md"
-    },
-    {
-      "basename": "Digital Garden",
-      "path": "Digital Garden.md"
     },
     {
       "basename": "안녕하세요",

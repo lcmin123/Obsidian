@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프론트엔드/유데미/섹션 4/인라인.md",
+                "file": "Digital Garden.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프론트엔드/유데미/섹션 4/인라인.md",
+                "file": "Digital Garden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프론트엔드/유데미/섹션 4/인라인.md",
+                "file": "Digital Garden.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,16 +133,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프론트엔드/유데미/섹션 4/인라인.md"
+                "file": "Digital Garden.md"
               }
-            }
-          },
-          {
-            "id": "0accef30f6741259",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
             }
           },
           {
@@ -163,6 +155,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-custom-frames:Open Todoist": false,
       "markdown-importer:마크다운 형식 가져오기 열기": false,
       "switcher:퀵 스위처 열기": false,
       "graph:그래프 뷰 열기": false,
@@ -177,13 +170,13 @@
   },
   "active": "76fe34d5ca974c59",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-11-13 15.43.47.excalidraw.md",
+    "프론트엔드/유데미/섹션 4/인라인.md",
     "todoist-backup-20231113155739.json",
     "Task Dashboard.canvas",
     "프론트엔드/유데미/섹션 5/폼.md",
-    "프론트엔드/유데미/섹션 4/인라인.md",
     "프론트엔드/유데미/섹션 5/섹션 5.md",
     "프론트엔드/유데미/섹션 5/테이블.md",
-    "Excalidraw/Drawing 2023-11-13 15.43.47.excalidraw.md",
     "Excalidraw",
     "Spaces/Home",
     "Spaces",
@@ -222,7 +215,6 @@
     "Attached Files/Pasted image 20231107162206.png",
     "Attached Files/Pasted image 20231107162204.png",
     "3학년 2학기/데이터베이스 설계/기말",
-    "3학년 2학기/데이터베이스 설계/중간",
-    "3학년 2학기/고인문"
+    "3학년 2학기/데이터베이스 설계/중간"
   ]
 }

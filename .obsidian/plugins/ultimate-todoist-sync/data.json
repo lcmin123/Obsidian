@@ -1,6 +1,6 @@
 {
   "initialized": true,
-  "apiInitialized": false,
+  "apiInitialized": true,
   "defaultProjectName": "Inbox",
   "automaticSynchronizationInterval": 300,
   "todoistTasksData": {
