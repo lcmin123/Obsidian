@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "희미하게",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +81,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -191,7 +192,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "76fe34d5ca974c59",
+  "active": "6cb6d36e4721a6ec",
   "lastOpenFiles": [
     "프론트엔드/유데미/섹션 3/head.md",
     "프론트엔드/유데미/섹션 5/폼.md",
