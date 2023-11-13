@@ -20,31 +20,7 @@
         "viewStyle": "list"
       }
     ],
-    "tasks": [
-      {
-        "id": "7405984864",
-        "assignerId": null,
-        "assigneeId": null,
-        "projectId": "2323528110",
-        "sectionId": null,
-        "parentId": null,
-        "order": 2,
-        "content": "뭉이 밥주기",
-        "description": "[프론트엔드/유데미/섹션 5/폼.md](obsidian://open?vault=_notes&file=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/%EC%9C%A0%EB%8D%B0%EB%AF%B8/%EC%84%B9%EC%85%98%205/%ED%8F%BC.md)",
-        "isCompleted": true,
-        "labels": [
-          "todoist"
-        ],
-        "priority": 1,
-        "commentCount": 0,
-        "creatorId": "47039912",
-        "createdAt": "2023-11-13T07:18:38.874462Z",
-        "due": null,
-        "url": "https://todoist.com/showTask?id=7405984864",
-        "duration": null,
-        "path": "프론트엔드/유데미/섹션 5/폼.md"
-      }
-    ],
+    "tasks": [],
     "events": [
       {
         "event_date": "2023-11-13T06:47:07.000000Z",
@@ -99,10 +75,8 @@
   },
   "fileMetadata": {
     "프론트엔드/유데미/섹션 5/폼.md": {
-      "todoistTasks": [
-        "7405984864"
-      ],
-      "todoistCount": 1
+      "todoistTasks": [],
+      "todoistCount": 0
     },
     "#TODOIST.md": {
       "todoistTasks": [],
