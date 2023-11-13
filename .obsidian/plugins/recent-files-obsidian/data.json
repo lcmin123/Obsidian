@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "폼",
-      "path": "프론트엔드/유데미/섹션 5/폼.md"
-    },
-    {
       "basename": "인라인",
       "path": "프론트엔드/유데미/섹션 4/인라인.md"
+    },
+    {
+      "basename": "Task Dashboard",
+      "path": "Task Dashboard.canvas"
+    },
+    {
+      "basename": "시멘틱 마크업",
+      "path": "프론트엔드/유데미/섹션 4/시멘틱 마크업.md"
+    },
+    {
+      "basename": "폼",
+      "path": "프론트엔드/유데미/섹션 5/폼.md"
     },
     {
       "basename": "섹션 5",
@@ -191,14 +199,6 @@
     {
       "basename": "join operation",
       "path": "3학년 2학기/데이터베이스 설계/중간/join operation.md"
-    },
-    {
-      "basename": "hash join",
-      "path": "3학년 2학기/데이터베이스 설계/중간/hash join.md"
-    },
-    {
-      "basename": "merge join",
-      "path": "3학년 2학기/데이터베이스 설계/중간/merge join.md"
     }
   ],
   "omittedPaths": [],
