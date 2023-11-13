@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "테이블",
+      "path": "프론트엔드/유데미/섹션 5/테이블.md"
+    },
+    {
       "basename": "DH기출1",
       "path": "3학년 2학기/컴퓨터 보안/족보 기말/DH기출1.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "트랜잭션",
       "path": "3학년 2학기/데이터베이스 설계/중간/트랜잭션.md"
-    },
-    {
-      "basename": "aggregation",
-      "path": "3학년 2학기/데이터베이스 설계/중간/aggregation.md"
     }
   ],
   "omittedPaths": [],
