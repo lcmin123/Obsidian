@@ -31,7 +31,7 @@
         "order": 2,
         "content": "뭉이 밥주기",
         "description": "[프론트엔드/유데미/섹션 5/폼.md](obsidian://open?vault=_notes&file=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/%EC%9C%A0%EB%8D%B0%EB%AF%B8/%EC%84%B9%EC%85%98%205/%ED%8F%BC.md)",
-        "isCompleted": false,
+        "isCompleted": true,
         "labels": [
           "todoist"
         ],
@@ -43,29 +43,6 @@
         "url": "https://todoist.com/showTask?id=7405984864",
         "duration": null,
         "path": "프론트엔드/유데미/섹션 5/폼.md"
-      },
-      {
-        "id": "7405994387",
-        "assignerId": null,
-        "assigneeId": null,
-        "projectId": "2323528110",
-        "sectionId": null,
-        "parentId": null,
-        "order": 2,
-        "content": "뭉이 밥주기   2023-11-13",
-        "description": "[TODOIST.md](obsidian://open?vault=_notes&file=TODOIST.md)",
-        "isCompleted": false,
-        "labels": [
-          "todoist"
-        ],
-        "priority": 1,
-        "commentCount": 0,
-        "creatorId": "47039912",
-        "createdAt": "2023-11-13T07:22:25.357863Z",
-        "due": null,
-        "url": "https://todoist.com/showTask?id=7405994387",
-        "duration": null,
-        "path": "TODOIST.md"
       }
     ],
     "events": [
@@ -84,6 +61,39 @@
         "object_type": "project",
         "parent_item_id": null,
         "parent_project_id": null
+      },
+      {
+        "event_date": "2023-11-13T07:18:53.000000Z",
+        "event_type": "completed",
+        "extra_data": {
+          "client": "Mozilla/5.0; Todoist/4617",
+          "content": "뭉이 밥주기",
+          "note_count": 0
+        },
+        "extra_data_id": 22048561997,
+        "id": 21962272190,
+        "initiator_id": null,
+        "object_id": "7405984864",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2323528110"
+      },
+      {
+        "event_date": "2023-11-13T07:25:09.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "뭉이 밥주기   2023-11-13",
+          "last_content": "뭉이 밥주기",
+          "note_count": 0
+        },
+        "extra_data_id": 22048625271,
+        "id": 21962335467,
+        "initiator_id": null,
+        "object_id": "7405994387",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2323528110"
       }
     ]
   },
@@ -95,10 +105,8 @@
       "todoistCount": 1
     },
     "TODOIST.md": {
-      "todoistTasks": [
-        "7405994387"
-      ],
-      "todoistCount": 1
+      "todoistTasks": [],
+      "todoistCount": 0
     }
   },
   "enableFullVaultSync": false,
