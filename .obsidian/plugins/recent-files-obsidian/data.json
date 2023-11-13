@@ -5,16 +5,20 @@
       "path": "프론트엔드/유데미/섹션 5/폼.md"
     },
     {
-      "basename": "Drawing 2023-11-13 15.43.47.excalidraw",
-      "path": "Excalidraw/Drawing 2023-11-13 15.43.47.excalidraw.md"
+      "basename": "인라인",
+      "path": "프론트엔드/유데미/섹션 4/인라인.md"
+    },
+    {
+      "basename": "섹션 5",
+      "path": "프론트엔드/유데미/섹션 5/섹션 5.md"
     },
     {
       "basename": "테이블",
       "path": "프론트엔드/유데미/섹션 5/테이블.md"
     },
     {
-      "basename": "섹션 5",
-      "path": "프론트엔드/유데미/섹션 5/섹션 5.md"
+      "basename": "Drawing 2023-11-13 15.43.47.excalidraw",
+      "path": "Excalidraw/Drawing 2023-11-13 15.43.47.excalidraw.md"
     },
     {
       "basename": "DH기출1",
@@ -195,10 +199,6 @@
     {
       "basename": "merge join",
       "path": "3학년 2학기/데이터베이스 설계/중간/merge join.md"
-    },
-    {
-      "basename": "nested loop join",
-      "path": "3학년 2학기/데이터베이스 설계/중간/nested loop join.md"
     }
   ],
   "omittedPaths": [],
