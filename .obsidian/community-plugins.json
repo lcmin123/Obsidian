@@ -9,10 +9,11 @@
   "obsidian-emoji-toolbar",
   "obsidian-excalidraw-plugin",
   "obsidian-image-toolkit",
-  "make-md",
   "obsidian-outliner",
   "url-into-selection",
   "recent-files-obsidian",
   "obsidian-tasks-plugin",
-  "various-complements"
+  "various-complements",
+  "obsidian-smart-typography",
+  "make-md"
 ]

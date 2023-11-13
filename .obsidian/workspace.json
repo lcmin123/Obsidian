@@ -8,42 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0166b8b342bdd4a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3학년 2학기/데이터베이스 설계/기말/transaction.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "694a8e783b0faef2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3학년 2학기/데이터베이스 설계/기말/출장.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4475b2a1efb5ba56",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3학년 2학기/데이터베이스 설계/기말/하청기업.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "76fe34d5ca974c59",
             "type": "leaf",
             "state": {
@@ -55,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -204,8 +167,12 @@
   },
   "active": "76fe34d5ca974c59",
   "lastOpenFiles": [
-    "프론트엔드/유데미/섹션 5/테이블.md",
+    "Excalidraw/Drawing 2023-11-13 15.43.47.excalidraw.md",
+    "Excalidraw",
     "프론트엔드/유데미/섹션 5/폼.md",
+    "Spaces/Home",
+    "Spaces",
+    "프론트엔드/유데미/섹션 5/테이블.md",
     "프론트엔드/유데미/섹션 5/섹션 5.md",
     "3학년 2학기/컴퓨터 보안/족보 기말/DH기출1.md",
     "3학년 2학기/컴퓨터 보안/기말/DiffieHellman.md",
@@ -237,7 +204,6 @@
     "3학년 2학기/컴퓨터 보안/기말/\bDRM.md",
     "3학년 2학기/컴퓨터 보안/기말/Watermark.md",
     "3학년 2학기/컴퓨터 보안/기말/\bSteganography.md",
-    "3학년 2학기/컴퓨터 보안/기말/PGP.md",
     "Attached Files/b4500ab8ff9f281743de2b16b3af41be_MD5.jpeg",
     "Attached Files/Pasted image 20231107162448.png",
     "Attached Files/c94812b5d16178484dee9fde1d300959_MD5.jpeg",
@@ -246,9 +212,6 @@
     "Attached Files/Pasted image 20231107162204.png",
     "3학년 2학기/데이터베이스 설계/기말",
     "3학년 2학기/데이터베이스 설계/중간",
-    "3학년 2학기/고인문",
-    "3학년 2학기/컴퓨터 보안/기말",
-    "3학년 2학기/컴퓨터 보안/중간",
-    "3학년 2학기/데이터베이스 설계"
+    "3학년 2학기/고인문"
   ]
 }
