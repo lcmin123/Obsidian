@@ -6,13 +6,24 @@ a. 모든 사용자에게 p=11, g=2가 공개되어 있고, Alice가 5를 Bob이
 
 • Alice가 a=5을 선택하고 x=[     ]을 계산
 
-	x = q^a mod p = 2 ^ 5 mod 11 =
+	x = q^a mod p = 2 ^ 5 mod 11 = 10
 • Alice가 x을 Bob에게 전송
 
 • Bob은 b=7을 선택하고 y=[      ]를 계산
 
+	y = q^b mod p = 2^7 mod 11 = 7
 • Bob이 y를 Alice에게 전송
 
 • Alice는 대칭키 K=[    ]을 계산
 
+	K = y^a mod p = 7^5 mod 11
+	7 mod 11 = 7
+	7^2 mod 11 = 5
+	7^5 mod 11 = 175 mod 11 = 10
 • Bob은 대칭키 K=[   ]을 계산
+
+	K = x^b mod p = 10^7 mod 11
+	10 mod 11 = 10
+	10^2 mod 11 = 1
+	10^4 mod 11 = 1 mod 11 = 1
+	10^7 mod 11 = 10 mod 11 = 10
