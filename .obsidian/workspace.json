@@ -33,6 +33,14 @@
         "type": "tabs",
         "children": [
           {
+            "id": "0e6e9e156fa16352",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
+          },
+          {
             "id": "0e580cb45613e193",
             "type": "leaf",
             "state": {
@@ -72,17 +80,8 @@
               "type": "recent-files",
               "state": {}
             }
-          },
-          {
-            "id": "0e6e9e156fa16352",
-            "type": "leaf",
-            "state": {
-              "type": "mk-file-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -102,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "프론트엔드/유데미/섹션 5/폼.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "프론트엔드/유데미/섹션 5/폼.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "프론트엔드/유데미/섹션 5/폼.md"
+              }
             }
           },
           {
@@ -149,14 +152,21 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "cf02eb99520f9127",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-todoist",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 600.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,16 +182,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0e6e9e156fa16352",
+  "active": "cf02eb99520f9127",
   "lastOpenFiles": [
+    "프론트엔드/유데미/섹션 5/테이블.md",
     "프론트엔드/유데미/섹션 5/폼.md",
+    "프론트엔드/유데미/섹션 5/섹션 5.md",
+    "프론트엔드/유데미/섹션 3/섹션 3.md",
+    "3학년 2학기/객체1/객체1.md",
     "Digital Garden.md",
     "Excalidraw/Drawing 2023-11-13 15.43.47.excalidraw.md",
     "프론트엔드/유데미/섹션 4/인라인.md",
     "todoist-backup-20231113155739.json",
     "Task Dashboard.canvas",
-    "프론트엔드/유데미/섹션 5/섹션 5.md",
-    "프론트엔드/유데미/섹션 5/테이블.md",
     "Excalidraw",
     "Spaces/Home",
     "Spaces",
@@ -211,8 +223,6 @@
     "3학년 2학기/컴퓨터 보안/기말/\bCA.md",
     "3학년 2학기/컴퓨터 보안/기말/공인인증서.md",
     "3학년 2학기/컴퓨터 보안/중간/RSA.md",
-    "3학년 2학기/컴퓨터 보안/기말/\bCommon DRM Business Model.md",
-    "3학년 2학기/컴퓨터 보안/기말/\bDRM.md",
     "Attached Files/b4500ab8ff9f281743de2b16b3af41be_MD5.jpeg",
     "Attached Files/Pasted image 20231107162448.png",
     "Attached Files/c94812b5d16178484dee9fde1d300959_MD5.jpeg",

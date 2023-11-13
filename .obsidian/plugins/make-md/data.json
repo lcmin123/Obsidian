@@ -18,7 +18,7 @@
   "saveAllContextToFrontmatter": true,
   "editorFlowStyle": "seamless",
   "autoOpenFileContext": false,
-  "activeView": "root",
+  "activeView": "/",
   "hideFrontmatter": true,
   "activeSpace": "",
   "defaultDateFormat": "MMM dd yyyy",
@@ -37,7 +37,13 @@
   "expandedSpaces": [
     "/",
     null,
-    "3학년 2학기"
+    "3학년 2학기",
+    "//3학년 2학기",
+    "//3학년 2학기",
+    "//프론트엔드",
+    "//프론트엔드/프론트엔드/유데미",
+    "//프론트엔드/프론트엔드/유데미/프론트엔드/유데미/섹션 3",
+    "//프론트엔드/프론트엔드/유데미/프론트엔드/유데미/섹션 5"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

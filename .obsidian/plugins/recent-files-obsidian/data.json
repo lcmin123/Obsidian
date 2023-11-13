@@ -5,6 +5,22 @@
       "path": "프론트엔드/유데미/섹션 5/폼.md"
     },
     {
+      "basename": "테이블",
+      "path": "프론트엔드/유데미/섹션 5/테이블.md"
+    },
+    {
+      "basename": "섹션 5",
+      "path": "프론트엔드/유데미/섹션 5/섹션 5.md"
+    },
+    {
+      "basename": "섹션 3",
+      "path": "프론트엔드/유데미/섹션 3/섹션 3.md"
+    },
+    {
+      "basename": "객체1",
+      "path": "3학년 2학기/객체1/객체1.md"
+    },
+    {
       "basename": "Digital Garden",
       "path": "Digital Garden.md"
     },
@@ -23,14 +39,6 @@
     {
       "basename": "시멘틱 마크업",
       "path": "프론트엔드/유데미/섹션 4/시멘틱 마크업.md"
-    },
-    {
-      "basename": "섹션 5",
-      "path": "프론트엔드/유데미/섹션 5/섹션 5.md"
-    },
-    {
-      "basename": "테이블",
-      "path": "프론트엔드/유데미/섹션 5/테이블.md"
     },
     {
       "basename": "DH기출1",
@@ -191,14 +199,6 @@
     {
       "basename": "데이터베이스 언어",
       "path": "3학년 2학기/데이터베이스 설계/중간/데이터베이스 언어.md"
-    },
-    {
-      "basename": "관계형 데이터 모델",
-      "path": "3학년 2학기/데이터베이스 설계/중간/관계형 데이터 모델.md"
-    },
-    {
-      "basename": "join operation",
-      "path": "3학년 2학기/데이터베이스 설계/중간/join operation.md"
     }
   ],
   "omittedPaths": [],
