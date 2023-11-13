@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Digital Garden.md",
+                "file": "프론트엔드/유데미/섹션 5/폼.md",
                 "mode": "source",
                 "source": false
               }
@@ -72,8 +72,17 @@
               "type": "recent-files",
               "state": {}
             }
+          },
+          {
+            "id": "0e6e9e156fa16352",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -93,7 +102,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Digital Garden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +118,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Digital Garden.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +139,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Digital Garden.md"
-              }
+              "state": {}
             }
           },
           {
@@ -146,7 +151,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -155,7 +160,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-custom-frames:Open Todoist": false,
       "markdown-importer:마크다운 형식 가져오기 열기": false,
       "switcher:퀵 스위처 열기": false,
       "graph:그래프 뷰 열기": false,
@@ -168,13 +172,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "76fe34d5ca974c59",
+  "active": "0e6e9e156fa16352",
   "lastOpenFiles": [
+    "프론트엔드/유데미/섹션 5/폼.md",
+    "Digital Garden.md",
     "Excalidraw/Drawing 2023-11-13 15.43.47.excalidraw.md",
     "프론트엔드/유데미/섹션 4/인라인.md",
     "todoist-backup-20231113155739.json",
     "Task Dashboard.canvas",
-    "프론트엔드/유데미/섹션 5/폼.md",
     "프론트엔드/유데미/섹션 5/섹션 5.md",
     "프론트엔드/유데미/섹션 5/테이블.md",
     "Excalidraw",

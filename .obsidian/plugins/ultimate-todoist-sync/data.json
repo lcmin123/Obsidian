@@ -21,7 +21,24 @@
       }
     ],
     "tasks": [],
-    "events": []
+    "events": [
+      {
+        "event_date": "2023-11-13T06:47:07.000000Z",
+        "event_type": "added",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "name": "Inbox",
+          "note_count": 0
+        },
+        "extra_data_id": 22048267636,
+        "id": 21961977844,
+        "initiator_id": null,
+        "object_id": "2323528110",
+        "object_type": "project",
+        "parent_item_id": null,
+        "parent_project_id": null
+      }
+    ]
   },
   "fileMetadata": {},
   "enableFullVaultSync": false,
