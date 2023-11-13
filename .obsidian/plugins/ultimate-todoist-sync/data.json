@@ -43,6 +43,29 @@
         "url": "https://todoist.com/showTask?id=7405984864",
         "duration": null,
         "path": "프론트엔드/유데미/섹션 5/폼.md"
+      },
+      {
+        "id": "7405994387",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2323528110",
+        "sectionId": null,
+        "parentId": null,
+        "order": 2,
+        "content": "뭉이 밥주기   2023-11-13",
+        "description": "[TODOIST.md](obsidian://open?vault=_notes&file=TODOIST.md)",
+        "isCompleted": false,
+        "labels": [
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "47039912",
+        "createdAt": "2023-11-13T07:22:25.357863Z",
+        "due": null,
+        "url": "https://todoist.com/showTask?id=7405994387",
+        "duration": null,
+        "path": "TODOIST.md"
       }
     ],
     "events": [
@@ -68,6 +91,12 @@
     "프론트엔드/유데미/섹션 5/폼.md": {
       "todoistTasks": [
         "7405984864"
+      ],
+      "todoistCount": 1
+    },
+    "TODOIST.md": {
+      "todoistTasks": [
+        "7405994387"
       ],
       "todoistCount": 1
     }
