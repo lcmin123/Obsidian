@@ -1,6 +1,6 @@
 
 - body : 문서의 모든 내용을 담음
-	-  b : bold
+	- b : bold
 	- p : paragraph
 		- 단락으로 묶는다. nput, label 등도 묶을 수 있음
 		- 블록 레벨
@@ -10,21 +10,18 @@
 	- ol : ordered list
 		- 숫자로 순서 정해진 리스트
 	- ul : unordered list
-	점 찍힌 순서 없는 리스트
-	  
+		- 점 찍힌 순서 없는 리스트
 	- li : list item
-	  ol, ul의 리스트 항목들을 표시
-	  ul(ol)
-		  li
+		 - ol, ul의 리스트 항목들을 표시
 			  ul(ol)
 				  li
-		이런 식으로 중첩 리스트 작성 가능
-		
+					  ul(ol)
+						  li
+				이런 식으로 중첩 리스트 작성 가능
 	- a : anker 
 	  html간, 하이퍼링크로 이동 가능
 	  hfer = ""안에 주소 넣기
 	  인라인 레벨
-	  
 	- img : image
 	  src = "" 안에 주소 넣기
 	  alt = "" 스크린리더를 위한 설명
