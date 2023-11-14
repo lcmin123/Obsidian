@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "프론트엔드/유데미/섹션 14/Untitled.md"
+    },
+    {
+      "basename": "섹션 14",
+      "path": "프론트엔드/유데미/섹션 14/섹션 14.md"
+    },
+    {
       "basename": "폼",
       "path": "프론트엔드/유데미/섹션 5/폼.md"
     },
@@ -191,10 +199,6 @@
     {
       "basename": "정규화 프로세스",
       "path": "3학년 2학기/데이터베이스 설계/중간/정규화 프로세스.md"
-    },
-    {
-      "basename": "Denormalization",
-      "path": "3학년 2학기/데이터베이스 설계/중간/Denormalization.md"
     }
   ],
   "omittedPaths": [],

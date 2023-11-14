@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프론트엔드/유데미/섹션 5/폼.md",
+                "file": "프론트엔드/유데미/섹션 14/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "희미하게",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,8 +81,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -102,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프론트엔드/유데미/섹션 5/폼.md",
+                "file": "프론트엔드/유데미/섹션 14/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프론트엔드/유데미/섹션 5/폼.md",
+                "file": "프론트엔드/유데미/섹션 14/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프론트엔드/유데미/섹션 5/폼.md"
+                "file": "프론트엔드/유데미/섹션 14/Untitled.md"
               }
             }
           },
@@ -192,10 +191,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6cb6d36e4721a6ec",
+  "active": "76fe34d5ca974c59",
   "lastOpenFiles": [
-    "프론트엔드/유데미/섹션 3/head.md",
+    "프론트엔드/유데미/섹션 14/섹션 14.md",
+    "프론트엔드/유데미/섹션 14/Untitled.md",
     "프론트엔드/유데미/섹션 5/폼.md",
+    "프론트엔드/유데미/섹션 14",
+    "프론트엔드/유데미/섹션 3/head.md",
     "프론트엔드/유데미/섹션 4/head.md",
     "프론트엔드/유데미/섹션 5/테이블.md",
     "프론트엔드/유데미/섹션 4/시멘틱 마크업.md",
@@ -228,9 +230,7 @@
     "Attached Files/Pasted image 20231109153007.png",
     "Attached Files/Pasted image 20231109152818.png",
     "3학년 2학기/데이터베이스 설계/기말/materialized view.md",
-    "3학년 2학기/알고리즘/기말/다익스트라 알고리즘.md",
     "3학년 2학기/데이터베이스 설계/데베설.drawio",
-    "3학년 2학기/알고리즘/기말/크루스칼 알고리즘.md",
     "3학년 2학기/알고리즘/기말",
     "3학년 2학기/알고리즘/중간",
     "Attached Files/b4500ab8ff9f281743de2b16b3af41be_MD5.jpeg",
@@ -239,7 +239,6 @@
     "Attached Files/Pasted image 20231107162224.png",
     "Attached Files/Pasted image 20231107162206.png",
     "Attached Files/Pasted image 20231107162204.png",
-    "3학년 2학기/데이터베이스 설계/기말",
-    "3학년 2학기/데이터베이스 설계/중간"
+    "3학년 2학기/데이터베이스 설계/기말"
   ]
 }
