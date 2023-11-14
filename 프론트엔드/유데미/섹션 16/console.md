@@ -1,3 +1,0 @@
-- console.log → 타 언어의 print와 같은 기능
-- console.warn → warning 메시지 출력
-- console.error → error 메시지 출력

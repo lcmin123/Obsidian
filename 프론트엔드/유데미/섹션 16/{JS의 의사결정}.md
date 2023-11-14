@@ -1,4 +1,11 @@
-[[비교 연산자]]
-[[console]]
-[[alert]]
-[[prompt]]
+- [[비교 연산자]]
+- console
+	- console.log → 타 언어의 print와 같은 기능
+	- console.warn → warning 메시지 출력
+	- console.error → error 메시지 출력
+- alert
+	- 팝업창 생성
+- prompt 
+	- 입력창을 받는 팝업창 생성
+	- 사용자가 입력한 값을 변수에 저장
+	- 입력값을 parseInt로 정수 타입 캐스팅 한 뒤 조물조물
