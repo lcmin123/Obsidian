@@ -13,13 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프론트엔드/유데미/섹션 14/Math.md",
+                "file": "프론트엔드/유데미/섹션 3, 4, 5, 6/인라인.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "2898d43cb6d6b8eb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 280.5
   },
   "right": {
     "id": "25192bdd3f6894eb",
@@ -101,7 +110,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프론트엔드/유데미/섹션 14/Math.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +126,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프론트엔드/유데미/섹션 14/Math.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,9 +147,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "프론트엔드/유데미/섹션 14/Math.md"
-              }
+              "state": {}
             }
           },
           {
@@ -191,40 +196,41 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "76fe34d5ca974c59",
+  "active": "2898d43cb6d6b8eb",
   "lastOpenFiles": [
-    "프론트엔드/유데미/섹션 14/JS 기본 요소 및 콘솔.md",
-    "프론트엔드/유데미/섹션 14/Math.md",
-    "프론트엔드/유데미/섹션 14/Null.md",
-    "프론트엔드/유데미/섹션 14/String.md",
-    "프론트엔드/유데미/섹션 14/변수.md",
-    "프론트엔드/유데미/섹션 14/Number.md",
-    "프론트엔드/유데미/섹션 14/Boolean.md",
-    "프론트엔드/유데미/섹션 14/섹션 14.md",
+    "프론트엔드/유데미/섹션 4/섹션 4.md",
+    "프론트엔드/유데미/섹션 5/섹션 5.md",
+    "프론트엔드/유데미/섹션 3, 4, 5, 6/테이블.md",
+    "프론트엔드/유데미/섹션 3, 4, 5, 6/블록.md",
+    "프론트엔드/유데미/섹션 3, 4, 5, 6/인라인.md",
+    "프론트엔드/유데미/섹션 3, 4, 5, 6/섹션 3, 4, 5, 6.md",
+    "프론트엔드/유데미/섹션 14, 15/[JS 기본 요소 및 콘솔].md",
+    "프론트엔드/유데미/섹션 14, 15/Number.md",
+    "프론트엔드/유데미/섹션 14, 15/Boolean.md",
+    "프론트엔드/유데미/섹션 16/JS의 의사결정.md",
+    "프론트엔드/유데미/섹션 16/섹션 16.md",
+    "프론트엔드/유데미/섹션 6/섹션 6.md",
+    "프론트엔드/유데미/섹션 16",
+    "프론트엔드/유데미/섹션 14, 15/섹션 14, 15.md",
+    "프론트엔드/유데미/섹션 14, 15/Math.md",
+    "프론트엔드/유데미/섹션 14, 15/Null.md",
+    "프론트엔드/유데미/섹션 14, 15/String.md",
+    "프론트엔드/유데미/섹션 14, 15/변수.md",
     "프론트엔드/유데미/섹션 14/.md",
-    "프론트엔드/유데미/섹션 5/폼.md",
-    "프론트엔드/유데미/섹션 14",
-    "프론트엔드/유데미/섹션 3/head.md",
+    "프론트엔드/유데미/섹션 3, 4, 5, 6/폼.md",
+    "프론트엔드/유데미/섹션 14, 15",
+    "프론트엔드/유데미/섹션 3, 4, 5, 6/head.md",
     "프론트엔드/유데미/섹션 4/head.md",
-    "프론트엔드/유데미/섹션 5/테이블.md",
-    "프론트엔드/유데미/섹션 4/시멘틱 마크업.md",
-    "프론트엔드/유데미/섹션 4/블록.md",
-    "프론트엔드/유데미/섹션 3/body.md",
-    "프론트엔드/유데미/섹션 4/인라인.md",
-    "프론트엔드/유데미/섹션 4/엔티티 코드.md",
+    "프론트엔드/유데미/섹션 3, 4, 5, 6/시멘틱 마크업.md",
+    "프론트엔드/유데미/섹션 3, 4, 5, 6/body.md",
+    "프론트엔드/유데미/섹션 3, 4, 5, 6/엔티티 코드.md",
     "#TODOIST.md",
     "Digital Garden.md",
-    "안녕하세요.md",
-    "프론트엔드/유데미/섹션 5/섹션 5.md",
-    "프론트엔드/유데미/섹션 3/섹션 3.md",
-    "3학년 2학기/객체1/객체1.md",
-    "Excalidraw/Drawing 2023-11-13 15.43.47.excalidraw.md",
     "todoist-backup-20231113155739.json",
     "Task Dashboard.canvas",
     "Excalidraw",
     "Spaces/Home",
     "Spaces",
-    "3학년 2학기/컴퓨터 보안/족보 기말/DH기출1.md",
     "3학년 2학기/컴퓨터 보안/족보 기말",
     "Attached Files/Pasted image 20231109153143.png",
     "Attached Files/751a17aad1bfcc5acf35f217c3e0cb7f_MD5.jpeg",
@@ -238,7 +244,6 @@
     "Attached Files/c94812b5d16178484dee9fde1d300959_MD5.jpeg",
     "Attached Files/Pasted image 20231107162224.png",
     "Attached Files/Pasted image 20231107162206.png",
-    "Attached Files/Pasted image 20231107162204.png",
-    "3학년 2학기/데이터베이스 설계/기말"
+    "Attached Files/Pasted image 20231107162204.png"
   ]
 }
