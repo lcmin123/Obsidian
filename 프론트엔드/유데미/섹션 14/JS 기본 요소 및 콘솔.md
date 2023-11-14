@@ -1,5 +1,5 @@
 - Js의 원시 타입들
-	- [[Number]]
+	- [[Number]] - [[변수]]
 	- String
 	- [[Boolean]]
 	- Null
