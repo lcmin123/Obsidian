@@ -19,3 +19,4 @@
 		- array, object에서 유용하게 사용
 	- `var 변수이름 - 변수값;`
 		- legacy
+		- 사용하지 않음
