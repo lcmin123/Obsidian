@@ -1,8 +1,8 @@
 - Js의 원시 타입들
-	- number
-	- string
-	- boolean
-	- null
-	- undefined
-	- symbol
-	- Big
+	- Number
+	- String
+	- Boolean
+	- Null
+	- Undefined
+	- Symbol
+	- BigInt
