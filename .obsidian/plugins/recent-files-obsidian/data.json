@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Null",
-      "path": "프론트엔드/유데미/섹션 14/Null.md"
+      "basename": "math",
+      "path": "프론트엔드/유데미/섹션 14/math.md"
     },
     {
       "basename": "JS 기본 요소 및 콘솔",
       "path": "프론트엔드/유데미/섹션 14/JS 기본 요소 및 콘솔.md"
+    },
+    {
+      "basename": "Null",
+      "path": "프론트엔드/유데미/섹션 14/Null.md"
     },
     {
       "basename": "String",
@@ -195,10 +199,6 @@
     {
       "basename": "ef215e2b5e272d27a5f339314d8a5754_MD5",
       "path": "Attached Files/ef215e2b5e272d27a5f339314d8a5754_MD5.jpeg"
-    },
-    {
-      "basename": "데이터 모델",
-      "path": "3학년 2학기/데이터베이스 설계/중간/데이터 모델.md"
     }
   ],
   "omittedPaths": [],
