@@ -2,7 +2,7 @@
 	- [[Number]] - [[변수]]
 	- [[String]]
 	- [[Boolean]]
-	- Null
-	- Undefined
+	- [[Null]]
+	- [[Undefined]]
 	- Symbol
 	- BigInt
