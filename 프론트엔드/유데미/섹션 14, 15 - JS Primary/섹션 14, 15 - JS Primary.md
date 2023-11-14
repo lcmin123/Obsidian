@@ -7,3 +7,4 @@ _sort:
   asc: false
   group: false
 ---
+[[{JS 기본 요소 및 콘솔}]]

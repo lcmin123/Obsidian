@@ -23,9 +23,11 @@
             "id": "2898d43cb6d6b8eb",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "프론트엔드/유데미/섹션 3, 4, 5, 6 - HTML"
+                "file": "INDEX.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -112,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프론트엔드/유데미/섹션 3, 4, 5, 6 - HTML/섹션 3, 4, 5, 6 - HTML.md",
+                "file": "INDEX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프론트엔드/유데미/섹션 3, 4, 5, 6 - HTML/섹션 3, 4, 5, 6 - HTML.md",
+                "file": "INDEX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프론트엔드/유데미/섹션 3, 4, 5, 6 - HTML/섹션 3, 4, 5, 6 - HTML.md"
+                "file": "INDEX.md"
               }
             }
           },
@@ -202,14 +204,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "13076b0f37b0b51d",
+  "active": "2898d43cb6d6b8eb",
   "lastOpenFiles": [
-    "프론트엔드/유데미/섹션 14, 15 - JS Primary/섹션 14, 15 - JS Primary.md",
-    "프론트엔드/유데미/섹션 3, 4, 5, 6 - HTML/섹션 3, 4, 5, 6 - HTML.md",
-    "3학년 2학기/데이터베이스 설계/중간/인덱스.md",
     "Digital Garden.md",
+    "INDEX.md",
+    "프론트엔드/유데미/섹션 3, 4, 5, 6 - HTML/섹션 3, 4, 5, 6 - HTML.md",
+    "프론트엔드/유데미/섹션 3, 4, 5, 6 - HTML/시멘틱 마크업.md",
+    "프론트엔드/유데미/섹션 3, 4, 5, 6 - HTML/블록.md",
+    "프론트엔드/유데미/섹션 3, 4, 5, 6 - HTML/head.md",
+    "프론트엔드/유데미/섹션 3, 4, 5, 6 - HTML/body.md",
+    "프론트엔드/유데미/섹션 16/{JS의 의사결정}.md",
+    "프론트엔드/유데미/섹션 16/섹션 16.md",
+    "프론트엔드/유데미/섹션 14, 15 - JS Primary/{JS 기본 요소 및 콘솔}.md",
+    "프론트엔드/유데미/섹션 16/[JS의 의사결정.md",
+    "프론트엔드/유데미/섹션 14, 15 - JS Primary/섹션 14, 15 - JS Primary.md",
+    "프론트엔드/유데미/섹션 14, 15 - JS Primary/[[JS 기본 요소 및 콘솔.md",
+    "프론트엔드/유데미/섹션 16/[[JS의 의사결정.md",
+    "3학년 2학기/데이터베이스 설계/중간/인덱스.md",
     "안녕하세요.md",
-    "프론트엔드/유데미/섹션 16/[JS의 의사결정].md",
     "프론트엔드/유데미/섹션 14, 15 - JS Primary/Math.md",
     "프론트엔드/유데미/섹션 14, 15 - JS Primary/String.md",
     "프론트엔드/유데미/섹션 14, 15 - JS Primary/변수.md",
@@ -218,20 +230,10 @@
     "프론트엔드/유데미/섹션 4/섹션 4.md",
     "프론트엔드/유데미/섹션 5/섹션 5.md",
     "프론트엔드/유데미/섹션 3, 4, 5, 6 - HTML/테이블.md",
-    "프론트엔드/유데미/섹션 3, 4, 5, 6 - HTML/블록.md",
     "프론트엔드/유데미/섹션 3, 4, 5, 6 - HTML/인라인.md",
-    "프론트엔드/유데미/섹션 14, 15 - JS Primary/[JS 기본 요소 및 콘솔].md",
-    "프론트엔드/유데미/섹션 16/섹션 16.md",
     "프론트엔드/유데미/섹션 6/섹션 6.md",
     "프론트엔드/유데미/섹션 16",
-    "프론트엔드/유데미/섹션 14, 15/Null.md",
-    "프론트엔드/유데미/섹션 14/.md",
-    "프론트엔드/유데미/섹션 3, 4, 5, 6 - HTML/폼.md",
     "프론트엔드/유데미/섹션 14, 15 - JS Primary",
-    "프론트엔드/유데미/섹션 3, 4, 5, 6 - HTML/head.md",
-    "프론트엔드/유데미/섹션 4/head.md",
-    "프론트엔드/유데미/섹션 3, 4, 5, 6 - HTML/시멘틱 마크업.md",
-    "프론트엔드/유데미/섹션 3, 4, 5, 6 - HTML/body.md",
     "todoist-backup-20231113155739.json",
     "Task Dashboard.canvas",
     "Excalidraw",
