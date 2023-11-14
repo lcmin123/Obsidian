@@ -1,6 +1,6 @@
 - Js의 원시 타입들
 	- [[Number]] - [[변수]]
-	- String
+	- [[String]]
 	- [[Boolean]]
 	- Null
 	- Undefined
