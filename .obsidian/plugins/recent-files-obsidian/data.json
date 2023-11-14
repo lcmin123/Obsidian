@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "INDEX",
+      "path": "INDEX.md"
+    },
+    {
       "basename": "{JS의 의사결정}",
       "path": "프론트엔드/유데미/섹션 16/{JS의 의사결정}.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "유데미",
       "path": "프론트엔드/유데미/유데미.md"
-    },
-    {
-      "basename": "INDEX",
-      "path": "INDEX.md"
     },
     {
       "basename": "Digital Garden",
