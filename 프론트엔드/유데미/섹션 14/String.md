@@ -14,5 +14,6 @@
 	- 연달아 수행 가능 → 문자열.toUpperCase().trim() …
 	- 메서드 괄호 안에 파라메터 받을 수 있음
 		- `indexOf(args)` → args와 일치하는 첫번째 문자열 인덱스 return, “ ” 가능,  없으면 -1 return
-		- `slice(startIndex,endIndex(optional))` → 문자열 일부 잘라내어 추출. endIndex 지정 안되어있으면 끝까지 자르기
+		- `slice(startIndex,endIndex(optional))` → 문자열 일부 잘라내어 추출, endIndex 지정 안되어있으면 끝까지 자르기, Index음수면 뒤부터 센다
+		- replace(교체할값,교체될값) → 정규 표현식 이용해 패턴에 매칭시켜 특정한 문자열 대신에 패턴을 교체할 수 있음
 	
