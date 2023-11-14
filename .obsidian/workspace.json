@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프론트엔드/유데미/섹션 14/math.md",
+                "file": "프론트엔드/유데미/섹션 14/Math.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프론트엔드/유데미/섹션 14/math.md",
+                "file": "프론트엔드/유데미/섹션 14/Math.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프론트엔드/유데미/섹션 14/math.md",
+                "file": "프론트엔드/유데미/섹션 14/Math.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프론트엔드/유데미/섹션 14/math.md"
+                "file": "프론트엔드/유데미/섹션 14/Math.md"
               }
             }
           },
@@ -194,7 +194,7 @@
   "active": "76fe34d5ca974c59",
   "lastOpenFiles": [
     "프론트엔드/유데미/섹션 14/JS 기본 요소 및 콘솔.md",
-    "프론트엔드/유데미/섹션 14/math.md",
+    "프론트엔드/유데미/섹션 14/Math.md",
     "프론트엔드/유데미/섹션 14/Null.md",
     "프론트엔드/유데미/섹션 14/String.md",
     "프론트엔드/유데미/섹션 14/변수.md",

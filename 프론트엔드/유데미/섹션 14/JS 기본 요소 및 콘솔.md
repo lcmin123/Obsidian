@@ -1,5 +1,5 @@
 - Js의 원시 타입들
-	- [[Number]] - [[변수]] - [[math]]
+	- [[Number]] - [[변수]] - [[Math]]
 	- [[String]]
 	- [[Boolean]]
 	- Null → 임의로 값이 없다는걸 표현(무)
