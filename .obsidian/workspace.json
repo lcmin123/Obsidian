@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프론트엔드/유데미/섹션 16/JS의 의사결정.md",
+                "file": "Digital Garden.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 269.5
   },
   "right": {
     "id": "25192bdd3f6894eb",
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프론트엔드/유데미/섹션 16/JS의 의사결정.md",
+                "file": "Digital Garden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프론트엔드/유데미/섹션 16/JS의 의사결정.md",
+                "file": "Digital Garden.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프론트엔드/유데미/섹션 16/JS의 의사결정.md"
+                "file": "Digital Garden.md"
               }
             }
           },
@@ -206,6 +206,12 @@
   },
   "active": "2898d43cb6d6b8eb",
   "lastOpenFiles": [
+    "프론트엔드/유데미/섹션 16/[JS의 의사결정].md",
+    "프론트엔드/유데미/섹션 14, 15 - JS Primary/Math.md",
+    "프론트엔드/유데미/섹션 14, 15 - JS Primary/String.md",
+    "프론트엔드/유데미/섹션 14, 15 - JS Primary/변수.md",
+    "프론트엔드/유데미/섹션 14, 15 - JS Primary/Boolean.md",
+    "프론트엔드/유데미/섹션 14, 15 - JS Primary/Number.md",
     "프론트엔드/유데미/섹션 4/섹션 4.md",
     "프론트엔드/유데미/섹션 5/섹션 5.md",
     "프론트엔드/유데미/섹션 3, 4, 5, 6 - HTML/테이블.md",
@@ -213,17 +219,11 @@
     "프론트엔드/유데미/섹션 3, 4, 5, 6 - HTML/인라인.md",
     "프론트엔드/유데미/섹션 3, 4, 5, 6 - HTML/섹션 3, 4, 5, 6 - HTML.md",
     "프론트엔드/유데미/섹션 14, 15 - JS Primary/[JS 기본 요소 및 콘솔].md",
-    "프론트엔드/유데미/섹션 14, 15 - JS Primary/Number.md",
-    "프론트엔드/유데미/섹션 14, 15 - JS Primary/Boolean.md",
-    "프론트엔드/유데미/섹션 16/JS의 의사결정.md",
     "프론트엔드/유데미/섹션 16/섹션 16.md",
     "프론트엔드/유데미/섹션 6/섹션 6.md",
     "프론트엔드/유데미/섹션 16",
     "프론트엔드/유데미/섹션 14, 15 - JS Primary/섹션 14, 15 - JS Primary.md",
-    "프론트엔드/유데미/섹션 14, 15 - JS Primary/Math.md",
     "프론트엔드/유데미/섹션 14, 15/Null.md",
-    "프론트엔드/유데미/섹션 14, 15 - JS Primary/String.md",
-    "프론트엔드/유데미/섹션 14, 15 - JS Primary/변수.md",
     "프론트엔드/유데미/섹션 14/.md",
     "프론트엔드/유데미/섹션 3, 4, 5, 6 - HTML/폼.md",
     "프론트엔드/유데미/섹션 14, 15 - JS Primary",
