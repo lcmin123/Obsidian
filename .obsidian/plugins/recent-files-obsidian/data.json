@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "섹션 3, 4, 5, 6 - HTML",
+      "path": "프론트엔드/유데미/섹션 3, 4, 5, 6 - HTML/섹션 3, 4, 5, 6 - HTML.md"
+    },
+    {
+      "basename": "섹션 14, 15 - JS Primary",
+      "path": "프론트엔드/유데미/섹션 14, 15 - JS Primary/섹션 14, 15 - JS Primary.md"
+    },
+    {
+      "basename": "인덱스",
+      "path": "3학년 2학기/데이터베이스 설계/중간/인덱스.md"
+    },
+    {
       "basename": "Digital Garden",
       "path": "Digital Garden.md"
+    },
+    {
+      "basename": "안녕하세요",
+      "path": "안녕하세요.md"
     },
     {
       "basename": "[JS의 의사결정]",
@@ -41,20 +57,12 @@
       "path": "프론트엔드/유데미/섹션 3, 4, 5, 6 - HTML/인라인.md"
     },
     {
-      "basename": "섹션 3, 4, 5, 6 - HTML",
-      "path": "프론트엔드/유데미/섹션 3, 4, 5, 6 - HTML/섹션 3, 4, 5, 6 - HTML.md"
-    },
-    {
       "basename": "[JS 기본 요소 및 콘솔]",
       "path": "프론트엔드/유데미/섹션 14, 15 - JS Primary/[JS 기본 요소 및 콘솔].md"
     },
     {
       "basename": "섹션 16",
       "path": "프론트엔드/유데미/섹션 16/섹션 16.md"
-    },
-    {
-      "basename": "섹션 14, 15 - JS Primary",
-      "path": "프론트엔드/유데미/섹션 14, 15 - JS Primary/섹션 14, 15 - JS Primary.md"
     },
     {
       "basename": "폼",
@@ -79,10 +87,6 @@
     {
       "basename": "#TODOIST",
       "path": "#TODOIST.md"
-    },
-    {
-      "basename": "안녕하세요",
-      "path": "안녕하세요.md"
     },
     {
       "basename": "객체1",
