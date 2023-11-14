@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "비교 연산자",
+      "path": "프론트엔드/유데미/섹션 16/비교 연산자.md"
+    },
+    {
+      "basename": "{JS의 의사결정}",
+      "path": "프론트엔드/유데미/섹션 16/{JS의 의사결정}.md"
+    },
+    {
+      "basename": "유데미",
+      "path": "프론트엔드/유데미/유데미.md"
+    },
+    {
       "basename": "INDEX",
       "path": "INDEX.md"
     },
@@ -27,10 +39,6 @@
     {
       "basename": "body",
       "path": "프론트엔드/유데미/섹션 3, 4, 5, 6 - HTML/body.md"
-    },
-    {
-      "basename": "{JS의 의사결정}",
-      "path": "프론트엔드/유데미/섹션 16/{JS의 의사결정}.md"
     },
     {
       "basename": "섹션 16",
@@ -191,10 +199,6 @@
     {
       "basename": "\bSteganography",
       "path": "3학년 2학기/컴퓨터 보안/기말/\bSteganography.md"
-    },
-    {
-      "basename": "PGP",
-      "path": "3학년 2학기/컴퓨터 보안/기말/PGP.md"
     }
   ],
   "omittedPaths": [],

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INDEX.md",
+                "file": "프론트엔드/유데미/섹션 16/비교 연산자.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INDEX.md",
+                "file": "프론트엔드/유데미/섹션 16/비교 연산자.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INDEX.md",
+                "file": "프론트엔드/유데미/섹션 16/비교 연산자.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INDEX.md"
+                "file": "프론트엔드/유데미/섹션 16/비교 연산자.md"
               }
             }
           },
@@ -206,14 +206,16 @@
   },
   "active": "2898d43cb6d6b8eb",
   "lastOpenFiles": [
-    "Digital Garden.md",
+    "프론트엔드/유데미/섹션 16/{JS의 의사결정}.md",
+    "프론트엔드/유데미/섹션 16/비교 연산자.md",
+    "프론트엔드/유데미/유데미.md",
     "INDEX.md",
+    "Digital Garden.md",
     "프론트엔드/유데미/섹션 3, 4, 5, 6 - HTML/섹션 3, 4, 5, 6 - HTML.md",
     "프론트엔드/유데미/섹션 3, 4, 5, 6 - HTML/시멘틱 마크업.md",
     "프론트엔드/유데미/섹션 3, 4, 5, 6 - HTML/블록.md",
     "프론트엔드/유데미/섹션 3, 4, 5, 6 - HTML/head.md",
     "프론트엔드/유데미/섹션 3, 4, 5, 6 - HTML/body.md",
-    "프론트엔드/유데미/섹션 16/{JS의 의사결정}.md",
     "프론트엔드/유데미/섹션 16/섹션 16.md",
     "프론트엔드/유데미/섹션 14, 15 - JS Primary/{JS 기본 요소 및 콘솔}.md",
     "프론트엔드/유데미/섹션 16/[JS의 의사결정.md",
@@ -230,8 +232,6 @@
     "프론트엔드/유데미/섹션 4/섹션 4.md",
     "프론트엔드/유데미/섹션 5/섹션 5.md",
     "프론트엔드/유데미/섹션 3, 4, 5, 6 - HTML/테이블.md",
-    "프론트엔드/유데미/섹션 3, 4, 5, 6 - HTML/인라인.md",
-    "프론트엔드/유데미/섹션 6/섹션 6.md",
     "프론트엔드/유데미/섹션 16",
     "프론트엔드/유데미/섹션 14, 15 - JS Primary",
     "todoist-backup-20231113155739.json",
