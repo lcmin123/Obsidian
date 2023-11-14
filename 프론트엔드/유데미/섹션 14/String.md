@@ -8,4 +8,4 @@
 - 메서드
 	- 특정 문자열을 통해 수행할 수 있는 기능
 	- 문자열.method()로 구현
-	-  ex)msg.toUpperCase() →
+	-  ex) msg.toUpperCase() → msg를 대문자로 변환
