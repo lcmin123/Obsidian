@@ -1,7 +1,7 @@
 - Js의 원시 타입들
 	- [[Number]]
 	- String
-	- Boolean
+	- [[Boolean]]
 	- Null
 	- Undefined
 	- Symbol
