@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2. NP 되추적",
+      "path": "3학년 2학기/알고리즘/기말/2. NP 되추적.md"
+    },
+    {
+      "basename": "1. 탐욕 기법",
+      "path": "3학년 2학기/알고리즘/기말/1. 탐욕 기법.md"
+    },
+    {
       "basename": "DAC",
       "path": "3학년 2학기/컴퓨터 보안/기말/DAC.md"
     },
@@ -191,10 +199,6 @@
     {
       "basename": "751a17aad1bfcc5acf35f217c3e0cb7f_MD5",
       "path": "Attached Files/751a17aad1bfcc5acf35f217c3e0cb7f_MD5.jpeg"
-    },
-    {
-      "basename": "materialized view",
-      "path": "3학년 2학기/데이터베이스 설계/기말/materialized view.md"
     }
   ],
   "omittedPaths": [],
