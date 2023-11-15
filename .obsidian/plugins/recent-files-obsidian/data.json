@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "DH기출5",
+      "path": "3학년 2학기/컴퓨터 보안/족보 기말/DH기출5.md"
+    },
+    {
+      "basename": "DH기출4",
+      "path": "3학년 2학기/컴퓨터 보안/족보 기말/DH기출4.md"
+    },
+    {
       "basename": "DH기출2",
       "path": "3학년 2학기/컴퓨터 보안/족보 기말/DH기출2.md"
+    },
+    {
+      "basename": "DH기출1",
+      "path": "3학년 2학기/컴퓨터 보안/족보 기말/DH기출1.md"
     },
     {
       "basename": "공인인증서",
@@ -27,10 +39,6 @@
     {
       "basename": "DiffieHellman",
       "path": "3학년 2학기/컴퓨터 보안/기말/DiffieHellman.md"
-    },
-    {
-      "basename": "DH기출1",
-      "path": "3학년 2학기/컴퓨터 보안/족보 기말/DH기출1.md"
     },
     {
       "basename": "INDEX",
@@ -191,14 +199,6 @@
     {
       "basename": "PKI",
       "path": "3학년 2학기/컴퓨터 보안/기말/PKI.md"
-    },
-    {
-      "basename": "KDC",
-      "path": "3학년 2학기/컴퓨터 보안/기말/KDC.md"
-    },
-    {
-      "basename": "RSA",
-      "path": "3학년 2학기/컴퓨터 보안/중간/RSA.md"
     }
   ],
   "omittedPaths": [],
