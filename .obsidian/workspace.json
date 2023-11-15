@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기/컴퓨터 보안/기말/Access Control.md",
+                "file": "3학년 2학기/컴퓨터 보안/중간/MAC.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3학년 2학기/컴퓨터 보안/기말/Access Control.md",
+                "file": "3학년 2학기/컴퓨터 보안/중간/MAC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3학년 2학기/컴퓨터 보안/기말/Access Control.md",
+                "file": "3학년 2학기/컴퓨터 보안/중간/MAC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기/컴퓨터 보안/기말/Access Control.md"
+                "file": "3학년 2학기/컴퓨터 보안/중간/MAC.md"
               }
             }
           },
@@ -205,9 +205,9 @@
   },
   "active": "2898d43cb6d6b8eb",
   "lastOpenFiles": [
+    "3학년 2학기/컴퓨터 보안/기말/Access Control.md",
     "Attached Files/Pasted image 20231115115720.png",
     "3학년 2학기/컴퓨터 보안/기말/\bSteganography.md",
-    "3학년 2학기/컴퓨터 보안/기말/Access Control.md",
     "INDEX.md",
     "Digital Garden.md",
     "#TODOIST.md",
@@ -250,7 +250,6 @@
     "Attached Files/Pasted image 20231107162448.png",
     "Attached Files/c94812b5d16178484dee9fde1d300959_MD5.jpeg",
     "Attached Files/Pasted image 20231107162224.png",
-    "Attached Files/Pasted image 20231107162206.png",
-    "Attached Files/Pasted image 20231107162204.png"
+    "Attached Files/Pasted image 20231107162206.png"
   ]
 }

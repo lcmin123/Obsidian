@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "MAC",
+      "path": "3학년 2학기/컴퓨터 보안/중간/MAC.md"
+    },
+    {
       "basename": "Access Control",
       "path": "3학년 2학기/컴퓨터 보안/기말/Access Control.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "1. 분할 정복",
       "path": "3학년 2학기/알고리즘/중간/1. 분할 정복.md"
-    },
-    {
-      "basename": "PKI",
-      "path": "3학년 2학기/컴퓨터 보안/기말/PKI.md"
     }
   ],
   "omittedPaths": [],
