@@ -23,5 +23,7 @@
   "obsidian-kanban",
   "templater-obsidian",
   "obsidian-advanced-slides",
-  "cm-editor-syntax-highlight-obsidian"
+  "cm-editor-syntax-highlight-obsidian",
+  "obsidian-annotator",
+  "obsidian-hover-editor"
 ]
