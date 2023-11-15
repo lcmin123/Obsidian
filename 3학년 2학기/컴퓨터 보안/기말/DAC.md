@@ -3,6 +3,19 @@
 	- 요청자의 신분에 따라 무엇을 할 수 있는지 정의
 	- Window, unix 등 컴퓨터 시스템 널리 사용
 	- Access Matrix 사용 → 주체와 객체, 권한을 행렬로 표현
-- Access Matrix
+- Access Matrix![[Pasted image 20231115120835.png]]
 	- 행 : 자원 접근 주체 (Subject)
-	- 열 : 
+	- 열 : Subject가 접근하는 대상 자원 (Object)
+	- Entry : 허용되는 접근
+	- <span style="background:#ff4d4f">Matrix가 커질 수 있고, 희박해지면 메모리 낭비</span>
+	  사용자가 많은 Cloud등에서는 부적합하다 
+	  - 해결 방법 
+		  - ACL (Access Control Lists)
+			  - Access Matrix를 열로 분리
+			  - 객체에 대한 권한을 가진 주체 파악에 유리
+		  - Capability Tickets
+			  - Access Matrix를 행으로 분리
+			  - 특정 주체에 대해 승인된 객체와 권한 명시
+			  - 게임 캐릭터 별 능력치 관리라 생각하면 좋음
+			  - 
+	
