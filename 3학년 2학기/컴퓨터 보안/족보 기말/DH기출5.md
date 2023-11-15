@@ -1,1 +1,4 @@
-DH는 man-in-the-middle attack ()
+DH는 man-in-the-middle attack (중간자 공격)에 취약하다. 그 이유를 적고 공격을 막을 방법을 기술하라.
+
+DH는 인증과정이 없기에 중간자 공격에 취약하다.
+보완하기 위해선 [[전자 서명]]이 필요하다.

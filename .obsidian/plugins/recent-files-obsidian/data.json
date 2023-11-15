@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Access Control",
+      "path": "3학년 2학기/컴퓨터 보안/기말/Access Control.md"
+    },
+    {
+      "basename": "\bSteganography",
+      "path": "3학년 2학기/컴퓨터 보안/기말/\bSteganography.md"
+    },
+    {
+      "basename": "INDEX",
+      "path": "INDEX.md"
+    },
+    {
+      "basename": "Digital Garden",
+      "path": "Digital Garden.md"
+    },
+    {
+      "basename": "#TODOIST",
+      "path": "#TODOIST.md"
+    },
+    {
       "basename": "DH기출5",
       "path": "3학년 2학기/컴퓨터 보안/족보 기말/DH기출5.md"
     },
@@ -33,16 +53,8 @@
       "path": "3학년 2학기/컴퓨터 보안/기말/\bDRM.md"
     },
     {
-      "basename": "\bSteganography",
-      "path": "3학년 2학기/컴퓨터 보안/기말/\bSteganography.md"
-    },
-    {
       "basename": "DiffieHellman",
       "path": "3학년 2학기/컴퓨터 보안/기말/DiffieHellman.md"
-    },
-    {
-      "basename": "INDEX",
-      "path": "INDEX.md"
     },
     {
       "basename": "{JS의 의사결정}",
@@ -55,10 +67,6 @@
     {
       "basename": "유데미",
       "path": "프론트엔드/유데미/유데미.md"
-    },
-    {
-      "basename": "Digital Garden",
-      "path": "Digital Garden.md"
     },
     {
       "basename": "섹션 3, 4, 5, 6 - HTML",
@@ -97,10 +105,6 @@
       "path": "3학년 2학기/데이터베이스 설계/중간/인덱스.md"
     },
     {
-      "basename": "안녕하세요",
-      "path": "안녕하세요.md"
-    },
-    {
       "basename": "Math",
       "path": "프론트엔드/유데미/섹션 14, 15 - JS Primary/Math.md"
     },
@@ -135,10 +139,6 @@
     {
       "basename": "엔티티 코드",
       "path": "프론트엔드/유데미/섹션 3, 4, 5, 6 - HTML/엔티티 코드.md"
-    },
-    {
-      "basename": "#TODOIST",
-      "path": "#TODOIST.md"
     },
     {
       "basename": "객체1",
