@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "DH기출1",
+      "path": "3학년 2학기/컴퓨터 보안/족보 기말/DH기출1.md"
+    },
+    {
+      "basename": "DH기출2",
+      "path": "3학년 2학기/컴퓨터 보안/족보 기말/DH기출2.md"
+    },
+    {
       "basename": "INDEX",
       "path": "INDEX.md"
     },
@@ -111,10 +119,6 @@
     {
       "basename": "Task Dashboard",
       "path": "Task Dashboard.canvas"
-    },
-    {
-      "basename": "DH기출1",
-      "path": "3학년 2학기/컴퓨터 보안/족보 기말/DH기출1.md"
     },
     {
       "basename": "DiffieHellman",

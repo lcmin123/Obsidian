@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INDEX.md",
+                "file": "3학년 2학기/컴퓨터 보안/족보 기말/DH기출1.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INDEX.md",
+                "file": "3학년 2학기/컴퓨터 보안/족보 기말/DH기출1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INDEX.md",
+                "file": "3학년 2학기/컴퓨터 보안/족보 기말/DH기출1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INDEX.md"
+                "file": "3학년 2학기/컴퓨터 보안/족보 기말/DH기출1.md"
               }
             }
           },
@@ -206,13 +206,15 @@
   },
   "active": "2898d43cb6d6b8eb",
   "lastOpenFiles": [
+    "3학년 2학기/컴퓨터 보안/족보 기말/DH기출2.md",
+    "3학년 2학기/컴퓨터 보안/족보 기말/DH기출1.md",
+    "INDEX.md",
     "프론트엔드/유데미/섹션 16/{JS의 의사결정}.md",
     "프론트엔드/유데미/섹션 16/비교 연산자.md",
     "프론트엔드/유데미/섹션 16/log.md",
     "프론트엔드/유데미/섹션 16/alert.md",
     "프론트엔드/유데미/섹션 16/console.md",
     "프론트엔드/유데미/유데미.md",
-    "INDEX.md",
     "Digital Garden.md",
     "프론트엔드/유데미/섹션 3, 4, 5, 6 - HTML/섹션 3, 4, 5, 6 - HTML.md",
     "프론트엔드/유데미/섹션 3, 4, 5, 6 - HTML/시멘틱 마크업.md",
@@ -230,8 +232,6 @@
     "프론트엔드/유데미/섹션 14, 15 - JS Primary/Math.md",
     "프론트엔드/유데미/섹션 14, 15 - JS Primary/String.md",
     "프론트엔드/유데미/섹션 14, 15 - JS Primary/변수.md",
-    "프론트엔드/유데미/섹션 14, 15 - JS Primary/Boolean.md",
-    "프론트엔드/유데미/섹션 14, 15 - JS Primary/Number.md",
     "프론트엔드/유데미/섹션 16",
     "프론트엔드/유데미/섹션 14, 15 - JS Primary",
     "todoist-backup-20231113155739.json",
