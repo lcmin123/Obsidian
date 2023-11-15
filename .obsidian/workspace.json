@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기/컴퓨터 보안/족보 기말/DH기출1.md",
+                "file": "3학년 2학기/컴퓨터 보안/족보 기말/DH기출2.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3학년 2학기/컴퓨터 보안/족보 기말/DH기출1.md",
+                "file": "3학년 2학기/컴퓨터 보안/족보 기말/DH기출2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3학년 2학기/컴퓨터 보안/족보 기말/DH기출1.md",
+                "file": "3학년 2학기/컴퓨터 보안/족보 기말/DH기출2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기/컴퓨터 보안/족보 기말/DH기출1.md"
+                "file": "3학년 2학기/컴퓨터 보안/족보 기말/DH기출2.md"
               }
             }
           },
@@ -206,8 +206,14 @@
   },
   "active": "2898d43cb6d6b8eb",
   "lastOpenFiles": [
-    "3학년 2학기/컴퓨터 보안/족보 기말/DH기출2.md",
+    "3학년 2학기/컴퓨터 보안/기말/공인인증서.md",
+    "3학년 2학기/컴퓨터 보안/기말/\bCA.md",
+    "3학년 2학기/컴퓨터 보안/기말/\bCommon DRM Business Model.md",
+    "3학년 2학기/컴퓨터 보안/기말/\bDRM.md",
+    "3학년 2학기/컴퓨터 보안/기말/\bSteganography.md",
+    "3학년 2학기/컴퓨터 보안/기말/DiffieHellman.md",
     "3학년 2학기/컴퓨터 보안/족보 기말/DH기출1.md",
+    "3학년 2학기/컴퓨터 보안/족보 기말/DH기출2.md",
     "INDEX.md",
     "프론트엔드/유데미/섹션 16/{JS의 의사결정}.md",
     "프론트엔드/유데미/섹션 16/비교 연산자.md",
@@ -226,12 +232,6 @@
     "프론트엔드/유데미/섹션 16/[JS의 의사결정.md",
     "프론트엔드/유데미/섹션 14, 15 - JS Primary/섹션 14, 15 - JS Primary.md",
     "프론트엔드/유데미/섹션 14, 15 - JS Primary/[[JS 기본 요소 및 콘솔.md",
-    "프론트엔드/유데미/섹션 16/[[JS의 의사결정.md",
-    "3학년 2학기/데이터베이스 설계/중간/인덱스.md",
-    "안녕하세요.md",
-    "프론트엔드/유데미/섹션 14, 15 - JS Primary/Math.md",
-    "프론트엔드/유데미/섹션 14, 15 - JS Primary/String.md",
-    "프론트엔드/유데미/섹션 14, 15 - JS Primary/변수.md",
     "프론트엔드/유데미/섹션 16",
     "프론트엔드/유데미/섹션 14, 15 - JS Primary",
     "todoist-backup-20231113155739.json",

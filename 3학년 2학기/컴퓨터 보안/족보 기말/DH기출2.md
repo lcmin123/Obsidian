@@ -7,4 +7,16 @@
    y = q^b mod p = 2^4 mod 11 
    = 5
 3. alice는 k를 계산
+   k = y^a mod p = 5^9 mod 11
+   5 mod 11 = 5
+   5^2 mod 11 = 3
+   5^4 mod 11 = 9
+   5^9 mod 11 = 405 mod 11 
+   = 9
+4. bob은 k를 계산
+   k  = x^b mod p = 6^4 mod 11
+   6 mod 11 = 6
+   6^2 mod 11 = 3
+   6^4 mod 11 
+   = 9
    

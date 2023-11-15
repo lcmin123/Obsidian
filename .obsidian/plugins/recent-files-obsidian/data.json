@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "DH기출1",
-      "path": "3학년 2학기/컴퓨터 보안/족보 기말/DH기출1.md"
-    },
-    {
       "basename": "DH기출2",
       "path": "3학년 2학기/컴퓨터 보안/족보 기말/DH기출2.md"
+    },
+    {
+      "basename": "공인인증서",
+      "path": "3학년 2학기/컴퓨터 보안/기말/공인인증서.md"
+    },
+    {
+      "basename": "\bCA",
+      "path": "3학년 2학기/컴퓨터 보안/기말/\bCA.md"
+    },
+    {
+      "basename": "\bCommon DRM Business Model",
+      "path": "3학년 2학기/컴퓨터 보안/기말/\bCommon DRM Business Model.md"
+    },
+    {
+      "basename": "\bDRM",
+      "path": "3학년 2학기/컴퓨터 보안/기말/\bDRM.md"
+    },
+    {
+      "basename": "\bSteganography",
+      "path": "3학년 2학기/컴퓨터 보안/기말/\bSteganography.md"
+    },
+    {
+      "basename": "DiffieHellman",
+      "path": "3학년 2학기/컴퓨터 보안/기말/DiffieHellman.md"
+    },
+    {
+      "basename": "DH기출1",
+      "path": "3학년 2학기/컴퓨터 보안/족보 기말/DH기출1.md"
     },
     {
       "basename": "INDEX",
@@ -121,10 +145,6 @@
       "path": "Task Dashboard.canvas"
     },
     {
-      "basename": "DiffieHellman",
-      "path": "3학년 2학기/컴퓨터 보안/기말/DiffieHellman.md"
-    },
-    {
       "basename": "공지사항",
       "path": "3학년 2학기/데이터베이스 설계/기말/공지사항.md"
     },
@@ -177,20 +197,8 @@
       "path": "3학년 2학기/컴퓨터 보안/기말/KDC.md"
     },
     {
-      "basename": "\bCA",
-      "path": "3학년 2학기/컴퓨터 보안/기말/\bCA.md"
-    },
-    {
-      "basename": "공인인증서",
-      "path": "3학년 2학기/컴퓨터 보안/기말/공인인증서.md"
-    },
-    {
       "basename": "RSA",
       "path": "3학년 2학기/컴퓨터 보안/중간/RSA.md"
-    },
-    {
-      "basename": "\bCommon DRM Business Model",
-      "path": "3학년 2학기/컴퓨터 보안/기말/\bCommon DRM Business Model.md"
     }
   ],
   "omittedPaths": [],
