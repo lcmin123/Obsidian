@@ -1,0 +1,8 @@
+- *Discretionary Access Control*
+	- 임의 접근 제어
+	- 요청자의 신분에 따라 무엇을 할 수 있는지 정의
+	- Window, unix 등 컴퓨터 시스템 널리 사용
+	- Access Matrix 사용 → 주체와 객체, 권한을 행렬로 표현
+- Access Matrix
+	- 행 : 자원 접근 주체 (Subject)
+	- 열 : 

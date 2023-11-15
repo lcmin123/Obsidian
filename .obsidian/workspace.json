@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기/컴퓨터 보안/중간/MAC.md",
+                "file": "3학년 2학기/컴퓨터 보안/기말/DAC.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3학년 2학기/컴퓨터 보안/중간/MAC.md",
+                "file": "3학년 2학기/컴퓨터 보안/기말/DAC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3학년 2학기/컴퓨터 보안/중간/MAC.md",
+                "file": "3학년 2학기/컴퓨터 보안/기말/DAC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기/컴퓨터 보안/중간/MAC.md"
+                "file": "3학년 2학기/컴퓨터 보안/기말/DAC.md"
               }
             }
           },
@@ -206,6 +206,12 @@
   "active": "2898d43cb6d6b8eb",
   "lastOpenFiles": [
     "3학년 2학기/컴퓨터 보안/기말/Access Control.md",
+    "3학년 2학기/컴퓨터 보안/기말/MAC (Mandatory Access Control).md",
+    "3학년 2학기/컴퓨터 보안/기말/MAC(Mandatory Access Control).md",
+    "3학년 2학기/컴퓨터 보안/기말/ABAC.md",
+    "3학년 2학기/컴퓨터 보안/기말/RBAC.md",
+    "3학년 2학기/컴퓨터 보안/기말/DAC.md",
+    "3학년 2학기/컴퓨터 보안/중간/MAC(Message Aceess Control).md",
     "Attached Files/Pasted image 20231115115720.png",
     "3학년 2학기/컴퓨터 보안/기말/\bSteganography.md",
     "INDEX.md",
@@ -226,11 +232,6 @@
     "프론트엔드/유데미/섹션 16/log.md",
     "프론트엔드/유데미/섹션 16/alert.md",
     "프론트엔드/유데미/섹션 16/console.md",
-    "프론트엔드/유데미/유데미.md",
-    "프론트엔드/유데미/섹션 3, 4, 5, 6 - HTML/섹션 3, 4, 5, 6 - HTML.md",
-    "프론트엔드/유데미/섹션 3, 4, 5, 6 - HTML/시멘틱 마크업.md",
-    "프론트엔드/유데미/섹션 3, 4, 5, 6 - HTML/블록.md",
-    "프론트엔드/유데미/섹션 3, 4, 5, 6 - HTML/head.md",
     "프론트엔드/유데미/섹션 16",
     "프론트엔드/유데미/섹션 14, 15 - JS Primary",
     "todoist-backup-20231113155739.json",

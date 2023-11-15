@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "MAC",
-      "path": "3학년 2학기/컴퓨터 보안/중간/MAC.md"
+      "basename": "DAC",
+      "path": "3학년 2학기/컴퓨터 보안/기말/DAC.md"
     },
     {
       "basename": "Access Control",
       "path": "3학년 2학기/컴퓨터 보안/기말/Access Control.md"
+    },
+    {
+      "basename": "MAC (Mandatory Access Control)",
+      "path": "3학년 2학기/컴퓨터 보안/기말/MAC (Mandatory Access Control).md"
+    },
+    {
+      "basename": "ABAC",
+      "path": "3학년 2학기/컴퓨터 보안/기말/ABAC.md"
+    },
+    {
+      "basename": "RBAC",
+      "path": "3학년 2학기/컴퓨터 보안/기말/RBAC.md"
+    },
+    {
+      "basename": "MAC(Message Aceess Control)",
+      "path": "3학년 2학기/컴퓨터 보안/중간/MAC(Message Aceess Control).md"
     },
     {
       "basename": "\bSteganography",
@@ -179,26 +195,6 @@
     {
       "basename": "materialized view",
       "path": "3학년 2학기/데이터베이스 설계/기말/materialized view.md"
-    },
-    {
-      "basename": "다익스트라 알고리즘",
-      "path": "3학년 2학기/알고리즘/기말/다익스트라 알고리즘.md"
-    },
-    {
-      "basename": "크루스칼 알고리즘",
-      "path": "3학년 2학기/알고리즘/기말/크루스칼 알고리즘.md"
-    },
-    {
-      "basename": "1. 탐욕 기법",
-      "path": "3학년 2학기/알고리즘/기말/1. 탐욕 기법.md"
-    },
-    {
-      "basename": "프림 알고리즘",
-      "path": "3학년 2학기/알고리즘/기말/프림 알고리즘.md"
-    },
-    {
-      "basename": "1. 분할 정복",
-      "path": "3학년 2학기/알고리즘/중간/1. 분할 정복.md"
     }
   ],
   "omittedPaths": [],
