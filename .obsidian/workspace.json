@@ -98,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5
+    "width": 200
   },
   "right": {
     "id": "25192bdd3f6894eb",
@@ -205,6 +205,7 @@
   },
   "active": "2898d43cb6d6b8eb",
   "lastOpenFiles": [
+    "Attached Files/Pasted image 20231115115720.png",
     "3학년 2학기/컴퓨터 보안/기말/\bSteganography.md",
     "3학년 2학기/컴퓨터 보안/기말/Access Control.md",
     "INDEX.md",
@@ -230,7 +231,6 @@
     "프론트엔드/유데미/섹션 3, 4, 5, 6 - HTML/시멘틱 마크업.md",
     "프론트엔드/유데미/섹션 3, 4, 5, 6 - HTML/블록.md",
     "프론트엔드/유데미/섹션 3, 4, 5, 6 - HTML/head.md",
-    "프론트엔드/유데미/섹션 3, 4, 5, 6 - HTML/body.md",
     "프론트엔드/유데미/섹션 16",
     "프론트엔드/유데미/섹션 14, 15 - JS Primary",
     "todoist-backup-20231113155739.json",
