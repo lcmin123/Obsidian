@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기/알고리즘/기말/2. NP 되추적.md",
+                "file": "컴포즈2.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3학년 2학기/알고리즘/기말/2. NP 되추적.md",
+                "file": "컴포즈2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3학년 2학기/알고리즘/기말/2. NP 되추적.md",
+                "file": "컴포즈2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기/알고리즘/기말/2. NP 되추적.md"
+                "file": "컴포즈2.md"
               }
             }
           },
@@ -194,6 +194,13 @@
   },
   "active": "2898d43cb6d6b8eb",
   "lastOpenFiles": [
+    "컴포즈1.md",
+    "컴포즈2.md",
+    "프론트엔드/유데미/섹션 14, 15 - JS Primary/변수.md",
+    "프론트엔드/유데미/섹션 14, 15 - JS Primary/{JS 기본 요소 및 콘솔}.md",
+    "프론트엔드/유데미/섹션 14, 15 - JS Primary/Number.md",
+    "프론트엔드/유데미/섹션 16/비교 연산자.md",
+    "3학년 2학기/알고리즘/기말/다익스트라 알고리즘.md",
     "3학년 2학기/알고리즘/기말/2. NP 되추적.md",
     "3학년 2학기/알고리즘/기말/1. 탐욕 기법.md",
     "3학년 2학기/컴퓨터 보안/기말/DAC.md",
@@ -218,13 +225,6 @@
     "3학년 2학기/컴퓨터 보안/족보 기말/DH기출2.md",
     "3학년 2학기/컴퓨터 보안/족보 기말/DH기출1.md",
     "3학년 2학기/컴퓨터 보안/기말/공인인증서.md",
-    "3학년 2학기/컴퓨터 보안/기말/\bCA.md",
-    "3학년 2학기/컴퓨터 보안/기말/\bCommon DRM Business Model.md",
-    "3학년 2학기/컴퓨터 보안/기말/\bDRM.md",
-    "3학년 2학기/컴퓨터 보안/기말/DiffieHellman.md",
-    "프론트엔드/유데미/섹션 16/{JS의 의사결정}.md",
-    "프론트엔드/유데미/섹션 16/비교 연산자.md",
-    "프론트엔드/유데미/섹션 16/log.md",
     "프론트엔드/유데미/섹션 16",
     "프론트엔드/유데미/섹션 14, 15 - JS Primary",
     "todoist-backup-20231113155739.json",
