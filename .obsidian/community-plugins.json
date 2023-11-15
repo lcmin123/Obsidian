@@ -18,5 +18,10 @@
   "table-editor-obsidian",
   "obsidian-custom-frames",
   "todoist-sync-plugin",
-  "ultimate-todoist-sync"
+  "ultimate-todoist-sync",
+  "tag-wrangler",
+  "obsidian-kanban",
+  "templater-obsidian",
+  "obsidian-advanced-slides",
+  "cm-editor-syntax-highlight-obsidian"
 ]
