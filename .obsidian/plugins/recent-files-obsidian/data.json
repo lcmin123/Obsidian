@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "lab2511",
+      "path": "3학년 2학기/객체1/C/lab/lab2511.md"
+    },
+    {
+      "basename": "3. 포인터",
+      "path": "3학년 2학기/객체1/C/3. 포인터.md"
+    },
+    {
+      "basename": "입력 크기",
+      "path": "3학년 2학기/알고리즘/중간/입력 크기.md"
+    },
+    {
+      "basename": "lab0902",
+      "path": "3학년 2학기/객체1/C++/lab/lab0902.md"
+    },
+    {
       "basename": "컴포즈2",
       "path": "컴포즈2.md"
     },
@@ -183,18 +199,6 @@
     {
       "basename": "Drawing 2023-11-13 15.43.47.excalidraw",
       "path": "Excalidraw/Drawing 2023-11-13 15.43.47.excalidraw.md"
-    },
-    {
-      "basename": "Task Dashboard",
-      "path": "Task Dashboard.canvas"
-    },
-    {
-      "basename": "공지사항",
-      "path": "3학년 2학기/데이터베이스 설계/기말/공지사항.md"
-    },
-    {
-      "basename": "하청기업",
-      "path": "3학년 2학기/데이터베이스 설계/기말/하청기업.md"
     }
   ],
   "omittedPaths": [],
