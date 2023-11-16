@@ -11,9 +11,11 @@
             "id": "2898d43cb6d6b8eb",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "3학년 2학기/객체1/C++/lab"
+                "file": "3학년 2학기/데이터베이스 설계/기말/transaction.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -99,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3학년 2학기/데이터베이스 설계/기말/transaction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "3학년 2학기/데이터베이스 설계/기말/transaction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "3학년 2학기/데이터베이스 설계/기말/transaction.md"
+              }
             }
           },
           {
@@ -198,8 +204,9 @@
       "workspaces:작업 공간 레이아웃 관리": false
     }
   },
-  "active": "0e6e9e156fa16352",
+  "active": "2898d43cb6d6b8eb",
   "lastOpenFiles": [
+    "3학년 2학기/데이터베이스 설계/기말/materialized view.md",
     "3학년 2학기/객체1/C++/lab/lab0704b.md",
     "3학년 2학기/객체1/C++/lab/lab0704.md",
     "프론트엔드/유데미/섹션 16/{JS의 의사결정}.md",
@@ -230,7 +237,6 @@
     "Attached Files/Pasted image 20231115115720.png",
     "3학년 2학기/컴퓨터 보안/기말/\bSteganography.md",
     "INDEX.md",
-    "Digital Garden.md",
     "프론트엔드/유데미/섹션 16",
     "프론트엔드/유데미/섹션 14, 15 - JS Primary",
     "todoist-backup-20231113155739.json",
