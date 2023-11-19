@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "INDEX",
+      "path": "INDEX.md"
+    },
+    {
+      "basename": "Digital Garden",
+      "path": "Digital Garden.md"
+    },
+    {
+      "basename": "#TODOIST",
+      "path": "#TODOIST.md"
+    },
+    {
+      "basename": "3. Instance and initialize",
+      "path": "3학년 2학기/객체1/C++/3. Instance and initialize.md"
+    },
+    {
       "basename": "Untitled",
       "path": "3학년 2학기/데이터베이스 설계/기말/Untitled.md"
     },
@@ -43,10 +59,6 @@
     {
       "basename": "lab0902",
       "path": "3학년 2학기/객체1/C++/lab/lab0902.md"
-    },
-    {
-      "basename": "컴포즈2",
-      "path": "컴포즈2.md"
     },
     {
       "basename": "변수",
@@ -99,18 +111,6 @@
     {
       "basename": "\bSteganography",
       "path": "3학년 2학기/컴퓨터 보안/기말/\bSteganography.md"
-    },
-    {
-      "basename": "INDEX",
-      "path": "INDEX.md"
-    },
-    {
-      "basename": "Digital Garden",
-      "path": "Digital Garden.md"
-    },
-    {
-      "basename": "#TODOIST",
-      "path": "#TODOIST.md"
     },
     {
       "basename": "DH기출5",
@@ -195,10 +195,6 @@
     {
       "basename": "Boolean",
       "path": "프론트엔드/유데미/섹션 14, 15 - JS Primary/Boolean.md"
-    },
-    {
-      "basename": "테이블",
-      "path": "프론트엔드/유데미/섹션 3, 4, 5, 6 - HTML/테이블.md"
     }
   ],
   "omittedPaths": [],
