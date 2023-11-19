@@ -11,9 +11,11 @@
             "id": "2898d43cb6d6b8eb",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "프론트엔드"
+                "file": "프론트엔드/유데미/섹션 3, 4, 5, 6 - HTML/폼.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -99,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "프론트엔드/유데미/섹션 3, 4, 5, 6 - HTML/폼.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "프론트엔드/유데미/섹션 3, 4, 5, 6 - HTML/폼.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "프론트엔드/유데미/섹션 3, 4, 5, 6 - HTML/폼.md"
+              }
             }
           },
           {
