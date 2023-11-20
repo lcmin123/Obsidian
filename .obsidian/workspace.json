@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프론트엔드/유데미/섹션 3, 4, 5, 6 - HTML/폼.md",
+                "file": "3학년 2학기/컴퓨터 보안/기말/RBAC.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프론트엔드/유데미/섹션 3, 4, 5, 6 - HTML/폼.md",
+                "file": "3학년 2학기/컴퓨터 보안/기말/RBAC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프론트엔드/유데미/섹션 3, 4, 5, 6 - HTML/폼.md",
+                "file": "3학년 2학기/컴퓨터 보안/기말/RBAC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프론트엔드/유데미/섹션 3, 4, 5, 6 - HTML/폼.md"
+                "file": "3학년 2학기/컴퓨터 보안/기말/RBAC.md"
               }
             }
           },
@@ -206,6 +206,8 @@
   },
   "active": "2898d43cb6d6b8eb",
   "lastOpenFiles": [
+    "3학년 2학기/컴퓨터 보안/기말/DAC.md",
+    "프론트엔드/유데미/섹션 3, 4, 5, 6 - HTML/폼.md",
     "INDEX.md",
     "Digital Garden.md",
     "#TODOIST.md",
@@ -229,13 +231,11 @@
     "3학년 2학기/알고리즘/기말/다익스트라 알고리즘.md",
     "3학년 2학기/알고리즘/기말/2. NP 되추적.md",
     "3학년 2학기/알고리즘/기말/1. 탐욕 기법.md",
-    "3학년 2학기/컴퓨터 보안/기말/DAC.md",
     "Attached Files/Pasted image 20231115122035.png",
     "Attached Files/Pasted image 20231115121335.png",
     "Attached Files/Pasted image 20231115121242.png",
     "Attached Files/Pasted image 20231115120835.png",
     "3학년 2학기/컴퓨터 보안/기말/Access Control.md",
-    "3학년 2학기/컴퓨터 보안/기말/MAC (Mandatory Access Control).md",
     "Attached Files/Pasted image 20231115115720.png",
     "프론트엔드/유데미/섹션 16",
     "프론트엔드/유데미/섹션 14, 15 - JS Primary",
