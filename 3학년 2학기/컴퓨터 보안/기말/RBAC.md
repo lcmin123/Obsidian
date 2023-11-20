@@ -1,4 +1,4 @@
-- *Role-Based Access Control*
+- *Role-Based [[Access Control]]*
 	- 각 사용자 대신에 역할(직무)에 접근 권한 할당
 	- 상업적으로 회사, 기관, 조직에서 많이 쓰임
 	- 사용자, 역할, 자원의 관계는 many to many
