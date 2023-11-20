@@ -27,6 +27,6 @@
 	- 권한 DB에 저장되며 보안 admin이 관리 (SA)
 	- 종류
 		- [[DAC]] (Discretionary Access Control)
-		- [[MAC (Mandatory Access Control)]]
+		- MAC (Mandatory Access Control)
 		- [[RBAC]] (Role-Based Access Control)
 		- [[ABAC]] (Attribute-Based Access Control)

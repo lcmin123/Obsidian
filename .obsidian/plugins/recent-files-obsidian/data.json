@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "RBAC",
-      "path": "3학년 2학기/컴퓨터 보안/기말/RBAC.md"
+      "basename": "ABAC",
+      "path": "3학년 2학기/컴퓨터 보안/기말/ABAC.md"
+    },
+    {
+      "basename": "Access Control",
+      "path": "3학년 2학기/컴퓨터 보안/기말/Access Control.md"
     },
     {
       "basename": "DAC",
       "path": "3학년 2학기/컴퓨터 보안/기말/DAC.md"
     },
     {
-      "basename": "MAC (Mandatory Access Control)",
-      "path": "3학년 2학기/컴퓨터 보안/기말/MAC (Mandatory Access Control).md"
+      "basename": "RBAC",
+      "path": "3학년 2학기/컴퓨터 보안/기말/RBAC.md"
     },
     {
       "basename": "폼",
@@ -99,14 +103,6 @@
     {
       "basename": "1. 탐욕 기법",
       "path": "3학년 2학기/알고리즘/기말/1. 탐욕 기법.md"
-    },
-    {
-      "basename": "Access Control",
-      "path": "3학년 2학기/컴퓨터 보안/기말/Access Control.md"
-    },
-    {
-      "basename": "ABAC",
-      "path": "3학년 2학기/컴퓨터 보안/기말/ABAC.md"
     },
     {
       "basename": "MAC(Message Aceess Control)",
