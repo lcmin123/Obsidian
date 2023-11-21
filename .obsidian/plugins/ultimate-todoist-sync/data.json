@@ -20,7 +20,98 @@
         "viewStyle": "list"
       }
     ],
-    "tasks": [],
+    "tasks": [
+      {
+        "id": "7432357629",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2323528110",
+        "sectionId": null,
+        "parentId": null,
+        "order": 5,
+        "content": "crud   ✅ 2023-11-21",
+        "description": "[#TODOIST.md](obsidian://open?vault=_notes&file=#TODOIST.md)",
+        "isCompleted": false,
+        "labels": [
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "47039912",
+        "createdAt": "2023-11-21T07:22:37.070021Z",
+        "due": {
+          "date": "2023-11-20",
+          "timezone": "Asia/Seoul",
+          "string": "2023-11-21 08:00",
+          "lang": "en",
+          "isRecurring": false,
+          "datetime": "2023-11-20T23:00:00Z"
+        },
+        "url": "https://todoist.com/showTask?id=7432357629",
+        "duration": null,
+        "path": "#TODOIST.md"
+      },
+      {
+        "id": "7432361687",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2323528110",
+        "sectionId": null,
+        "parentId": null,
+        "order": 7,
+        "content": "알고 lms, 퀴즈",
+        "description": "[#TODOIST.md](obsidian://open?vault=_notes&file=#TODOIST.md)",
+        "isCompleted": false,
+        "labels": [
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "47039912",
+        "createdAt": "2023-11-21T07:24:08.333115Z",
+        "due": {
+          "date": "2023-11-20",
+          "timezone": "Asia/Seoul",
+          "string": "2023-11-21 08:00",
+          "lang": "en",
+          "isRecurring": false,
+          "datetime": "2023-11-20T23:00:00Z"
+        },
+        "url": "https://todoist.com/showTask?id=7432361687",
+        "duration": null,
+        "path": "#TODOIST.md"
+      },
+      {
+        "id": "7432361265",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2323528110",
+        "sectionId": null,
+        "parentId": null,
+        "order": 6,
+        "content": "udemy",
+        "description": "[#TODOIST.md](obsidian://open?vault=_notes&file=#TODOIST.md)",
+        "isCompleted": false,
+        "labels": [
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "47039912",
+        "createdAt": "2023-11-21T07:23:54.854246Z",
+        "due": {
+          "date": "2023-11-20",
+          "timezone": "Asia/Seoul",
+          "string": "2023-11-21 08:00",
+          "lang": "en",
+          "isRecurring": false,
+          "datetime": "2023-11-20T23:00:00Z"
+        },
+        "url": "https://todoist.com/showTask?id=7432361265",
+        "duration": null,
+        "path": "#TODOIST.md"
+      }
+    ],
     "events": [
       {
         "event_date": "2023-11-13T06:47:07.000000Z",
@@ -70,13 +161,171 @@
         "object_type": "item",
         "parent_item_id": null,
         "parent_project_id": "2323528110"
+      },
+      {
+        "event_date": "2023-11-21T07:23:15.000000Z",
+        "event_type": "completed",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "crud   ✅ 2023-11-21",
+          "note_count": 0
+        },
+        "extra_data_id": 22139839471,
+        "id": 22053547569,
+        "initiator_id": null,
+        "object_id": "7432357629",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2323528110"
+      },
+      {
+        "event_date": "2023-11-21T07:23:43.000000Z",
+        "event_type": "uncompleted",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "crud",
+          "note_count": 0
+        },
+        "extra_data_id": 22139843095,
+        "id": 22053551194,
+        "initiator_id": null,
+        "object_id": "7432357629",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2323528110"
+      },
+      {
+        "event_date": "2023-11-21T07:24:20.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "udemy",
+          "due_date": "2023-11-20T23:00:00.000000Z",
+          "last_due_date": null,
+          "note_count": 0
+        },
+        "extra_data_id": 22139847914,
+        "id": 22053556015,
+        "initiator_id": null,
+        "object_id": "7432361265",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2323528110"
+      },
+      {
+        "event_date": "2023-11-21T07:24:20.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "udemy",
+          "last_content": "udemy   🗓️202-11-21",
+          "note_count": 0
+        },
+        "extra_data_id": 22139847913,
+        "id": 22053556013,
+        "initiator_id": null,
+        "object_id": "7432361265",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2323528110"
+      },
+      {
+        "event_date": "2023-11-21T07:24:18.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "알고 lms, 퀴즈",
+          "due_date": "2023-11-20T23:00:00.000000Z",
+          "last_due_date": null,
+          "note_count": 0
+        },
+        "extra_data_id": 22139847534,
+        "id": 22053555631,
+        "initiator_id": null,
+        "object_id": "7432361687",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2323528110"
+      },
+      {
+        "event_date": "2023-11-21T07:24:01.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "udemy   🗓️202-11-21",
+          "last_content": "udemy",
+          "note_count": 0
+        },
+        "extra_data_id": 22139845693,
+        "id": 22053553791,
+        "initiator_id": null,
+        "object_id": "7432361265",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2323528110"
+      },
+      {
+        "event_date": "2023-11-21T07:23:41.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "crud",
+          "last_content": "crud   ✅ 2023-11-21",
+          "note_count": 0
+        },
+        "extra_data_id": 22139842912,
+        "id": 22053551010,
+        "initiator_id": null,
+        "object_id": "7432357629",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2323528110"
+      },
+      {
+        "event_date": "2023-11-21T07:23:41.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "crud",
+          "due_date": "2023-11-20T23:00:00.000000Z",
+          "last_due_date": null,
+          "note_count": 0
+        },
+        "extra_data_id": 22139842906,
+        "id": 22053551004,
+        "initiator_id": null,
+        "object_id": "7432357629",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2323528110"
+      },
+      {
+        "event_date": "2023-11-21T07:23:14.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "crud   ✅ 2023-11-21",
+          "last_content": "crud",
+          "note_count": 0
+        },
+        "extra_data_id": 22139839334,
+        "id": 22053547430,
+        "initiator_id": null,
+        "object_id": "7432357629",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2323528110"
       }
     ]
   },
   "fileMetadata": {
     "#TODOIST.md": {
-      "todoistTasks": [],
-      "todoistCount": 0
+      "todoistTasks": [
+        "7432357629",
+        "7432361265",
+        "7432361687"
+      ],
+      "todoistCount": 3
     },
     "프론트엔드/유데미/섹션 3, 4, 5, 6 - HTML/폼.md": {
       "todoistTasks": [],

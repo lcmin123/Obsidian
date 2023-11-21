@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "#TODOIST",
+      "path": "#TODOIST.md"
+    },
+    {
       "basename": "ABAC",
       "path": "3학년 2학기/컴퓨터 보안/기말/ABAC.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "Digital Garden",
       "path": "Digital Garden.md"
-    },
-    {
-      "basename": "#TODOIST",
-      "path": "#TODOIST.md"
     },
     {
       "basename": "3. Instance and initialize",
