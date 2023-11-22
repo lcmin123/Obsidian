@@ -31,7 +31,7 @@
         "order": 5,
         "content": "crud   ✅ 2023-11-21",
         "description": "[#TODOIST.md](obsidian://open?vault=_notes&file=#TODOIST.md)",
-        "isCompleted": false,
+        "isCompleted": true,
         "labels": [
           "todoist"
         ],
@@ -61,7 +61,7 @@
         "order": 7,
         "content": "알고 lms, 퀴즈",
         "description": "[#TODOIST.md](obsidian://open?vault=_notes&file=#TODOIST.md)",
-        "isCompleted": false,
+        "isCompleted": true,
         "labels": [
           "todoist"
         ],
@@ -91,7 +91,7 @@
         "order": 6,
         "content": "udemy",
         "description": "[#TODOIST.md](obsidian://open?vault=_notes&file=#TODOIST.md)",
-        "isCompleted": false,
+        "isCompleted": true,
         "labels": [
           "todoist"
         ],
@@ -312,6 +312,54 @@
         "id": 22053547430,
         "initiator_id": null,
         "object_id": "7432357629",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2323528110"
+      },
+      {
+        "event_date": "2023-11-22T06:27:32.000000Z",
+        "event_type": "completed",
+        "extra_data": {
+          "client": "Mozilla/5.0; Todoist/4617",
+          "content": "crud",
+          "note_count": 0
+        },
+        "extra_data_id": 22152325110,
+        "id": 22066033056,
+        "initiator_id": null,
+        "object_id": "7432357629",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2323528110"
+      },
+      {
+        "event_date": "2023-11-22T06:27:31.000000Z",
+        "event_type": "completed",
+        "extra_data": {
+          "client": "Mozilla/5.0; Todoist/4617",
+          "content": "udemy",
+          "note_count": 0
+        },
+        "extra_data_id": 22152324973,
+        "id": 22066032918,
+        "initiator_id": null,
+        "object_id": "7432361265",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2323528110"
+      },
+      {
+        "event_date": "2023-11-22T06:27:30.000000Z",
+        "event_type": "completed",
+        "extra_data": {
+          "client": "Mozilla/5.0; Todoist/4617",
+          "content": "알고 lms, 퀴즈",
+          "note_count": 0
+        },
+        "extra_data_id": 22152324841,
+        "id": 22066032786,
+        "initiator_id": null,
+        "object_id": "7432361687",
         "object_type": "item",
         "parent_item_id": null,
         "parent_project_id": "2323528110"
