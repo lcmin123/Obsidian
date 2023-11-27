@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기/컴퓨터 보안/기말/Kerberos.md",
+                "file": "3학년 2학기/컴퓨터 보안/기말/PGP.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3학년 2학기/컴퓨터 보안/기말/Kerberos.md",
+                "file": "3학년 2학기/컴퓨터 보안/기말/PGP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3학년 2학기/컴퓨터 보안/기말/Kerberos.md",
+                "file": "3학년 2학기/컴퓨터 보안/기말/PGP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기/컴퓨터 보안/기말/Kerberos.md"
+                "file": "3학년 2학기/컴퓨터 보안/기말/PGP.md"
               }
             }
           },
@@ -206,8 +206,8 @@
   },
   "active": "2898d43cb6d6b8eb",
   "lastOpenFiles": [
-    "Attached Files/Pasted image 20231127142623.png",
     "3학년 2학기/컴퓨터 보안/기말/Kerberos.md",
+    "Attached Files/Pasted image 20231127142623.png",
     "3학년 2학기/컴퓨터 보안/기말/SSL.TLS.md",
     "#TODOIST.md",
     "프론트엔드/유데미/섹션 3, 4, 5, 6 - HTML/폼.md",
