@@ -35,5 +35,7 @@
 		   세션키1과 티켓을 K(user-AS)로 암호화하여 보낸다 →대칭키
 		3. 사용자는 받은 2를 K(user-AS)로 복호화해서 세션키1 K(user-TGS)와 티켓을 얻는다
 		   UserID를 세션키1로 암호화하여 티켓과 함께 TGS로 보낸다
-		4. 
+		4. TGS는 받은 3을 K(user-TGS)와 K(AS-TGS)로 복호화하여 User정보와 요구내용 확인
+		   사용자와 서버간의 통신을 위한 세션키2 K(user-server) 생성
+		   세션키2, UserID를 
 
