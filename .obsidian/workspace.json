@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기/컴퓨터 보안/기말/PGP.md",
+                "file": "3학년 2학기/컴퓨터 보안/기말/S MIME.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3학년 2학기/컴퓨터 보안/기말/PGP.md",
+                "file": "3학년 2학기/컴퓨터 보안/기말/S MIME.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3학년 2학기/컴퓨터 보안/기말/PGP.md",
+                "file": "3학년 2학기/컴퓨터 보안/기말/S MIME.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기/컴퓨터 보안/기말/PGP.md"
+                "file": "3학년 2학기/컴퓨터 보안/기말/S MIME.md"
               }
             }
           },
@@ -206,8 +206,10 @@
   },
   "active": "2898d43cb6d6b8eb",
   "lastOpenFiles": [
-    "3학년 2학기/컴퓨터 보안/중간/MAC(Message Aceess Control).md",
+    "Attached Files/Pasted image 20231127160817.png",
     "3학년 2학기/컴퓨터 보안/기말/PGP.md",
+    "3학년 2학기/컴퓨터 보안/기말/S MIME.md",
+    "3학년 2학기/컴퓨터 보안/중간/MAC(Message Aceess Control).md",
     "Attached Files/Pasted image 20231127160109.png",
     "Attached Files/Pasted image 20231127155528.png",
     "3학년 2학기/컴퓨터 보안/기말/Kerberos.md",
@@ -235,8 +237,6 @@
     "3학년 2학기/객체1/C++/lab/lab0704b.md",
     "3학년 2학기/객체1/C++/lab/lab0704.md",
     "프론트엔드/유데미/섹션 16/{JS의 의사결정}.md",
-    "프론트엔드/유데미/섹션 14, 15 - JS Primary/{JS 기본 요소 및 콘솔}.md",
-    "3학년 2학기/객체1/C/lab/lab2511.md",
     "Attached Files/Pasted image 20231115122035.png",
     "Attached Files/Pasted image 20231115121335.png",
     "Attached Files/Pasted image 20231115121242.png",
