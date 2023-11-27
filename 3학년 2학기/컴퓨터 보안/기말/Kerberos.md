@@ -39,5 +39,8 @@
 		   사용자와 서버간의 통신을 위한 세션키2 K(user-server) 생성
 		   세션키2, UserID를 K(TGS-server)로 암호화하여 사용자에게 발급할 티켓 생성
 		   세션키2와 티켓을 K(user-TGS)로 암호화하여 보낸다
-		5. 사용자는 받은 4를 K(user-TGS)로 복호화하여 
+		5. 사용자는 받은 4를 K(user-TGS)로 복호화하여 세션키2 K(user-server)와 티켓(user,server)를 얻는다.
+		   서버에게 K(user-server)로 암호화한 UserID와 티켓을 전송한다
+		6. 서버는 받는 5의 티켓을 K(TGS-server)로 복호화하여 세션키2 K(user-server)를 얻는다
+		   UserID를 복호화하여 사용자 확인을 한다
 
