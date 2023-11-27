@@ -29,5 +29,7 @@
 		- 해당 서버 관리하는 TGS 찾는다
 		- AS에 TGS에 보낼 티켓 요청
 	- 진행 과정
-	1. 
+		1. 사용자는 AS에게 UserID, TGS 이름을 K(user-AS)로 암호화하여 보낸다
+		2. AS는 User와 TGS간의 통신을 위한 세션키1 K(user-TGS)를 생성
+		3. 세션키1, UserID를 K(AG-TGS)로 
 
