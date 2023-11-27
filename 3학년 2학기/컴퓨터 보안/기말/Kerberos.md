@@ -37,5 +37,7 @@
 		   UserID를 세션키1로 암호화하여 티켓과 함께 TGS로 보낸다
 		4. TGS는 받은 3을 K(user-TGS)와 K(AS-TGS)로 복호화하여 User정보와 요구내용 확인
 		   사용자와 서버간의 통신을 위한 세션키2 K(user-server) 생성
-		   세션키2, UserID를 
+		   세션키2, UserID를 K(TGS-server)로 암호화하여 사용자에게 발급할 티켓 생성
+		   세션키2와 티켓을 K(user-TGS)로 암호화하여 보낸다
+		5. 사용자는 받은 4를 K(user-TGS)로 복호화하여 
 
