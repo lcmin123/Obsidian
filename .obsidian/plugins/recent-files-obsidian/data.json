@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Kerberos",
+      "path": "3학년 2학기/컴퓨터 보안/기말/Kerberos.md"
+    },
+    {
+      "basename": "SSL.TLS",
+      "path": "3학년 2학기/컴퓨터 보안/기말/SSL.TLS.md"
+    },
+    {
       "basename": "#TODOIST",
       "path": "#TODOIST.md"
     },
@@ -191,10 +199,6 @@
     {
       "basename": "String",
       "path": "프론트엔드/유데미/섹션 14, 15 - JS Primary/String.md"
-    },
-    {
-      "basename": "Boolean",
-      "path": "프론트엔드/유데미/섹션 14, 15 - JS Primary/Boolean.md"
     }
   ],
   "omittedPaths": [],
