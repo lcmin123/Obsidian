@@ -1,4 +1,3 @@
-
 유의 개념 : [[CA]]
 - Key Distribution Centre
 	- for symmetric key cryptography
@@ -13,3 +12,14 @@
 			- KDC가 고장나면 전혀 서비스 불가
 			- 해결책 : mirror server 가동
 			  →서버와 미러서버 간의 consistency 문제 발생 가능
+		- KDC가 공격되면 모든 비밀키가 노출될 수 있음
+		- KDC의 신뢰성이 매우 중요
+		- KDC에 대한 병목현상 발생
+- Hiercarchial Key Control
+	- 단일 KDC는 대규모 네트워크에서 비효율적
+	- KDC를 계층화
+		- local [[KDC]] 
+			- 같은 domain 내 통신시 키 분배
+		- global [[KDC]] 
+			- 다른 domain 간의 통신시 키 선택
+		- KDC 손상 시 local에 한정
