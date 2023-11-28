@@ -5,12 +5,12 @@
       "path": "3학년 2학기/컴퓨터 보안/기말/KDC.md"
     },
     {
-      "basename": "Session",
-      "path": "3학년 2학기/컴퓨터 보안/기말/Session.md"
-    },
-    {
       "basename": "CA",
       "path": "3학년 2학기/컴퓨터 보안/기말/CA.md"
+    },
+    {
+      "basename": "Session",
+      "path": "3학년 2학기/컴퓨터 보안/기말/Session.md"
     },
     {
       "basename": "PKI",
