@@ -1,3 +1,4 @@
+유의 개념 : [[KDC]]
 Certification Authorities (공인인증센터)
 
 - for public key cryptography

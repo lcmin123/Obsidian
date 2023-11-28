@@ -1,28 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "S MIME",
-      "path": "3학년 2학기/컴퓨터 보안/기말/S MIME.md"
+      "basename": "KDC",
+      "path": "3학년 2학기/컴퓨터 보안/기말/KDC.md"
+    },
+    {
+      "basename": "CA",
+      "path": "3학년 2학기/컴퓨터 보안/기말/CA.md"
+    },
+    {
+      "basename": "PKI",
+      "path": "3학년 2학기/컴퓨터 보안/기말/PKI.md"
     },
     {
       "basename": "PGP",
       "path": "3학년 2학기/컴퓨터 보안/기말/PGP.md"
     },
     {
-      "basename": "MAC(Message Aceess Control)",
-      "path": "3학년 2학기/컴퓨터 보안/중간/MAC(Message Aceess Control).md"
+      "basename": "SSL.TLS",
+      "path": "3학년 2학기/컴퓨터 보안/기말/SSL.TLS.md"
     },
     {
       "basename": "Kerberos",
       "path": "3학년 2학기/컴퓨터 보안/기말/Kerberos.md"
     },
     {
-      "basename": "Pasted image 20231127142623",
-      "path": "Attached Files/Pasted image 20231127142623.png"
+      "basename": "\bCommon DRM Business Model",
+      "path": "3학년 2학기/컴퓨터 보안/기말/\bCommon DRM Business Model.md"
     },
     {
-      "basename": "SSL.TLS",
-      "path": "3학년 2학기/컴퓨터 보안/기말/SSL.TLS.md"
+      "basename": "S MIME",
+      "path": "3학년 2학기/컴퓨터 보안/기말/S MIME.md"
+    },
+    {
+      "basename": "MAC(Message Aceess Control)",
+      "path": "3학년 2학기/컴퓨터 보안/중간/MAC(Message Aceess Control).md"
+    },
+    {
+      "basename": "Pasted image 20231127142623",
+      "path": "Attached Files/Pasted image 20231127142623.png"
     },
     {
       "basename": "#TODOIST",
@@ -157,14 +173,6 @@
       "path": "3학년 2학기/컴퓨터 보안/기말/공인인증서.md"
     },
     {
-      "basename": "\bCA",
-      "path": "3학년 2학기/컴퓨터 보안/기말/\bCA.md"
-    },
-    {
-      "basename": "\bCommon DRM Business Model",
-      "path": "3학년 2학기/컴퓨터 보안/기말/\bCommon DRM Business Model.md"
-    },
-    {
       "basename": "\bDRM",
       "path": "3학년 2학기/컴퓨터 보안/기말/\bDRM.md"
     },
@@ -187,18 +195,6 @@
     {
       "basename": "head",
       "path": "프론트엔드/유데미/섹션 3, 4, 5, 6 - HTML/head.md"
-    },
-    {
-      "basename": "body",
-      "path": "프론트엔드/유데미/섹션 3, 4, 5, 6 - HTML/body.md"
-    },
-    {
-      "basename": "섹션 16",
-      "path": "프론트엔드/유데미/섹션 16/섹션 16.md"
-    },
-    {
-      "basename": "섹션 14, 15 - JS Primary",
-      "path": "프론트엔드/유데미/섹션 14, 15 - JS Primary/섹션 14, 15 - JS Primary.md"
     }
   ],
   "omittedPaths": [],

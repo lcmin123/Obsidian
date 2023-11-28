@@ -1,4 +1,4 @@
-
+유의 개념 : [[CA]]
 
 - for symmetric key cryptography
 - 장점

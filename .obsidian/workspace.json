@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기/컴퓨터 보안/기말/S MIME.md",
+                "file": "3학년 2학기/컴퓨터 보안/기말/KDC.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3학년 2학기/컴퓨터 보안/기말/S MIME.md",
+                "file": "3학년 2학기/컴퓨터 보안/기말/KDC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3학년 2학기/컴퓨터 보안/기말/S MIME.md",
+                "file": "3학년 2학기/컴퓨터 보안/기말/KDC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기/컴퓨터 보안/기말/S MIME.md"
+                "file": "3학년 2학기/컴퓨터 보안/기말/KDC.md"
               }
             }
           },
@@ -206,15 +206,20 @@
   },
   "active": "2898d43cb6d6b8eb",
   "lastOpenFiles": [
-    "Attached Files/Pasted image 20231127160817.png",
+    "3학년 2학기/컴퓨터 보안/기말/CA.md",
+    "3학년 2학기/컴퓨터 보안/기말/KDC.md",
+    "3학년 2학기/컴퓨터 보안/기말/\bCA.md",
+    "3학년 2학기/컴퓨터 보안/기말/PKI.md",
     "3학년 2학기/컴퓨터 보안/기말/PGP.md",
+    "3학년 2학기/컴퓨터 보안/기말/SSL.TLS.md",
+    "3학년 2학기/컴퓨터 보안/기말/Kerberos.md",
+    "3학년 2학기/컴퓨터 보안/기말/\bCommon DRM Business Model.md",
     "3학년 2학기/컴퓨터 보안/기말/S MIME.md",
+    "Attached Files/Pasted image 20231127160817.png",
     "3학년 2학기/컴퓨터 보안/중간/MAC(Message Aceess Control).md",
     "Attached Files/Pasted image 20231127160109.png",
     "Attached Files/Pasted image 20231127155528.png",
-    "3학년 2학기/컴퓨터 보안/기말/Kerberos.md",
     "Attached Files/Pasted image 20231127142623.png",
-    "3학년 2학기/컴퓨터 보안/기말/SSL.TLS.md",
     "#TODOIST.md",
     "프론트엔드/유데미/섹션 3, 4, 5, 6 - HTML/폼.md",
     "알고 과제 9.md",
@@ -233,15 +238,10 @@
     "3학년 2학기/객체1/C++/3. Instance and initialize.md",
     "3학년 2학기/데이터베이스 설계/기말/Untitled.md",
     "3학년 2학기/데이터베이스 설계/기말/transaction.md",
-    "3학년 2학기/데이터베이스 설계/기말/materialized view.md",
-    "3학년 2학기/객체1/C++/lab/lab0704b.md",
-    "3학년 2학기/객체1/C++/lab/lab0704.md",
-    "프론트엔드/유데미/섹션 16/{JS의 의사결정}.md",
     "Attached Files/Pasted image 20231115122035.png",
     "Attached Files/Pasted image 20231115121335.png",
     "Attached Files/Pasted image 20231115121242.png",
     "Attached Files/Pasted image 20231115120835.png",
-    "Attached Files/Pasted image 20231115115720.png",
     "프론트엔드/유데미/섹션 16",
     "프론트엔드/유데미/섹션 14, 15 - JS Primary",
     "todoist-backup-20231113155739.json",
