@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "CA",
-      "path": "3학년 2학기/컴퓨터 보안/기말/CA.md"
-    },
-    {
       "basename": "공인인증서",
       "path": "3학년 2학기/컴퓨터 보안/기말/공인인증서.md"
+    },
+    {
+      "basename": "전자 서명",
+      "path": "3학년 2학기/컴퓨터 보안/중간/전자 서명.md"
+    },
+    {
+      "basename": "CA",
+      "path": "3학년 2학기/컴퓨터 보안/기말/CA.md"
     },
     {
       "basename": "KDC",
@@ -195,10 +199,6 @@
     {
       "basename": "블록",
       "path": "프론트엔드/유데미/섹션 3, 4, 5, 6 - HTML/블록.md"
-    },
-    {
-      "basename": "head",
-      "path": "프론트엔드/유데미/섹션 3, 4, 5, 6 - HTML/head.md"
     }
   ],
   "omittedPaths": [],
