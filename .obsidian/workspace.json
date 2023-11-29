@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기/컴퓨터 보안/기말/PGP.md",
+                "file": "3학년 2학기/컴퓨터 보안/기말/KDC.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3학년 2학기/컴퓨터 보안/기말/PGP.md",
+                "file": "3학년 2학기/컴퓨터 보안/기말/KDC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3학년 2학기/컴퓨터 보안/기말/PGP.md",
+                "file": "3학년 2학기/컴퓨터 보안/기말/KDC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기/컴퓨터 보안/기말/PGP.md"
+                "file": "3학년 2학기/컴퓨터 보안/기말/KDC.md"
               }
             }
           },
@@ -206,10 +206,13 @@
   },
   "active": "2898d43cb6d6b8eb",
   "lastOpenFiles": [
+    "Attached Files/Pasted image 20231129225437.png",
+    "3학년 2학기/컴퓨터 보안/기말/CA.md",
+    "3학년 2학기/컴퓨터 보안/기말/KDC.md",
+    "3학년 2학기/컴퓨터 보안/기말/PGP.md",
     "3학년 2학기/컴퓨터 보안/기말/Steganography.md",
     "3학년 2학기/컴퓨터 보안/기말/DRM.md",
     "3학년 2학기/컴퓨터 보안/기말/Common DRM Business Model.md",
-    "3학년 2학기/컴퓨터 보안/기말/PGP.md",
     "3학년 2학기/컴퓨터 보안/기말/기말.md",
     "3학년 2학기/알고리즘/기말/크루스칼 알고리즘.md",
     "3학년 2학기/알고리즘/기말/프림 알고리즘.md",
@@ -223,11 +226,9 @@
     "3학년 2학기/컴퓨터 보안/기말/DiffieHellman.md",
     "3학년 2학기/컴퓨터 보안/기말/공인인증서.md",
     "3학년 2학기/컴퓨터 보안/중간/전자 서명.md",
-    "3학년 2학기/컴퓨터 보안/기말/CA.md",
     "Attached Files/Pasted image 20231128104714.png",
     "Attached Files/Pasted image 20231128104412.png",
     "Attached Files/Pasted image 20231128104247.png",
-    "3학년 2학기/컴퓨터 보안/기말/KDC.md",
     "Attached Files/Pasted image 20231128102843.png",
     "3학년 2학기/컴퓨터 보안/기말/Session.md",
     "Attached Files/Pasted image 20231128102655.png",
@@ -242,7 +243,6 @@
     "#TODOIST.md",
     "알고 과제 9.md",
     "프론트엔드/유데미/유데미.md",
-    "3학년 2학기/컴퓨터 보안/기말/ABAC.md",
     "프론트엔드/유데미/섹션 16",
     "프론트엔드/유데미/섹션 14, 15 - JS Primary",
     "todoist-backup-20231113155739.json",
