@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "PGP",
+      "path": "3학년 2학기/컴퓨터 보안/기말/PGP.md"
+    },
+    {
+      "basename": "Steganography",
+      "path": "3학년 2학기/컴퓨터 보안/기말/Steganography.md"
+    },
+    {
+      "basename": "DRM",
+      "path": "3학년 2학기/컴퓨터 보안/기말/DRM.md"
+    },
+    {
+      "basename": "Common DRM Business Model",
+      "path": "3학년 2학기/컴퓨터 보안/기말/Common DRM Business Model.md"
+    },
+    {
       "basename": "크루스칼 알고리즘",
       "path": "3학년 2학기/알고리즘/기말/크루스칼 알고리즘.md"
     },
@@ -55,14 +71,6 @@
     {
       "basename": "PKI",
       "path": "3학년 2학기/컴퓨터 보안/기말/PKI.md"
-    },
-    {
-      "basename": "PGP",
-      "path": "3학년 2학기/컴퓨터 보안/기말/PGP.md"
-    },
-    {
-      "basename": "\bCommon DRM Business Model",
-      "path": "3학년 2학기/컴퓨터 보안/기말/\bCommon DRM Business Model.md"
     },
     {
       "basename": "S MIME",
@@ -181,10 +189,6 @@
       "path": "3학년 2학기/알고리즘/기말/1. 탐욕 기법.md"
     },
     {
-      "basename": "\bSteganography",
-      "path": "3학년 2학기/컴퓨터 보안/기말/\bSteganography.md"
-    },
-    {
       "basename": "DH기출5",
       "path": "3학년 2학기/컴퓨터 보안/족보 기말/DH기출5.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "DH기출2",
       "path": "3학년 2학기/컴퓨터 보안/족보 기말/DH기출2.md"
-    },
-    {
-      "basename": "DH기출1",
-      "path": "3학년 2학기/컴퓨터 보안/족보 기말/DH기출1.md"
     }
   ],
   "omittedPaths": [],

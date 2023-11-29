@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기/알고리즘/기말/크루스칼 알고리즘.md",
+                "file": "3학년 2학기/컴퓨터 보안/기말/PGP.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3학년 2학기/알고리즘/기말/크루스칼 알고리즘.md",
+                "file": "3학년 2학기/컴퓨터 보안/기말/PGP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3학년 2학기/알고리즘/기말/크루스칼 알고리즘.md",
+                "file": "3학년 2학기/컴퓨터 보안/기말/PGP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기/알고리즘/기말/크루스칼 알고리즘.md"
+                "file": "3학년 2학기/컴퓨터 보안/기말/PGP.md"
               }
             }
           },
@@ -197,15 +197,21 @@
       "command-palette:명령어 팔레트 열기": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "digitalgarden:Digital Garden Publication Center": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "templater-obsidian:Templater": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
       "random-note:랜덤 노트 열기": false,
-      "workspaces:작업 공간 레이아웃 관리": false
+      "workspaces:작업 공간 레이아웃 관리": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "2898d43cb6d6b8eb",
   "lastOpenFiles": [
+    "3학년 2학기/컴퓨터 보안/기말/Steganography.md",
+    "3학년 2학기/컴퓨터 보안/기말/DRM.md",
+    "3학년 2학기/컴퓨터 보안/기말/Common DRM Business Model.md",
+    "3학년 2학기/컴퓨터 보안/기말/PGP.md",
+    "3학년 2학기/컴퓨터 보안/기말/기말.md",
+    "3학년 2학기/알고리즘/기말/크루스칼 알고리즘.md",
     "3학년 2학기/알고리즘/기말/프림 알고리즘.md",
     "프론트엔드/유데미/섹션 3, 4, 5, 6 - HTML/폼.md",
     "프론트엔드/유데미/섹션 25/Call Stack.md",
@@ -227,8 +233,6 @@
     "Attached Files/Pasted image 20231128102655.png",
     "3학년 2학기/컴퓨터 보안/기말/\bCA.md",
     "3학년 2학기/컴퓨터 보안/기말/PKI.md",
-    "3학년 2학기/컴퓨터 보안/기말/PGP.md",
-    "3학년 2학기/컴퓨터 보안/기말/\bCommon DRM Business Model.md",
     "3학년 2학기/컴퓨터 보안/기말/S MIME.md",
     "Attached Files/Pasted image 20231127160817.png",
     "3학년 2학기/컴퓨터 보안/중간/MAC(Message Aceess Control).md",
@@ -239,10 +243,6 @@
     "알고 과제 9.md",
     "프론트엔드/유데미/유데미.md",
     "3학년 2학기/컴퓨터 보안/기말/ABAC.md",
-    "3학년 2학기/컴퓨터 보안/기말/RBAC.md",
-    "3학년 2학기/컴퓨터 보안/기말/DAC.md",
-    "3학년 2학기/컴퓨터 보안/기말/Access Control*.md",
-    "3학년 2학기/컴퓨터 보안/기말/Access Control.md",
     "프론트엔드/유데미/섹션 16",
     "프론트엔드/유데미/섹션 14, 15 - JS Primary",
     "todoist-backup-20231113155739.json",
