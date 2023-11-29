@@ -17,5 +17,5 @@
 	- Alice가 Bob의 공개 키를 원할 때
 	- Bob의 인증서를 획득합니다.
 	- CA의 공개 키를 Bob의 인증서에 적용하여 Bob의 공개 키를 획득합니다.
-- CA의 역할
-	- ![[Pasted image 20231128104714.png]]
+- CA의 역할![[Pasted image 20231128104714.png]]
+- 
