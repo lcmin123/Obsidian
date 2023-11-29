@@ -2,13 +2,14 @@
 - Key Distribution Centre
 	- for symmetric key cryptography
 	- how to determine a shared secret key
+	- 대칭키 유지 및 관리 부하![[Pasted image 20231129225727.png]]
 	- ![[Pasted image 20231128102843.png]]
-	- 중앙의 신뢰할 수 있는 키관리, 분배 책임 주체
-	- 사용자들은 KDC 등록 신청 하면, KDC가 각 사용자들과 비밀 키 공유
-	- Operation
-	- ![[Pasted image 20231129225437.png]]
+		- 중앙의 신뢰할 수 있는 키관리, 분배 책임 주체
+		- 사용자들은 KDC 등록 신청 하면, KDC가 각 사용자들과 비밀 키 공유
+	- Operation![[Pasted image 20231129225437.png]]
 		- Alice와 Bob은 [[KDC]]와의 통신을 위한 K(A-KDC), K(B-KDC)를 알고 있다. 
-		- Alice는 KDC와 통신하여 
+		- Alice는 KDC와 통신하여 세션키 R1과 K(B-KDC)(A,R1)을 얻는다
+		- Alice는 Bob에게 K(B-KDC)를 보내고, Bob은 R1을 추출해낸다
 	- 장점
 		- 빠르다. 대칭키를 효율적으로 관리 (**CA와의 차이점**)
 	- 단점

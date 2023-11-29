@@ -2,7 +2,7 @@
 - Certification Authorities (공인인증센터)
 	- for public key cryptography
 	- how to obtain other’s true public key
-	- 사용자들의 공개키를 저장하고 관리
+	- 사용자들의 공개키를 저장하고 관리 
 	- 시용자들이 요청시 해당 **공개키를 서명해서 전송** 
 	  →[[공인인증서]]의 발급과 관리
 	- 전자서명을 위해선 신뢰성 있는 공개키 보관 장소가 필요

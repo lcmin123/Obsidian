@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기/컴퓨터 보안/기말/KDC.md",
+                "file": "3학년 2학기/컴퓨터 보안/기말/CA.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3학년 2학기/컴퓨터 보안/기말/KDC.md",
+                "file": "3학년 2학기/컴퓨터 보안/기말/CA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3학년 2학기/컴퓨터 보안/기말/KDC.md",
+                "file": "3학년 2학기/컴퓨터 보안/기말/CA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기/컴퓨터 보안/기말/KDC.md"
+                "file": "3학년 2학기/컴퓨터 보안/기말/CA.md"
               }
             }
           },
@@ -206,9 +206,11 @@
   },
   "active": "2898d43cb6d6b8eb",
   "lastOpenFiles": [
-    "Attached Files/Pasted image 20231129225437.png",
-    "3학년 2학기/컴퓨터 보안/기말/CA.md",
     "3학년 2학기/컴퓨터 보안/기말/KDC.md",
+    "Attached Files/Pasted image 20231129225727.png",
+    "3학년 2학기/컴퓨터 보안/기말/PKI.md",
+    "3학년 2학기/컴퓨터 보안/기말/CA.md",
+    "Attached Files/Pasted image 20231129225437.png",
     "3학년 2학기/컴퓨터 보안/기말/PGP.md",
     "3학년 2학기/컴퓨터 보안/기말/Steganography.md",
     "3학년 2학기/컴퓨터 보안/기말/DRM.md",
@@ -233,13 +235,10 @@
     "3학년 2학기/컴퓨터 보안/기말/Session.md",
     "Attached Files/Pasted image 20231128102655.png",
     "3학년 2학기/컴퓨터 보안/기말/\bCA.md",
-    "3학년 2학기/컴퓨터 보안/기말/PKI.md",
     "3학년 2학기/컴퓨터 보안/기말/S MIME.md",
     "Attached Files/Pasted image 20231127160817.png",
     "3학년 2학기/컴퓨터 보안/중간/MAC(Message Aceess Control).md",
     "Attached Files/Pasted image 20231127160109.png",
-    "Attached Files/Pasted image 20231127155528.png",
-    "Attached Files/Pasted image 20231127142623.png",
     "#TODOIST.md",
     "알고 과제 9.md",
     "프론트엔드/유데미/유데미.md",
