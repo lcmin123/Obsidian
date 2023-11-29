@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "크루스칼 알고리즘",
+      "path": "3학년 2학기/알고리즘/기말/크루스칼 알고리즘.md"
+    },
+    {
+      "basename": "프림 알고리즘",
+      "path": "3학년 2학기/알고리즘/기말/프림 알고리즘.md"
+    },
+    {
       "basename": "폼",
       "path": "프론트엔드/유데미/섹션 3, 4, 5, 6 - HTML/폼.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "DH기출1",
       "path": "3학년 2학기/컴퓨터 보안/족보 기말/DH기출1.md"
-    },
-    {
-      "basename": "\bDRM",
-      "path": "3학년 2학기/컴퓨터 보안/기말/\bDRM.md"
-    },
-    {
-      "basename": "섹션 3, 4, 5, 6 - HTML",
-      "path": "프론트엔드/유데미/섹션 3, 4, 5, 6 - HTML/섹션 3, 4, 5, 6 - HTML.md"
     }
   ],
   "omittedPaths": [],
