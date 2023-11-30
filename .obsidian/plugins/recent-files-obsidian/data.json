@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "KDC",
-      "path": "3학년 2학기/컴퓨터 보안/기말/KDC.md"
-    },
-    {
       "basename": "Steganography",
       "path": "3학년 2학기/컴퓨터 보안/기말/Steganography.md"
+    },
+    {
+      "basename": "DRM",
+      "path": "3학년 2학기/컴퓨터 보안/기말/DRM.md"
+    },
+    {
+      "basename": "공인인증서",
+      "path": "3학년 2학기/컴퓨터 보안/기말/공인인증서.md"
+    },
+    {
+      "basename": "Watermark",
+      "path": "3학년 2학기/컴퓨터 보안/기말/Watermark.md"
     },
     {
       "basename": "SSL.TLS",
@@ -21,52 +29,48 @@
       "path": "3학년 2학기/컴퓨터 보안/기말/S MIME.md"
     },
     {
-      "basename": "Kerberos",
-      "path": "3학년 2학기/컴퓨터 보안/기말/Kerberos.md"
-    },
-    {
-      "basename": "ABAC",
-      "path": "3학년 2학기/컴퓨터 보안/기말/ABAC.md"
-    },
-    {
-      "basename": "Access Control",
-      "path": "3학년 2학기/컴퓨터 보안/기말/Access Control.md"
-    },
-    {
       "basename": "RBAC",
       "path": "3학년 2학기/컴퓨터 보안/기말/RBAC.md"
-    },
-    {
-      "basename": "DAC",
-      "path": "3학년 2학기/컴퓨터 보안/기말/DAC.md"
-    },
-    {
-      "basename": "DiffieHellman",
-      "path": "3학년 2학기/컴퓨터 보안/기말/DiffieHellman.md"
-    },
-    {
-      "basename": "CA",
-      "path": "3학년 2학기/컴퓨터 보안/기말/CA.md"
     },
     {
       "basename": "PKI",
       "path": "3학년 2학기/컴퓨터 보안/기말/PKI.md"
     },
     {
-      "basename": "공인인증서",
-      "path": "3학년 2학기/컴퓨터 보안/기말/공인인증서.md"
-    },
-    {
       "basename": "PGP",
       "path": "3학년 2학기/컴퓨터 보안/기말/PGP.md"
     },
     {
-      "basename": "DRM",
-      "path": "3학년 2학기/컴퓨터 보안/기말/DRM.md"
+      "basename": "Kerberos",
+      "path": "3학년 2학기/컴퓨터 보안/기말/Kerberos.md"
+    },
+    {
+      "basename": "KDC",
+      "path": "3학년 2학기/컴퓨터 보안/기말/KDC.md"
+    },
+    {
+      "basename": "DiffieHellman",
+      "path": "3학년 2학기/컴퓨터 보안/기말/DiffieHellman.md"
+    },
+    {
+      "basename": "DAC",
+      "path": "3학년 2학기/컴퓨터 보안/기말/DAC.md"
     },
     {
       "basename": "Common DRM Business Model",
       "path": "3학년 2학기/컴퓨터 보안/기말/Common DRM Business Model.md"
+    },
+    {
+      "basename": "CA",
+      "path": "3학년 2학기/컴퓨터 보안/기말/CA.md"
+    },
+    {
+      "basename": "Access Control",
+      "path": "3학년 2학기/컴퓨터 보안/기말/Access Control.md"
+    },
+    {
+      "basename": "ABAC",
+      "path": "3학년 2학기/컴퓨터 보안/기말/ABAC.md"
     },
     {
       "basename": "크루스칼 알고리즘",
@@ -195,10 +199,6 @@
     {
       "basename": "DH기출4",
       "path": "3학년 2학기/컴퓨터 보안/족보 기말/DH기출4.md"
-    },
-    {
-      "basename": "DH기출2",
-      "path": "3학년 2학기/컴퓨터 보안/족보 기말/DH기출2.md"
     }
   ],
   "omittedPaths": [],
