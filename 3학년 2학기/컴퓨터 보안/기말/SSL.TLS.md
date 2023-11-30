@@ -28,4 +28,5 @@
 		- length : 메시지 길이
 		- content : 메시지 종류에 따른 값
 	- 4단계 진행
-		- Security Capabilities Est
+		- Security Capabilities Establishment 
+		- ÅıÇÎ´Ï˝ÓˆÔÒÂ˜Ø∏Œ‰Íˇ¨◊„˛Á¸ÚÆ”’¯˘¿⁄€‹›ﬁﬂ‡°·‚—±
