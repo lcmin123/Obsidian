@@ -20,6 +20,7 @@
 		- KDC가 공격되면 모든 비밀키가 노출될 수 있음
 		- KDC의 신뢰성이 매우 중요
 		- KDC에 대한 병목현상 발생
+		- 항상 Online, 관리 부하
 - Hiercarchial Key Control
 	- 단일 KDC는 대규모 네트워크에서 비효율적
 	- KDC를 계층화
