@@ -1,4 +1,4 @@
-- [[Ipsec]] 
+- [[Ipsec]] : **Network Layer**에서 IP 패킷 보호, 안전 전송
 	- 하는일
 		- IP주소 위장 방지 (출발지 인증)
 		- IP 데이터그램의 변경 및 재전송 방지
@@ -24,12 +24,12 @@
 			- 암호 알고리즘 선택 협상
 			- 키분배
 	- 모드
-		- Transport mode
+		- Transport mode![[Pasted image 20231130114307.png]]
 			- **Host → Host
 			- 관련 host들이 IPsec을 지원해야 함
 			- IP 상위 프로토콜을(TCP, Application) 안전하게 전송
 			- IP header에 IPsec header 정보 추가
-		- Tunnel mode
+		- Tunnel mode![[Pasted image 20231130114328.png]]
 			- **Host → Gateway ,Gateway → Host
 			- 터널 내의 모든 IP 트래픽 보호
 			- 터널의 시작, 종료 지점에 IPsec gateway

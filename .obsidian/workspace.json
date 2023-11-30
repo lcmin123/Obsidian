@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기/컴퓨터 보안/기말/Ipsec.md",
+                "file": "#TODOIST.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3학년 2학기/컴퓨터 보안/기말/Ipsec.md",
+                "file": "#TODOIST.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3학년 2학기/컴퓨터 보안/기말/Ipsec.md",
+                "file": "#TODOIST.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기/컴퓨터 보안/기말/Ipsec.md"
+                "file": "#TODOIST.md"
               }
             }
           },
@@ -207,14 +207,16 @@
   "active": "2898d43cb6d6b8eb",
   "lastOpenFiles": [
     "3학년 2학기/컴퓨터 보안/기말/SSL.TLS.md",
+    "3학년 2학기/컴퓨터 보안/기말/Kerberos.md",
+    "3학년 2학기/컴퓨터 보안/기말/PGP.md",
     "3학년 2학기/컴퓨터 보안/기말/Ipsec.md",
+    "Attached Files/Pasted image 20231130114328.png",
+    "Attached Files/Pasted image 20231130114307.png",
     "3학년 2학기/컴퓨터 보안/기말/DAC.md",
     "3학년 2학기/컴퓨터 보안/기말/DiffieHellman.md",
     "3학년 2학기/컴퓨터 보안/기말/DRM.md",
     "3학년 2학기/컴퓨터 보안/기말/Handshake Protocol.md",
     "3학년 2학기/컴퓨터 보안/기말/KDC.md",
-    "3학년 2학기/컴퓨터 보안/기말/Kerberos.md",
-    "3학년 2학기/컴퓨터 보안/기말/PGP.md",
     "3학년 2학기/컴퓨터 보안/기말/PKI.md",
     "3학년 2학기/컴퓨터 보안/기말/RBAC.md",
     "3학년 2학기/컴퓨터 보안/기말/S MIME.md",
@@ -236,13 +238,10 @@
     "프론트엔드/유데미/섹션 3, 4, 5, 6 - HTML/폼.md",
     "프론트엔드/유데미/섹션 25/Call Stack.md",
     "Attached Files/Pasted image 20231128135843.png",
-    "프론트엔드/유데미/섹션 25/섹션 25.md",
     "프론트엔드/유데미/섹션 25",
     "Attached Files/Pasted image 20231128104714.png",
     "Attached Files/Pasted image 20231128104412.png",
     "Attached Files/Pasted image 20231128104247.png",
-    "Attached Files/Pasted image 20231128102843.png",
-    "Attached Files/Pasted image 20231128102655.png",
     "프론트엔드/유데미/섹션 16",
     "프론트엔드/유데미/섹션 14, 15 - JS Primary",
     "todoist-backup-20231113155739.json",
