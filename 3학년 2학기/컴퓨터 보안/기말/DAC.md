@@ -1,7 +1,9 @@
 - *Discretionary [[Access Control]]*
 	- 임의 접근 제어
 	- 요청자의 신분에 따라 무엇을 할 수 있는지 정의
-		- us
+		- userA는 file 1, 3에 접근 가능
+		- userB는 file 1, 2, 3, 4에 접근 가능
+		- userC는 file 1, 2, 4에 접근 가능
 	- Window, unix 등 컴퓨터 시스템 널리 사용
 	- Access Matrix 사용 → 주체와 객체, 권한을 행렬로 표현
 	- 장점
