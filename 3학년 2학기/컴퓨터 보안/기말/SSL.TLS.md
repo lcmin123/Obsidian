@@ -27,14 +27,14 @@
 		- type : 메시지 종류
 		- length : 메시지 길이
 		- content : 메시지 종류에 따른 값
-	- 4단계 진행
+	- 4단계 진행![[Pasted image 20231130110941.png|300]]
 		- Security Capabilities Establishment 
-		¡™£¢∞§¶•ªº–≠
-		 œ∑´®†¥¨ˆøπ“‘«
-		åß∂ƒ©˙∆˚¬…æ
-		Ω≈ç√∫˜µ≤≥÷
-		
-		⁄€‹›ﬁﬂ‡°·‚—±
-		Œ„´‰ˇÁ¨ˆØ∏”’»
-		ÅÍÎÏ˝ÓÔÒÚÆ
-		¸˛Ç◊ı˜Â¯˘¿
+			- 1~3
+			- Hello 메시지 교환으로 SessionID, 키교환•인증•암호•압축 알고리즘 결정
+		- Server Authentication and Key Exchange
+			- 4~6
+			- 4: 서버의 인증서와 검증 위한 인증서체인, 공개키 전송
+			- 
+		- Client Certificate and Key Exchange 
+		- Application Phase
+
