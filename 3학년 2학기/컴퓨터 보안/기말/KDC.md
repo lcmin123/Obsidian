@@ -2,7 +2,7 @@
 - Key Distribution Centre
 	- for symmetric key cryptography
 	- how to determine a shared secret key
-	- 대칭키 유지 및 관리 부하![[Pasted image 20231129225727.png]]
+	- [[Session]]대칭키 유지 및 관리 부하
 	- ![[Pasted image 20231128102843.png]]
 		- 중앙의 신뢰할 수 있는 키관리, 분배 책임 주체
 		- 사용자들은 KDC 등록 신청 하면, KDC가 각 사용자들과 비밀 키 공유

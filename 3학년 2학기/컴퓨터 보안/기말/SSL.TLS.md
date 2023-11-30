@@ -22,28 +22,7 @@
 			- 암호, 무결성 등 보안 서비스
 			- 데이터를 인증, 암호화처리하고 메시지 송수신
 	- 인증 수행 → 세션키 분배 → 암호화 메시지 송수신 순서
-- Handshake Protocol 
-	- 3개의 필드로 이루어진 메시지 교환
-		- type : 메시지 종류
-		- length : 메시지 길이
-		- content : 메시지 종류에 따른 값
-	- 4단계 진행![[Pasted image 20231130110941.png|300]]
-		- Security Capabilities Establishment 
-			- 1~3
-			- Hello 메시지 교환으로 SessionID, 키교환•인증•암호•압축 알고리즘 결정
-		- Server Authentication and Key Exchange
-			- 4~6
-			- 4: 서버의 인증서와 검증 위한 인증서체인, 공개키 전송
-			- 5: Client 인증서 요구 (OPT)
-			- 6: 2단계 종료 메시지
-		- Client Certificate and Key Exchange 
-			- 7~9
-			- 7: Clinet 인증서 전송
-			- 8: 48byte premaster secrete 전송
-			- 9: Client 인증서 검증
-		- Application Phase(Change Ciper Specs)
-			- 10~11
-			- 암호사양 변경 메시지 교환을 통해 다음 세션에 적용될 암호 spec 결정
+- [[Handshake Protocol]]
 - Record Protocol 
 	- 단계 
 	  1. 메시지를 최대 16KB 단위로 fragment
