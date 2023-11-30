@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "transaction",
+      "path": "3학년 2학기/데이터베이스 설계/기말/transaction.md"
+    },
+    {
+      "basename": "materialized view",
+      "path": "3학년 2학기/데이터베이스 설계/기말/materialized view.md"
+    },
+    {
       "basename": "#TODOIST",
       "path": "#TODOIST.md"
     },
@@ -133,18 +141,6 @@
       "path": "3학년 2학기/객체1/C++/3. Instance and initialize.md"
     },
     {
-      "basename": "Untitled",
-      "path": "3학년 2학기/데이터베이스 설계/기말/Untitled.md"
-    },
-    {
-      "basename": "transaction",
-      "path": "3학년 2학기/데이터베이스 설계/기말/transaction.md"
-    },
-    {
-      "basename": "materialized view",
-      "path": "3학년 2학기/데이터베이스 설계/기말/materialized view.md"
-    },
-    {
       "basename": "lab0704b",
       "path": "3학년 2학기/객체1/C++/lab/lab0704b.md"
     },
@@ -195,10 +191,6 @@
     {
       "basename": "2. NP 되추적",
       "path": "3학년 2학기/알고리즘/기말/2. NP 되추적.md"
-    },
-    {
-      "basename": "1. 탐욕 기법",
-      "path": "3학년 2학기/알고리즘/기말/1. 탐욕 기법.md"
     }
   ],
   "omittedPaths": [],
