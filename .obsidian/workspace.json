@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기/컴퓨터 보안/기말/SSL.TLS.md",
+                "file": "3학년 2학기/컴퓨터 보안/기말/KDC.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3학년 2학기/컴퓨터 보안/기말/SSL.TLS.md",
+                "file": "3학년 2학기/컴퓨터 보안/기말/KDC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3학년 2학기/컴퓨터 보안/기말/SSL.TLS.md",
+                "file": "3학년 2학기/컴퓨터 보안/기말/KDC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기/컴퓨터 보안/기말/SSL.TLS.md"
+                "file": "3학년 2학기/컴퓨터 보안/기말/KDC.md"
               }
             }
           },
@@ -206,8 +206,11 @@
   },
   "active": "2898d43cb6d6b8eb",
   "lastOpenFiles": [
-    "Attached Files/Pasted image 20231130110941.png",
+    "3학년 2학기/컴퓨터 보안/기말/Steganography.md",
     "3학년 2학기/컴퓨터 보안/기말/SSL.TLS.md",
+    "3학년 2학기/컴퓨터 보안/기말/Session.md",
+    "3학년 2학기/컴퓨터 보안/기말/S MIME.md",
+    "Attached Files/Pasted image 20231130110941.png",
     "Attached Files/Pasted image 20231130102629.png",
     "3학년 2학기/컴퓨터 보안/기말/Kerberos.md",
     "3학년 2학기/컴퓨터 보안/기말/ABAC.md",
@@ -222,7 +225,6 @@
     "Attached Files/Pasted image 20231129225727.png",
     "Attached Files/Pasted image 20231129225437.png",
     "3학년 2학기/컴퓨터 보안/기말/PGP.md",
-    "3학년 2학기/컴퓨터 보안/기말/Steganography.md",
     "3학년 2학기/컴퓨터 보안/기말/DRM.md",
     "3학년 2학기/컴퓨터 보안/기말/Common DRM Business Model.md",
     "3학년 2학기/컴퓨터 보안/기말/기말.md",
@@ -238,10 +240,8 @@
     "Attached Files/Pasted image 20231128104412.png",
     "Attached Files/Pasted image 20231128104247.png",
     "Attached Files/Pasted image 20231128102843.png",
-    "3학년 2학기/컴퓨터 보안/기말/Session.md",
     "Attached Files/Pasted image 20231128102655.png",
     "3학년 2학기/컴퓨터 보안/기말/\bCA.md",
-    "3학년 2학기/컴퓨터 보안/기말/S MIME.md",
     "프론트엔드/유데미/섹션 16",
     "프론트엔드/유데미/섹션 14, 15 - JS Primary",
     "todoist-backup-20231113155739.json",
