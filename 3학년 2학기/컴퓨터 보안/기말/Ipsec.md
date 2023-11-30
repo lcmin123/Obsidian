@@ -25,12 +25,15 @@
 			- 키분배
 	- 모드
 		- Transport mode
-			- End to end between hosts
+			- **Host → Host
 			- 관련 host들이 IPsec을 지원해야 함
 			- IP 상위 프로토콜을(TCP, Application) 안전하게 전송
 			- IP header에 IPsec header 정보 추가
 		- Tunnel mode
+			- **Host → Gateway ,Gateway → Host
 			- 터널 내의 모든 IP 트래픽 보호
 			- 터널의 시작, 종료 지점에 IPsec gateway
 			- 시작 gateway에서 새 IP header와 IPsec header 추가하고, 종료 gateway에서 제거 
-			- 
+			- 내부 패킷을 검사하는 라우터 x → 터널 내부 데이터 안전하게 전송 됨
+			- 터널 모드 사용시 다른 출발지 및 목적지 주소 소유 가능
+			- 방화벽에서 구현될 수 있음
