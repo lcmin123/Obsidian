@@ -2,7 +2,14 @@
 - SSL
 	- 웹기반 전자 상거래를 위해 TCP Layer에서 메시지의 무결성과 기밀성 제공
 		- Server/Client Authentication
+			- Server -
+		- Confidentiality
+			- DES, 3DES, IDEA, RC2, RC4
+		- Integrity 
+		- 부인방지 기능은 제공 안됨 → 전자서명 사용해야
 	- Web-server와 Web-browser간 보안 (https)
+		- 단순히 서버와 브라우저간의 모든 데이터를 암호화하는 것이 안전한건 아니다
+		- Reply Attack 발생 가능
 	- Handshake(암호 spec, session 관리), 
 	  record protocols(암호, 무결성 등 보안 서비스)로 나뉜다
 	- 인증 수행 → 세션키 분배 → 암호화 메시지 송수신 순서
