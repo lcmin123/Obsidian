@@ -31,19 +31,22 @@
 	- 진행 과정![[Pasted image 20231127142623.png|]]
 		1. 
 		- 사용자는 AS에게 UserID, TGS 이름을 K(user-AS)로 암호화하여 보낸다
-		- 
-		- 
-		2. AS는 User와 TGS간의 통신을 위한 세션키1 K(user-TGS)를 생성
-		   세션키1, UserID를 K(AG-TGS)로 암호화 하여 사용자에게 발급할 티켓을 생성
-		   세션키1과 티켓을 K(user-AS)로 암호화하여 보낸다 →대칭키
-		3. 사용자는 받은 2를 K(user-AS)로 복호화해서 세션키1 K(user-TGS)와 티켓을 얻는다
-		   UserID를 세션키1로 암호화하여 티켓과 함께 TGS로 보낸다
-		4. TGS는 받은 3을 K(user-TGS)와 K(AS-TGS)로 복호화하여 User정보와 요구내용 확인
-		   사용자와 서버간의 통신을 위한 세션키2 K(user-server) 생성
-		   세션키2, UserID를 K(TGS-server)로 암호화하여 사용자에게 발급할 티켓 생성
-		   세션키2와 티켓을 K(user-TGS)로 암호화하여 보낸다
-		5. 사용자는 받은 4를 K(user-TGS)로 복호화하여 세션키2 K(user-server)와 티켓(user,server)를 얻는다.
-		   서버에게 K(user-server)로 암호화한 UserID와 티켓을 전송한다
-		6. 서버는 받는 5의 티켓을 K(TGS-server)로 복호화하여 세션키2 K(user-server)를 얻는다
-		   UserID를 복호화하여 사용자 확인을 한다
+		2. 
+		- AS는 User와 TGS간의 통신을 위한 세션키1 K(user-TGS)를 생성
+		   - 세션키1, UserID를 K(AG-TGS)로 암호화 하여 사용자에게 발급할 티켓을 생성
+		   - 세션키1과 티켓을 K(user-AS)로 암호화하여 보낸다 →대칭키
+		3. 
+		- 사용자는 받은 2를 K(user-AS)로 복호화해서 세션키1 K(user-TGS)와 티켓을 얻는다
+		   - UserID를 세션키1로 암호화하여 티켓과 함께 TGS로 보낸다
+		4. 
+		- TGS는 받은 3을 K(user-TGS)와 K(AS-TGS)로 복호화하여 User정보와 요구내용 확인
+		   - 사용자와 서버간의 통신을 위한 세션키2 K(user-server) 생성
+		   - 세션키2, UserID를 K(TGS-server)로 암호화하여 사용자에게 발급할 티켓 생성
+		   - 세션키2와 티켓을 K(user-TGS)로 암호화하여 보낸다
+		5. 
+		- 사용자는 받은 4를 K(user-TGS)로 복호화하여 세션키2 K(user-server)와 티켓(user,server)를 얻는다.
+		   - 서버에게 K(user-server)로 암호화한 UserID와 티켓을 전송한다
+		6. 
+		- 서버는 받는 5의 티켓을 K(TGS-server)로 복호화하여 세션키2 K(user-server)를 얻는다
+		   - UserID를 복호화하여 사용자 확인을 한다
 
