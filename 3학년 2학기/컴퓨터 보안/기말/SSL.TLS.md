@@ -1,5 +1,6 @@
 - 네트워크 5계층 ![[Pasted image 20231130102629.png|300]]
 - SSL
+	- 유의개념 : [[Ipsec]]
 	- 웹기반 전자 상거래를 위해 TCP Layer에서 메시지의 무결성과 기밀성 제공
 		- Server/Client Authentication
 			- Server - RSA, X.509

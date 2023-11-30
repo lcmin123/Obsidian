@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기/컴퓨터 보안/기말/SSL.TLS.md",
+                "file": "3학년 2학기/컴퓨터 보안/기말/Ipsec.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3학년 2학기/컴퓨터 보안/기말/SSL.TLS.md",
+                "file": "3학년 2학기/컴퓨터 보안/기말/Ipsec.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3학년 2학기/컴퓨터 보안/기말/SSL.TLS.md",
+                "file": "3학년 2학기/컴퓨터 보안/기말/Ipsec.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기/컴퓨터 보안/기말/SSL.TLS.md"
+                "file": "3학년 2학기/컴퓨터 보안/기말/Ipsec.md"
               }
             }
           },
@@ -206,6 +206,7 @@
   },
   "active": "2898d43cb6d6b8eb",
   "lastOpenFiles": [
+    "3학년 2학기/컴퓨터 보안/기말/SSL.TLS.md",
     "3학년 2학기/컴퓨터 보안/기말/Ipsec.md",
     "3학년 2학기/컴퓨터 보안/기말/DAC.md",
     "3학년 2학기/컴퓨터 보안/기말/DiffieHellman.md",
@@ -218,7 +219,6 @@
     "3학년 2학기/컴퓨터 보안/기말/RBAC.md",
     "3학년 2학기/컴퓨터 보안/기말/S MIME.md",
     "3학년 2학기/컴퓨터 보안/기말/Session.md",
-    "3학년 2학기/컴퓨터 보안/기말/SSL.TLS.md",
     "3학년 2학기/컴퓨터 보안/기말/Steganography.md",
     "3학년 2학기/컴퓨터 보안/기말/Watermark.md",
     "3학년 2학기/컴퓨터 보안/기말/공인인증서.md",
