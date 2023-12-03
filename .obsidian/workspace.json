@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기/데이터베이스 설계/기말/transaction.md",
+                "file": "3학년 2학기/컴퓨터 보안/기말/Ipsec.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3학년 2학기/데이터베이스 설계/기말/transaction.md",
+                "file": "3학년 2학기/컴퓨터 보안/기말/Ipsec.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3학년 2학기/데이터베이스 설계/기말/transaction.md",
+                "file": "3학년 2학기/컴퓨터 보안/기말/Ipsec.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기/데이터베이스 설계/기말/transaction.md"
+                "file": "3학년 2학기/컴퓨터 보안/기말/Ipsec.md"
               }
             }
           },
@@ -206,8 +206,8 @@
   },
   "active": "2898d43cb6d6b8eb",
   "lastOpenFiles": [
-    "3학년 2학기/데이터베이스 설계/기말/Untitled.md",
     "3학년 2학기/데이터베이스 설계/기말/transaction.md",
+    "3학년 2학기/데이터베이스 설계/기말/Untitled.md",
     "3학년 2학기/데이터베이스 설계/기말/하청기업.md",
     "3학년 2학기/데이터베이스 설계/기말/출장.md",
     "3학년 2학기/데이터베이스 설계/기말/공지사항.md",
