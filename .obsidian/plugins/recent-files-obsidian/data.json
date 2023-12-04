@@ -5,6 +5,10 @@
       "path": "3학년 2학기/컴퓨터 보안/기말/IDS.md"
     },
     {
+      "basename": "Handshake Protocol",
+      "path": "3학년 2학기/컴퓨터 보안/기말/Handshake Protocol.md"
+    },
+    {
       "basename": "Ipsec",
       "path": "3학년 2학기/컴퓨터 보안/기말/Ipsec.md"
     },
@@ -43,10 +47,6 @@
     {
       "basename": "DRM",
       "path": "3학년 2학기/컴퓨터 보안/기말/DRM.md"
-    },
-    {
-      "basename": "Handshake Protocol",
-      "path": "3학년 2학기/컴퓨터 보안/기말/Handshake Protocol.md"
     },
     {
       "basename": "KDC",

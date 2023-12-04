@@ -2,4 +2,11 @@
 	- 침입 탐지 시스템
 	- 침입행위에 대한 탐지를 수행하고 탐지시 대응할 수 있도록 지원하는 일련의 시스템
 	- Intrusion
-		- 
+		- ㅇ
+	- Detection
+		- Signateure-based detection
+			- 장점
+			- 단점
+		- Anomaly-based detection
+			- 장점
+			- 단
