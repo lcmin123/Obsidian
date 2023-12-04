@@ -23,3 +23,4 @@
 		- Distributed Host-based IDS
 			- 장점
 			- 단점
+	- Honey Pot

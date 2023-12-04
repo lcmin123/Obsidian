@@ -5,12 +5,20 @@
       "path": "3학년 2학기/컴퓨터 보안/기말/IDS.md"
     },
     {
-      "basename": "Handshake Protocol",
-      "path": "3학년 2학기/컴퓨터 보안/기말/Handshake Protocol.md"
-    },
-    {
       "basename": "Ipsec",
       "path": "3학년 2학기/컴퓨터 보안/기말/Ipsec.md"
+    },
+    {
+      "basename": "SSL.TLS",
+      "path": "3학년 2학기/컴퓨터 보안/기말/SSL.TLS.md"
+    },
+    {
+      "basename": "Kerberos",
+      "path": "3학년 2학기/컴퓨터 보안/기말/Kerberos.md"
+    },
+    {
+      "basename": "Handshake Protocol",
+      "path": "3학년 2학기/컴퓨터 보안/기말/Handshake Protocol.md"
     },
     {
       "basename": "transaction",
@@ -23,14 +31,6 @@
     {
       "basename": "#TODOIST",
       "path": "#TODOIST.md"
-    },
-    {
-      "basename": "SSL.TLS",
-      "path": "3학년 2학기/컴퓨터 보안/기말/SSL.TLS.md"
-    },
-    {
-      "basename": "Kerberos",
-      "path": "3학년 2학기/컴퓨터 보안/기말/Kerberos.md"
     },
     {
       "basename": "PGP",
