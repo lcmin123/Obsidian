@@ -24,3 +24,8 @@
 			- 장점
 			- 단점
 	- Honey Pot
+	- IDS 평가 기준
+		- False Positive Rate
+		- False Negative Rate
+		- True Positive Rate
+		- True Negative Rate
