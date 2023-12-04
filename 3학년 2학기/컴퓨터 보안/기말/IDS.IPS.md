@@ -14,7 +14,7 @@
 		- Network-based IDS
 			- 장점
 			- 단점
-		- Wirelsee IDS
+		- Wireless IDS
 			- 장점
 			- 단점
 		- Host-based IDS
