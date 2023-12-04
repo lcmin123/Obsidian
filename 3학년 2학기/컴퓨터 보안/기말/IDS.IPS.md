@@ -29,3 +29,5 @@
 		- False Negative Rate
 		- True Positive Rate
 		- True Negative Rate
+- IPS
+	- 탐지 후 조치까지 취함
