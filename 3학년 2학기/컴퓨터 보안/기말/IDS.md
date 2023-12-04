@@ -9,4 +9,17 @@
 			- 단점
 		- Anomaly-based detection
 			- 장점
-			- 단
+			- 단점
+	- IDS Types
+		- Network-based IDS
+			- 장점
+			- 단점
+		- Wirelsee IDS
+			- 장점
+			- 단점
+		- Host-based IDS
+			- 장점
+			- 단점
+		- Distributed Host-based IDS
+			- 장점
+			- 단점
