@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기/컴퓨터 보안/기말/DoS.md",
+                "file": "3학년 2학기/컴퓨터 보안/기말/ABAC.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 259.5
   },
   "right": {
     "id": "25192bdd3f6894eb",
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3학년 2학기/컴퓨터 보안/기말/DoS.md",
+                "file": "3학년 2학기/컴퓨터 보안/기말/ABAC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3학년 2학기/컴퓨터 보안/기말/DoS.md",
+                "file": "3학년 2학기/컴퓨터 보안/기말/ABAC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기/컴퓨터 보안/기말/DoS.md"
+                "file": "3학년 2학기/컴퓨터 보안/기말/ABAC.md"
               }
             }
           },
@@ -206,13 +206,14 @@
   },
   "active": "2898d43cb6d6b8eb",
   "lastOpenFiles": [
+    "3학년 2학기/컴퓨터 보안/기말/Handshake Protocol.md",
     "3학년 2학기/컴퓨터 보안/기말/IDS.IPS.md",
+    "3학년 2학기/컴퓨터 보안/기말/DiffieHellman.md",
     "3학년 2학기/컴퓨터 보안/기말/DoS.md",
     "3학년 2학기/컴퓨터 보안/기말/Firewall.md",
     "3학년 2학기/컴퓨터 보안/기말/SSL.TLS.md",
     "3학년 2학기/컴퓨터 보안/기말/Ipsec.md",
     "3학년 2학기/컴퓨터 보안/기말/Kerberos.md",
-    "3학년 2학기/컴퓨터 보안/기말/Handshake Protocol.md",
     "3학년 2학기/데이터베이스 설계/기말/transaction.md",
     "3학년 2학기/데이터베이스 설계/기말/Untitled.md",
     "3학년 2학기/데이터베이스 설계/기말/하청기업.md",
@@ -224,7 +225,6 @@
     "Attached Files/Pasted image 20231130114328.png",
     "Attached Files/Pasted image 20231130114307.png",
     "3학년 2학기/컴퓨터 보안/기말/DAC.md",
-    "3학년 2학기/컴퓨터 보안/기말/DiffieHellman.md",
     "3학년 2학기/컴퓨터 보안/기말/DRM.md",
     "3학년 2학기/컴퓨터 보안/기말/KDC.md",
     "3학년 2학기/컴퓨터 보안/기말/PKI.md",
