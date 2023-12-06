@@ -3,5 +3,6 @@
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "Attached Files",
   "newFileLocation": "current",
-  "promptDelete": false
+  "promptDelete": false,
+  "showLineNumber": false
 }

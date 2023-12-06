@@ -1,3 +1,14 @@
 - 방화벽
 	- 조직의 내부 네트워크를 외부 인터넷으로부터 격리시키고, 일부 패킷은 통과시키며 다른 패킷은 차단하는 하드웨어와 소프트웨어의 결합
-- 
+	- 서비스
+		- 트래픽 모니터링
+		- 트래픽 컨트롤
+		- NAT - 내부 네트워크 보호
+		- VPN - 내부 트래픽 노출 차단
+	- State
+		- 패킷의 Ip주소 + port number
+	- 타입
+		- Stateless packet filter
+			-  나의 IP주소 + 포트넘버로 부터 상대 IP주소 + 포트넘버로 가는 패킷의 차단 여부 결정
+		- Statefull packet filter
+		- Application gateway
