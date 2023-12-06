@@ -9,6 +9,8 @@
 		- 패킷의 Ip주소 + port number
 	- 타입
 		- Stateless packet filter
-			-  나의 IP주소 + 포트넘버로 부터 상대 IP주소 + 포트넘버로 가는 패킷의 차단 여부 결정
+			-  나의 IP주소 + 포트넘버로 부터 상대 IP주소 + 포트넘버로 가는 패킷을 뜯어서 차단 여부 결정
 		- Statefull packet filter
+			- Stateless에서 발전된 형태. 패킷의 상태를 기억해서 통과 기준을 설립
 		- Application gateway
+			- Application 단위(e.g Chrome, Safari …)로 인터넷 사용 여부를 결정해줌. 패킷 단위는 없다. 
