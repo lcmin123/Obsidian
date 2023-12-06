@@ -5,12 +5,12 @@
       "path": "3학년 2학기/컴퓨터 보안/기말/DoS.md"
     },
     {
-      "basename": "Firewall",
-      "path": "3학년 2학기/컴퓨터 보안/기말/Firewall.md"
-    },
-    {
       "basename": "IDS.IPS",
       "path": "3학년 2학기/컴퓨터 보안/기말/IDS.IPS.md"
+    },
+    {
+      "basename": "Firewall",
+      "path": "3학년 2학기/컴퓨터 보안/기말/Firewall.md"
     },
     {
       "basename": "SSL.TLS",
