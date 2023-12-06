@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "DoS",
+      "path": "3학년 2학기/컴퓨터 보안/기말/DoS.md"
+    },
+    {
       "basename": "Firewall",
       "path": "3학년 2학기/컴퓨터 보안/기말/Firewall.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "다익스트라 알고리즘",
       "path": "3학년 2학기/알고리즘/기말/다익스트라 알고리즘.md"
-    },
-    {
-      "basename": "2. NP 되추적",
-      "path": "3학년 2학기/알고리즘/기말/2. NP 되추적.md"
     }
   ],
   "omittedPaths": [],
