@@ -21,21 +21,24 @@
 	1. Select 분해 가능
 	2. Select 교환 법칙
 	3. Proj은 마지막만 필요, 나머지 생략 가능
-	4. Select는 Cartesian, Theta와 결합 가능
-	5. Theta, Natural 교환 법칙
-	6. Natural 결합 법칙
-	7. Theta 결합 법칙
-	8. Select의 Theta대한 분배 법칙
-	   - ø<sub>0</sub> 의 모든 속성이 E1에 속하는 속성들로만 구성
-	   - ø<sub>1</sub>이 E1의 속성들로만 구성되고, ø<sub>2</sub>가 E2의 속성들로만 구성
-	9. Proj의 Theta에 대한 분배 법칙
-	   - ø의 모든 속성이 L1 U L2에 속할때
+	4. Select 
+	   a. Cartesian 결합 법칙
+	   b. Theta 결합 법칙
+	5. Select Theta와 결합 법칙
+	6. Theta, Natural 교환 법칙
+	7. Natural 결합 법칙
+	8. Theta 결합 법칙
+	9. Select의 Theta대한 분배 법칙
+	   a. ø<sub>0</sub> 의 모든 속성이 E1에 속하는 속성들로만 구성
+	   b. ø<sub>1</sub>이 E1의 속성들로만 구성되고, ø<sub>2</sub>가 E2의 속성들로만 구성
+	10. Proj의 Theta에 대한 분배 법칙
+	    ø의 모든 속성이 L1 U L2에 속할때
 	   - L3 = E1 - L1 - L2
 	     L4 = E2 - L1 - L2
-	10. 합집합과 교집합 교환법칙
-	11. 합집합과 교집합 결합법칙
-	12. Select 합집합, 교집합, 차집합 분배법칙
-	13. Proj 합집합 분배법칙
+	11. 합집합과 교집합 교환법칙
+	12. 합집합과 교집합 결합법칙
+	13. Select 합집합, 교집합, 차집합 분배법칙
+	14. Proj 합집합 분배법칙
 	- 최소 동등성 규칙 집합
 		- 동등성 규칙 집합이 최소일 경우, 다른 규칙의 조합에서 어떤 규칙도 유도될 수 없음
 		- 
