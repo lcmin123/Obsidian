@@ -22,7 +22,11 @@
 	2. Select 교환 법칙
 	3. Proj은 마지막만 필요, 나머지 생략 가능
 	4. Select는 Cartesian, Theta와 결합 가능
-	5. 
+	5. Theta, Natural 교환 법칙
+	6. Natural 결합 법칙
+	7. Theta 결합 법칙
+	8. Select의 Theta대한 분배 법칙
+	9. 
 - 비용 추정
 	- 쿼리 평가 계획의 비용은 통계 정보를 기반으로 추정됨
 	- 통계 정보
