@@ -38,6 +38,14 @@
 			- 한번 Commit된 트랜잭션의 결과는 계속적으로 유지되어야 함
 			- transaction이 성공적으로 끝마치면, failure가 일어나더라도 그 결과는 영속적으로 DB에 유지되어야 한다
 
+- System Crash로부터의 안전성
+	- Atomicity 
+		- 문제점 : 재고는 줄어 들었는데 판매 내역은 없다
+		- All or nothing : 판매기록도 있고 재고도 줄던지, 판매기록도 없고 재고도 그대로던지
+	- Durability 
+		- 문제점 : 정상적 구매완료 됐는데, 정전으로 구매 안된것으로 나옴
+		- 지속성 : 한번 완료된 트랜잭션은 영원히 완료된 것으로 있어야 함
+
 - sql에서의 transaction 
 	- sql문의 시작부터 commit의 호출까지가 transaction의 한 호흡
 	- rollbak 호출 시 트랜잭션 취소
@@ -48,6 +56,7 @@
 - oracle에서의 transaction 호흡
 	- commit, rollback을 만날때 까지
 	- DDL command를 만날때 까지(CREATE, DROP, RENAME) -> DDL의 전후에 각각 commit이 존재하기 때문
+	- <font color="#00b0f0">Work는 가독성 향상 목적으로 사용, 보통 생략</font>
 
 - stable storage
 	- 정보가 절대 사라지지 않는 스토리지(이론상)
