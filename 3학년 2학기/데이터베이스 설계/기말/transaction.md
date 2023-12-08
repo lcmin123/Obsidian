@@ -121,9 +121,16 @@
 		  <u>read와 write의 위치에 유의</u>![[Pasted image 20231208204026.png|200]]
 
 - serializability 
-	- atomic하게만 state를 유지해주면 DBMS는 항상 consistent state -> consistent state로 transaction한다.
-	- transaction의 오류는 전적으로 개발자 책임
-	- 어떤 스케줄이 serializable하다는 것은 그 스케줄이 serial schedule과 equivalent하다는 것이다
-	- **conflict serializability
-		- serializability 판단
-		- 
+	- <u>기본 전제</u> : 각 트랜잭션은 DB Consistency를 유지한다
+	  → 트랜잭션 자체에는 오류가 없어야 함
+		- atomic하게만 state를 유지해주면 DBMS는 항상 consistent state -> consistent state로 transaction한다.
+		- transaction의 오류는 전적으로 개발자 책임
+	- 어떤 스케줄이 <font color="#00b0f0">serializable</font>하다는 것은 <u>그 스케줄이 serial schedule과 equivalent하다</u>는 것이다
+	- 스케줄 동등성의 다른 형태
+		- **Conflict Serializability (충돌 직렬화)**
+		- View Serializability (뷰 직렬화)
+		  → 계산 복잡성이 높아 실무에서는 사용 x
+
+- Serializable (직렬 가능)
+	- T1과 T2가 있을 때 트랜잭션의 올바른 수행 결과는?
+	- 트랜잭션을 하나씩 차례로 수행했을 때 나올 수 있는 결과느
