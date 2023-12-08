@@ -107,14 +107,18 @@
 		- concurrent 한 transaction 사이의 consistency 깨지지 않게 manage 
 	- <font color="#00b0f0">schedule</font>
 		- 동시에 실행되는 트랙잭션의 명령어들이 실행되는 시간적인 순서를 지정하는 일련의 명령어들
-		- 트랜잭션의 모든 명령어들로 구성되어야 함
-		- 개별적인 transaction의 순서를 유지해야 함
-		- 성공한 트랜잭션은 마지막 문장으로 커밋 명령어를 실행
-		- 실패한 트랜잭션은 마지막 문장으로 abort 명령어를 실
+			- 트랜잭션의 모든 명령어들로 구성되어야 함
+			- 개별적인 transaction의 순서를 유지해야 함
+		- 성공한 트랜잭션은 마지막 문장으로 <u>commit</u> 명령어를 실행
+		- 실패한 트랜잭션은 마지막 문장으로 <u>abort</u> 명령어를 실행
 		- serial schedule : t1 -> t2 == t2 -> t1의 결과
-		  ![[Pasted image 20231109153143.png]]
+		  ![[Pasted image 20231109153143.png|200]]
 		column은 transaction
 		가로줄은 시간 순서 
+		- unserial schedule : 결과는 위 스케줄과 같다 ![[Pasted image 20231208203903.png|200]]
+		- 두 스케줄 모두 sum(A+B) preserved
+		- 이 스케줄은 consistency 가 지켜지지 않았다.
+		  <u>read와 write의 위치에 유의</u>![[Pasted image 20231208204026.png|200]]
 
 - serializability 
 	- atomic하게만 state를 유지해주면 DBMS는 항상 consistent state -> consistent state로 transaction한다.

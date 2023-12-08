@@ -5,6 +5,10 @@
       "path": "3학년 2학기/데이터베이스 설계/기말/transaction.md"
     },
     {
+      "basename": "Pasted image 20231208204026",
+      "path": "Attached Files/Pasted image 20231208204026.png"
+    },
+    {
       "basename": "materialized view",
       "path": "3학년 2학기/데이터베이스 설계/기말/materialized view.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Number",
       "path": "프론트엔드/유데미/섹션 14, 15 - JS Primary/Number.md"
-    },
-    {
-      "basename": "비교 연산자",
-      "path": "프론트엔드/유데미/섹션 16/비교 연산자.md"
     }
   ],
   "omittedPaths": [],
