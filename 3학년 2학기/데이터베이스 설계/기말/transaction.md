@@ -88,7 +88,7 @@
 - transaction abort
 	- abort가 날 시 transaction이 일으킨 모든 변화는 undo후 rollback
 	- commit 후에는 abort되었어도 undo할 수 없다
-	- commit 후 undo하는 유일한 방법은 반대되는 transaction인 compensating transaction 실행 뿐
+	- commit 후 undo하는 유일한 방법은 반대되는 transaction인 <u>compensating transaction</u> 실행 뿐
 	- compensating transaction의 실행 책임은 사용자에게 
 
 - transaction state
@@ -105,9 +105,12 @@
 	- **concurrency control schemes 
 		- ACID의 I기능 담당
 		- concurrent 한 transaction 사이의 consistency 깨지지 않게 manage 
-	- schedule
-		- concurrent transaction의 시간적인 순서를 결정하는 정보의 연
-		- 개별적인 transaction의 순서를 유지해야함
+	- <font color="#00b0f0">schedule</font>
+		- 동시에 실행되는 트랙잭션의 명령어들이 실행되는 시간적인 순서를 지정하는 일련의 명령어들
+		- 트랜잭션의 모든 명령어들로 구성되어야 함
+		- 개별적인 transaction의 순서를 유지해야 함
+		- 성공한 트랜잭션은 마지막 문장으로 커밋 명령어를 실행
+		- 실패한 트랜잭션은 마지막 문장으로 abort 명령어를 실
 		- serial schedule : t1 -> t2 == t2 -> t1의 결과
 		  ![[Pasted image 20231109153143.png]]
 		column은 transaction
