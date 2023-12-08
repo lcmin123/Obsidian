@@ -11,22 +11,6 @@
   "obsidian-excalidraw-plugin:insert-link": [],
   "obsidian-advanced-slides:reload-advanced-slides-preview": [],
   "switcher:open": [],
-  "editor:toggle-highlight": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "H"
-    }
-  ],
-  "editor:toggle-code": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "C"
-    }
-  ],
   "multi-line-formatting:914970782": [
     {
       "modifiers": [
@@ -44,5 +28,21 @@
     }
   ],
   "obsidian-outliner:fold": [],
-  "obsidian-outliner:unfold": []
+  "obsidian-outliner:unfold": [],
+  "multi-line-formatting:727240430": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "U"
+    }
+  ],
+  "multi-line-formatting:913236381": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "H"
+    }
+  ]
 }

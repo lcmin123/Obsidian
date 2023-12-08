@@ -39,6 +39,26 @@
       "skipListItems": false,
       "skipBlockquotes": false,
       "formatWord": false
+    },
+    {
+      "id": "727240430",
+      "nickname": "underline",
+      "leftStyle": "<u>",
+      "rightStyle": "</u>",
+      "skipHeadings": false,
+      "skipListItems": false,
+      "skipBlockquotes": false,
+      "formatWord": false
+    },
+    {
+      "id": "913236381",
+      "nickname": "blue font",
+      "leftStyle": "<font color=\"#00b0f0\">",
+      "rightStyle": "</font>",
+      "skipHeadings": false,
+      "skipListItems": false,
+      "skipBlockquotes": false,
+      "formatWord": false
     }
   ]
 }
