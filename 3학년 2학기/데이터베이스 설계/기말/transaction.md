@@ -147,4 +147,6 @@
 	- 일정 S가 비충돌 명령어의 교환으로 일정 S’로 변환될 수 있다면, S와 S’는 **conflict equivalent(충돌 등가)** 이다
 	- 일정 S가 <font color="#00b0f0">Serial schedule</font> 과 충돌 등가 하다면, S는 **충돌 직렬성**을 가진다고 한다
 	- conflict serializable의 예![[Pasted image 20231208210048.png]]
-	- 
+	- not conflict serializable 의 예![[Pasted image 20231208234205.png]]
+	- 결과는 같지만, 충돌등가하지 않은 예![[Pasted image 20231208234305.png]]
+	- 직렬 가능성 
