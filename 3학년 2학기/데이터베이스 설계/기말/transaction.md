@@ -183,5 +183,9 @@
 		- 쿼리 최적화를 위해 계산된 데이터베이스 통계
 		- 위와 같은 트랜잭션은 다른 트랙션들과 같이 직렬화될 필요 없음
 	- 성능을 위한 정확성의 희생
+	- Sql에서의 일관성 수준
+		- Serializable : 디폴트
+		- Repetable read : 커밋된 레코드만 읽기 가능. 도
 
-- 
+- Isolation level
+	- 높은 수준의 isolation level일수록 <u>concurrency</u>는 떨어지지만(성능) 더 높은 수준의 <u>consistency</u>를 보장한다(정확성)
