@@ -1,0 +1,44 @@
+{
+  "styleArray": [
+    {
+      "id": "multi-line-format-cyan-highlight",
+      "nickname": "Cyan Highlighter, even over multiple lines",
+      "leftStyle": "<span style=\"background-color:#00FEFE\">",
+      "rightStyle": "</span>",
+      "skipHeadings": false,
+      "skipListItems": false,
+      "skipBlockquotes": false,
+      "formatWord": false
+    },
+    {
+      "id": "multi-line-format-bold",
+      "nickname": "Bold, even over multiple lines",
+      "leftStyle": "**",
+      "rightStyle": "**",
+      "skipHeadings": false,
+      "skipListItems": false,
+      "skipBlockquotes": false,
+      "formatWord": false
+    },
+    {
+      "id": "914970782",
+      "nickname": "subscript",
+      "leftStyle": "<sub>",
+      "rightStyle": "</sub>",
+      "skipHeadings": false,
+      "skipListItems": false,
+      "skipBlockquotes": false,
+      "formatWord": false
+    },
+    {
+      "id": "834962271",
+      "nickname": "supscript",
+      "leftStyle": "<sup>",
+      "rightStyle": "</sup>",
+      "skipHeadings": false,
+      "skipListItems": false,
+      "skipBlockquotes": false,
+      "formatWord": false
+    }
+  ]
+}

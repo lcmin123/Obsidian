@@ -26,5 +26,23 @@
       ],
       "key": "C"
     }
-  ]
+  ],
+  "multi-line-formatting:914970782": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "ArrowDown"
+    }
+  ],
+  "multi-line-formatting:834962271": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "ArrowUp"
+    }
+  ],
+  "obsidian-outliner:fold": [],
+  "obsidian-outliner:unfold": []
 }
