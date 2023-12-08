@@ -164,5 +164,13 @@
 		- 스케줄 a 의 직렬화 순서는 b와 c 같이 그래프 부분 순서와 일치하는 선형 순서가 될 수 있음![[Pasted image 20231209010735.png|200]]
 
 - Recoverable Schedule
-	- 복구가능한 스케줄이란 T<sub>j</sub>가 이전에 T<sub>i</sub>가 작성한 데이터 항목을 읽는 경우, T<sub>i</sub>의 커밋 작업이 T<sub>j</sub>의 커밋 작업보다 먼저 나타나야 한다는 것을 의미
-	- 아래 스케줄은 T<sub>9</sub>가 read(A)작업 후에 즉시 커밋했으므로 복구 가능하지 않음![[Pasted image 20231209011038.png|200]]
+	- **복구가능한 스케줄**이란 T<sub>j</sub>가 이전에 T<sub>i</sub>가 작성한 데이터 항목을 읽는 경우, T<sub>i</sub>의 커밋 작업이 T<sub>j</sub>의 커밋 작업보다 먼저 나타나야 한다는 것을 의미
+	- 아래 스케줄은 T<sub>9</sub>가 read(A)작업 후에 즉시 커밋했으므로 복구 가능하지 않음![[Pasted image 20231209011038.png|300]]
+		- T<sub>8</sub>이 중단되어야 하는 경우, T<sub>9</sub>는 일관성이 보장되지 않는 데이터베이스 상태를 읽었을 수 있으므로, 데이터베이스는 일정이 복구 가능하도록 보장해야함
+
+- Cascading Rollback
+	- <font color="#00b0f0">카스케이딩 롤백</font>은 단일 트랜잭션 실패가 연속적인 트랜잭션 롤백을 일으키는 것
+	- 만일 T10이 실패한다면, T11과 T12도 롤백되어야 하고, 이는 상당량의 작업을 되돌릴 수 있음![[Pasted image 20231209011412.png]]
+
+- Cascadeless Schedule 
+	- T<sub>j</sub>가 T<sub>i</sub>가 이전에 작성한 데이터 항목을 읽을 때, T<sub>i</sub>의 커밋이 T
