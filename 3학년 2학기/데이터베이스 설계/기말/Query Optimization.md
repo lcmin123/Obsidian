@@ -121,7 +121,18 @@
 		- 대부분의 데이터베이스는 <font color="#00b0f0">explain</font><쿼리>를 지원
 			- 이를 통해 쿼리 옵티마이저가 선택한 계획가 비용 추정치 계산 가능
 - [[materialized view]] 
-	- 
+	- **Materialized view**
+		- 계산되고 저장된 내용을 가진 뷰
+		```sql
+		create view dept_total_sal as
+		select dept_name, sum(salary)
+		from instructor
+		group by dept_name
+		```
+		- 뷰를 물리화 한다면, 부서별 총 급여가 자주 필요한 경우에 매우 유용함
+		- 이는 여러 튜플을 찾고, 그 금액을 더하는 작업을 생략하여 <font color="#00b0f0">성능을 향상</font>시키는데 중요
+	- Meterialized view 유지관리
+		- 
 - 비용 추정
 	- 쿼리 평가 계획의 비용은 통계 정보를 기반으로 추정됨
 	- 통계 정보
