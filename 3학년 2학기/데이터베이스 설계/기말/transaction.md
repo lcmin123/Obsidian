@@ -143,5 +143,7 @@
 	- 즉, l<sub>i</sub>와 l<sub>j</sub>가 스케줄에서 연속적으로 나타나고 충돌하지 않는 경우, 스케줄에서 위치를 바꿔도 결과는 동일하게 유지![[Pasted image 20231208205237.png]]
 
 - **Conflict Serializability (충돌 직렬성)**
-	- 일정 S가 비충돌 명령어의 교환으로 일정 S’로 변환될 수 있다면, S와 S’는 conflict equivalent(충돌 등가)이다
+	- 일정 S가 비충돌 명령어의 교환으로 일정 S’로 변환될 수 있다면, S와 S’는 **conflict equivalent(충돌 등가)** 이다
+	- 일정 S가 <font color="#00b0f0">Serial schedule</font> 과 충돌 등가 하다면, S는 **충돌 직렬성**을 가진다고 한다
+	- conflict serializable의 예![[Pasted image 20231208210048.png]]
 	- 
