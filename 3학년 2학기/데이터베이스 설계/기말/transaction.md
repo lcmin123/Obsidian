@@ -141,6 +141,7 @@
 	  → 둘중 하나라도 write면 conflict 
 	- 충돌하는 두 명령어 사이에는 (논리적인) 시간 순서가 강제
 	- 즉, l<sub>i</sub>와 l<sub>j</sub>가 스케줄에서 연속적으로 나타나고 충돌하지 않는 경우, 스케줄에서 위치를 바꿔도 결과는 동일하게 유지![[Pasted image 20231208205237.png]]
+	  → write(A)와 read(B)는 상관 없으므로 충돌x, 교체가능
 
 - **Conflict Serializability (충돌 직렬성)**
 	- 일정 S가 비충돌 명령어의 교환으로 일정 S’로 변환될 수 있다면, S와 S’는 **conflict equivalent(충돌 등가)** 이다
