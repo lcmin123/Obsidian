@@ -1,16 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "transaction",
+      "path": "3학년 2학기/데이터베이스 설계/기말/transaction.md"
+    },
+    {
       "basename": "Query Optimization",
       "path": "3학년 2학기/데이터베이스 설계/기말/Query Optimization.md"
     },
     {
       "basename": "materialized view",
       "path": "3학년 2학기/데이터베이스 설계/기말/materialized view.md"
-    },
-    {
-      "basename": "transaction",
-      "path": "3학년 2학기/데이터베이스 설계/기말/transaction.md"
     },
     {
       "basename": "ABAC",
