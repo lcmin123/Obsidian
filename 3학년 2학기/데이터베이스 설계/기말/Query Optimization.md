@@ -78,7 +78,18 @@
 		  → <font color="#00b0f0">n = 3 일때 12개의 조인 순서</font>
 		- <font color="#00b0f0">동적 프로그래밍</font>을 사용해 {r1,r2 … ,rn}의 모든 부분 집합에 대한 최소 비용 조인 순서를 한번만 계산하고 저장할 수 있음
 	- 동적 프로그래밍 
-		- 중복 계산을 업
+		- 중복 계산을 없애기 위해 Memorization 활용
+```C++
+int memo[100] = {0};
+int fibo(int n){
+	if( n <= 1) return n;
+	else{
+		if (memo[n] > 0) return memo[n];
+		memo[n] = fibo(n-1) + fibo(n-2)
+		
+	}
+}
+```
 - 비용 추정
 	- 쿼리 평가 계획의 비용은 통계 정보를 기반으로 추정됨
 	- 통계 정보
