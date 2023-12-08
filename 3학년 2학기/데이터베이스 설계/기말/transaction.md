@@ -191,13 +191,21 @@
 	- Sql에서의 일관성 수준
 		- Serializable : 디폴트
 		- Repetable read : 커밋된 레코드만 읽기 가능. 동일 레코드 반복 읽기는 동일한 값을 반환
-		- Read committed : 커밋된 레코드만 읽기 가능. 동일 레코드 반복 읽기는 다른 값을 반환할 수 있음
+		- Read committed ![[Pasted image 20231209013144.png]]
+			- 커밋된 레코드만 읽기 가능. 동일 레코드 반복 읽기는 다른 값을 반환할 수 있음
+			- Dirty Read 비허용
+				- T1 수행중 T2 수행 불가능
+			- Nonrepeatable Read 
+				- Repeatable하지 않은 read 발생 가능
+				- T2:S1 → T1 → T2:S2 순서로 수행 가능
+				- 동일한 select문인데 서로 다른 결과 발생
+			- Se
 		- Read uncommitted ![[Pasted image 20231209013019.png]]
 			- 커밋되지 않은 레코드 읽기 가능
-			- Dirty Read 허용
+			- <font color="#00b0f0">Dirty Read 허용</font>
 				- T1 수행중 T2 동시 수행 가능
 				- Serializable 하지 않은 스케줄 발생 가능
-					- T1 -
+					- T1 → T2 or T2 → T1으로 나올수 없는 결과 발생 가능
 
 - Isolation level
 	- 높은 수준의 isolation level일수록 <u>concurrency</u>는 떨어지지만(성능) 더 높은 수준의 <u>consistency</u>를 보장한다(정확성)
