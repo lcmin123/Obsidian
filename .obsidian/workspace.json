@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기/데이터베이스 설계/기말/transaction.md",
+                "file": "3학년 2학기/데이터베이스 설계/기말/materialized view.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3학년 2학기/데이터베이스 설계/기말/transaction.md",
+                "file": "3학년 2학기/데이터베이스 설계/기말/materialized view.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3학년 2학기/데이터베이스 설계/기말/transaction.md",
+                "file": "3학년 2학기/데이터베이스 설계/기말/materialized view.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기/데이터베이스 설계/기말/transaction.md"
+                "file": "3학년 2학기/데이터베이스 설계/기말/materialized view.md"
               }
             }
           },
@@ -207,6 +207,9 @@
   "active": "2898d43cb6d6b8eb",
   "lastOpenFiles": [
     "3학년 2학기/데이터베이스 설계/기말/transaction.md",
+    "3학년 2학기/데이터베이스 설계/기말/materialized view.md",
+    "3학년 2학기/데이터베이스 설계/기말/Query Optimization.md",
+    "3학년 2학기/데이터베이스 설계/기말/무제 파일.md",
     "Attached Files/Pasted image 20231209013802.png",
     "Attached Files/Pasted image 20231209013729.png",
     "Attached Files/Pasted image 20231209013646.png",
@@ -217,8 +220,6 @@
     "Attached Files/Pasted image 20231209010735.png",
     "Attached Files/Pasted image 20231209010308.png",
     "Attached Files/Pasted image 20231208234305.png",
-    "3학년 2학기/데이터베이스 설계/기말/materialized view.md",
-    "3학년 2학기/데이터베이스 설계/기말/Query Optimization.md",
     "3학년 2학기/데이터베이스 설계/기말/.md",
     "3학년 2학기/컴퓨터 보안/기말/ABAC.md",
     "3학년 2학기/컴퓨터 보안/기말/Handshake Protocol.md",

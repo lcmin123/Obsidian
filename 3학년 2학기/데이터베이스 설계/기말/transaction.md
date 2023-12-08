@@ -1,3 +1,9 @@
+- 요약
+	- **트랜잭션**은 다양한 데이터 항목에 액세스하고 업데이트하는 프로그램 실행 단위
+	- 트랜잭션은 원자성, 일관성, 고립성, 내구성이라는 **ACID속성**을 가저야 함
+	- 동시에 실행되는 트랜잭션에 의해 생성된 **Serializability of schedule**은 concurrency control 정책이라 하는 다양한 매커니즘을 통해 보장될 수 있음
+	- 데이터베이스의 <font color="#00b0f0">concurrency control 관리 구성 요소</font>는 concorrency control을 처리하는 역할을 담당
+
 - **Transaction** 
 	- <font color="#00b0f0">단일 논리적 작업을 형성하는 연산들의 모음</font>
 	- 송금등의 행위는 atomicity하게 행해져야함 (avoids inconsistency)
@@ -244,10 +250,20 @@
 			- 한번에 하나의 트랜잭션만 실행할 수 있는 정책은 직렬 스케줄을 생성하지만 동시성의 정도가 낮음
 			- Concurrncy control은 허용되는 동시성의 양과 발생하는 오버헤드 사이의 균형을 맞추는 것
 			- 목표 : 직렬 가능성 보장하는 동시성 제어 프로토콜의 개발
-			- 대부분 Lock을 이용해 구현됨
+			- 대부분 <font color="#00b0f0">Lock</font>을 이용해 구현됨
 				- Two-phased Locking Protocol
 				- Lock overhead와 Wating이 주요 성능 저하의 원인
-				- 
+				- **Deadlock** 문제 발생 가능
+					- 서로 순환적으로 Lock을 대기하여 트랜잭션 수행이 정지됨
+			- 트랜잭션의 isolation level이나 속성을 잘 지정해야함
+				- 높은 수준의 isolation level이 더 많은 lock을 요구
 	- <font color="#00b0f0">Recovery</font>
 		- 회복/복구
 		- 시스템 오류로부터 데이터 보호
+		- 구현 방법
+			- Log를 별도로 기록함
+				- REDO
+				- Undo후 
+			- Checkpoint 기법을 주기적으로 사용
+				- Recovery 시간 절약
+				- 
