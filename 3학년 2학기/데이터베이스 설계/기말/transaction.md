@@ -149,4 +149,7 @@
 	- conflict serializable의 예![[Pasted image 20231208210048.png]]
 	- not conflict serializable 의 예![[Pasted image 20231208234205.png]]
 	- 결과는 같지만, 충돌등가하지 않은 예![[Pasted image 20231208234305.png]]
-	- 직렬 가능성 
+
+- 선행 그래프
+	- 직렬 가능성의 테스트
+	- 
