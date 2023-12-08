@@ -182,10 +182,23 @@
 		- 모든 계정의 근사 총 잔액을 얻고자 하는 읽기 전용 [[트랜잭션]] 
 		- 쿼리 최적화를 위해 계산된 데이터베이스 통계
 		- 위와 같은 트랜잭션은 다른 트랙션들과 같이 직렬화될 필요 없음
-	- 성능을 위한 정확성의 희생
+		- 성능을 위한 정확성의 희생
+	- Dirty Read
+		- Commit되지 않은 데이터를 읽는 것
+		- 문제점
+			- Serializable하지 않은 결과가 나올 수 있음
+			- Rollback시 해당 트랜잭션에서 읽은 데이터는 무효화 되어 이전의 유효한 데이터로 되돌아 감
 	- Sql에서의 일관성 수준
 		- Serializable : 디폴트
-		- Repetable read : 커밋된 레코드만 읽기 가능. 도
+		- Repetable read : 커밋된 레코드만 읽기 가능. 동일 레코드 반복 읽기는 동일한 값을 반환
+		- Read committed : 커밋된 레코드만 읽기 가능. 동일 레코드 반복 읽기는 다른 값을 반환할 수 있음
+		- Read uncommitted ![[Pasted image 20231209013019.png]]
+			- 커밋되지 않은 레코드 읽기 가능
+			- Dirty Read 허용
+				- T1 수행중 T2 동시 수행 가능
+				- Serializable 하지 않은 스케줄 발생 가능
+					- T1 -
 
 - Isolation level
 	- 높은 수준의 isolation level일수록 <u>concurrency</u>는 떨어지지만(성능) 더 높은 수준의 <u>consistency</u>를 보장한다(정확성)
+
