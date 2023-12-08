@@ -1,12 +1,4 @@
 {
-  "editing-toolbar:editor:insert-embed": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "E"
-    }
-  ],
   "obsidian-emoji-toolbar:emoji-picker:open-picker": [
     {
       "modifiers": [
@@ -14,6 +6,25 @@
         "Mod"
       ],
       "key": "E"
+    }
+  ],
+  "obsidian-excalidraw-plugin:insert-link": [],
+  "obsidian-advanced-slides:reload-advanced-slides-preview": [],
+  "switcher:open": [],
+  "editor:toggle-highlight": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "H"
+    }
+  ],
+  "editor:toggle-code": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "C"
     }
   ]
 }
