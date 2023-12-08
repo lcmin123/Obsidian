@@ -226,3 +226,28 @@
 - Isolation level
 	- 높은 수준의 isolation level일수록 <u>concurrency</u>는 떨어지지만(성능) 더 높은 수준의 <u>consistency</u>를 보장한다(정확성)
 
+- Concurrency Control & Recovery
+	- <font color="#00b0f0">Concurrency</font>
+		- 동시에 여러 요청을 처리
+		- Concurrency Control
+			- 목적
+				- 정확성
+				- <font color="#00b0f0">Consistency</font> 
+					- 결과의 일관성, 무결성 보장
+					- Constraint 등의 integrity 보장
+				- <font color="#00b0f0">Isolation</font> 
+					- 각 트랜잭션이 개별적으로 수행된 결과와 동일한 결과를 보장
+				- 성능
+					- 가능한 동시에 여러 트랜잭션 수행하며 성능 높임
+					- Concurrent Execution : 병행처리
+			- 데이터베이스는 모든 가능한 스케줄이 충돌 직렬화 가능하고 복구 가능하며 Cascadeless 하도록 보장해야함
+			- 한번에 하나의 트랜잭션만 실행할 수 있는 정책은 직렬 스케줄을 생성하지만 동시성의 정도가 낮음
+			- Concurrncy control은 허용되는 동시성의 양과 발생하는 오버헤드 사이의 균형을 맞추는 것
+			- 목표 : 직렬 가능성 보장하는 동시성 제어 프로토콜의 개발
+			- 대부분 Lock을 이용해 구현됨
+				- Two-phased Locking Protocol
+				- Lock overhead와 Wating이 주요 성능 저하의 원인
+				- 
+	- <font color="#00b0f0">Recovery</font>
+		- 회복/복구
+		- 시스템 오류로부터 데이터 보호
