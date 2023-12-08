@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8dc4cc85ed306ea2",
+        "id": "b4006e7efab94c38",
         "type": "tabs",
         "children": [
           {
-            "id": "2898d43cb6d6b8eb",
+            "id": "c30afc99ce3559ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기/데이터베이스 설계/기말/materialized view.md",
+                "file": "3학년 2학기/객체1/C++/4. Information hiding.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3학년 2학기/데이터베이스 설계/기말/materialized view.md",
+                "file": "3학년 2학기/객체1/C++/4. Information hiding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3학년 2학기/데이터베이스 설계/기말/materialized view.md",
+                "file": "3학년 2학기/객체1/C++/4. Information hiding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기/데이터베이스 설계/기말/materialized view.md"
+                "file": "3학년 2학기/객체1/C++/4. Information hiding.md"
               }
             }
           },
@@ -204,12 +204,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2898d43cb6d6b8eb",
+  "active": "c30afc99ce3559ac",
   "lastOpenFiles": [
+    "3학년 2학기/객체1/C++/lab/lab1000.md",
+    "3학년 2학기/객체1/C++/4. Information hiding.md",
+    "3학년 2학기/데이터베이스 설계/기말/무제 파일.md",
     "3학년 2학기/데이터베이스 설계/기말/transaction.md",
     "3학년 2학기/데이터베이스 설계/기말/materialized view.md",
     "3학년 2학기/데이터베이스 설계/기말/Query Optimization.md",
-    "3학년 2학기/데이터베이스 설계/기말/무제 파일.md",
     "Attached Files/Pasted image 20231209013802.png",
     "Attached Files/Pasted image 20231209013729.png",
     "Attached Files/Pasted image 20231209013646.png",
@@ -240,8 +242,6 @@
     "3학년 2학기/컴퓨터 보안/기말/KDC.md",
     "3학년 2학기/컴퓨터 보안/기말/PKI.md",
     "3학년 2학기/컴퓨터 보안/기말/RBAC.md",
-    "3학년 2학기/컴퓨터 보안/기말/S MIME.md",
-    "3학년 2학기/컴퓨터 보안/기말/Session.md",
     "프론트엔드/유데미/섹션 25",
     "프론트엔드/유데미/섹션 16",
     "프론트엔드/유데미/섹션 14, 15 - JS Primary",

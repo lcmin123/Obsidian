@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "materialized view",
-      "path": "3학년 2학기/데이터베이스 설계/기말/materialized view.md"
+      "basename": "4. Information hiding",
+      "path": "3학년 2학기/객체1/C++/4. Information hiding.md"
+    },
+    {
+      "basename": "lab1000",
+      "path": "3학년 2학기/객체1/C++/lab/lab1000.md"
     },
     {
       "basename": "transaction",
       "path": "3학년 2학기/데이터베이스 설계/기말/transaction.md"
     },
     {
-      "basename": "Query Optimization",
-      "path": "3학년 2학기/데이터베이스 설계/기말/Query Optimization.md"
+      "basename": "materialized view",
+      "path": "3학년 2학기/데이터베이스 설계/기말/materialized view.md"
     },
     {
-      "basename": "무제 파일",
-      "path": "3학년 2학기/데이터베이스 설계/기말/무제 파일.md"
+      "basename": "Query Optimization",
+      "path": "3학년 2학기/데이터베이스 설계/기말/Query Optimization.md"
     },
     {
       "basename": "Pasted image 20231208204026",
@@ -195,10 +199,6 @@
     {
       "basename": "lab0902",
       "path": "3학년 2학기/객체1/C++/lab/lab0902.md"
-    },
-    {
-      "basename": "변수",
-      "path": "프론트엔드/유데미/섹션 14, 15 - JS Primary/변수.md"
     }
   ],
   "omittedPaths": [],
