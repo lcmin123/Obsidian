@@ -26,6 +26,6 @@
   "cm-editor-syntax-highlight-obsidian",
   "obsidian-annotator",
   "obsidian-hover-editor",
-  "cm-typewriter-scroll-obsidian",
-  "multi-line-formatting"
+  "multi-line-formatting",
+  "typewriter-mode"
 ]
