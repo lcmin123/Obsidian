@@ -183,23 +183,39 @@
 		- 쿼리 최적화를 위해 계산된 데이터베이스 통계
 		- 위와 같은 트랜잭션은 다른 트랙션들과 같이 직렬화될 필요 없음
 		- 성능을 위한 정확성의 희생
+		- DBMS별로 제공하는 트랜잭션 레벨과 디폴트가 다름
 	- Dirty Read
 		- Commit되지 않은 데이터를 읽는 것
 		- 문제점
 			- Serializable하지 않은 결과가 나올 수 있음
 			- Rollback시 해당 트랜잭션에서 읽은 데이터는 무효화 되어 이전의 유효한 데이터로 되돌아 감
 	- Sql에서의 일관성 수준
-		- Serializable : 디폴트
-		- Repetable read : 커밋된 레코드만 읽기 가능. 동일 레코드 반복 읽기는 동일한 값을 반환
+		- Serializable 
+			- 디폴트
+			- 항상 serializable 한 결과 보장
+			- Dirty Read 비허용
+			- Repeatable Read 
+			- No Phantom Read
+		- Repetable read ![[Pasted image 20231209013646.png]]
+			- 커밋된 레코드만 읽기 가능. 동일 레코드 반복 읽기는 동일한 값을 반환
+			- <font color="#00b0f0">Dirty Read 비허용</font>
+			- <font color="#00b0f0">Repeatable Read 보장</font>
+				- 이미 읽은 데이터는 다시 읽어도 동일한 값이 되도록 보장
+			- Serializable 하지 않은 스케줄 발생 가능![[Pasted image 20231209013729.png]]
+			- **Phantom Read** 발생 가능![[Pasted image 20231209013802.png]]
+				- 한번 읽었던 튜플의 값은 변경 안되지만, 새로운 튜플이 추가될 수는 있음
+				  →이미 읽었던 튜플은 아니므로
+				- T1에 의해 추가된 튜플은 이전에 존재하지 않았으므로 T2:S1 → T1 → T2:S2 순서로 수행 가능
+				- 동일한 결과 나오지 않음
 		- Read committed ![[Pasted image 20231209013144.png]]
 			- 커밋된 레코드만 읽기 가능. 동일 레코드 반복 읽기는 다른 값을 반환할 수 있음
-			- Dirty Read 비허용
+			- <font color="#00b0f0">Dirty Read 비허용</font>
 				- T1 수행중 T2 수행 불가능
-			- Nonrepeatable Read 
+			- <font color="#00b0f0">Nonrepeatable Read</font> 
 				- Repeatable하지 않은 read 발생 가능
 				- T2:S1 → T1 → T2:S2 순서로 수행 가능
 				- 동일한 select문인데 서로 다른 결과 발생
-			- Se
+			- Serializable 하지 않은 스케줄 발생 가능
 		- Read uncommitted ![[Pasted image 20231209013019.png]]
 			- 커밋되지 않은 레코드 읽기 가능
 			- <font color="#00b0f0">Dirty Read 허용</font>
