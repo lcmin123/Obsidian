@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "테이블",
+      "path": "프론트엔드/유데미/섹션 3, 4, 5, 6 - HTML/테이블.md"
+    },
+    {
       "basename": "1. C++ Basic",
       "path": "3학년 2학기/객체1/C++/1. C++ Basic.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "lab2511",
       "path": "3학년 2학기/객체1/C/lab/lab2511.md"
-    },
-    {
-      "basename": "3. 포인터",
-      "path": "3학년 2학기/객체1/C/3. 포인터.md"
     }
   ],
   "omittedPaths": [],
