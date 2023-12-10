@@ -5,6 +5,10 @@
       "path": "3학년 2학기/컴퓨터 보안/족보 기말/2016 A.md"
     },
     {
+      "basename": "Firewall",
+      "path": "3학년 2학기/컴퓨터 보안/기말/Firewall.md"
+    },
+    {
       "basename": "Kerberos",
       "path": "3학년 2학기/컴퓨터 보안/기말/Kerberos.md"
     },
@@ -119,10 +123,6 @@
     {
       "basename": "DoS",
       "path": "3학년 2학기/컴퓨터 보안/기말/DoS.md"
-    },
-    {
-      "basename": "Firewall",
-      "path": "3학년 2학기/컴퓨터 보안/기말/Firewall.md"
     },
     {
       "basename": "#TODOIST",
