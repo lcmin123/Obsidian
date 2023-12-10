@@ -2,7 +2,7 @@
 - [[SSL.TLS]] 
 	- **Transport Layer
 	- 유의개념 : [[Ipsec]]
-	- 웹기반 전자 상거래를 위해 TCP Layer에서 메시지의 무결성과 기밀성 제공
+	- 웹기반 전자 상거래를 위해 TCP Layer에서 메시지의 무결성과 기밀성과 인증 제공
 		- Server/Client Authentication
 			- Server - RSA, X.509
 			- Client - browser에서 제공
@@ -13,9 +13,9 @@
 		- 부인방지 기능은 제공 안됨 → 전자서명 사용해야
 	- Web-server와 Web-browser간 보안 (https)
 		- 단순히 서버와 브라우저간의 모든 데이터를 암호화하는 것이 안전한건 아니다
-		- Reply Attack 발생 가능
+			- Reply Attack 발생 가능 → 관찰된 통신내용을 동일하게 재생 시 같은 결과 얻을 수 있다
 	- Protocol 구성
-		- Handshake
+		- Handshake protocol
 			- 암호 spec, session 관리
 			- Client, Server간 인증
 			- 암호 알고리즘 합의
