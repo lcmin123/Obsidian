@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기/컴퓨터 보안/중간/확장된 유클리드 알고리즘.md",
+                "file": "3학년 2학기/컴퓨터 보안/족보 기말/2018.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3학년 2학기/컴퓨터 보안/중간/확장된 유클리드 알고리즘.md",
+                "file": "3학년 2학기/컴퓨터 보안/족보 기말/2018.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3학년 2학기/컴퓨터 보안/중간/확장된 유클리드 알고리즘.md",
+                "file": "3학년 2학기/컴퓨터 보안/족보 기말/2018.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기/컴퓨터 보안/중간/확장된 유클리드 알고리즘.md"
+                "file": "3학년 2학기/컴퓨터 보안/족보 기말/2018.md"
               }
             }
           },
@@ -207,9 +207,10 @@
   "active": "c30afc99ce3559ac",
   "lastOpenFiles": [
     "3학년 2학기/컴퓨터 보안/족보 기말/2016.md",
+    "3학년 2학기/컴퓨터 보안/족보 기말/2018.md",
+    "3학년 2학기/컴퓨터 보안/중간/확장된 유클리드 알고리즘.md",
     "3학년 2학기/컴퓨터 보안/중간/MA[[MAC(Message Aceess Control).md",
     "3학년 2학기/컴퓨터 보안/중간/전자 서명.md",
-    "3학년 2학기/컴퓨터 보안/족보 기말/2018.md",
     "3학년 2학기/컴퓨터 보안/기말/PGP.md",
     "3학년 2학기/컴퓨터 보안/중간/PGP.md",
     "3학년 2학기/컴퓨터 보안/중간/RSA.md",
@@ -231,7 +232,6 @@
     "3학년 2학기/컴퓨터 보안/족보 기말/DH기출2.md",
     "3학년 2학기/컴퓨터 보안/중간/MAC(Message Aceess Control).md",
     "프론트엔드/유데미/섹션 3, 4, 5, 6 - HTML/테이블.md",
-    "3학년 2학기/객체1/C++/1. C++ Basic.md",
     "Attached Files/Pasted image 20231209013802.png",
     "Attached Files/Pasted image 20231209013729.png",
     "Attached Files/Pasted image 20231209013646.png",
