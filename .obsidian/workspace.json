@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프론트엔드/유데미/섹션 3, 4, 5, 6 - HTML/테이블.md",
+                "file": "3학년 2학기/컴퓨터 보안/중간/전자 서명.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프론트엔드/유데미/섹션 3, 4, 5, 6 - HTML/테이블.md",
+                "file": "3학년 2학기/컴퓨터 보안/중간/전자 서명.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프론트엔드/유데미/섹션 3, 4, 5, 6 - HTML/테이블.md",
+                "file": "3학년 2학기/컴퓨터 보안/중간/전자 서명.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프론트엔드/유데미/섹션 3, 4, 5, 6 - HTML/테이블.md"
+                "file": "3학년 2학기/컴퓨터 보안/중간/전자 서명.md"
               }
             }
           },
@@ -206,6 +206,10 @@
   },
   "active": "c30afc99ce3559ac",
   "lastOpenFiles": [
+    "3학년 2학기/컴퓨터 보안/중간/MAC(Message Aceess Control).md",
+    "3학년 2학기/컴퓨터 보안/중간/MA[[MAC(Message Aceess Control).md",
+    "3학년 2학기/컴퓨터 보안/중간/전자 서명.md",
+    "프론트엔드/유데미/섹션 3, 4, 5, 6 - HTML/테이블.md",
     "3학년 2학기/객체1/C++/1. C++ Basic.md",
     "3학년 2학기/객체1/C++/3. Instance and initialize.md",
     "3학년 2학기/객체1/C++/2. Class and method.md",
@@ -238,10 +242,6 @@
     "3학년 2학기/데이터베이스 설계/기말/하청기업.md",
     "3학년 2학기/데이터베이스 설계/기말/출장.md",
     "3학년 2학기/데이터베이스 설계/기말/공지사항.md",
-    "#TODOIST.md",
-    "3학년 2학기/컴퓨터 보안/기말/PGP.md",
-    "3학년 2학기/컴퓨터 보안/기말/DAC.md",
-    "3학년 2학기/컴퓨터 보안/기말/DRM.md",
     "프론트엔드/유데미/섹션 25",
     "프론트엔드/유데미/섹션 16",
     "프론트엔드/유데미/섹션 14, 15 - JS Primary",

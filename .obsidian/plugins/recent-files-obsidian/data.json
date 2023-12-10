@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "전자 서명",
+      "path": "3학년 2학기/컴퓨터 보안/중간/전자 서명.md"
+    },
+    {
+      "basename": "MAC(Message Aceess Control)",
+      "path": "3학년 2학기/컴퓨터 보안/중간/MAC(Message Aceess Control).md"
+    },
+    {
+      "basename": "MA[[MAC(Message Aceess Control)",
+      "path": "3학년 2학기/컴퓨터 보안/중간/MA[[MAC(Message Aceess Control).md"
+    },
+    {
       "basename": "테이블",
       "path": "프론트엔드/유데미/섹션 3, 4, 5, 6 - HTML/테이블.md"
     },
@@ -157,14 +169,6 @@
       "path": "프론트엔드/유데미/섹션 25/섹션 25.md"
     },
     {
-      "basename": "전자 서명",
-      "path": "3학년 2학기/컴퓨터 보안/중간/전자 서명.md"
-    },
-    {
-      "basename": "MAC(Message Aceess Control)",
-      "path": "3학년 2학기/컴퓨터 보안/중간/MAC(Message Aceess Control).md"
-    },
-    {
       "basename": "Pasted image 20231127142623",
       "path": "Attached Files/Pasted image 20231127142623.png"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "{JS 기본 요소 및 콘솔}",
       "path": "프론트엔드/유데미/섹션 14, 15 - JS Primary/{JS 기본 요소 및 콘솔}.md"
-    },
-    {
-      "basename": "lab2511",
-      "path": "3학년 2학기/객체1/C/lab/lab2511.md"
     }
   ],
   "omittedPaths": [],
