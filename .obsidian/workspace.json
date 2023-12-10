@@ -11,9 +11,11 @@
             "id": "c30afc99ce3559ac",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "3학년 2학기/컴퓨터 보안"
+                "file": "3학년 2학기/컴퓨터 보안/족보 기말/2018.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -99,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3학년 2학기/컴퓨터 보안/족보 기말/2018.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "3학년 2학기/컴퓨터 보안/족보 기말/2018.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "3학년 2학기/컴퓨터 보안/족보 기말/2018.md"
+              }
             }
           },
           {
