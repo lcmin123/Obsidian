@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "2019",
+      "path": "3학년 2학기/컴퓨터 보안/족보 기말/2019.md"
+    },
+    {
       "basename": "2018",
       "path": "3학년 2학기/컴퓨터 보안/족보 기말/2018.md"
+    },
+    {
+      "basename": "PGP",
+      "path": "3학년 2학기/컴퓨터 보안/기말/PGP.md"
+    },
+    {
+      "basename": "Kerberos",
+      "path": "3학년 2학기/컴퓨터 보안/기말/Kerberos.md"
     },
     {
       "basename": "SSL.TLS",
@@ -50,10 +62,6 @@
     },
     {
       "basename": "PGP",
-      "path": "3학년 2학기/컴퓨터 보안/기말/PGP.md"
-    },
-    {
-      "basename": "PGP",
       "path": "3학년 2학기/컴퓨터 보안/중간/PGP.md"
     },
     {
@@ -71,10 +79,6 @@
     {
       "basename": "Firewall",
       "path": "3학년 2학기/컴퓨터 보안/기말/Firewall.md"
-    },
-    {
-      "basename": "Kerberos",
-      "path": "3학년 2학기/컴퓨터 보안/기말/Kerberos.md"
     },
     {
       "basename": "Ipsec",
@@ -195,10 +199,6 @@
     {
       "basename": "Watermark",
       "path": "3학년 2학기/컴퓨터 보안/기말/Watermark.md"
-    },
-    {
-      "basename": "공인인증서",
-      "path": "3학년 2학기/컴퓨터 보안/기말/공인인증서.md"
     }
   ],
   "omittedPaths": [],
