@@ -10,6 +10,7 @@
 	- 타입
 		- Stateless packet filter
 			-  나의 IP주소 + 포트넘버로 부터 상대 IP주소 + 포트넘버로 가는 패킷을 뜯어서 차단 여부 결정
+			- ACL(접근 제어 목록)을 사용
 				- 장점
 					- 직관적인 동작, 간단, 빠름
 				- 단점
@@ -17,8 +18,9 @@
 					- 사용자/application 별 서비스 제공불가능 
 					- 필터링시 사용 정보가 제한되어서 정교한 필터링 불가능
 					- IP주소 위변조 여부 판단 불가능
-		- Statefull packet filter
+		- Stateful packet filter
 			- Stateless에서 발전된 형태. 패킷의 상태를 기억해서 통과 기준을 설립
+			- inactive connection을 filter하는데에 가장 효율적
 				- 장점
 					- 정교한 필터링
 				- 단점
