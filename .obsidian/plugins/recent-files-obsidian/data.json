@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2016",
+      "path": "3학년 2학기/컴퓨터 보안/족보 기말/2016.md"
+    },
+    {
       "basename": "2019",
       "path": "3학년 2학기/컴퓨터 보안/족보 기말/2019.md"
     },
@@ -55,10 +59,6 @@
     {
       "basename": "Query Optimization",
       "path": "3학년 2학기/데이터베이스 설계/기말/Query Optimization.md"
-    },
-    {
-      "basename": "2016",
-      "path": "3학년 2학기/컴퓨터 보안/족보 기말/2016.md"
     },
     {
       "basename": "확장된 유클리드 알고리즘",
