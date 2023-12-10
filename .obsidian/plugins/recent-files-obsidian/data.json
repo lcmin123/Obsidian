@@ -13,6 +13,10 @@
       "path": "3학년 2학기/컴퓨터 보안/기말/SSL.TLS.md"
     },
     {
+      "basename": "Handshake Protocol",
+      "path": "3학년 2학기/컴퓨터 보안/기말/Handshake Protocol.md"
+    },
+    {
       "basename": "Access Control",
       "path": "3학년 2학기/컴퓨터 보안/기말/Access Control.md"
     },
@@ -99,10 +103,6 @@
     {
       "basename": "Pasted image 20231208204026",
       "path": "Attached Files/Pasted image 20231208204026.png"
-    },
-    {
-      "basename": "Handshake Protocol",
-      "path": "3학년 2학기/컴퓨터 보안/기말/Handshake Protocol.md"
     },
     {
       "basename": "IDS.IPS",
