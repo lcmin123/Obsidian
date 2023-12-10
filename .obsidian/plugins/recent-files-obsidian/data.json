@@ -5,6 +5,10 @@
       "path": "3학년 2학기/컴퓨터 보안/족보 기말/2019.md"
     },
     {
+      "basename": "CA",
+      "path": "3학년 2학기/컴퓨터 보안/기말/CA.md"
+    },
+    {
       "basename": "DiffieHellman",
       "path": "3학년 2학기/컴퓨터 보안/기말/DiffieHellman.md"
     },
@@ -103,10 +107,6 @@
     {
       "basename": "DAC",
       "path": "3학년 2학기/컴퓨터 보안/기말/DAC.md"
-    },
-    {
-      "basename": "CA",
-      "path": "3학년 2학기/컴퓨터 보안/기말/CA.md"
     },
     {
       "basename": "KDC",
