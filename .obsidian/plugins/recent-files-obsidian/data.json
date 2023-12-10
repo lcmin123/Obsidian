@@ -5,6 +5,14 @@
       "path": "3학년 2학기/컴퓨터 보안/족보 기말/2016 A.md"
     },
     {
+      "basename": "CA",
+      "path": "3학년 2학기/컴퓨터 보안/기말/CA.md"
+    },
+    {
+      "basename": "KDC",
+      "path": "3학년 2학기/컴퓨터 보안/기말/KDC.md"
+    },
+    {
       "basename": "해쉬",
       "path": "3학년 2학기/컴퓨터 보안/중간/해쉬.md"
     },
@@ -125,10 +133,6 @@
       "path": "3학년 2학기/컴퓨터 보안/기말/DRM.md"
     },
     {
-      "basename": "KDC",
-      "path": "3학년 2학기/컴퓨터 보안/기말/KDC.md"
-    },
-    {
       "basename": "PKI",
       "path": "3학년 2학기/컴퓨터 보안/기말/PKI.md"
     },
@@ -159,10 +163,6 @@
     {
       "basename": "Common DRM Business Model",
       "path": "3학년 2학기/컴퓨터 보안/기말/Common DRM Business Model.md"
-    },
-    {
-      "basename": "CA",
-      "path": "3학년 2학기/컴퓨터 보안/기말/CA.md"
     },
     {
       "basename": "Access Control",
