@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "SSL.TLS",
+      "path": "3학년 2학기/컴퓨터 보안/기말/SSL.TLS.md"
+    },
+    {
       "basename": "2018",
       "path": "3학년 2학기/컴퓨터 보안/족보 기말/2018.md"
+    },
+    {
+      "basename": "블럭 싸이퍼",
+      "path": "3학년 2학기/컴퓨터 보안/중간/블럭 싸이퍼.md"
+    },
+    {
+      "basename": "대칭키",
+      "path": "3학년 2학기/컴퓨터 보안/중간/대칭키.md"
     },
     {
       "basename": "Substitution Cipher",
@@ -67,10 +79,6 @@
     {
       "basename": "Ipsec",
       "path": "3학년 2학기/컴퓨터 보안/기말/Ipsec.md"
-    },
-    {
-      "basename": "SSL.TLS",
-      "path": "3학년 2학기/컴퓨터 보안/기말/SSL.TLS.md"
     },
     {
       "basename": "Handshake Protocol",
@@ -191,14 +199,6 @@
     {
       "basename": "공인인증서",
       "path": "3학년 2학기/컴퓨터 보안/기말/공인인증서.md"
-    },
-    {
-      "basename": "Common DRM Business Model",
-      "path": "3학년 2학기/컴퓨터 보안/기말/Common DRM Business Model.md"
-    },
-    {
-      "basename": "크루스칼 알고리즘",
-      "path": "3학년 2학기/알고리즘/기말/크루스칼 알고리즘.md"
     }
   ],
   "omittedPaths": [],
