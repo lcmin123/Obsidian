@@ -2,14 +2,37 @@
 	- 침입 탐지 시스템
 	- 침입행위에 대한 탐지를 수행하고 탐지시 대응할 수 있도록 지원하는 일련의 시스템
 	- Intrusion
-		- ㅇ
+		- 시스템에 허가되지 않은 방법으로 내부 자원 접근
+		- 로그인 시도(ID,PW 추측)
+		- 불법적으로 데이터 도용 시도 (rootkit)
+		- root/관리자권한 획득 시도
+		- 메일발송 실행파일을 숨겨놓고 메일전송시도
+		- 백도어 접근 시도
 	- Detection
 		- Signateure-based detection
+		  침입 사건들을 패턴화
+			- Signature Example
+				- 실행파일 첨부 메일
+				- 파일 읽기 시도
+				- 로그인 시도
 			- 장점
+				- Known Attack에 대해 효율적
 			- 단점
+				- Unknown Attack에 취약
+				- 새로운 공격 유형 발견 때마다 Signature 생성해야함
+				- 일반적으로 False negative rate 높음
 		- Anomaly-based detection
+		  정상범위를 벗어나는 사건을 탐지
+			- Anomaly Example 
+				- 휴일에 트래픽량 증가
+				- 일반사용자가 갑자기 메일 1000통 발송
+				- 특정 호스트에 단시간 주문요청 
 			- 장점
+				- 머신 러닝 처리
+				- Unknown Attack에 효율적
 			- 단점
+				- 정상범위 정의 어려움
+				- 비정상 탐지까지 기다려야 함
 	- IDS Types
 		- Network-based IDS
 			- 장점
