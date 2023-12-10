@@ -5,6 +5,10 @@
       "path": "3학년 2학기/컴퓨터 보안/족보 기말/2019.md"
     },
     {
+      "basename": "DiffieHellman",
+      "path": "3학년 2학기/컴퓨터 보안/기말/DiffieHellman.md"
+    },
+    {
       "basename": "2018",
       "path": "3학년 2학기/컴퓨터 보안/족보 기말/2018.md"
     },
@@ -159,10 +163,6 @@
     {
       "basename": "IDS.IPS",
       "path": "3학년 2학기/컴퓨터 보안/기말/IDS.IPS.md"
-    },
-    {
-      "basename": "DiffieHellman",
-      "path": "3학년 2학기/컴퓨터 보안/기말/DiffieHellman.md"
     },
     {
       "basename": "DoS",

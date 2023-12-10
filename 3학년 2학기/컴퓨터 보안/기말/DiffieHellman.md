@@ -5,6 +5,8 @@
 -> KDC를 만들어 운영해야하는데, PKI랑 큰 차이 X
 --> **대칭키를 얼굴 안보고 나누는 방법 필요** : [[DiffieHellman]]
 
+송수신자간의 일회용 세션 키 생성에 유용하다
+
 - 아이디어 
 	- 임의의 큰 정수 p,q 를 Alice와 Bob에게 공개
 	- Alice만 아는 값 : a, A = q<sup>a</sup>mod p 계산
