@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "materialized view",
+      "path": "3학년 2학기/데이터베이스 설계/기말/materialized view.md"
+    },
+    {
+      "basename": "Query Optimization",
+      "path": "3학년 2학기/데이터베이스 설계/기말/Query Optimization.md"
+    },
+    {
       "basename": "2018",
       "path": "3학년 2학기/컴퓨터 보안/족보 기말/2018.md"
     },
@@ -119,14 +127,6 @@
     {
       "basename": "transaction",
       "path": "3학년 2학기/데이터베이스 설계/기말/transaction.md"
-    },
-    {
-      "basename": "materialized view",
-      "path": "3학년 2학기/데이터베이스 설계/기말/materialized view.md"
-    },
-    {
-      "basename": "Query Optimization",
-      "path": "3학년 2학기/데이터베이스 설계/기말/Query Optimization.md"
     },
     {
       "basename": "Pasted image 20231208204026",
