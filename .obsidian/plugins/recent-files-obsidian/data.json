@@ -1,8 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "10040",
+      "path": "3학년 2학기/객체1/C++/10040.md"
+    },
+    {
+      "basename": "10020",
+      "path": "3학년 2학기/객체1/C++/lab/10020.md"
+    },
+    {
       "basename": "10010",
       "path": "3학년 2학기/객체1/C++/lab/10010.md"
+    },
+    {
+      "basename": "lab0708",
+      "path": "3학년 2학기/객체1/C++/lab/lab0708.md"
+    },
+    {
+      "basename": "lab0704",
+      "path": "3학년 2학기/객체1/C++/lab/lab0704.md"
+    },
+    {
+      "basename": "lab0704b",
+      "path": "3학년 2학기/객체1/C++/lab/lab0704b.md"
+    },
+    {
+      "basename": "p9120",
+      "path": "3학년 2학기/객체1/C++/lab/p9120.md"
+    },
+    {
+      "basename": "p9082",
+      "path": "3학년 2학기/객체1/C++/lab/p9082.md"
+    },
+    {
+      "basename": "p9090",
+      "path": "3학년 2학기/객체1/C++/lab/p9090.md"
     },
     {
       "basename": "Accessor와 Mutator",
@@ -11,10 +43,6 @@
     {
       "basename": "파일분리 작성법",
       "path": "3학년 2학기/객체1/C++/파일분리 작성법.md"
-    },
-    {
-      "basename": "lab0704",
-      "path": "3학년 2학기/객체1/C++/lab/lab0704.md"
     },
     {
       "basename": "융의 분석 심리학",
@@ -171,34 +199,6 @@
     {
       "basename": "블럭 싸이퍼",
       "path": "3학년 2학기/컴퓨터 보안/중간/블럭 싸이퍼.md"
-    },
-    {
-      "basename": "대칭키",
-      "path": "3학년 2학기/컴퓨터 보안/중간/대칭키.md"
-    },
-    {
-      "basename": "materialized view",
-      "path": "3학년 2학기/데이터베이스 설계/기말/materialized view.md"
-    },
-    {
-      "basename": "Query Optimization",
-      "path": "3학년 2학기/데이터베이스 설계/기말/Query Optimization.md"
-    },
-    {
-      "basename": "확장된 유클리드 알고리즘",
-      "path": "3학년 2학기/컴퓨터 보안/중간/확장된 유클리드 알고리즘.md"
-    },
-    {
-      "basename": "전자 서명",
-      "path": "3학년 2학기/컴퓨터 보안/중간/전자 서명.md"
-    },
-    {
-      "basename": "PGP",
-      "path": "3학년 2학기/컴퓨터 보안/중간/PGP.md"
-    },
-    {
-      "basename": "RSA",
-      "path": "3학년 2학기/컴퓨터 보안/중간/RSA.md"
     }
   ],
   "omittedPaths": [],
