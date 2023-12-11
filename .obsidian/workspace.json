@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b4006e7efab94c38",
+        "id": "0ab804f71b2bb4db",
         "type": "tabs",
         "children": [
           {
-            "id": "c30afc99ce3559ac",
+            "id": "fb37a8798716fb13",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기/객체1/C++/lab/Untitled.md",
+                "file": "3학년 2학기/객체1/C++/lab/기말/13020.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3학년 2학기/객체1/C++/lab/Untitled.md",
+                "file": "3학년 2학기/객체1/C++/lab/기말/13020.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3학년 2학기/객체1/C++/lab/Untitled.md",
+                "file": "3학년 2학기/객체1/C++/lab/기말/13020.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기/객체1/C++/lab/Untitled.md"
+                "file": "3학년 2학기/객체1/C++/lab/기말/13020.md"
               }
             }
           },
@@ -204,35 +204,38 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c30afc99ce3559ac",
+  "active": "fb37a8798716fb13",
   "lastOpenFiles": [
-    "3학년 2학기/객체1/C++/lab/12050.md",
-    "3학년 2학기/객체1/C++/lab/Untitled.md",
+    "3학년 2학기/객체1/C++/lab/기말/13010.md",
+    "3학년 2학기/객체1/C++/lab/기말/13020.md",
+    "3학년 2학기/객체1/C++/lab/기말/12060.md",
+    "3학년 2학기/객체1/C++/lab/기말/12050.md",
+    "3학년 2학기/객체1/C++/lab/기말/11511.md",
+    "3학년 2학기/객체1/C++/lab/기말/11020.md",
+    "3학년 2학기/객체1/C++/lab/기말/10020.md",
+    "3학년 2학기/객체1/C++/lab/기말/10010.md",
+    "3학년 2학기/객체1/C++/lab/기말/기말.md",
+    "3학년 2학기/객체1/C++/lab/중간/중간.md",
+    "3학년 2학기/객체1/C++/lab/기말",
+    "3학년 2학기/객체1/C++/lab/ㅇ/ㅇ.md",
+    "3학년 2학기/객체1/C++/lab/ㅇ",
+    "3학년 2학기/객체1/C++/lab/중간/p8060.md",
+    "3학년 2학기/객체1/C++/lab/중간",
+    "3학년 2학기/객체1/C++/lab/p9082.md",
+    "3학년 2학기/객체1/C++/lab/p9090.md",
+    "3학년 2학기/객체1/C++/lab/p9120.md",
     "융의 분석 심리학.pdf",
     "Untitled.md",
     "Digital Garden.md",
-    "3학년 2학기/객체1/C++/lab/11511.md",
-    "3학년 2학기/객체1/C++/lab/11020.md",
-    "3학년 2학기/객체1/C++/lab/p9082.md",
-    "3학년 2학기/객체1/C++/lab/10020.md",
-    "3학년 2학기/객체1/C++/lab/10010.md",
-    "3학년 2학기/객체1/C++/lab/p9120.md",
     "3학년 2학기/객체1/C++/10040.md",
-    "3학년 2학기/객체1/C++/lab/lab0708.md",
-    "3학년 2학기/객체1/C++/lab/lab0704.md",
-    "3학년 2학기/객체1/C++/lab/lab0704b.md",
-    "3학년 2학기/객체1/C++/lab/p9090.md",
+    "3학년 2학기/객체1/C++/lab/중간/lab0708.md",
+    "3학년 2학기/객체1/C++/lab/중간/lab0704.md",
+    "3학년 2학기/객체1/C++/lab/중간/lab0704b.md",
     "3학년 2학기/객체1/C++/Accessor와 Mutator.md",
     "3학년 2학기/객체1/C++/파일분리 작성법.md",
     "3학년 2학기/객체1/C++/1. C++ Basic.md",
     "3학년 2학기/객체1/C++/3. Instance and initialize.md",
     "3학년 2학기/고인문/융의 분석 심리학.md",
-    "3학년 2학기/고인문/정규-민담.md",
-    "3학년 2학기/고인문/정규-그림동화.md",
-    "3학년 2학기/고인문/정규-고전작품.md",
-    "3학년 2학기/고인문/정규-인문학.md",
-    "3학년 2학기/컴퓨터 보안/기말/SSL.TLS.md",
-    "3학년 2학기/컴퓨터 보안/기말/PKI.md",
     "Attached Files/Pasted image 20231210194411.png",
     "Attached Files/Pasted image 20231210182728.png",
     "Attached Files/Pasted image 20231210182403.png",
@@ -249,9 +252,6 @@
     "todoist-backup-20231113155739.json",
     "Task Dashboard.canvas",
     "Excalidraw",
-    "Spaces/Home",
-    "Spaces",
-    "3학년 2학기/컴퓨터 보안/족보 기말",
-    "3학년 2학기/데이터베이스 설계/데베설.drawio"
+    "Spaces/Home"
   ]
 }
