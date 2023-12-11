@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기/객체1/C++/파일분리 작성법.md",
+                "file": "3학년 2학기/객체1/C++/클래스 간 관계.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3학년 2학기/객체1/C++/파일분리 작성법.md",
+                "file": "3학년 2학기/객체1/C++/클래스 간 관계.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3학년 2학기/객체1/C++/파일분리 작성법.md",
+                "file": "3학년 2학기/객체1/C++/클래스 간 관계.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기/객체1/C++/파일분리 작성법.md"
+                "file": "3학년 2학기/객체1/C++/클래스 간 관계.md"
               }
             }
           },
@@ -206,11 +206,13 @@
   },
   "active": "fb37a8798716fb13",
   "lastOpenFiles": [
+    "3학년 2학기/객체1/C++/lab/기말/기말.md",
+    "3학년 2학기/객체1/C++/lab/lab.md",
+    "3학년 2학기/객체1/C++/클래스 간 관계.md",
+    "3학년 2학기/객체1/C++/파일분리 작성법.md",
     "3학년 2학기/객체1/C++/Accessor와 Mutator.md",
     "3학년 2학기/객체1/C++/lab/기말/10020.md",
     "3학년 2학기/객체1/C++/lab/기말/10010.md",
-    "3학년 2학기/객체1/C++/파일분리 작성법.md",
-    "3학년 2학기/객체1/C++/lab/기말/기말.md",
     "3학년 2학기/객체1/C++/C++.md",
     "3학년 2학기/객체1/C++/lab/기말/10040.md",
     "3학년 2학기/고인문/정규-그림동화.md",
@@ -233,8 +235,6 @@
     "3학년 2학기/객체1/C++/lab/ㅇ",
     "3학년 2학기/객체1/C++/lab/중간/p8060.md",
     "3학년 2학기/객체1/C++/lab/중간",
-    "3학년 2학기/객체1/C++/lab/p9082.md",
-    "3학년 2학기/객체1/C++/lab/p9090.md",
     "융의 분석 심리학.pdf",
     "Attached Files/Pasted image 20231210194411.png",
     "Attached Files/Pasted image 20231210182728.png",
