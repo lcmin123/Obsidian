@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기/객체1/기말범위/call by.md",
+                "file": "3학년 2학기/객체1/기말범위/초기화와 뒤처리.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3학년 2학기/객체1/기말범위/call by.md",
+                "file": "3학년 2학기/객체1/기말범위/초기화와 뒤처리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3학년 2학기/객체1/기말범위/call by.md",
+                "file": "3학년 2학기/객체1/기말범위/초기화와 뒤처리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기/객체1/기말범위/call by.md"
+                "file": "3학년 2학기/객체1/기말범위/초기화와 뒤처리.md"
               }
             }
           },
@@ -206,9 +206,11 @@
   },
   "active": "fb37a8798716fb13",
   "lastOpenFiles": [
-    "3학년 2학기/객체1/lab/기말/12050.md",
+    "3학년 2학기/객체1/lab/기말/13020.md",
+    "3학년 2학기/객체1/lab/기말/13030.md",
+    "3학년 2학기/객체1/기말범위/초기화와 뒤처리.md",
     "3학년 2학기/객체1/기말범위/call by.md",
-    "3학년 2학기/객체1/기말범위/Untitled.md",
+    "3학년 2학기/객체1/lab/기말/12050.md",
     "3학년 2학기/객체1/lab/기말/Untitled.md",
     "3학년 2학기/객체1/lab/기말/12060.md",
     "3학년 2학기/객체1/lab/lab.md",
@@ -230,8 +232,6 @@
     "3학년 2학기/고인문/정규-그림동화.md",
     "3학년 2학기/고인문/정규-인문학.md",
     "3학년 2학기/고인문/정규-고전작품.md",
-    "3학년 2학기/고인문/정규-민담.md",
-    "3학년 2학기/고인문/어린왕자.md",
     "3학년 2학기/객체1/lab/기말",
     "3학년 2학기/객체1/C++/lab/ㅇ",
     "3학년 2학기/객체1/lab/중간",
