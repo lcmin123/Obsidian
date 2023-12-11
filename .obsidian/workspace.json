@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "INDEX.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "INDEX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "INDEX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "INDEX.md"
               }
             }
           },
@@ -231,8 +231,10 @@
   },
   "active": "780065f0fbce3fd3",
   "lastOpenFiles": [
-    "3학년 2학기/객체1/기말범위/파일분리 작성법.md",
+    "Digital Garden.md",
     "conflict-files-obsidian-git.md",
+    "3학년 2학기/객체1/기말범위/Untitled.md",
+    "3학년 2학기/객체1/기말범위/파일분리 작성법.md",
     "#TODOIST 복사본.md",
     "3학년 2학기/객체1/기말범위/call by.md",
     "Spaces/Home",
@@ -257,8 +259,6 @@
     "3학년 2학기/고인문/정규-민담.md",
     "3학년 2학기/고인문/어린왕자.md",
     "3학년 2학기/객체1/lab/기말/13050.md",
-    "3학년 2학기/객체1/lab/기말/13040.md",
-    "3학년 2학기/객체1/lab/기말/13030.md",
     "3학년 2학기/객체1/lab/기말",
     "3학년 2학기/객체1/C++/lab/ㅇ",
     "3학년 2학기/객체1/lab/중간",
