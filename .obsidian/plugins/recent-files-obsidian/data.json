@@ -5,6 +5,14 @@
       "path": "3학년 2학기/객체1/기말범위/상속.md"
     },
     {
+      "basename": "14090",
+      "path": "3학년 2학기/객체1/lab/기말/14090.md"
+    },
+    {
+      "basename": "Untitled 1",
+      "path": "3학년 2학기/객체1/lab/기말/Untitled 1.md"
+    },
+    {
       "basename": "깊은 복사",
       "path": "3학년 2학기/객체1/기말범위/깊은 복사.md"
     },
@@ -27,10 +35,6 @@
     {
       "basename": "12050",
       "path": "3학년 2학기/객체1/lab/기말/12050.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "3학년 2학기/객체1/lab/기말/Untitled.md"
     },
     {
       "basename": "12060",
@@ -195,10 +199,6 @@
     {
       "basename": "Firewall",
       "path": "3학년 2학기/컴퓨터 보안/기말/Firewall.md"
-    },
-    {
-      "basename": "ABAC",
-      "path": "3학년 2학기/컴퓨터 보안/기말/ABAC.md"
     }
   ],
   "omittedPaths": [],
