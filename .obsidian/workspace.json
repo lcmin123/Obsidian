@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기/컴퓨터 보안/족보 기말/2016.md",
+                "file": "3학년 2학기/컴퓨터 보안/기말/DiffieHellman.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3학년 2학기/컴퓨터 보안/족보 기말/2016.md",
+                "file": "3학년 2학기/컴퓨터 보안/기말/DiffieHellman.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3학년 2학기/컴퓨터 보안/족보 기말/2016.md",
+                "file": "3학년 2학기/컴퓨터 보안/기말/DiffieHellman.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기/컴퓨터 보안/족보 기말/2016.md"
+                "file": "3학년 2학기/컴퓨터 보안/기말/DiffieHellman.md"
               }
             }
           },
@@ -206,9 +206,14 @@
   },
   "active": "c30afc99ce3559ac",
   "lastOpenFiles": [
+    "3학년 2학기/컴퓨터 보안/기말/DAC.md",
+    "3학년 2학기/컴퓨터 보안/기말/Common DRM Business Model.md",
     "3학년 2학기/컴퓨터 보안/기말/CA.md",
-    "3학년 2학기/컴퓨터 보안/기말/KDC.md",
+    "3학년 2학기/컴퓨터 보안/기말/Affine Cipher.md",
+    "3학년 2학기/컴퓨터 보안/기말/Access Control.md",
+    "3학년 2학기/컴퓨터 보안/기말/ABAC.md",
     "3학년 2학기/컴퓨터 보안/족보 기말/2016.md",
+    "3학년 2학기/컴퓨터 보안/기말/KDC.md",
     "3학년 2학기/객체1/C++/4. Information hiding.md",
     "3학년 2학기/객체1/C++/3. Instance and initialize.md",
     "3학년 2학기/컴퓨터 보안/족보 기말/2018.md",
@@ -227,14 +232,9 @@
     "3학년 2학기/컴퓨터 보안/중간/블럭 싸이퍼.md",
     "3학년 2학기/컴퓨터 보안/중간/대칭키.md",
     "Attached Files/Pasted image 20231210182728.png",
-    "3학년 2학기/컴퓨터 보안/기말/Affine Cipher.md",
     "Attached Files/Pasted image 20231210182403.png",
     "3학년 2학기/데이터베이스 설계/기말/materialized view.md",
     "3학년 2학기/데이터베이스 설계/기말/Query Optimization.md",
-    "3학년 2학기/컴퓨터 보안/중간/확장된 유클리드 알고리즘.md",
-    "3학년 2학기/컴퓨터 보안/중간/MA[[MAC(Message Aceess Control).md",
-    "3학년 2학기/컴퓨터 보안/중간/전자 서명.md",
-    "3학년 2학기/컴퓨터 보안/중간/PGP.md",
     "Attached Files/Pasted image 20231209013802.png",
     "Attached Files/Pasted image 20231209013729.png",
     "Attached Files/Pasted image 20231209013646.png",
