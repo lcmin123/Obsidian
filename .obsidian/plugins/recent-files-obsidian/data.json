@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "lab",
+      "path": "3학년 2학기/객체1/lab/lab.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "3학년 2학기/객체1/lab/기말/Untitled.md"
+    },
+    {
+      "basename": "call by",
+      "path": "3학년 2학기/객체1/기말범위/call by.md"
+    },
+    {
       "basename": "conflict-files-obsidian-git",
       "path": "conflict-files-obsidian-git.md"
     },
     {
       "basename": "파일분리 작성법",
       "path": "3학년 2학기/객체1/기말범위/파일분리 작성법.md"
-    },
-    {
-      "basename": "call by",
-      "path": "3학년 2학기/객체1/기말범위/call by.md"
     },
     {
       "basename": "Untitled",
@@ -35,10 +43,6 @@
     {
       "basename": "lab0803",
       "path": "3학년 2학기/객체1/lab/중간/lab0803.md"
-    },
-    {
-      "basename": "lab",
-      "path": "3학년 2학기/객체1/lab/lab.md"
     },
     {
       "basename": "중간",
@@ -195,14 +199,6 @@
     {
       "basename": "DH기출1",
       "path": "3학년 2학기/컴퓨터 보안/족보 기말/DH기출1.md"
-    },
-    {
-      "basename": "DH기출2",
-      "path": "3학년 2학기/컴퓨터 보안/족보 기말/DH기출2.md"
-    },
-    {
-      "basename": "DH기출4",
-      "path": "3학년 2학기/컴퓨터 보안/족보 기말/DH기출4.md"
     }
   ],
   "omittedPaths": [],
