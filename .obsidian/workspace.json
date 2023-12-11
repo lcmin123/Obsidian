@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기/객체1/C++/lab/기말/13020.md",
+                "file": "3학년 2학기/객체1/C++/lab/기말/13050.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 207.5
   },
   "right": {
     "id": "25192bdd3f6894eb",
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3학년 2학기/객체1/C++/lab/기말/13020.md",
+                "file": "3학년 2학기/객체1/C++/lab/기말/13050.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3학년 2학기/객체1/C++/lab/기말/13020.md",
+                "file": "3학년 2학기/객체1/C++/lab/기말/13050.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기/객체1/C++/lab/기말/13020.md"
+                "file": "3학년 2학기/객체1/C++/lab/기말/13050.md"
               }
             }
           },
@@ -206,8 +206,11 @@
   },
   "active": "fb37a8798716fb13",
   "lastOpenFiles": [
-    "3학년 2학기/객체1/C++/lab/기말/13010.md",
+    "3학년 2학기/객체1/C++/lab/기말/13040.md",
+    "3학년 2학기/객체1/C++/lab/기말/13030.md",
+    "3학년 2학기/객체1/C++/lab/기말/13050.md",
     "3학년 2학기/객체1/C++/lab/기말/13020.md",
+    "3학년 2학기/객체1/C++/lab/기말/13010.md",
     "3학년 2학기/객체1/C++/lab/기말/12060.md",
     "3학년 2학기/객체1/C++/lab/기말/12050.md",
     "3학년 2학기/객체1/C++/lab/기말/11511.md",
@@ -233,9 +236,6 @@
     "3학년 2학기/객체1/C++/lab/중간/lab0704b.md",
     "3학년 2학기/객체1/C++/Accessor와 Mutator.md",
     "3학년 2학기/객체1/C++/파일분리 작성법.md",
-    "3학년 2학기/객체1/C++/1. C++ Basic.md",
-    "3학년 2학기/객체1/C++/3. Instance and initialize.md",
-    "3학년 2학기/고인문/융의 분석 심리학.md",
     "Attached Files/Pasted image 20231210194411.png",
     "Attached Files/Pasted image 20231210182728.png",
     "Attached Files/Pasted image 20231210182403.png",

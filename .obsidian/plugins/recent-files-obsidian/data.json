@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "13050",
+      "path": "3학년 2학기/객체1/C++/lab/기말/13050.md"
+    },
+    {
+      "basename": "13040",
+      "path": "3학년 2학기/객체1/C++/lab/기말/13040.md"
+    },
+    {
+      "basename": "13030",
+      "path": "3학년 2학기/객체1/C++/lab/기말/13030.md"
+    },
+    {
       "basename": "13020",
       "path": "3학년 2학기/객체1/C++/lab/기말/13020.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Ipsec",
       "path": "3학년 2학기/컴퓨터 보안/기말/Ipsec.md"
-    },
-    {
-      "basename": "IDS.IPS",
-      "path": "3학년 2학기/컴퓨터 보안/기말/IDS.IPS.md"
-    },
-    {
-      "basename": "Handshake Protocol",
-      "path": "3학년 2학기/컴퓨터 보안/기말/Handshake Protocol.md"
-    },
-    {
-      "basename": "DRM",
-      "path": "3학년 2학기/컴퓨터 보안/기말/DRM.md"
     }
   ],
   "omittedPaths": [],
