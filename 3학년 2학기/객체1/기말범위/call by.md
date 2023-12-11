@@ -48,4 +48,13 @@ int main(){
 	}
 };
 ```
+- const 함수에 들어가는 함수는 뒤에 const 붙이기
+- const pointer 벗어나기
+  ```c++
+  void print(const char* const s){
+  char* p = (char*)s;
+  }
+```
 
+[[12050]] 
+[[12060]] 
