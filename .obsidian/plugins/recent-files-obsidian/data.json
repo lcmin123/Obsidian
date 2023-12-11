@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
+    },
+    {
+      "basename": "파일분리 작성법",
+      "path": "3학년 2학기/객체1/기말범위/파일분리 작성법.md"
+    },
+    {
       "basename": "call by",
       "path": "3학년 2학기/객체1/기말범위/call by.md"
     },
@@ -43,10 +51,6 @@
     {
       "basename": "클래스 간 관계",
       "path": "3학년 2학기/객체1/기말범위/클래스 간 관계.md"
-    },
-    {
-      "basename": "파일분리 작성법",
-      "path": "3학년 2학기/객체1/기말범위/파일분리 작성법.md"
     },
     {
       "basename": "11511",
@@ -195,10 +199,6 @@
     {
       "basename": "DH기출4",
       "path": "3학년 2학기/컴퓨터 보안/족보 기말/DH기출4.md"
-    },
-    {
-      "basename": "DH기출5",
-      "path": "3학년 2학기/컴퓨터 보안/족보 기말/DH기출5.md"
     }
   ],
   "omittedPaths": [],
