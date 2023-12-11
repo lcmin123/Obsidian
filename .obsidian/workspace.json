@@ -195,13 +195,8 @@
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "digitalgarden:Digital Garden Publication Center": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-advanced-slides:Show Slide Preview": false,
       "random-note:랜덤 노트 열기": false,
-      "workspaces:작업 공간 레이아웃 관리": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "workspaces:작업 공간 레이아웃 관리": false
     }
   },
   "active": "fb37a8798716fb13",
