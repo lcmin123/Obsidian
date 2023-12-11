@@ -1,16 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "PGP",
+      "path": "3학년 2학기/컴퓨터 보안/기말/PGP.md"
+    },
+    {
+      "basename": "ABAC",
+      "path": "3학년 2학기/컴퓨터 보안/기말/ABAC.md"
+    },
+    {
+      "basename": "2019",
+      "path": "3학년 2학기/컴퓨터 보안/족보 기말/2019.md"
+    },
+    {
+      "basename": "DH기출1",
+      "path": "3학년 2학기/컴퓨터 보안/족보 기말/DH기출1.md"
+    },
+    {
+      "basename": "DH기출2",
+      "path": "3학년 2학기/컴퓨터 보안/족보 기말/DH기출2.md"
+    },
+    {
+      "basename": "DH기출4",
+      "path": "3학년 2학기/컴퓨터 보안/족보 기말/DH기출4.md"
+    },
+    {
+      "basename": "DH기출5",
+      "path": "3학년 2학기/컴퓨터 보안/족보 기말/DH기출5.md"
+    },
+    {
       "basename": "Firewall",
       "path": "3학년 2학기/컴퓨터 보안/기말/Firewall.md"
     },
     {
       "basename": "Kerberos",
       "path": "3학년 2학기/컴퓨터 보안/기말/Kerberos.md"
-    },
-    {
-      "basename": "2019",
-      "path": "3학년 2학기/컴퓨터 보안/족보 기말/2019.md"
     },
     {
       "basename": "2018",
@@ -55,10 +79,6 @@
     {
       "basename": "PKI",
       "path": "3학년 2학기/컴퓨터 보안/기말/PKI.md"
-    },
-    {
-      "basename": "PGP",
-      "path": "3학년 2학기/컴퓨터 보안/기말/PGP.md"
     },
     {
       "basename": "KDC",
@@ -107,10 +127,6 @@
     {
       "basename": "Access Control",
       "path": "3학년 2학기/컴퓨터 보안/기말/Access Control.md"
-    },
-    {
-      "basename": "ABAC",
-      "path": "3학년 2학기/컴퓨터 보안/기말/ABAC.md"
     },
     {
       "basename": "2016",
@@ -169,14 +185,6 @@
       "path": "3학년 2학기/컴퓨터 보안/중간/해쉬.md"
     },
     {
-      "basename": "DH기출1",
-      "path": "3학년 2학기/컴퓨터 보안/족보 기말/DH기출1.md"
-    },
-    {
-      "basename": "DH기출2",
-      "path": "3학년 2학기/컴퓨터 보안/족보 기말/DH기출2.md"
-    },
-    {
       "basename": "MAC(Message Aceess Control)",
       "path": "3학년 2학기/컴퓨터 보안/중간/MAC(Message Aceess Control).md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "2. Class and method",
       "path": "3학년 2학기/객체1/C++/2. Class and method.md"
-    },
-    {
-      "basename": "lab1000",
-      "path": "3학년 2학기/객체1/C++/lab/lab1000.md"
-    },
-    {
-      "basename": "transaction",
-      "path": "3학년 2학기/데이터베이스 설계/기말/transaction.md"
     }
   ],
   "omittedPaths": [],
