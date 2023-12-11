@@ -5,6 +5,10 @@
       "path": "3학년 2학기/객체1/기말범위/call by.md"
     },
     {
+      "basename": "Untitled",
+      "path": "3학년 2학기/객체1/기말범위/Untitled.md"
+    },
+    {
       "basename": "Accessor와 Mutator",
       "path": "3학년 2학기/객체1/기말범위/Accessor와 Mutator.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "DH기출4",
       "path": "3학년 2학기/컴퓨터 보안/족보 기말/DH기출4.md"
-    },
-    {
-      "basename": "DH기출5",
-      "path": "3학년 2학기/컴퓨터 보안/족보 기말/DH기출5.md"
     }
   ],
   "omittedPaths": [],
