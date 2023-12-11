@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "4. Information hiding",
-      "path": "3학년 2학기/객체1/C++/4. Information hiding.md"
+      "basename": "10010",
+      "path": "3학년 2학기/객체1/C++/lab/10010.md"
     },
     {
-      "basename": "3. Instance and initialize",
-      "path": "3학년 2학기/객체1/C++/3. Instance and initialize.md"
+      "basename": "Accessor와 Mutator",
+      "path": "3학년 2학기/객체1/C++/Accessor와 Mutator.md"
+    },
+    {
+      "basename": "파일분리 작성법",
+      "path": "3학년 2학기/객체1/C++/파일분리 작성법.md"
+    },
+    {
+      "basename": "lab0704",
+      "path": "3학년 2학기/객체1/C++/lab/lab0704.md"
     },
     {
       "basename": "융의 분석 심리학",
@@ -191,14 +199,6 @@
     {
       "basename": "RSA",
       "path": "3학년 2학기/컴퓨터 보안/중간/RSA.md"
-    },
-    {
-      "basename": "2016 Midterm A",
-      "path": "3학년 2학기/컴퓨터 보안/족보 중간/2016 Midterm A.md"
-    },
-    {
-      "basename": "인증",
-      "path": "3학년 2학기/컴퓨터 보안/중간/인증.md"
     }
   ],
   "omittedPaths": [],

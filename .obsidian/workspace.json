@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기/객체1/C++/4. Information hiding.md",
+                "file": "3학년 2학기/객체1/C++/lab/10010.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3학년 2학기/객체1/C++/4. Information hiding.md",
+                "file": "3학년 2학기/객체1/C++/lab/10010.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3학년 2학기/객체1/C++/4. Information hiding.md",
+                "file": "3학년 2학기/객체1/C++/lab/10010.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기/객체1/C++/4. Information hiding.md"
+                "file": "3학년 2학기/객체1/C++/lab/10010.md"
               }
             }
           },
@@ -206,6 +206,11 @@
   },
   "active": "c30afc99ce3559ac",
   "lastOpenFiles": [
+    "3학년 2학기/객체1/C++/Accessor와 Mutator.md",
+    "3학년 2학기/객체1/C++/lab/10010.md",
+    "3학년 2학기/객체1/C++/파일분리 작성법.md",
+    "3학년 2학기/객체1/C++/lab/lab0704.md",
+    "3학년 2학기/객체1/C++/1. C++ Basic.md",
     "3학년 2학기/객체1/C++/3. Instance and initialize.md",
     "3학년 2학기/고인문/융의 분석 심리학.md",
     "3학년 2학기/고인문/정규-민담.md",
@@ -228,11 +233,6 @@
     "3학년 2학기/컴퓨터 보안/족보 기말/DH기출4.md",
     "3학년 2학기/컴퓨터 보안/족보 기말/DH기출5.md",
     "3학년 2학기/컴퓨터 보안/족보 기말/2018.md",
-    "3학년 2학기/컴퓨터 보안/기말/공인인증서.md",
-    "3학년 2학기/컴퓨터 보안/기말/Watermark.md",
-    "3학년 2학기/컴퓨터 보안/기말/Substitution Cipher.md",
-    "3학년 2학기/컴퓨터 보안/기말/Steganography.md",
-    "3학년 2학기/컴퓨터 보안/기말/Shift Cipher.md",
     "Attached Files/Pasted image 20231210194411.png",
     "Attached Files/Pasted image 20231210182728.png",
     "Attached Files/Pasted image 20231210182403.png",
