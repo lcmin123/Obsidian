@@ -1,6 +1,78 @@
 {
   "recentFiles": [
     {
+      "basename": "Watermark",
+      "path": "3학년 2학기/컴퓨터 보안/기말/Watermark.md"
+    },
+    {
+      "basename": "Substitution Cipher",
+      "path": "3학년 2학기/컴퓨터 보안/기말/Substitution Cipher.md"
+    },
+    {
+      "basename": "Steganography",
+      "path": "3학년 2학기/컴퓨터 보안/기말/Steganography.md"
+    },
+    {
+      "basename": "SSL.TLS",
+      "path": "3학년 2학기/컴퓨터 보안/기말/SSL.TLS.md"
+    },
+    {
+      "basename": "Shift Cipher",
+      "path": "3학년 2학기/컴퓨터 보안/기말/Shift Cipher.md"
+    },
+    {
+      "basename": "Session",
+      "path": "3학년 2학기/컴퓨터 보안/기말/Session.md"
+    },
+    {
+      "basename": "S MIME",
+      "path": "3학년 2학기/컴퓨터 보안/기말/S MIME.md"
+    },
+    {
+      "basename": "RBAC",
+      "path": "3학년 2학기/컴퓨터 보안/기말/RBAC.md"
+    },
+    {
+      "basename": "PKI",
+      "path": "3학년 2학기/컴퓨터 보안/기말/PKI.md"
+    },
+    {
+      "basename": "PGP",
+      "path": "3학년 2학기/컴퓨터 보안/기말/PGP.md"
+    },
+    {
+      "basename": "Kerberos",
+      "path": "3학년 2학기/컴퓨터 보안/기말/Kerberos.md"
+    },
+    {
+      "basename": "KDC",
+      "path": "3학년 2학기/컴퓨터 보안/기말/KDC.md"
+    },
+    {
+      "basename": "Ipsec",
+      "path": "3학년 2학기/컴퓨터 보안/기말/Ipsec.md"
+    },
+    {
+      "basename": "IDS.IPS",
+      "path": "3학년 2학기/컴퓨터 보안/기말/IDS.IPS.md"
+    },
+    {
+      "basename": "Handshake Protocol",
+      "path": "3학년 2학기/컴퓨터 보안/기말/Handshake Protocol.md"
+    },
+    {
+      "basename": "Firewall",
+      "path": "3학년 2학기/컴퓨터 보안/기말/Firewall.md"
+    },
+    {
+      "basename": "DRM",
+      "path": "3학년 2학기/컴퓨터 보안/기말/DRM.md"
+    },
+    {
+      "basename": "DoS",
+      "path": "3학년 2학기/컴퓨터 보안/기말/DoS.md"
+    },
+    {
       "basename": "DiffieHellman",
       "path": "3학년 2학기/컴퓨터 보안/기말/DiffieHellman.md"
     },
@@ -33,10 +105,6 @@
       "path": "3학년 2학기/컴퓨터 보안/족보 기말/2016.md"
     },
     {
-      "basename": "KDC",
-      "path": "3학년 2학기/컴퓨터 보안/기말/KDC.md"
-    },
-    {
       "basename": "4. Information hiding",
       "path": "3학년 2학기/객체1/C++/4. Information hiding.md"
     },
@@ -51,38 +119,6 @@
     {
       "basename": "2019",
       "path": "3학년 2학기/컴퓨터 보안/족보 기말/2019.md"
-    },
-    {
-      "basename": "Firewall",
-      "path": "3학년 2학기/컴퓨터 보안/기말/Firewall.md"
-    },
-    {
-      "basename": "Shift Cipher",
-      "path": "3학년 2학기/컴퓨터 보안/기말/Shift Cipher.md"
-    },
-    {
-      "basename": "Substitution Cipher",
-      "path": "3학년 2학기/컴퓨터 보안/기말/Substitution Cipher.md"
-    },
-    {
-      "basename": "DoS",
-      "path": "3학년 2학기/컴퓨터 보안/기말/DoS.md"
-    },
-    {
-      "basename": "IDS.IPS",
-      "path": "3학년 2학기/컴퓨터 보안/기말/IDS.IPS.md"
-    },
-    {
-      "basename": "PGP",
-      "path": "3학년 2학기/컴퓨터 보안/기말/PGP.md"
-    },
-    {
-      "basename": "Kerberos",
-      "path": "3학년 2학기/컴퓨터 보안/기말/Kerberos.md"
-    },
-    {
-      "basename": "SSL.TLS",
-      "path": "3학년 2학기/컴퓨터 보안/기말/SSL.TLS.md"
     },
     {
       "basename": "블럭 싸이퍼",
@@ -125,14 +161,6 @@
       "path": "3학년 2학기/컴퓨터 보안/중간/인증.md"
     },
     {
-      "basename": "Ipsec",
-      "path": "3학년 2학기/컴퓨터 보안/기말/Ipsec.md"
-    },
-    {
-      "basename": "Handshake Protocol",
-      "path": "3학년 2학기/컴퓨터 보안/기말/Handshake Protocol.md"
-    },
-    {
       "basename": "해쉬",
       "path": "3학년 2학기/컴퓨터 보안/중간/해쉬.md"
     },
@@ -171,34 +199,6 @@
     {
       "basename": "Pasted image 20231208204026",
       "path": "Attached Files/Pasted image 20231208204026.png"
-    },
-    {
-      "basename": "#TODOIST",
-      "path": "#TODOIST.md"
-    },
-    {
-      "basename": "DRM",
-      "path": "3학년 2학기/컴퓨터 보안/기말/DRM.md"
-    },
-    {
-      "basename": "PKI",
-      "path": "3학년 2학기/컴퓨터 보안/기말/PKI.md"
-    },
-    {
-      "basename": "RBAC",
-      "path": "3학년 2학기/컴퓨터 보안/기말/RBAC.md"
-    },
-    {
-      "basename": "S MIME",
-      "path": "3학년 2학기/컴퓨터 보안/기말/S MIME.md"
-    },
-    {
-      "basename": "Session",
-      "path": "3학년 2학기/컴퓨터 보안/기말/Session.md"
-    },
-    {
-      "basename": "Steganography",
-      "path": "3학년 2학기/컴퓨터 보안/기말/Steganography.md"
     }
   ],
   "omittedPaths": [],

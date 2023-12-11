@@ -84,7 +84,7 @@
 		- True Negative Rate
 			- 정상을 정상으로 판단하는 확률
 		- ![[Pasted image 20231210194411.png|200]]
-			- 침입을 침입으로 판단한 True Positive Rate와 침입을 정상으로 판단한 False Negative Rate의 합인 281+427이 실제 침입 숫자
+			- 침입을 침입으로 판단한 True Positive Rate와 침입을 정상으로 판단한 False Positive Rate의 합인 281+427이 실제 침입 숫자
 - IPS
 	- 침입 방지 시스템
 	- IDS로 탐지 후 침입 방지조치까지 취함
