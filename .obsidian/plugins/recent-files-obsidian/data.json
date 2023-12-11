@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "상속",
+      "path": "3학년 2학기/객체1/기말범위/상속.md"
+    },
+    {
       "basename": "깊은 복사",
       "path": "3학년 2학기/객체1/기말범위/깊은 복사.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "ABAC",
       "path": "3학년 2학기/컴퓨터 보안/기말/ABAC.md"
-    },
-    {
-      "basename": "2019",
-      "path": "3학년 2학기/컴퓨터 보안/족보 기말/2019.md"
     }
   ],
   "omittedPaths": [],
