@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Firewall",
+      "path": "3학년 2학기/컴퓨터 보안/기말/Firewall.md"
+    },
+    {
+      "basename": "Kerberos",
+      "path": "3학년 2학기/컴퓨터 보안/기말/Kerberos.md"
+    },
+    {
+      "basename": "2019",
+      "path": "3학년 2학기/컴퓨터 보안/족보 기말/2019.md"
+    },
+    {
+      "basename": "2018",
+      "path": "3학년 2학기/컴퓨터 보안/족보 기말/2018.md"
+    },
+    {
+      "basename": "공인인증서",
+      "path": "3학년 2학기/컴퓨터 보안/기말/공인인증서.md"
+    },
+    {
       "basename": "Watermark",
       "path": "3학년 2학기/컴퓨터 보안/기말/Watermark.md"
     },
@@ -41,10 +61,6 @@
       "path": "3학년 2학기/컴퓨터 보안/기말/PGP.md"
     },
     {
-      "basename": "Kerberos",
-      "path": "3학년 2학기/컴퓨터 보안/기말/Kerberos.md"
-    },
-    {
       "basename": "KDC",
       "path": "3학년 2학기/컴퓨터 보안/기말/KDC.md"
     },
@@ -59,10 +75,6 @@
     {
       "basename": "Handshake Protocol",
       "path": "3학년 2학기/컴퓨터 보안/기말/Handshake Protocol.md"
-    },
-    {
-      "basename": "Firewall",
-      "path": "3학년 2학기/컴퓨터 보안/기말/Firewall.md"
     },
     {
       "basename": "DRM",
@@ -111,14 +123,6 @@
     {
       "basename": "3. Instance and initialize",
       "path": "3학년 2학기/객체1/C++/3. Instance and initialize.md"
-    },
-    {
-      "basename": "2018",
-      "path": "3학년 2학기/컴퓨터 보안/족보 기말/2018.md"
-    },
-    {
-      "basename": "2019",
-      "path": "3학년 2학기/컴퓨터 보안/족보 기말/2019.md"
     },
     {
       "basename": "블럭 싸이퍼",
@@ -195,10 +199,6 @@
     {
       "basename": "transaction",
       "path": "3학년 2학기/데이터베이스 설계/기말/transaction.md"
-    },
-    {
-      "basename": "Pasted image 20231208204026",
-      "path": "Attached Files/Pasted image 20231208204026.png"
     }
   ],
   "omittedPaths": [],
