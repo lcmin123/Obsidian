@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "1. 탐욕 기법",
+      "path": "3학년 2학기/알고리즘/기말/1. 탐욕 기법.md"
+    },
+    {
       "basename": "다익스트라 알고리즘",
       "path": "3학년 2학기/알고리즘/기말/다익스트라 알고리즘.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "lab2514",
       "path": "3학년 2학기/객체1/중간범위/lab/lab2514.md"
-    },
-    {
-      "basename": "lab2205",
-      "path": "3학년 2학기/객체1/중간범위/lab/lab2205.md"
     }
   ],
   "omittedPaths": [],
