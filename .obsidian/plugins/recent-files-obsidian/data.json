@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "오버로딩(중복)",
+      "path": "3학년 2학기/객체1/기말범위/오버로딩(중복).md"
+    },
+    {
+      "basename": "transaction",
+      "path": "3학년 2학기/데이터베이스 설계/기말/transaction.md"
+    },
+    {
+      "basename": "materialized view",
+      "path": "3학년 2학기/데이터베이스 설계/기말/materialized view.md"
+    },
+    {
+      "basename": "Query Optimization",
+      "path": "3학년 2학기/데이터베이스 설계/기말/Query Optimization.md"
+    },
+    {
       "basename": "1. 탐욕 기법",
       "path": "3학년 2학기/알고리즘/기말/1. 탐욕 기법.md"
     },
@@ -133,10 +149,6 @@
       "path": "3학년 2학기/객체1/lab/기말/10010.md"
     },
     {
-      "basename": "오버로딩(중복)",
-      "path": "3학년 2학기/객체1/기말범위/오버로딩(중복).md"
-    },
-    {
       "basename": "선택적 정보 은닉",
       "path": "3학년 2학기/객체1/기말범위/선택적 정보 은닉.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "파일분리 작성법",
       "path": "3학년 2학기/객체1/기말범위/파일분리 작성법.md"
-    },
-    {
-      "basename": "Accessor와 Mutator",
-      "path": "3학년 2학기/객체1/기말범위/Accessor와 Mutator.md"
-    },
-    {
-      "basename": "중간범위",
-      "path": "3학년 2학기/객체1/중간범위/중간범위.md"
-    },
-    {
-      "basename": "lab2514",
-      "path": "3학년 2학기/객체1/중간범위/lab/lab2514.md"
     }
   ],
   "omittedPaths": [],

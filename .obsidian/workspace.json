@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기/알고리즘/기말/1. 탐욕 기법.md",
+                "file": "3학년 2학기/객체1/기말범위/오버로딩(중복).md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3학년 2학기/알고리즘/기말/1. 탐욕 기법.md",
+                "file": "3학년 2학기/객체1/기말범위/오버로딩(중복).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3학년 2학기/알고리즘/기말/1. 탐욕 기법.md",
+                "file": "3학년 2학기/객체1/기말범위/오버로딩(중복).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기/알고리즘/기말/1. 탐욕 기법.md"
+                "file": "3학년 2학기/객체1/기말범위/오버로딩(중복).md"
               }
             }
           },
@@ -206,6 +206,10 @@
   },
   "active": "fb37a8798716fb13",
   "lastOpenFiles": [
+    "3학년 2학기/데이터베이스 설계/기말/transaction.md",
+    "3학년 2학기/데이터베이스 설계/기말/materialized view.md",
+    "3학년 2학기/데이터베이스 설계/기말/Query Optimization.md",
+    "3학년 2학기/알고리즘/기말/1. 탐욕 기법.md",
     "3학년 2학기/알고리즘/기말/다익스트라 알고리즘.md",
     "3학년 2학기/객체1/lab/기말/19030.md",
     "3학년 2학기/객체1/lab/기말/19020.md",
@@ -228,10 +232,6 @@
     "3학년 2학기/객체1/lab/기말/13040.md",
     "3학년 2학기/객체1/lab/기말/13030.md",
     "3학년 2학기/객체1/기말범위/초기화와 뒤처리.md",
-    "3학년 2학기/객체1/lab/기말/13020.md",
-    "3학년 2학기/객체1/lab/기말/13010.md",
-    "3학년 2학기/객체1/lab/기말/12060.md",
-    "3학년 2학기/객체1/lab/기말/12050.md",
     "Attached Files/Pasted image 20231212034558.png",
     "Attached Files/Pasted image 20231212022106.png",
     "3학년 2학기/객체1/lab/기말",
