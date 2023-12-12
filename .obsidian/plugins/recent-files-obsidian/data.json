@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "19030",
+      "path": "3학년 2학기/객체1/lab/기말/19030.md"
+    },
+    {
+      "basename": "19020",
+      "path": "3학년 2학기/객체1/lab/기말/19020.md"
+    },
+    {
       "basename": "20040",
       "path": "3학년 2학기/객체1/lab/기말/20040.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "lab0803",
       "path": "3학년 2학기/객체1/lab/중간/lab0803.md"
-    },
-    {
-      "basename": "중간",
-      "path": "3학년 2학기/객체1/lab/중간/중간.md"
-    },
-    {
-      "basename": "기말범위",
-      "path": "3학년 2학기/객체1/기말범위/기말범위.md"
     }
   ],
   "omittedPaths": [],
