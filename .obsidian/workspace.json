@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기/객체1/lab/기말/14130.md",
+                "file": "3학년 2학기/객체1/lab/기말/20040.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3학년 2학기/객체1/lab/기말/14130.md",
+                "file": "3학년 2학기/객체1/lab/기말/20040.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3학년 2학기/객체1/lab/기말/14130.md",
+                "file": "3학년 2학기/객체1/lab/기말/20040.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기/객체1/lab/기말/14130.md"
+                "file": "3학년 2학기/객체1/lab/기말/20040.md"
               }
             }
           },
@@ -183,7 +183,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 600.5
+    "width": 600.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,6 +206,16 @@
   },
   "active": "fb37a8798716fb13",
   "lastOpenFiles": [
+    "3학년 2학기/객체1/lab/기말/20030.md",
+    "3학년 2학기/객체1/lab/기말/20020.md",
+    "3학년 2학기/객체1/lab/기말/20010.md",
+    "3학년 2학기/객체1/lab/기말/18030.md",
+    "3학년 2학기/객체1/lab/기말/18020.md",
+    "3학년 2학기/객체1/lab/기말/15030.md",
+    "3학년 2학기/객체1/lab/기말/15010.md",
+    "3학년 2학기/객체1/lab/기말/14150.md",
+    "3학년 2학기/객체1/lab/기말/14140.md",
+    "3학년 2학기/객체1/lab/기말/14130.md",
     "3학년 2학기/객체1/lab/기말/14120.md",
     "3학년 2학기/객체1/기말범위/함수 재정의.md",
     "3학년 2학기/객체1/lab/기말/14110.md",
@@ -221,16 +232,6 @@
     "3학년 2학기/객체1/기말범위/클래스 간 관계.md",
     "3학년 2학기/객체1/lab/기말/11020.md",
     "3학년 2학기/객체1/lab/기말/10040.md",
-    "3학년 2학기/객체1/lab/기말/10020.md",
-    "3학년 2학기/객체1/lab/기말/10010.md",
-    "3학년 2학기/객체1/기말범위/오버로딩(중복).md",
-    "3학년 2학기/객체1/기말범위/선택적 정보 은닉.md",
-    "3학년 2학기/객체1/기말범위/다중상속.md",
-    "3학년 2학기/객체1/lab/기말/20010.md",
-    "3학년 2학기/객체1/lab/기말/20020.md",
-    "3학년 2학기/객체1/lab/기말/20030.md",
-    "3학년 2학기/객체1/lab/기말/20040.md",
-    "3학년 2학기/객체1/lab/기말/18030.md",
     "Attached Files/Pasted image 20231212034558.png",
     "Attached Files/Pasted image 20231212022106.png",
     "3학년 2학기/객체1/lab/기말",
