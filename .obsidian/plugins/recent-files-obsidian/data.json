@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "15010",
+      "path": "3학년 2학기/객체1/lab/기말/15010.md"
+    },
+    {
+      "basename": "15030",
+      "path": "3학년 2학기/객체1/lab/기말/15030.md"
+    },
+    {
       "basename": "재사용",
       "path": "3학년 2학기/객체1/기말범위/재사용.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "융의 분석 심리학",
       "path": "3학년 2학기/고인문/융의 분석 심리학.md"
-    },
-    {
-      "basename": "SSL.TLS",
-      "path": "3학년 2학기/컴퓨터 보안/기말/SSL.TLS.md"
-    },
-    {
-      "basename": "PKI",
-      "path": "3학년 2학기/컴퓨터 보안/기말/PKI.md"
     }
   ],
   "omittedPaths": [],
