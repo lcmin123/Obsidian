@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "19060",
+      "path": "3학년 2학기/객체1/lab/기말/19060.md"
+    },
+    {
+      "basename": "기말",
+      "path": "3학년 2학기/객체1/lab/기말/기말.md"
+    },
+    {
+      "basename": "19050",
+      "path": "3학년 2학기/객체1/lab/기말/19050.md"
+    },
+    {
+      "basename": "19040",
+      "path": "3학년 2학기/객체1/lab/기말/19040.md"
+    },
+    {
+      "basename": "19030",
+      "path": "3학년 2학기/객체1/lab/기말/19030.md"
+    },
+    {
+      "basename": "19020",
+      "path": "3학년 2학기/객체1/lab/기말/19020.md"
+    },
+    {
       "basename": "오버로딩(중복)",
       "path": "3학년 2학기/객체1/기말범위/오버로딩(중복).md"
     },
@@ -23,14 +47,6 @@
     {
       "basename": "다익스트라 알고리즘",
       "path": "3학년 2학기/알고리즘/기말/다익스트라 알고리즘.md"
-    },
-    {
-      "basename": "19030",
-      "path": "3학년 2학기/객체1/lab/기말/19030.md"
-    },
-    {
-      "basename": "19020",
-      "path": "3학년 2학기/객체1/lab/기말/19020.md"
     },
     {
       "basename": "20040",
@@ -183,22 +199,6 @@
     {
       "basename": "정규-그림동화",
       "path": "3학년 2학기/고인문/정규-그림동화.md"
-    },
-    {
-      "basename": "call by",
-      "path": "3학년 2학기/객체1/기말범위/call by.md"
-    },
-    {
-      "basename": "lab",
-      "path": "3학년 2학기/객체1/lab/lab.md"
-    },
-    {
-      "basename": "conflict-files-obsidian-git",
-      "path": "conflict-files-obsidian-git.md"
-    },
-    {
-      "basename": "파일분리 작성법",
-      "path": "3학년 2학기/객체1/기말범위/파일분리 작성법.md"
     }
   ],
   "omittedPaths": [],
