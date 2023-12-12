@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기/객체1/기말범위/선택적 정보 은닉.md",
+                "file": "3학년 2학기/객체1/lab/기말/20020.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3학년 2학기/객체1/기말범위/선택적 정보 은닉.md",
+                "file": "3학년 2학기/객체1/lab/기말/20020.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3학년 2학기/객체1/기말범위/선택적 정보 은닉.md",
+                "file": "3학년 2학기/객체1/lab/기말/20020.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기/객체1/기말범위/선택적 정보 은닉.md"
+                "file": "3학년 2학기/객체1/lab/기말/20020.md"
               }
             }
           },
@@ -206,8 +206,10 @@
   },
   "active": "fb37a8798716fb13",
   "lastOpenFiles": [
-    "3학년 2학기/객체1/기말범위/다중상속.md",
+    "3학년 2학기/객체1/lab/기말/20010.md",
+    "3학년 2학기/객체1/lab/기말/20020.md",
     "3학년 2학기/객체1/기말범위/선택적 정보 은닉.md",
+    "3학년 2학기/객체1/기말범위/다중상속.md",
     "3학년 2학기/객체1/lab/기말/18030.md",
     "3학년 2학기/객체1/lab/기말/18020.md",
     "3학년 2학기/객체1/기말범위/재사용.md",
@@ -232,8 +234,6 @@
     "3학년 2학기/객체1/기말범위/초기화와 뒤처리.md",
     "3학년 2학기/객체1/lab/기말/13020.md",
     "3학년 2학기/객체1/lab/기말/13030.md",
-    "3학년 2학기/객체1/기말범위/call by.md",
-    "3학년 2학기/객체1/lab/기말/12050.md",
     "3학년 2학기/객체1/lab/기말",
     "3학년 2학기/객체1/C++/lab/ㅇ",
     "3학년 2학기/객체1/lab/중간",
