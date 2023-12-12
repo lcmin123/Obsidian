@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "다익스트라 알고리즘",
+      "path": "3학년 2학기/알고리즘/기말/다익스트라 알고리즘.md"
+    },
+    {
       "basename": "19030",
       "path": "3학년 2학기/객체1/lab/기말/19030.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "lab2205",
       "path": "3학년 2학기/객체1/중간범위/lab/lab2205.md"
-    },
-    {
-      "basename": "lab0803",
-      "path": "3학년 2학기/객체1/lab/중간/lab0803.md"
     }
   ],
   "omittedPaths": [],
