@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기/객체1/기말범위/재사용.md",
+                "file": "3학년 2학기/객체1/기말범위/다중상속.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3학년 2학기/객체1/기말범위/재사용.md",
+                "file": "3학년 2학기/객체1/기말범위/다중상속.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3학년 2학기/객체1/기말범위/재사용.md",
+                "file": "3학년 2학기/객체1/기말범위/다중상속.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기/객체1/기말범위/재사용.md"
+                "file": "3학년 2학기/객체1/기말범위/다중상속.md"
               }
             }
           },
@@ -206,9 +206,10 @@
   },
   "active": "fb37a8798716fb13",
   "lastOpenFiles": [
+    "3학년 2학기/객체1/기말범위/재사용.md",
+    "3학년 2학기/객체1/기말범위/다중상속.md",
     "3학년 2학기/객체1/lab/기말/15030.md",
     "3학년 2학기/객체1/lab/기말/15010.md",
-    "3학년 2학기/객체1/기말범위/재사용.md",
     "3학년 2학기/객체1/기말범위/함수 재정의.md",
     "3학년 2학기/객체1/기말범위/상속.md",
     "3학년 2학기/객체1/lab/기말/14090.md",
@@ -233,7 +234,6 @@
     "3학년 2학기/객체1/lab/기말/12060.md",
     "3학년 2학기/객체1/lab/lab.md",
     "conflict-files-obsidian-git.md",
-    "3학년 2학기/객체1/기말범위/Accessor와 Mutator.md",
     "3학년 2학기/객체1/lab/기말",
     "3학년 2학기/객체1/C++/lab/ㅇ",
     "3학년 2학기/객체1/lab/중간",

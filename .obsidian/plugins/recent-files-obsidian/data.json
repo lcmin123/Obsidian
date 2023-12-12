@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "다중상속",
+      "path": "3학년 2학기/객체1/기말범위/다중상속.md"
+    },
+    {
       "basename": "재사용",
       "path": "3학년 2학기/객체1/기말범위/재사용.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "lab0704b",
       "path": "3학년 2학기/객체1/lab/중간/lab0704b.md"
-    },
-    {
-      "basename": "융의 분석 심리학",
-      "path": "3학년 2학기/고인문/융의 분석 심리학.md"
     }
   ],
   "omittedPaths": [],
