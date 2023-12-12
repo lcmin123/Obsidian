@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "14110",
+      "path": "3학년 2학기/객체1/lab/기말/14110.md"
+    },
+    {
+      "basename": "14150",
+      "path": "3학년 2학기/객체1/lab/기말/14150.md"
+    },
+    {
+      "basename": "14140",
+      "path": "3학년 2학기/객체1/lab/기말/14140.md"
+    },
+    {
+      "basename": "14120",
+      "path": "3학년 2학기/객체1/lab/기말/14120.md"
+    },
+    {
+      "basename": "상속",
+      "path": "3학년 2학기/객체1/기말범위/상속.md"
+    },
+    {
+      "basename": "깊은 복사",
+      "path": "3학년 2학기/객체1/기말범위/깊은 복사.md"
+    },
+    {
+      "basename": "함수 재정의",
+      "path": "3학년 2학기/객체1/기말범위/함수 재정의.md"
+    },
+    {
       "basename": "14130",
       "path": "3학년 2학기/객체1/lab/기말/14130.md"
     },
@@ -11,10 +39,6 @@
     {
       "basename": "13050",
       "path": "3학년 2학기/객체1/lab/기말/13050.md"
-    },
-    {
-      "basename": "함수 재정의",
-      "path": "3학년 2학기/객체1/기말범위/함수 재정의.md"
     },
     {
       "basename": "정규-고전작품",
@@ -31,18 +55,6 @@
     {
       "basename": "정규-그림동화",
       "path": "3학년 2학기/고인문/정규-그림동화.md"
-    },
-    {
-      "basename": "상속",
-      "path": "3학년 2학기/객체1/기말범위/상속.md"
-    },
-    {
-      "basename": "Untitled 1",
-      "path": "3학년 2학기/객체1/lab/기말/Untitled 1.md"
-    },
-    {
-      "basename": "깊은 복사",
-      "path": "3학년 2학기/객체1/기말범위/깊은 복사.md"
     },
     {
       "basename": "초기화와 뒤처리",
@@ -187,18 +199,6 @@
     {
       "basename": "Kerberos",
       "path": "3학년 2학기/컴퓨터 보안/기말/Kerberos.md"
-    },
-    {
-      "basename": "PGP",
-      "path": "3학년 2학기/컴퓨터 보안/기말/PGP.md"
-    },
-    {
-      "basename": "RBAC",
-      "path": "3학년 2학기/컴퓨터 보안/기말/RBAC.md"
-    },
-    {
-      "basename": "Access Control",
-      "path": "3학년 2학기/컴퓨터 보안/기말/Access Control.md"
     }
   ],
   "omittedPaths": [],
