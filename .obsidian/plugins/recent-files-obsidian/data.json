@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Accessor와 Mutator",
+      "path": "3학년 2학기/객체1/기말범위/Accessor와 Mutator.md"
+    },
+    {
+      "basename": "오버로딩(중복)",
+      "path": "3학년 2학기/객체1/기말범위/오버로딩(중복).md"
+    },
+    {
+      "basename": "lab",
+      "path": "3학년 2학기/객체1/lab/lab.md"
+    },
+    {
       "basename": "다익스트라 알고리즘",
       "path": "3학년 2학기/알고리즘/기말/다익스트라 알고리즘.md"
     },
@@ -11,10 +23,6 @@
     {
       "basename": "프림 알고리즘",
       "path": "3학년 2학기/알고리즘/기말/프림 알고리즘.md"
-    },
-    {
-      "basename": "오버로딩(중복)",
-      "path": "3학년 2학기/객체1/기말범위/오버로딩(중복).md"
     },
     {
       "basename": "다중상속",
@@ -191,14 +199,6 @@
     {
       "basename": "10010",
       "path": "3학년 2학기/객체1/lab/기말/10010.md"
-    },
-    {
-      "basename": "재사용",
-      "path": "3학년 2학기/객체1/기말범위/재사용.md"
-    },
-    {
-      "basename": "상속",
-      "path": "3학년 2학기/객체1/기말범위/상속.md"
     }
   ],
   "omittedPaths": [],
