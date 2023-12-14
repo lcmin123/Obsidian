@@ -14,6 +14,14 @@
 	- 항목에 대해 배타적lock을 보유할 경우 다른 항목에 대해 어떤 lock도 보유 불가
 	  → 둘다 read only일 경우에만 더블 락 가능, read중 write 시도시 fail
 	- lock을 부여할 수 없는 경우, 요청한 트랜잭션은 다른 lock이 모두 해제될 때 까지 대기
-	- 예시![[Pasted image 20231214135417.png]]
+	- 예시1![[Pasted image 20231214135417.png]]
 		- read, write할때는 x락, read만 할땐 s락
-	- 
+	- 예시2![[Pasted image 20231214135617.png]]
+		- T1이 B에서 뺀 50달러를 A에 더하기 전에 T2가 display A+B를 시도하여 총액이 300이 아닌 250으로 보여지는 inconsistency
+		- 이를 방지하기 위해선 unlock을 Transaction의 끝으로 delay 시켜야 함![[Pasted image 20231214135751.png]]
+- **Deadlock**
+	- locking이 서로 얽혀서 순환되는 상태
+	- 발생시 , 시스템은 한 트랜잭션을 롤백해야함
+	  → 모든 트랜잭션은 독립적이므로, 아무거나 롤백
+- Consistency vs Deadlock
+	- Deadlock은 롤백하면 ㄱ
