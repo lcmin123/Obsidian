@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기/데이터베이스 설계/기말/기말 족보.md",
+                "file": "3학년 2학기/데이터베이스 설계/기말/Concurrency Control.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3학년 2학기/데이터베이스 설계/기말/기말 족보.md",
+                "file": "3학년 2학기/데이터베이스 설계/기말/Concurrency Control.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3학년 2학기/데이터베이스 설계/기말/기말 족보.md",
+                "file": "3학년 2학기/데이터베이스 설계/기말/Concurrency Control.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기/데이터베이스 설계/기말/기말 족보.md"
+                "file": "3학년 2학기/데이터베이스 설계/기말/Concurrency Control.md"
               }
             }
           },
@@ -207,8 +207,8 @@
   },
   "active": "fb37a8798716fb13",
   "lastOpenFiles": [
-    "3학년 2학기/데이터베이스 설계/기말/Query Optimization.md",
     "3학년 2학기/데이터베이스 설계/기말/기말 족보.md",
+    "3학년 2학기/데이터베이스 설계/기말/Query Optimization.md",
     "3학년 2학기/데이터베이스 설계/기말/Materialized view - 강의자료.md",
     "3학년 2학기/데이터베이스 설계/기말/materialized view - 수업필기.md",
     "3학년 2학기/데이터베이스 설계/기말/Concurrency Control.md",
