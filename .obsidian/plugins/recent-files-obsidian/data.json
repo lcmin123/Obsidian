@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Two phase locking protocol",
-      "path": "3학년 2학기/데이터베이스 설계/기말/Two phase locking protocol.md"
+      "basename": "Recovery Sytstem",
+      "path": "3학년 2학기/데이터베이스 설계/기말/Recovery Sytstem.md"
     },
     {
       "basename": "Concurrency Control",
       "path": "3학년 2학기/데이터베이스 설계/기말/Concurrency Control.md"
+    },
+    {
+      "basename": "snapshot isolation",
+      "path": "3학년 2학기/데이터베이스 설계/기말/snapshot isolation.md"
+    },
+    {
+      "basename": "Two phase locking protocol",
+      "path": "3학년 2학기/데이터베이스 설계/기말/Two phase locking protocol.md"
     },
     {
       "basename": "transaction",
@@ -35,14 +43,6 @@
     {
       "basename": "기말 족보",
       "path": "3학년 2학기/데이터베이스 설계/기말/기말 족보.md"
-    },
-    {
-      "basename": "snapshot isolation",
-      "path": "3학년 2학기/데이터베이스 설계/기말/snapshot isolation.md"
-    },
-    {
-      "basename": "Recovery Sytstem",
-      "path": "3학년 2학기/데이터베이스 설계/기말/Recovery Sytstem.md"
     },
     {
       "basename": "객체1",
