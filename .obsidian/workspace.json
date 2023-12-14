@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기/데이터베이스 설계/기말/Recovery Sytstem.md",
+                "file": "3학년 2학기/데이터베이스 설계/기말/기말 족보.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3학년 2학기/데이터베이스 설계/기말/Recovery Sytstem.md",
+                "file": "3학년 2학기/데이터베이스 설계/기말/기말 족보.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3학년 2학기/데이터베이스 설계/기말/Recovery Sytstem.md",
+                "file": "3학년 2학기/데이터베이스 설계/기말/기말 족보.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기/데이터베이스 설계/기말/Recovery Sytstem.md"
+                "file": "3학년 2학기/데이터베이스 설계/기말/기말 족보.md"
               }
             }
           },
@@ -206,14 +206,17 @@
   },
   "active": "fb37a8798716fb13",
   "lastOpenFiles": [
+    "3학년 2학기/데이터베이스 설계/기말/Two phase locking protocol.md",
+    "3학년 2학기/데이터베이스 설계/기말/transaction.md",
+    "3학년 2학기/데이터베이스 설계/기말/기말 족보.md",
     "3학년 2학기/데이터베이스 설계/기말/Concurrency Control.md",
+    "3학년 2학기/데이터베이스 설계/기말/snapshot isolation.md",
+    "3학년 2학기/데이터베이스 설계/기말/Query Optimization.md",
+    "3학년 2학기/데이터베이스 설계/기말/Cascading Rollback.md",
     "3학년 2학기/데이터베이스 설계/기말/Recovery Sytstem.md",
     "Attached Files/Pasted image 20231214153324.png",
-    "3학년 2학기/데이터베이스 설계/기말/Query Optimization.md",
     "3학년 2학기/데이터베이스 설계/기말/materialized view - 수업필기.md",
     "3학년 2학기/데이터베이스 설계/기말/Materialized view - 강의자료.md",
-    "3학년 2학기/데이터베이스 설계/기말/Cascading Rollback.md",
-    "3학년 2학기/데이터베이스 설계/기말/transaction.md",
     "Attached Files/Pasted image 20231214143522.png",
     "Attached Files/Pasted image 20231214143521.png",
     "Attached Files/Pasted image 20231214142637.png",
@@ -223,7 +226,6 @@
     "Attached Files/Pasted image 20231214135751.png",
     "Attached Files/Pasted image 20231214135617.png",
     "Attached Files/Pasted image 20231214135417.png",
-    "3학년 2학기/데이터베이스 설계/기말/기말 족보.md",
     "3학년 2학기/데이터베이스 설계/기말/Stable Storage.md",
     "3학년 2학기/데이터베이스 설계/Untitled.md",
     "3학년 2학기/객체1/객체1.md",
@@ -240,7 +242,6 @@
     "3학년 2학기/객체1/lab/기말/13050.md",
     "3학년 2학기/객체1/lab/기말/13040.md",
     "3학년 2학기/객체1/기말범위/초기화와 뒤처리.md",
-    "3학년 2학기/객체1/lab/기말/13030.md",
     "3학년 2학기/객체1/lab/기말",
     "3학년 2학기/객체1/C++/lab/ㅇ",
     "3학년 2학기/객체1/lab/중간",
