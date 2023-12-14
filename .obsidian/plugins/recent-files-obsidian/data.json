@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Query Optimization",
+      "path": "3학년 2학기/데이터베이스 설계/기말/Query Optimization.md"
+    },
+    {
+      "basename": "Concurrency Control",
+      "path": "3학년 2학기/데이터베이스 설계/기말/Concurrency Control.md"
+    },
+    {
+      "basename": "Two phase locking protocol",
+      "path": "3학년 2학기/데이터베이스 설계/기말/Two phase locking protocol.md"
+    },
+    {
+      "basename": "기말 족보",
+      "path": "3학년 2학기/데이터베이스 설계/기말/기말 족보.md"
+    },
+    {
       "basename": "snapshot isolation",
       "path": "3학년 2학기/데이터베이스 설계/기말/snapshot isolation.md"
     },
@@ -9,24 +25,8 @@
       "path": "3학년 2학기/데이터베이스 설계/기말/Cascading Rollback.md"
     },
     {
-      "basename": "기말 족보",
-      "path": "3학년 2학기/데이터베이스 설계/기말/기말 족보.md"
-    },
-    {
-      "basename": "Two phase locking protocol",
-      "path": "3학년 2학기/데이터베이스 설계/기말/Two phase locking protocol.md"
-    },
-    {
       "basename": "transaction",
       "path": "3학년 2학기/데이터베이스 설계/기말/transaction.md"
-    },
-    {
-      "basename": "Concurrency Control",
-      "path": "3학년 2학기/데이터베이스 설계/기말/Concurrency Control.md"
-    },
-    {
-      "basename": "Query Optimization",
-      "path": "3학년 2학기/데이터베이스 설계/기말/Query Optimization.md"
     },
     {
       "basename": "Recovery Sytstem",
