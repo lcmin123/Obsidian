@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Recovery Sytstem",
+      "path": "3학년 2학기/데이터베이스 설계/기말/Recovery Sytstem.md"
+    },
+    {
       "basename": "Query Optimization",
       "path": "3학년 2학기/데이터베이스 설계/기말/Query Optimization.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "20020",
       "path": "3학년 2학기/객체1/lab/기말/20020.md"
-    },
-    {
-      "basename": "20010",
-      "path": "3학년 2학기/객체1/lab/기말/20010.md"
     }
   ],
   "omittedPaths": [],
