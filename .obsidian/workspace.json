@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기/데이터베이스 설계/기말/기말 족보.md",
+                "file": "3학년 2학기/데이터베이스 설계/기말/Query Optimization.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3학년 2학기/데이터베이스 설계/기말/기말 족보.md",
+                "file": "3학년 2학기/데이터베이스 설계/기말/Query Optimization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3학년 2학기/데이터베이스 설계/기말/기말 족보.md",
+                "file": "3학년 2학기/데이터베이스 설계/기말/Query Optimization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기/데이터베이스 설계/기말/기말 족보.md"
+                "file": "3학년 2학기/데이터베이스 설계/기말/Query Optimization.md"
               }
             }
           },
@@ -206,8 +206,10 @@
   },
   "active": "fb37a8798716fb13",
   "lastOpenFiles": [
-    "Attached Files/Pasted image 20231214131321.png",
     "3학년 2학기/데이터베이스 설계/기말/기말 족보.md",
+    "Attached Files/Pasted image 20231214131943.png",
+    "Attached Files/Pasted image 20231214131652.png",
+    "Attached Files/Pasted image 20231214131321.png",
     "Attached Files/Pasted image 20231214131210.png",
     "3학년 2학기/데이터베이스 설계/기말/Query Optimization.md",
     "3학년 2학기/데이터베이스 설계/기말/Concurrency Control.md",
@@ -243,8 +245,6 @@
     "Attached Files/Pasted image 20231210182728.png",
     "Attached Files/Pasted image 20231210182403.png",
     "Attached Files/Pasted image 20231209013802.png",
-    "Attached Files/Pasted image 20231209013729.png",
-    "Attached Files/Pasted image 20231209013646.png",
     "프론트엔드/유데미/섹션 25",
     "프론트엔드/유데미/섹션 16",
     "프론트엔드/유데미/섹션 14, 15 - JS Primary",
