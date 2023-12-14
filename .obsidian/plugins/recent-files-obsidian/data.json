@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "transaction",
+      "path": "3학년 2학기/데이터베이스 설계/기말/transaction.md"
+    },
+    {
+      "basename": "Stable Storage",
+      "path": "3학년 2학기/데이터베이스 설계/기말/Stable Storage.md"
+    },
+    {
+      "basename": "materialized view - 수업필기",
+      "path": "3학년 2학기/데이터베이스 설계/기말/materialized view - 수업필기.md"
+    },
+    {
       "basename": "Materialized view - 강의자료",
       "path": "3학년 2학기/데이터베이스 설계/기말/Materialized view - 강의자료.md"
     },
     {
       "basename": "Query Optimization",
       "path": "3학년 2학기/데이터베이스 설계/기말/Query Optimization.md"
-    },
-    {
-      "basename": "transaction",
-      "path": "3학년 2학기/데이터베이스 설계/기말/transaction.md"
     },
     {
       "basename": "Cascading Rollback",
@@ -35,10 +43,6 @@
     {
       "basename": "Recovery Sytstem",
       "path": "3학년 2학기/데이터베이스 설계/기말/Recovery Sytstem.md"
-    },
-    {
-      "basename": "materialized view - 수업필기",
-      "path": "3학년 2학기/데이터베이스 설계/기말/materialized view - 수업필기.md"
     },
     {
       "basename": "객체1",
@@ -195,10 +199,6 @@
     {
       "basename": "19020",
       "path": "3학년 2학기/객체1/lab/기말/19020.md"
-    },
-    {
-      "basename": "1. 탐욕 기법",
-      "path": "3학년 2학기/알고리즘/기말/1. 탐욕 기법.md"
     }
   ],
   "omittedPaths": [],
