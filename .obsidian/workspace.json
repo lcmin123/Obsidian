@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기/데이터베이스 설계/기말/기말 족보.md",
+                "file": "3학년 2학기/데이터베이스 설계/기말/snapshot isolation.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "recoverable",
+                "query": "skew",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +81,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -101,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3학년 2학기/데이터베이스 설계/기말/기말 족보.md",
+                "file": "3학년 2학기/데이터베이스 설계/기말/snapshot isolation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3학년 2학기/데이터베이스 설계/기말/기말 족보.md",
+                "file": "3학년 2학기/데이터베이스 설계/기말/snapshot isolation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기/데이터베이스 설계/기말/기말 족보.md"
+                "file": "3학년 2학기/데이터베이스 설계/기말/snapshot isolation.md"
               }
             }
           },
@@ -206,13 +207,13 @@
   },
   "active": "fb37a8798716fb13",
   "lastOpenFiles": [
+    "3학년 2학기/데이터베이스 설계/기말/Cascading Rollback.md",
+    "3학년 2학기/데이터베이스 설계/기말/기말 족보.md",
     "3학년 2학기/데이터베이스 설계/기말/Two phase locking protocol.md",
     "3학년 2학기/데이터베이스 설계/기말/transaction.md",
-    "3학년 2학기/데이터베이스 설계/기말/기말 족보.md",
     "3학년 2학기/데이터베이스 설계/기말/Concurrency Control.md",
     "3학년 2학기/데이터베이스 설계/기말/snapshot isolation.md",
     "3학년 2학기/데이터베이스 설계/기말/Query Optimization.md",
-    "3학년 2학기/데이터베이스 설계/기말/Cascading Rollback.md",
     "3학년 2학기/데이터베이스 설계/기말/Recovery Sytstem.md",
     "Attached Files/Pasted image 20231214153324.png",
     "3학년 2학기/데이터베이스 설계/기말/materialized view - 수업필기.md",
