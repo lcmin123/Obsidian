@@ -24,4 +24,13 @@
 	- 발생시 , 시스템은 한 트랜잭션을 롤백해야함
 	  → 모든 트랜잭션은 독립적이므로, 아무거나 롤백
 - Consistency vs Deadlock
-	- Deadlock은 롤백하면 ㄱ
+	- Deadlock은 롤백하면 그만이지만, consistency problem은 dbms에서 감당할 수 없는 문제로 될 수 있음
+	- <font color="#00b0f0">Deadlock이 선호되어야 함</font>
+- **lock based protocol**
+	- 모든 트랜잭션이 락을 요청하고 해제하는 동안 따르는 규칙
+	- 가능한 스케줄 집합을 제한 →<font color="#00b0f0"> legal</font> 스케줄
+	- 모든 legal 스케줄이 충돌 직렬하다면, <font color="#00b0f0">충돌 직렬화를 보장</font>
+- **Starvation problem**
+	- s lock  되어있는 데이터에 x lock을 요청할 시 , 다른 s lock 요청이 계속 들어와 영원히 기다리는 문제
+	- s lock은 공존 가능하므로 생기는 문제
+- 
