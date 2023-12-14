@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기/데이터베이스 설계/기말/Query Optimization.md",
+                "file": "3학년 2학기/데이터베이스 설계/기말/기말 족보.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "10010",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +81,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -101,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3학년 2학기/데이터베이스 설계/기말/Query Optimization.md",
+                "file": "3학년 2학기/데이터베이스 설계/기말/기말 족보.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3학년 2학기/데이터베이스 설계/기말/Query Optimization.md",
+                "file": "3학년 2학기/데이터베이스 설계/기말/기말 족보.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기/데이터베이스 설계/기말/Query Optimization.md"
+                "file": "3학년 2학기/데이터베이스 설계/기말/기말 족보.md"
               }
             }
           },
@@ -206,12 +207,15 @@
   },
   "active": "fb37a8798716fb13",
   "lastOpenFiles": [
+    "3학년 2학기/데이터베이스 설계/기말/transaction.md",
+    "3학년 2학기/데이터베이스 설계/기말/Stable Storage.md",
     "3학년 2학기/데이터베이스 설계/기말/기말 족보.md",
+    "3학년 2학기/데이터베이스 설계/기말/Cascading Rollback.md",
+    "3학년 2학기/데이터베이스 설계/기말/Query Optimization.md",
     "Attached Files/Pasted image 20231214131943.png",
     "Attached Files/Pasted image 20231214131652.png",
     "Attached Files/Pasted image 20231214131321.png",
     "Attached Files/Pasted image 20231214131210.png",
-    "3학년 2학기/데이터베이스 설계/기말/Query Optimization.md",
     "3학년 2학기/데이터베이스 설계/기말/Concurrency Control.md",
     "3학년 2학기/데이터베이스 설계/Untitled.md",
     "3학년 2학기/객체1/객체1.md",
@@ -233,8 +237,6 @@
     "3학년 2학기/객체1/lab/기말/12060.md",
     "3학년 2학기/객체1/lab/기말/12050.md",
     "3학년 2학기/객체1/기말범위/클래스 간 관계.md",
-    "3학년 2학기/객체1/lab/기말/11511.md",
-    "3학년 2학기/객체1/lab/기말/11020.md",
     "Attached Files/Pasted image 20231212034558.png",
     "Attached Files/Pasted image 20231212022106.png",
     "3학년 2학기/객체1/lab/기말",

@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Query Optimization",
-      "path": "3학년 2학기/데이터베이스 설계/기말/Query Optimization.md"
-    },
-    {
       "basename": "기말 족보",
       "path": "3학년 2학기/데이터베이스 설계/기말/기말 족보.md"
+    },
+    {
+      "basename": "transaction",
+      "path": "3학년 2학기/데이터베이스 설계/기말/transaction.md"
+    },
+    {
+      "basename": "Cascading Rollback",
+      "path": "3학년 2학기/데이터베이스 설계/기말/Cascading Rollback.md"
+    },
+    {
+      "basename": "Query Optimization",
+      "path": "3학년 2학기/데이터베이스 설계/기말/Query Optimization.md"
     },
     {
       "basename": "Concurrency Control",
@@ -169,10 +177,6 @@
       "path": "3학년 2학기/객체1/lab/기말/19020.md"
     },
     {
-      "basename": "transaction",
-      "path": "3학년 2학기/데이터베이스 설계/기말/transaction.md"
-    },
-    {
       "basename": "materialized view",
       "path": "3학년 2학기/데이터베이스 설계/기말/materialized view.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "18030",
       "path": "3학년 2학기/객체1/lab/기말/18030.md"
-    },
-    {
-      "basename": "18020",
-      "path": "3학년 2학기/객체1/lab/기말/18020.md"
     }
   ],
   "omittedPaths": [],

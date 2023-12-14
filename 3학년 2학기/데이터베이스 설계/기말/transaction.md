@@ -64,12 +64,7 @@
 	- DDL command를 만날때 까지(CREATE, DROP, RENAME) -> DDL의 전후에 각각 commit이 존재하기 때문
 	- <font color="#00b0f0">Work는 가독성 향상 목적으로 사용, 보통 생략</font>
 
-- stable storage
-	- 정보가 절대 사라지지 않는 스토리지(이론상)
-	- data를 여러 비휘발성 스토리지에 2중 3중으로 백업
-	- DBMS는 DML 실행 전에 항상 log를 남긴다
-	- log만 제대로 남아있다면 failure가 생겨도 rollback 가능
-	- ACID의 A와 D는 stability에 전부 달려있다해도 과언x
+- [[Stable Storage]]
 
 - RAID(Redundant Array of Inexpensive Disks)
 	- 비싸지 않은 여러 개의 디스크를 배열하여 속도, 안정성, 효율성, 가용성 등의 증대를 위해 사용
@@ -173,15 +168,7 @@
 	- T<sub>j</sub>가 이전에 T<sub>i</sub>가 작성한 데이터 항목을 읽는 경우, T<sub>i</sub>의 커밋 작업이 T<sub>j</sub>의 커밋 작업보다 먼저 나타나야 한다는 것을 의미
 	- 아래 스케줄은 T<sub>9</sub>가 read(A)작업 후에 즉시 커밋했으므로 복구 가능하지 않음![[Pasted image 20231209011038.png|300]]
 		- T<sub>8</sub>이 중단되어야 하는 경우, T<sub>9</sub>는 일관성이 보장되지 않는 데이터베이스 상태를 읽었을 수 있으므로, 데이터베이스는 일정이 복구 가능하도록 보장해야함
-
-- <font color="#00b0f0">Cascading Rollback</font>
-	- 단일 트랜잭션 실패가 연속적인 트랜잭션 롤백을 일으키는 것
-	- 만일 T10이 실패한다면, T11과 T12도 롤백되어야 하고, 이는 상당량의 작업을 되돌릴 수 있음![[Pasted image 20231209011412.png]]
-
-- <font color="#00b0f0">Cascadeless Schedule</font> 
-	- T<sub>j</sub>가 T<sub>i</sub>가 이전에 작성한 데이터 항목을 읽을 때, T<sub>i</sub>의 커밋이 T<sub>j</sub>의 읽기보다 먼저 나타야함을 의미
-	- 모든 Cascadeless 스케줄은 복구 가능 
-	  → 모든 스케줄을 Cascadeless 하게 제한하는게 바람직
+[[Cascading Rollback]]
 
 - 약한 수준의 일관성
 	- 일부 응용 프로그램은 직렬화 되지 않은 스케줄을 허용하는 약한 일관성 수준을 허용함
