@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Query Optimization",
+      "path": "3학년 2학기/데이터베이스 설계/기말/Query Optimization.md"
+    },
+    {
+      "basename": "Concurrency Control",
+      "path": "3학년 2학기/데이터베이스 설계/기말/Concurrency Control.md"
+    },
+    {
+      "basename": "객체1",
+      "path": "3학년 2학기/객체1/객체1.md"
+    },
+    {
       "basename": "20040",
       "path": "3학년 2학기/객체1/lab/기말/20040.md"
     },
@@ -161,10 +173,6 @@
       "path": "3학년 2학기/데이터베이스 설계/기말/materialized view.md"
     },
     {
-      "basename": "Query Optimization",
-      "path": "3학년 2학기/데이터베이스 설계/기말/Query Optimization.md"
-    },
-    {
       "basename": "1. 탐욕 기법",
       "path": "3학년 2학기/알고리즘/기말/1. 탐욕 기법.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "15030",
       "path": "3학년 2학기/객체1/lab/기말/15030.md"
-    },
-    {
-      "basename": "15010",
-      "path": "3학년 2학기/객체1/lab/기말/15010.md"
-    },
-    {
-      "basename": "14150",
-      "path": "3학년 2학기/객체1/lab/기말/14150.md"
     }
   ],
   "omittedPaths": [],
