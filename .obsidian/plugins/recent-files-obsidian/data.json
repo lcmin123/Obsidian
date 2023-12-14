@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "기말 족보",
+      "path": "3학년 2학기/데이터베이스 설계/기말/기말 족보.md"
+    },
+    {
       "basename": "Query Optimization",
       "path": "3학년 2학기/데이터베이스 설계/기말/Query Optimization.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "18020",
       "path": "3학년 2학기/객체1/lab/기말/18020.md"
-    },
-    {
-      "basename": "15030",
-      "path": "3학년 2학기/객체1/lab/기말/15030.md"
     }
   ],
   "omittedPaths": [],

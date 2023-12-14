@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기/데이터베이스 설계/기말/Query Optimization.md",
+                "file": "3학년 2학기/데이터베이스 설계/기말/기말 족보.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,8 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "25192bdd3f6894eb",
@@ -102,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3학년 2학기/데이터베이스 설계/기말/Query Optimization.md",
+                "file": "3학년 2학기/데이터베이스 설계/기말/기말 족보.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3학년 2학기/데이터베이스 설계/기말/Query Optimization.md",
+                "file": "3학년 2학기/데이터베이스 설계/기말/기말 족보.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기/데이터베이스 설계/기말/Query Optimization.md"
+                "file": "3학년 2학기/데이터베이스 설계/기말/기말 족보.md"
               }
             }
           },
@@ -208,6 +207,7 @@
   "active": "fb37a8798716fb13",
   "lastOpenFiles": [
     "3학년 2학기/데이터베이스 설계/기말/Query Optimization.md",
+    "3학년 2학기/데이터베이스 설계/기말/기말 족보.md",
     "3학년 2학기/데이터베이스 설계/기말/Concurrency Control.md",
     "3학년 2학기/데이터베이스 설계/Untitled.md",
     "3학년 2학기/객체1/객체1.md",
@@ -232,7 +232,6 @@
     "3학년 2학기/객체1/lab/기말/11511.md",
     "3학년 2학기/객체1/lab/기말/11020.md",
     "3학년 2학기/객체1/기말범위/파일분리 작성법.md",
-    "3학년 2학기/객체1/lab/기말/10040.md",
     "Attached Files/Pasted image 20231212034558.png",
     "Attached Files/Pasted image 20231212022106.png",
     "3학년 2학기/객체1/lab/기말",
