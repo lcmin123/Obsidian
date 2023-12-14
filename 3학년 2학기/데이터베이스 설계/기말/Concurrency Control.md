@@ -47,11 +47,26 @@
 	- 잠금지점(트랜잭션이 최종 잠금을 획득한 지점)의 순서대로 트랜잭션을 직렬화 하는걸 보장
 	- ![[Pasted image 20231214141326.png]]
 	- lock과 unlock이 몰려있으면 투페이즈락
-- Strict two phase locking protocol
+- <font color="#00b0f0">Strict two phase locking protocol</font>
 	- [[Cascading Rollback]] 회피
 	- 모든 트랜잭션 커밋까지 x락 유지 요구
 	- 다른 트래잭션 커밋 전에 커밋되지 않은 데이터 read 방지
-- rigorous thw phase locking protocol
+- <font color="#00b0f0">rigorous thw phase locking protocol</font>
 	- 모든 트랜잭션 커밋까지 x락, s락 유지 요구
 	- 트랜잭션을 커밋 순으로 직렬화 가능, 구현 용이
-	- 모든 시스템은 이걸 구혀
+	- 모든 시스템은 이걸 구현해놓지만, 간단한 투페이즈락 사용
+- <font color="#00b0f0">잠금 변환</font>
+	- <font color="#00b0f0">업그레이드</font>
+		- s락 → x락
+		- 성장단계에서만 발생 가능
+	- <font color="#00b0f0">다운그레이드</font>
+		- x락→s락 
+		- 축소단계에서만 발생 가능
+	- 충돌 직렬 가능한 스케줄만 생성
+	- 트랜잭션은 잠금지점에 따라 직렬화 가능
+	- 배타적 잠금이 트랜잭션 끝까지 유지된다면, 스케줄은 cascadeless함
+- 잠금 관리자
+	- 잠금 요청에 대해 잠금 부여 메시지 전송, 데드락 롤백요청, 트랜잭션 응답까지 대기
+	- 잠금 관리자는 부여된 잠금과 대기중인 요청을 기록하기 위해 잠금 테이블이라는 인메모리 데이터 구조 유지
+- **snapshot isolation**
+	- 
