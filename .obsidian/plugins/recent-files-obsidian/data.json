@@ -5,16 +5,20 @@
       "path": "3학년 2학기/데이터베이스 설계/기말/기말 족보.md"
     },
     {
+      "basename": "Query Optimization",
+      "path": "3학년 2학기/데이터베이스 설계/기말/Query Optimization.md"
+    },
+    {
+      "basename": "materialized view",
+      "path": "3학년 2학기/데이터베이스 설계/기말/materialized view.md"
+    },
+    {
       "basename": "transaction",
       "path": "3학년 2학기/데이터베이스 설계/기말/transaction.md"
     },
     {
       "basename": "Cascading Rollback",
       "path": "3학년 2학기/데이터베이스 설계/기말/Cascading Rollback.md"
-    },
-    {
-      "basename": "Query Optimization",
-      "path": "3학년 2학기/데이터베이스 설계/기말/Query Optimization.md"
     },
     {
       "basename": "Concurrency Control",
@@ -175,10 +179,6 @@
     {
       "basename": "19020",
       "path": "3학년 2학기/객체1/lab/기말/19020.md"
-    },
-    {
-      "basename": "materialized view",
-      "path": "3학년 2학기/데이터베이스 설계/기말/materialized view.md"
     },
     {
       "basename": "1. 탐욕 기법",

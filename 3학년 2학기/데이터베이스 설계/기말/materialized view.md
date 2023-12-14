@@ -11,7 +11,7 @@ group by는 sorting이 들어갈 수 밖에 없음. -> 오버헤드
 		- update 시 delete 후 insert하는 방식으로 구현 : differential
 		- delete 되는 tuple : d<sub>r</sub>
 		- insert 되는 tuple : i<sub>r</sub>
-	- deferreed view maintenance 
+	- deferred view maintenance 
 
 - [[join operation]] 
 	- r에 새로운 tuple이 insert 된 상황 가정
