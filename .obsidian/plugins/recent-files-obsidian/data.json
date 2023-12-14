@@ -5,6 +5,10 @@
       "path": "3학년 2학기/데이터베이스 설계/기말/transaction.md"
     },
     {
+      "basename": "Cascading Rollback",
+      "path": "3학년 2학기/데이터베이스 설계/기말/Cascading Rollback.md"
+    },
+    {
       "basename": "Stable Storage",
       "path": "3학년 2학기/데이터베이스 설계/기말/Stable Storage.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "Query Optimization",
       "path": "3학년 2학기/데이터베이스 설계/기말/Query Optimization.md"
-    },
-    {
-      "basename": "Cascading Rollback",
-      "path": "3학년 2학기/데이터베이스 설계/기말/Cascading Rollback.md"
     },
     {
       "basename": "기말 족보",
