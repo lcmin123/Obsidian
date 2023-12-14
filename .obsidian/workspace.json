@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기/데이터베이스 설계/기말/Cascading Rollback.md",
+                "file": "3학년 2학기/데이터베이스 설계/기말/Query Optimization.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3학년 2학기/데이터베이스 설계/기말/Cascading Rollback.md",
+                "file": "3학년 2학기/데이터베이스 설계/기말/Query Optimization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3학년 2학기/데이터베이스 설계/기말/Cascading Rollback.md",
+                "file": "3학년 2학기/데이터베이스 설계/기말/Query Optimization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기/데이터베이스 설계/기말/Cascading Rollback.md"
+                "file": "3학년 2학기/데이터베이스 설계/기말/Query Optimization.md"
               }
             }
           },
@@ -207,9 +207,11 @@
   },
   "active": "fb37a8798716fb13",
   "lastOpenFiles": [
-    "3학년 2학기/데이터베이스 설계/기말/transaction.md",
-    "3학년 2학기/데이터베이스 설계/기말/Cascading Rollback.md",
+    "3학년 2학기/데이터베이스 설계/기말/materialized view - 수업필기.md",
+    "3학년 2학기/데이터베이스 설계/기말/Materialized view - 강의자료.md",
     "3학년 2학기/데이터베이스 설계/기말/Concurrency Control.md",
+    "3학년 2학기/데이터베이스 설계/기말/Cascading Rollback.md",
+    "3학년 2학기/데이터베이스 설계/기말/transaction.md",
     "Attached Files/Pasted image 20231214143522.png",
     "Attached Files/Pasted image 20231214143521.png",
     "Attached Files/Pasted image 20231214142637.png",
@@ -221,8 +223,6 @@
     "Attached Files/Pasted image 20231214135417.png",
     "3학년 2학기/데이터베이스 설계/기말/기말 족보.md",
     "3학년 2학기/데이터베이스 설계/기말/Query Optimization.md",
-    "3학년 2학기/데이터베이스 설계/기말/Materialized view - 강의자료.md",
-    "3학년 2학기/데이터베이스 설계/기말/materialized view - 수업필기.md",
     "3학년 2학기/데이터베이스 설계/기말/Stable Storage.md",
     "Attached Files/Pasted image 20231214131943.png",
     "3학년 2학기/데이터베이스 설계/Untitled.md",

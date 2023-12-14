@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Query Optimization",
+      "path": "3학년 2학기/데이터베이스 설계/기말/Query Optimization.md"
+    },
+    {
+      "basename": "materialized view - 수업필기",
+      "path": "3학년 2학기/데이터베이스 설계/기말/materialized view - 수업필기.md"
+    },
+    {
+      "basename": "Materialized view - 강의자료",
+      "path": "3학년 2학기/데이터베이스 설계/기말/Materialized view - 강의자료.md"
+    },
+    {
+      "basename": "Concurrency Control",
+      "path": "3학년 2학기/데이터베이스 설계/기말/Concurrency Control.md"
+    },
+    {
       "basename": "Cascading Rollback",
       "path": "3학년 2학기/데이터베이스 설계/기말/Cascading Rollback.md"
     },
@@ -9,24 +25,8 @@
       "path": "3학년 2학기/데이터베이스 설계/기말/transaction.md"
     },
     {
-      "basename": "Concurrency Control",
-      "path": "3학년 2학기/데이터베이스 설계/기말/Concurrency Control.md"
-    },
-    {
       "basename": "기말 족보",
       "path": "3학년 2학기/데이터베이스 설계/기말/기말 족보.md"
-    },
-    {
-      "basename": "Query Optimization",
-      "path": "3학년 2학기/데이터베이스 설계/기말/Query Optimization.md"
-    },
-    {
-      "basename": "Materialized view - 강의자료",
-      "path": "3학년 2학기/데이터베이스 설계/기말/Materialized view - 강의자료.md"
-    },
-    {
-      "basename": "materialized view - 수업필기",
-      "path": "3학년 2학기/데이터베이스 설계/기말/materialized view - 수업필기.md"
     },
     {
       "basename": "객체1",
