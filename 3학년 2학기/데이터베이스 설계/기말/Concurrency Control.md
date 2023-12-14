@@ -34,7 +34,9 @@
 	- s lock  되어있는 데이터에 x lock을 요청할 시 , 다른 s lock 요청이 계속 들어와 영원히 기다리는 문제
 	- s lock은 공존 가능하므로 생기는 문제
 - **Two - phased locking protocol**![[Pasted image 20231214141054.png]]
-	- 충돌 직렬 스케줄 보장
+	- <font color="#00b0f0">충돌 직렬 스케줄 보장</font>
+	- <font color="#00b0f0">데드락을 해결할 수는 없다</font>
+	- [[Cascading Rollback]] 발생 가능
 	- lock, unlock 요청을 두 단계로 나눈다
 	- lock point에 도달 시 작업 수행
 		- <font color="#00b0f0">Growing phase</font>
@@ -42,4 +44,14 @@
 		- <font color="#00b0f0">Shrinking phase</font>
 			- lock을 풀 수만 있는 단계
 	- 트랜잭션이 성장 단계에 있을때 시작, 필요에 따라 잠금 획득. 트랜잭션이 잠금을 해제하면 축소단계로 들어가며, 더이상 잠금 요청 불가
-	- 잠금지점(트랜잭션이 최종 잠금을 획득한 지점)의 순서대로 트랜잭션을 
+	- 잠금지점(트랜잭션이 최종 잠금을 획득한 지점)의 순서대로 트랜잭션을 직렬화 하는걸 보장
+	- ![[Pasted image 20231214141326.png]]
+	- lock과 unlock이 몰려있으면 투페이즈락
+- Strict two phase locking protocol
+	- [[Cascading Rollback]] 회피
+	- 모든 트랜잭션 커밋까지 x락 유지 요구
+	- 다른 트래잭션 커밋 전에 커밋되지 않은 데이터 read 방지
+- rigorous thw phase locking protocol
+	- 모든 트랜잭션 커밋까지 x락, s락 유지 요구
+	- 트랜잭션을 커밋 순으로 직렬화 가능, 구현 용이
+	- 모든 시스템은 이걸 구혀
