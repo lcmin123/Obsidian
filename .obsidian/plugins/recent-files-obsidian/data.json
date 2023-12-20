@@ -5,6 +5,10 @@
       "path": "알고리즘/필기/배열.md"
     },
     {
+      "basename": "Iterator",
+      "path": "CS/Iterator.md"
+    },
+    {
       "basename": "Vector example",
       "path": "알고리즘/예제/배열/Vector example.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "Insert, Erase 구현",
       "path": "알고리즘/예제/배열/Insert, Erase 구현.md"
-    },
-    {
-      "basename": "Iterator",
-      "path": "CS/Iterator.md"
     },
     {
       "basename": "배열",
