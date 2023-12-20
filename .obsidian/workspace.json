@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘/오리엔테이션.md",
+                "file": "알고리즘/필기/오리엔테이션.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘/오리엔테이션.md",
+                "file": "알고리즘/필기/오리엔테이션.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘/오리엔테이션.md",
+                "file": "알고리즘/필기/오리엔테이션.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘/오리엔테이션.md"
+                "file": "알고리즘/필기/오리엔테이션.md"
               }
             }
           },
@@ -204,10 +204,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fb37a8798716fb13",
+  "active": "0e6e9e156fa16352",
   "lastOpenFiles": [
-    "알고리즘/기초 코드 작성 요령.md",
-    "알고리즘/오리엔테이션.md",
+    "알고리즘/알고리즘.md",
+    "알고리즘/필기/필기.md",
+    "알고리즘/예제/예제.md",
+    "알고리즘/예제",
+    "알고리즘/필기/오리엔테이션.md",
+    "알고리즘/필기",
+    "알고리즘/필기/기초 코드 작성 요령.md",
     "Spaces/Spaces.md",
     "_notes.md",
     "융의 분석 심리학.pdf",
@@ -241,17 +246,12 @@
     "3학년 2학기/객체1/기말범위/다중상속.md",
     "3학년 2학기/객체1/기말범위/재사용.md",
     "3학년 2학기/객체1/기말범위/함수 재정의.md",
-    "3학년 2학기/객체1/lab/기말/14110.md",
-    "3학년 2학기/객체1/기말범위/상속.md",
-    "3학년 2학기/객체1/lab/기말/14090.md",
     "3학년 2학기/객체1/lab/기말",
     "3학년 2학기/객체1/C++/lab/ㅇ",
     "3학년 2학기/객체1/lab/중간",
     "프론트엔드/유데미/섹션 25",
     "프론트엔드/유데미/섹션 16",
     "프론트엔드/유데미/섹션 14, 15 - JS Primary",
-    "todoist-backup-20231113155739.json",
-    "Task Dashboard.canvas",
-    "Excalidraw"
+    "Task Dashboard.canvas"
   ]
 }

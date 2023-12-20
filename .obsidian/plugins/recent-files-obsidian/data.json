@@ -2,11 +2,19 @@
   "recentFiles": [
     {
       "basename": "오리엔테이션",
-      "path": "알고리즘/오리엔테이션.md"
+      "path": "알고리즘/필기/오리엔테이션.md"
+    },
+    {
+      "basename": "필기",
+      "path": "알고리즘/필기/필기.md"
+    },
+    {
+      "basename": "예제",
+      "path": "알고리즘/예제/예제.md"
     },
     {
       "basename": "기초 코드 작성 요령",
-      "path": "알고리즘/기초 코드 작성 요령.md"
+      "path": "알고리즘/필기/기초 코드 작성 요령.md"
     },
     {
       "basename": "Recovery Sytstem",
@@ -191,14 +199,6 @@
     {
       "basename": "기말",
       "path": "3학년 2학기/객체1/lab/기말/기말.md"
-    },
-    {
-      "basename": "19050",
-      "path": "3학년 2학기/객체1/lab/기말/19050.md"
-    },
-    {
-      "basename": "19040",
-      "path": "3학년 2학기/객체1/lab/기말/19040.md"
     }
   ],
   "omittedPaths": [],
