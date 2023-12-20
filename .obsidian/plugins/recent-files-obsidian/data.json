@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "오리엔테이션",
+      "path": "알고리즘/오리엔테이션.md"
+    },
+    {
       "basename": "Recovery Sytstem",
       "path": "3학년 2학기/데이터베이스 설계/기말/Recovery Sytstem.md"
     },
@@ -191,14 +195,6 @@
     {
       "basename": "19040",
       "path": "3학년 2학기/객체1/lab/기말/19040.md"
-    },
-    {
-      "basename": "19030",
-      "path": "3학년 2학기/객체1/lab/기말/19030.md"
-    },
-    {
-      "basename": "19020",
-      "path": "3학년 2학기/객체1/lab/기말/19020.md"
     }
   ],
   "omittedPaths": [],
