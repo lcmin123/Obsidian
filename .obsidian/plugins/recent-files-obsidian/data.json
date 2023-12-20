@@ -5,6 +5,18 @@
       "path": "알고리즘/필기/배열.md"
     },
     {
+      "basename": "Insert, Erase 구현",
+      "path": "알고리즘/예제/배열/Insert, Erase 구현.md"
+    },
+    {
+      "basename": "배열",
+      "path": "알고리즘/예제/배열/배열.md"
+    },
+    {
+      "basename": "예제",
+      "path": "알고리즘/예제/예제.md"
+    },
+    {
       "basename": "Overhead",
       "path": "CS/Overhead.md"
     },
@@ -27,10 +39,6 @@
     {
       "basename": "필기",
       "path": "알고리즘/필기/필기.md"
-    },
-    {
-      "basename": "예제",
-      "path": "알고리즘/예제/예제.md"
     },
     {
       "basename": "Recovery Sytstem",
@@ -191,14 +199,6 @@
     {
       "basename": "크루스칼 알고리즘",
       "path": "3학년 2학기/알고리즘/기말/크루스칼 알고리즘.md"
-    },
-    {
-      "basename": "프림 알고리즘",
-      "path": "3학년 2학기/알고리즘/기말/프림 알고리즘.md"
-    },
-    {
-      "basename": "19090",
-      "path": "3학년 2학기/객체1/lab/기말/19090.md"
     }
   ],
   "omittedPaths": [],
