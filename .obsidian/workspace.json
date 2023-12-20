@@ -11,9 +11,11 @@
             "id": "fb37a8798716fb13",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Spaces"
+                "file": "알고리즘/오리엔테이션.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -99,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "알고리즘/오리엔테이션.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "알고리즘/오리엔테이션.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "알고리즘/오리엔테이션.md"
+              }
             }
           },
           {
@@ -198,10 +204,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0e6e9e156fa16352",
+  "active": "fb37a8798716fb13",
   "lastOpenFiles": [
-    "Spaces/Spaces.md",
+    "알고리즘/기초 코드 작성 요령.md",
     "알고리즘/오리엔테이션.md",
+    "Spaces/Spaces.md",
     "_notes.md",
     "융의 분석 심리학.pdf",
     "3학년 2학기/데이터베이스 설계/기말/Recovery Sytstem.md",
@@ -237,7 +244,6 @@
     "3학년 2학기/객체1/lab/기말/14110.md",
     "3학년 2학기/객체1/기말범위/상속.md",
     "3학년 2학기/객체1/lab/기말/14090.md",
-    "3학년 2학기/객체1/기말범위/깊은 복사.md",
     "3학년 2학기/객체1/lab/기말",
     "3학년 2학기/객체1/C++/lab/ㅇ",
     "3학년 2학기/객체1/lab/중간",
