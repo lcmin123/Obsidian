@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘/필기/기초 코드 작성 요령.md",
+                "file": "알고리즘/필기/배열.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘/필기/기초 코드 작성 요령.md",
+                "file": "알고리즘/필기/배열.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘/필기/기초 코드 작성 요령.md",
+                "file": "알고리즘/필기/배열.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘/필기/기초 코드 작성 요령.md"
+                "file": "알고리즘/필기/배열.md"
               }
             }
           },
@@ -206,6 +206,8 @@
   },
   "active": "fb37a8798716fb13",
   "lastOpenFiles": [
+    "알고리즘/필기/기초 코드 작성 요령.md",
+    "알고리즘/필기/배열.md",
     "Attached Files/Pasted image 20231220191215.png",
     "Attached Files/Pasted image 20231220190959.png",
     "Attached Files/Pasted image 20231220185059.png",
@@ -215,7 +217,6 @@
     "알고리즘/예제/예제.md",
     "알고리즘/예제",
     "알고리즘/필기",
-    "알고리즘/필기/기초 코드 작성 요령.md",
     "Spaces/Spaces.md",
     "_notes.md",
     "융의 분석 심리학.pdf",
@@ -238,7 +239,6 @@
     "Attached Files/Pasted image 20231214141326.png",
     "Attached Files/Pasted image 20231214141324.png",
     "Attached Files/Pasted image 20231214141054.png",
-    "Attached Files/Pasted image 20231214135751.png",
     "3학년 2학기/데이터베이스 설계/Untitled.md",
     "3학년 2학기/객체1/객체1.md",
     "3학년 2학기/객체1/lab/기말/20040.md",
