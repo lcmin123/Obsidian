@@ -5,6 +5,22 @@
       "path": "알고리즘/필기/배열.md"
     },
     {
+      "basename": "Overhead",
+      "path": "CS/Overhead.md"
+    },
+    {
+      "basename": "알고리즘",
+      "path": "알고리즘/알고리즘.md"
+    },
+    {
+      "basename": "Cache Hit Rate",
+      "path": "CS/Cache Hit Rate.md"
+    },
+    {
+      "basename": "CS",
+      "path": "CS/CS.md"
+    },
+    {
       "basename": "기초 코드 작성 요령",
       "path": "알고리즘/필기/기초 코드 작성 요령.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "19090",
       "path": "3학년 2학기/객체1/lab/기말/19090.md"
-    },
-    {
-      "basename": "19080",
-      "path": "3학년 2학기/객체1/lab/기말/19080.md"
-    },
-    {
-      "basename": "19070",
-      "path": "3학년 2학기/객체1/lab/기말/19070.md"
-    },
-    {
-      "basename": "19060",
-      "path": "3학년 2학기/객체1/lab/기말/19060.md"
-    },
-    {
-      "basename": "기말",
-      "path": "3학년 2학기/객체1/lab/기말/기말.md"
     }
   ],
   "omittedPaths": [],
