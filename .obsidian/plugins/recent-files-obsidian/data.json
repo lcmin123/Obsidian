@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "알고리즘/예제/배열/Untitled.md"
+    },
+    {
       "basename": "배열",
       "path": "알고리즘/필기/배열.md"
     },
     {
+      "basename": "기초 코드 작성 요령",
+      "path": "알고리즘/필기/기초 코드 작성 요령.md"
+    },
+    {
       "basename": "Insert, Erase 구현",
       "path": "알고리즘/예제/배열/Insert, Erase 구현.md"
+    },
+    {
+      "basename": "Iterator",
+      "path": "CS/Iterator.md"
     },
     {
       "basename": "배열",
@@ -31,10 +43,6 @@
     {
       "basename": "CS",
       "path": "CS/CS.md"
-    },
-    {
-      "basename": "기초 코드 작성 요령",
-      "path": "알고리즘/필기/기초 코드 작성 요령.md"
     },
     {
       "basename": "필기",
@@ -191,14 +199,6 @@
     {
       "basename": "lab",
       "path": "3학년 2학기/객체1/lab/lab.md"
-    },
-    {
-      "basename": "다익스트라 알고리즘",
-      "path": "3학년 2학기/알고리즘/기말/다익스트라 알고리즘.md"
-    },
-    {
-      "basename": "크루스칼 알고리즘",
-      "path": "3학년 2학기/알고리즘/기말/크루스칼 알고리즘.md"
     }
   ],
   "omittedPaths": [],
