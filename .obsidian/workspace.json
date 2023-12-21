@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘/필기/연결 리스트.md",
+                "file": "알고리즘/필기/스택.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘/필기/연결 리스트.md",
+                "file": "알고리즘/필기/스택.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘/필기/연결 리스트.md",
+                "file": "알고리즘/필기/스택.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘/필기/연결 리스트.md"
+                "file": "알고리즘/필기/스택.md"
               }
             }
           },
@@ -207,9 +207,9 @@
   },
   "active": "fb37a8798716fb13",
   "lastOpenFiles": [
-    "알고리즘/필기/스택.md",
     "알고리즘/필기/배열.md",
     "알고리즘/필기/연결 리스트.md",
+    "알고리즘/필기/스택.md",
     "CS/Linked List.md",
     "Attached Files/Pasted image 20231221203110.png",
     "Attached Files/Pasted image 20231221203051.png",
