@@ -5,6 +5,7 @@ using namespace std;
 int main(void) {
   list<int> L = {1,2}; // 1 2
   list<int>::iterator t = L.begin(); // t는 1을 가리키는 중
+  -> c++11 : auto t = L.begin();
   L.push_front(10); // 10 1 2
   cout << *t << '\n'; // t가 가리키는 값 = 1을 출력
   L.push_back(5); // 10 1 2 5
