@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘/필기/큐.md",
+                "file": "알고리즘/예제/큐/Queue example.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘/필기/큐.md",
+                "file": "알고리즘/예제/큐/Queue example.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘/필기/큐.md",
+                "file": "알고리즘/예제/큐/Queue example.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘/필기/큐.md"
+                "file": "알고리즘/예제/큐/Queue example.md"
               }
             }
           },
@@ -207,14 +207,20 @@
   },
   "active": "fb37a8798716fb13",
   "lastOpenFiles": [
-    "알고리즘/필기/스택.md",
-    "알고리즘/필기/큐.md",
+    "알고리즘/예제/큐/큐.md",
+    "알고리즘/예제/큐/Queue example.md",
+    "CS/C++ STL/Queue.md",
+    "알고리즘/예제/큐",
+    "알고리즘/예제/Untitled.md",
     "CS/C++ STL/Stack.md",
+    "CS/C++ STL/Vector.md",
+    "알고리즘/필기/큐.md",
+    "Attached Files/Pasted image 20231221205448.png",
+    "알고리즘/필기/스택.md",
     "알고리즘/예제/스택/Stack example.md",
     "알고리즘/예제/스택/스택.md",
     "알고리즘/예제/스택/Untitled 1.md",
     "알고리즘/예제/스택",
-    "CS/C++ STL/Vector.md",
     "알고리즘/필기/배열.md",
     "알고리즘/필기/연결 리스트.md",
     "CS/Linked List.md",
@@ -227,7 +233,6 @@
     "알고리즘/예제/연결 리스트/연결 리스트.md",
     "알고리즘/예제/연결 리스트/Untitled 1.md",
     "알고리즘/예제/연결 리스트",
-    "알고리즘/예제/Untitled.md",
     "Attached Files/Pasted image 20231221201828.png",
     "Attached Files/Pasted image 20231221201654.png",
     "Attached Files/Pasted image 20231221201115.png",
@@ -239,20 +244,15 @@
     "Attached Files/Pasted image 20231221194217.png",
     "Attached Files/Pasted image 20231221193505.png",
     "Attached Files/Pasted image 20231221193432.png",
-    "Attached Files/Pasted image 20231221193416.png",
     "알고리즘/필기/기초 코드 작성 요령.md",
     "알고리즘/예제/배열/Insert, Erase 구현.md",
     "알고리즘/예제/배열/배열.md",
     "알고리즘/예제/예제.md",
     "알고리즘/예제/배열",
-    "CS/Overhead.md",
-    "알고리즘/알고리즘.md",
-    "CS/Cache Hit Rate.md",
     "CS",
     "알고리즘/예제",
     "알고리즘/필기",
     "융의 분석 심리학.pdf",
-    "알고리즘",
     "Task Dashboard.canvas"
   ]
 }

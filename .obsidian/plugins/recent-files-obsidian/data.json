@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Queue example",
+      "path": "알고리즘/예제/큐/Queue example.md"
+    },
+    {
+      "basename": "큐",
+      "path": "알고리즘/예제/큐/큐.md"
+    },
+    {
+      "basename": "Queue",
+      "path": "CS/C++ STL/Queue.md"
+    },
+    {
+      "basename": "Stack",
+      "path": "CS/C++ STL/Stack.md"
+    },
+    {
+      "basename": "Vector",
+      "path": "CS/C++ STL/Vector.md"
+    },
+    {
       "basename": "큐",
       "path": "알고리즘/필기/큐.md"
     },
@@ -9,20 +29,12 @@
       "path": "알고리즘/필기/스택.md"
     },
     {
-      "basename": "Stack",
-      "path": "CS/C++ STL/Stack.md"
-    },
-    {
       "basename": "Stack example",
       "path": "알고리즘/예제/스택/Stack example.md"
     },
     {
       "basename": "스택",
       "path": "알고리즘/예제/스택/스택.md"
-    },
-    {
-      "basename": "Vector",
-      "path": "CS/C++ STL/Vector.md"
     },
     {
       "basename": "배열",
@@ -187,18 +199,6 @@
     {
       "basename": "13040",
       "path": "3학년 2학기/객체1/lab/기말/13040.md"
-    },
-    {
-      "basename": "초기화와 뒤처리",
-      "path": "3학년 2학기/객체1/기말범위/초기화와 뒤처리.md"
-    },
-    {
-      "basename": "13030",
-      "path": "3학년 2학기/객체1/lab/기말/13030.md"
-    },
-    {
-      "basename": "call by",
-      "path": "3학년 2학기/객체1/기말범위/call by.md"
     }
   ],
   "omittedPaths": [],
