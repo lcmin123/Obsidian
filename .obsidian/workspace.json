@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘/필기/스택.md",
+                "file": "CS/C++ STL/Stack.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘/필기/스택.md",
+                "file": "CS/C++ STL/Stack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘/필기/스택.md",
+                "file": "CS/C++ STL/Stack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘/필기/스택.md"
+                "file": "CS/C++ STL/Stack.md"
               }
             }
           },
@@ -207,15 +207,20 @@
   },
   "active": "fb37a8798716fb13",
   "lastOpenFiles": [
+    "알고리즘/예제/스택/Stack example.md",
+    "알고리즘/예제/스택/스택.md",
+    "알고리즘/예제/스택/Untitled 1.md",
+    "CS/C++ STL/Stack.md",
+    "알고리즘/예제/스택",
+    "CS/C++ STL/Vector.md",
+    "알고리즘/필기/스택.md",
     "알고리즘/필기/배열.md",
     "알고리즘/필기/연결 리스트.md",
-    "알고리즘/필기/스택.md",
     "CS/Linked List.md",
     "Attached Files/Pasted image 20231221203110.png",
     "Attached Files/Pasted image 20231221203051.png",
     "Attached Files/Pasted image 20231221203023.png",
     "CS/C++ STL/(Iterator).md",
-    "CS/C++ STL/Vector.md",
     "CS/C++ STL/List.md",
     "알고리즘/예제/연결 리스트/List example.md",
     "알고리즘/예제/연결 리스트/연결 리스트.md",
@@ -244,15 +249,10 @@
     "CS/Cache Hit Rate.md",
     "CS/CS.md",
     "CS",
-    "알고리즘/필기/필기.md",
-    "알고리즘/필기/오리엔테이션.md",
     "알고리즘/예제",
     "알고리즘/필기",
-    "Spaces/Spaces.md",
-    "_notes.md",
     "융의 분석 심리학.pdf",
     "알고리즘",
-    "3학년 2학기/객체1/lab/기말",
     "Task Dashboard.canvas"
   ]
 }

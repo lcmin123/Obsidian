@@ -75,7 +75,8 @@
     "//CS/CS/C++ STL 1",
     "//CS/CS/C++ STL",
     "//CS/CS/C++ STL 1",
-    "//알고리즘/알고리즘/예제/알고리즘/예제/연결 리스트"
+    "//알고리즘/알고리즘/예제/알고리즘/예제/연결 리스트",
+    "//알고리즘/알고리즘/예제/알고리즘/예제/스택"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
@@ -115,7 +116,8 @@
     "CS",
     "알고리즘/예제/배열",
     "CS/C++ STL",
-    "알고리즘/예제/연결 리스트"
+    "알고리즘/예제/연결 리스트",
+    "알고리즘/예제/스택"
   ],
   "spacesUseAlias": false,
   "fmKeyAlias": "aliases",

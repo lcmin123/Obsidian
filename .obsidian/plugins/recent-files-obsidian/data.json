@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Stack",
+      "path": "CS/C++ STL/Stack.md"
+    },
+    {
+      "basename": "Stack example",
+      "path": "알고리즘/예제/스택/Stack example.md"
+    },
+    {
+      "basename": "스택",
+      "path": "알고리즘/예제/스택/스택.md"
+    },
+    {
+      "basename": "Vector",
+      "path": "CS/C++ STL/Vector.md"
+    },
+    {
       "basename": "스택",
       "path": "알고리즘/필기/스택.md"
     },
@@ -19,10 +35,6 @@
     {
       "basename": "(Iterator)",
       "path": "CS/C++ STL/(Iterator).md"
-    },
-    {
-      "basename": "Vector",
-      "path": "CS/C++ STL/Vector.md"
     },
     {
       "basename": "List",
@@ -187,18 +199,6 @@
     {
       "basename": "12060",
       "path": "3학년 2학기/객체1/lab/기말/12060.md"
-    },
-    {
-      "basename": "12050",
-      "path": "3학년 2학기/객체1/lab/기말/12050.md"
-    },
-    {
-      "basename": "클래스 간 관계",
-      "path": "3학년 2학기/객체1/기말범위/클래스 간 관계.md"
-    },
-    {
-      "basename": "11511",
-      "path": "3학년 2학기/객체1/lab/기말/11511.md"
     }
   ],
   "omittedPaths": [],
