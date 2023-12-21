@@ -1,0 +1,3 @@
+- https://cplusplus.com/reference/deque/deque/?kw=deque
+- [[Deque example]]
+- 

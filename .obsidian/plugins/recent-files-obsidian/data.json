@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "Deque",
+      "path": "CS/C++ STL/Deque.md"
+    },
+    {
+      "basename": "Deque example",
+      "path": "알고리즘/예제/덱/Deque example.md"
+    },
+    {
+      "basename": "덱",
+      "path": "알고리즘/예제/덱/덱.md"
+    },
+    {
+      "basename": "List",
+      "path": "CS/C++ STL/List.md"
+    },
+    {
+      "basename": "Queue",
+      "path": "CS/C++ STL/Queue.md"
+    },
+    {
+      "basename": "Stack",
+      "path": "CS/C++ STL/Stack.md"
+    },
+    {
+      "basename": "Vector",
+      "path": "CS/C++ STL/Vector.md"
+    },
+    {
       "basename": "덱",
       "path": "알고리즘/필기/덱.md"
     },
@@ -21,24 +49,12 @@
       "path": "CS/Linked List.md"
     },
     {
-      "basename": "Queue",
-      "path": "CS/C++ STL/Queue.md"
-    },
-    {
       "basename": "Queue example",
       "path": "알고리즘/예제/큐/Queue example.md"
     },
     {
       "basename": "큐",
       "path": "알고리즘/예제/큐/큐.md"
-    },
-    {
-      "basename": "Stack",
-      "path": "CS/C++ STL/Stack.md"
-    },
-    {
-      "basename": "Vector",
-      "path": "CS/C++ STL/Vector.md"
     },
     {
       "basename": "Stack example",
@@ -59,10 +75,6 @@
     {
       "basename": "(Iterator)",
       "path": "CS/C++ STL/(Iterator).md"
-    },
-    {
-      "basename": "List",
-      "path": "CS/C++ STL/List.md"
     },
     {
       "basename": "List example",
@@ -187,18 +199,6 @@
     {
       "basename": "14110",
       "path": "3학년 2학기/객체1/lab/기말/14110.md"
-    },
-    {
-      "basename": "상속",
-      "path": "3학년 2학기/객체1/기말범위/상속.md"
-    },
-    {
-      "basename": "14090",
-      "path": "3학년 2학기/객체1/lab/기말/14090.md"
-    },
-    {
-      "basename": "깊은 복사",
-      "path": "3학년 2학기/객체1/기말범위/깊은 복사.md"
     }
   ],
   "omittedPaths": [],
