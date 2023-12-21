@@ -179,7 +179,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -206,6 +207,9 @@
   },
   "active": "fb37a8798716fb13",
   "lastOpenFiles": [
+    "Attached Files/Pasted image 20231221193505.png",
+    "Attached Files/Pasted image 20231221193432.png",
+    "Attached Files/Pasted image 20231221193416.png",
     "알고리즘/필기/배열.md",
     "알고리즘/필기/연결 리스트.md",
     "CS/Iterator.md",
@@ -240,14 +244,11 @@
     "3학년 2학기/데이터베이스 설계/기말/Stable Storage.md",
     "3학년 2학기/데이터베이스 설계/기말/materialized view - 수업필기.md",
     "3학년 2학기/데이터베이스 설계/기말/Materialized view - 강의자료.md",
-    "3학년 2학기/데이터베이스 설계/기말/Query Optimization.md",
     "Attached Files/Pasted image 20231214153324.png",
     "Attached Files/Pasted image 20231214143522.png",
     "Attached Files/Pasted image 20231214143521.png",
     "Attached Files/Pasted image 20231214142637.png",
     "Attached Files/Pasted image 20231214141326.png",
-    "Attached Files/Pasted image 20231214141324.png",
-    "Attached Files/Pasted image 20231214141054.png",
     "3학년 2학기/객체1/lab/기말",
     "3학년 2학기/객체1/C++/lab/ㅇ",
     "3학년 2학기/객체1/lab/중간",
