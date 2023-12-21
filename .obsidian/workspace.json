@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/C++ STL/Deque.md",
+                "file": "알고리즘/필기/스택의 활용 (수식의 괄호 쌍).md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/C++ STL/Deque.md",
+                "file": "알고리즘/필기/스택의 활용 (수식의 괄호 쌍).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/C++ STL/Deque.md",
+                "file": "알고리즘/필기/스택의 활용 (수식의 괄호 쌍).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/C++ STL/Deque.md"
+                "file": "알고리즘/필기/스택의 활용 (수식의 괄호 쌍).md"
               }
             }
           },
@@ -207,9 +207,10 @@
   },
   "active": "fb37a8798716fb13",
   "lastOpenFiles": [
+    "CS/C++ STL/Deque.md",
+    "알고리즘/필기/스택의 활용 (수식의 괄호 쌍).md",
     "알고리즘/예제/덱/Deque example.md",
     "알고리즘/예제/덱/덱.md",
-    "CS/C++ STL/Deque.md",
     "알고리즘/예제/덱",
     "알고리즘/예제/Untitled.md",
     "CS/C++ STL/List.md",
@@ -243,7 +244,6 @@
     "Attached Files/Pasted image 20231221201654.png",
     "Attached Files/Pasted image 20231221201115.png",
     "CS/C++ STL/.Iterator.md",
-    "알고리즘/예제/배열/Vector example.md",
     "CS/C++ STL",
     "CS/C++ STL",
     "Attached Files/Pasted image 20231221194217.png",

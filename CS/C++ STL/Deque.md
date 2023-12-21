@@ -1,3 +1,4 @@
 - https://cplusplus.com/reference/deque/deque/?kw=deque
 - [[Deque example]]
-- 
+- 앞쪽과 뒤쪽에서의 추가와 제거가 모두 필요하면 deque
+- 그렇지 않다면 vector
