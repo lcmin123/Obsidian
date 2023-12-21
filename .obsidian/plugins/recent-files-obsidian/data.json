@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "덱",
+      "path": "알고리즘/필기/덱.md"
+    },
+    {
+      "basename": "큐",
+      "path": "알고리즘/필기/큐.md"
+    },
+    {
+      "basename": "스택",
+      "path": "알고리즘/필기/스택.md"
+    },
+    {
       "basename": "C++ STL",
       "path": "CS/C++ STL/C++ STL.md"
     },
@@ -27,14 +39,6 @@
     {
       "basename": "Vector",
       "path": "CS/C++ STL/Vector.md"
-    },
-    {
-      "basename": "큐",
-      "path": "알고리즘/필기/큐.md"
-    },
-    {
-      "basename": "스택",
-      "path": "알고리즘/필기/스택.md"
     },
     {
       "basename": "Stack example",
@@ -195,10 +199,6 @@
     {
       "basename": "깊은 복사",
       "path": "3학년 2학기/객체1/기말범위/깊은 복사.md"
-    },
-    {
-      "basename": "13050",
-      "path": "3학년 2학기/객체1/lab/기말/13050.md"
     }
   ],
   "omittedPaths": [],

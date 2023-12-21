@@ -11,9 +11,11 @@
             "id": "fb37a8798716fb13",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "CS/C++ STL"
+                "file": "알고리즘/필기/덱.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -99,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/C++ STL/C++ STL.md",
+                "file": "알고리즘/필기/덱.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/C++ STL/C++ STL.md",
+                "file": "알고리즘/필기/덱.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/C++ STL/C++ STL.md"
+                "file": "알고리즘/필기/덱.md"
               }
             }
           },
@@ -203,8 +205,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "056b848aa3d7b482",
+  "active": "fb37a8798716fb13",
   "lastOpenFiles": [
+    "알고리즘/필기/큐.md",
+    "알고리즘/필기/스택.md",
+    "알고리즘/필기/덱.md",
+    "CS/C++ STL/C++ STL.md",
     "CS/Linked List.md",
     "CS/C++ STL/Queue.md",
     "알고리즘/예제/큐/Queue example.md",
@@ -213,9 +219,7 @@
     "알고리즘/예제/Untitled.md",
     "CS/C++ STL/Stack.md",
     "CS/C++ STL/Vector.md",
-    "알고리즘/필기/큐.md",
     "Attached Files/Pasted image 20231221205448.png",
-    "알고리즘/필기/스택.md",
     "알고리즘/예제/스택/Stack example.md",
     "알고리즘/예제/스택/스택.md",
     "알고리즘/예제/스택/Untitled 1.md",
@@ -235,7 +239,6 @@
     "Attached Files/Pasted image 20231221201654.png",
     "Attached Files/Pasted image 20231221201115.png",
     "CS/C++ STL/.Iterator.md",
-    "CS/C++ STL/C++ STL.md",
     "알고리즘/예제/배열/Vector example.md",
     "CS/C++ STL",
     "CS/C++ STL",
@@ -245,7 +248,6 @@
     "알고리즘/필기/기초 코드 작성 요령.md",
     "알고리즘/예제/배열/Insert, Erase 구현.md",
     "알고리즘/예제/배열/배열.md",
-    "알고리즘/예제/예제.md",
     "알고리즘/예제/배열",
     "CS",
     "알고리즘/예제",
