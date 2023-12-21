@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Linked List.md",
+                "file": "알고리즘/필기/연결 리스트.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Linked List.md",
+                "file": "알고리즘/필기/연결 리스트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Linked List.md",
+                "file": "알고리즘/필기/연결 리스트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Linked List.md"
+                "file": "알고리즘/필기/연결 리스트.md"
               }
             }
           },
@@ -207,11 +207,13 @@
   },
   "active": "fb37a8798716fb13",
   "lastOpenFiles": [
+    "알고리즘/필기/스택.md",
+    "알고리즘/필기/배열.md",
+    "알고리즘/필기/연결 리스트.md",
+    "CS/Linked List.md",
     "Attached Files/Pasted image 20231221203110.png",
     "Attached Files/Pasted image 20231221203051.png",
     "Attached Files/Pasted image 20231221203023.png",
-    "CS/Linked List.md",
-    "알고리즘/필기/연결 리스트.md",
     "CS/C++ STL/(Iterator).md",
     "CS/C++ STL/Vector.md",
     "CS/C++ STL/List.md",
@@ -225,7 +227,6 @@
     "Attached Files/Pasted image 20231221201115.png",
     "CS/C++ STL/.Iterator.md",
     "CS/C++ STL/C++ STL.md",
-    "알고리즘/필기/배열.md",
     "알고리즘/예제/배열/Vector example.md",
     "CS/C++ STL",
     "CS/C++ STL",
@@ -243,7 +244,6 @@
     "CS/Cache Hit Rate.md",
     "CS/CS.md",
     "CS",
-    "Attached Files/Pasted image 20231220191215.png",
     "알고리즘/필기/필기.md",
     "알고리즘/필기/오리엔테이션.md",
     "알고리즘/예제",

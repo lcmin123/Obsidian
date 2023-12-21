@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Linked List",
-      "path": "CS/Linked List.md"
-    },
-    {
       "basename": "연결 리스트",
       "path": "알고리즘/필기/연결 리스트.md"
+    },
+    {
+      "basename": "스택",
+      "path": "알고리즘/필기/스택.md"
+    },
+    {
+      "basename": "배열",
+      "path": "알고리즘/필기/배열.md"
+    },
+    {
+      "basename": "Linked List",
+      "path": "CS/Linked List.md"
     },
     {
       "basename": "(Iterator)",
@@ -27,10 +35,6 @@
     {
       "basename": "연결 리스트",
       "path": "알고리즘/예제/연결 리스트/연결 리스트.md"
-    },
-    {
-      "basename": "배열",
-      "path": "알고리즘/필기/배열.md"
     },
     {
       "basename": "Vector example",
@@ -195,10 +199,6 @@
     {
       "basename": "11511",
       "path": "3학년 2학기/객체1/lab/기말/11511.md"
-    },
-    {
-      "basename": "11020",
-      "path": "3학년 2학기/객체1/lab/기말/11020.md"
     }
   ],
   "omittedPaths": [],
