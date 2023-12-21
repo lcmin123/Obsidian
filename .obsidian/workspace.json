@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘/필기/연결 리스트.md",
+                "file": "알고리즘/예제/연결 리스트/List example.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘/필기/연결 리스트.md",
+                "file": "알고리즘/예제/연결 리스트/List example.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘/필기/연결 리스트.md",
+                "file": "알고리즘/예제/연결 리스트/List example.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘/필기/연결 리스트.md"
+                "file": "알고리즘/예제/연결 리스트/List example.md"
               }
             }
           },
@@ -207,11 +207,17 @@
   },
   "active": "fb37a8798716fb13",
   "lastOpenFiles": [
+    "CS/C++ STL/List.md",
+    "알고리즘/예제/연결 리스트/List example.md",
+    "알고리즘/예제/연결 리스트/연결 리스트.md",
+    "알고리즘/예제/연결 리스트/Untitled 1.md",
+    "알고리즘/예제/연결 리스트",
+    "알고리즘/예제/Untitled.md",
+    "CS/C++ STL/Vector.md",
+    "알고리즘/필기/연결 리스트.md",
+    "Attached Files/Pasted image 20231221201828.png",
     "Attached Files/Pasted image 20231221201654.png",
     "Attached Files/Pasted image 20231221201115.png",
-    "알고리즘/필기/연결 리스트.md",
-    "CS/C++ STL/List.md",
-    "CS/C++ STL/Vector.md",
     "CS/C++ STL/(Iterator).md",
     "CS/C++ STL/.Iterator.md",
     "CS/C++ STL/C++ STL.md",
@@ -246,13 +252,7 @@
     "3학년 2학기/데이터베이스 설계/기말/Recovery Sytstem.md",
     "알고리즘",
     "3학년 2학기/데이터베이스 설계/기말/Concurrency Control.md",
-    "3학년 2학기/데이터베이스 설계/기말/snapshot isolation.md",
-    "3학년 2학기/데이터베이스 설계/기말/Two phase locking protocol.md",
-    "3학년 2학기/데이터베이스 설계/기말/transaction.md",
-    "Attached Files/Pasted image 20231214153324.png",
-    "Attached Files/Pasted image 20231214143522.png",
     "3학년 2학기/객체1/lab/기말",
-    "3학년 2학기/객체1/C++/lab/ㅇ",
     "Task Dashboard.canvas"
   ]
 }

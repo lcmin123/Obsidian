@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "연결 리스트",
-      "path": "알고리즘/필기/연결 리스트.md"
+      "basename": "List example",
+      "path": "알고리즘/예제/연결 리스트/List example.md"
     },
     {
       "basename": "List",
       "path": "CS/C++ STL/List.md"
     },
     {
+      "basename": "연결 리스트",
+      "path": "알고리즘/예제/연결 리스트/연결 리스트.md"
+    },
+    {
       "basename": "Vector",
       "path": "CS/C++ STL/Vector.md"
+    },
+    {
+      "basename": "연결 리스트",
+      "path": "알고리즘/필기/연결 리스트.md"
     },
     {
       "basename": "(Iterator)",
@@ -191,14 +199,6 @@
     {
       "basename": "파일분리 작성법",
       "path": "3학년 2학기/객체1/기말범위/파일분리 작성법.md"
-    },
-    {
-      "basename": "10040",
-      "path": "3학년 2학기/객체1/lab/기말/10040.md"
-    },
-    {
-      "basename": "Accessor와 Mutator",
-      "path": "3학년 2학기/객체1/기말범위/Accessor와 Mutator.md"
     }
   ],
   "omittedPaths": [],

@@ -1,5 +1,5 @@
 - STL Vector
-	- [[.Iterator]]
+	- [[(Iterator)]]
 	- 예제 [[Vector example]]
 	- 메서드 
 		- O(1)
