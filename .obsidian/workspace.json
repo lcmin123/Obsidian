@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/C++ STL/Stack.md",
+                "file": "알고리즘/필기/큐.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/C++ STL/Stack.md",
+                "file": "알고리즘/필기/큐.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/C++ STL/Stack.md",
+                "file": "알고리즘/필기/큐.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/C++ STL/Stack.md"
+                "file": "알고리즘/필기/큐.md"
               }
             }
           },
@@ -207,13 +207,14 @@
   },
   "active": "fb37a8798716fb13",
   "lastOpenFiles": [
+    "알고리즘/필기/스택.md",
+    "알고리즘/필기/큐.md",
+    "CS/C++ STL/Stack.md",
     "알고리즘/예제/스택/Stack example.md",
     "알고리즘/예제/스택/스택.md",
     "알고리즘/예제/스택/Untitled 1.md",
-    "CS/C++ STL/Stack.md",
     "알고리즘/예제/스택",
     "CS/C++ STL/Vector.md",
-    "알고리즘/필기/스택.md",
     "알고리즘/필기/배열.md",
     "알고리즘/필기/연결 리스트.md",
     "CS/Linked List.md",
@@ -247,7 +248,6 @@
     "CS/Overhead.md",
     "알고리즘/알고리즘.md",
     "CS/Cache Hit Rate.md",
-    "CS/CS.md",
     "CS",
     "알고리즘/예제",
     "알고리즘/필기",

@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "큐",
+      "path": "알고리즘/필기/큐.md"
+    },
+    {
+      "basename": "스택",
+      "path": "알고리즘/필기/스택.md"
+    },
+    {
       "basename": "Stack",
       "path": "CS/C++ STL/Stack.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "Vector",
       "path": "CS/C++ STL/Vector.md"
-    },
-    {
-      "basename": "스택",
-      "path": "알고리즘/필기/스택.md"
     },
     {
       "basename": "배열",
@@ -195,10 +199,6 @@
     {
       "basename": "call by",
       "path": "3학년 2학기/객체1/기말범위/call by.md"
-    },
-    {
-      "basename": "12060",
-      "path": "3학년 2학기/객체1/lab/기말/12060.md"
     }
   ],
   "omittedPaths": [],
