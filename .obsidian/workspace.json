@@ -11,11 +11,9 @@
             "id": "fb37a8798716fb13",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "알고리즘/예제/큐/Queue example.md",
-                "mode": "source",
-                "source": false
+                "path": "CS/C++ STL"
               }
             }
           }
@@ -101,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘/예제/큐/Queue example.md",
+                "file": "CS/C++ STL/C++ STL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘/예제/큐/Queue example.md",
+                "file": "CS/C++ STL/C++ STL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘/예제/큐/Queue example.md"
+                "file": "CS/C++ STL/C++ STL.md"
               }
             }
           },
@@ -205,11 +203,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fb37a8798716fb13",
+  "active": "056b848aa3d7b482",
   "lastOpenFiles": [
-    "알고리즘/예제/큐/큐.md",
-    "알고리즘/예제/큐/Queue example.md",
+    "CS/Linked List.md",
     "CS/C++ STL/Queue.md",
+    "알고리즘/예제/큐/Queue example.md",
+    "알고리즘/예제/큐/큐.md",
     "알고리즘/예제/큐",
     "알고리즘/예제/Untitled.md",
     "CS/C++ STL/Stack.md",
@@ -223,7 +222,6 @@
     "알고리즘/예제/스택",
     "알고리즘/필기/배열.md",
     "알고리즘/필기/연결 리스트.md",
-    "CS/Linked List.md",
     "Attached Files/Pasted image 20231221203110.png",
     "Attached Files/Pasted image 20231221203051.png",
     "Attached Files/Pasted image 20231221203023.png",

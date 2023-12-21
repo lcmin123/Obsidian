@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "C++ STL",
+      "path": "CS/C++ STL/C++ STL.md"
+    },
+    {
+      "basename": "Linked List",
+      "path": "CS/Linked List.md"
+    },
+    {
+      "basename": "Queue",
+      "path": "CS/C++ STL/Queue.md"
+    },
+    {
       "basename": "Queue example",
       "path": "알고리즘/예제/큐/Queue example.md"
     },
     {
       "basename": "큐",
       "path": "알고리즘/예제/큐/큐.md"
-    },
-    {
-      "basename": "Queue",
-      "path": "CS/C++ STL/Queue.md"
     },
     {
       "basename": "Stack",
@@ -43,10 +51,6 @@
     {
       "basename": "연결 리스트",
       "path": "알고리즘/필기/연결 리스트.md"
-    },
-    {
-      "basename": "Linked List",
-      "path": "CS/Linked List.md"
     },
     {
       "basename": "(Iterator)",
@@ -195,10 +199,6 @@
     {
       "basename": "13050",
       "path": "3학년 2학기/객체1/lab/기말/13050.md"
-    },
-    {
-      "basename": "13040",
-      "path": "3학년 2학기/객체1/lab/기말/13040.md"
     }
   ],
   "omittedPaths": [],
