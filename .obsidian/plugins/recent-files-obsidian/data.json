@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "C++ STL",
-      "path": "CS/C++ STL/C++ STL.md"
-    },
-    {
-      "basename": "배열",
-      "path": "알고리즘/필기/배열.md"
-    },
-    {
-      "basename": "Iterator",
-      "path": "CS/C++ STL 1/Iterator.md"
+      "basename": "List",
+      "path": "CS/C++ STL/List.md"
     },
     {
       "basename": "연결 리스트",
       "path": "알고리즘/필기/연결 리스트.md"
+    },
+    {
+      "basename": "Vector",
+      "path": "CS/C++ STL/Vector.md"
+    },
+    {
+      "basename": "(Iterator)",
+      "path": "CS/C++ STL/(Iterator).md"
+    },
+    {
+      "basename": "배열",
+      "path": "알고리즘/필기/배열.md"
     },
     {
       "basename": "Vector example",
@@ -195,10 +199,6 @@
     {
       "basename": "Accessor와 Mutator",
       "path": "3학년 2학기/객체1/기말범위/Accessor와 Mutator.md"
-    },
-    {
-      "basename": "10020",
-      "path": "3학년 2학기/객체1/lab/기말/10020.md"
     }
   ],
   "omittedPaths": [],
