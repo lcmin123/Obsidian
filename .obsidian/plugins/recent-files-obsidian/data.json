@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "연결 리스트",
+      "path": "알고리즘/필기/연결 리스트.md"
+    },
+    {
       "basename": "배열",
       "path": "알고리즘/필기/배열.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "10010",
       "path": "3학년 2학기/객체1/lab/기말/10010.md"
-    },
-    {
-      "basename": "lab",
-      "path": "3학년 2학기/객체1/lab/lab.md"
     }
   ],
   "omittedPaths": [],

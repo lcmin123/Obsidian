@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘/필기/배열.md",
+                "file": "알고리즘/필기/연결 리스트.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘/필기/배열.md",
+                "file": "알고리즘/필기/연결 리스트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘/필기/배열.md",
+                "file": "알고리즘/필기/연결 리스트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘/필기/배열.md"
+                "file": "알고리즘/필기/연결 리스트.md"
               }
             }
           },
@@ -206,8 +206,9 @@
   },
   "active": "fb37a8798716fb13",
   "lastOpenFiles": [
-    "CS/Iterator.md",
     "알고리즘/필기/배열.md",
+    "알고리즘/필기/연결 리스트.md",
+    "CS/Iterator.md",
     "알고리즘/예제/배열/Vector example.md",
     "알고리즘/필기/기초 코드 작성 요령.md",
     "알고리즘/예제/배열/Insert, Erase 구현.md",
@@ -240,7 +241,6 @@
     "3학년 2학기/데이터베이스 설계/기말/materialized view - 수업필기.md",
     "3학년 2학기/데이터베이스 설계/기말/Materialized view - 강의자료.md",
     "3학년 2학기/데이터베이스 설계/기말/Query Optimization.md",
-    "3학년 2학기/데이터베이스 설계/기말/기말 족보.md",
     "Attached Files/Pasted image 20231214153324.png",
     "Attached Files/Pasted image 20231214143522.png",
     "Attached Files/Pasted image 20231214143521.png",
