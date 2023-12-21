@@ -1,8 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "연결 리스트",
-      "path": "알고리즘/필기/연결 리스트.md"
+      "basename": "C++ STL",
+      "path": "CS/C++ STL/C++ STL.md"
     },
     {
       "basename": "배열",
@@ -10,7 +10,11 @@
     },
     {
       "basename": "Iterator",
-      "path": "CS/Iterator.md"
+      "path": "CS/C++ STL 1/Iterator.md"
+    },
+    {
+      "basename": "연결 리스트",
+      "path": "알고리즘/필기/연결 리스트.md"
     },
     {
       "basename": "Vector example",
@@ -195,10 +199,6 @@
     {
       "basename": "10020",
       "path": "3학년 2학기/객체1/lab/기말/10020.md"
-    },
-    {
-      "basename": "10010",
-      "path": "3학년 2학기/객체1/lab/기말/10010.md"
     }
   ],
   "omittedPaths": [],
