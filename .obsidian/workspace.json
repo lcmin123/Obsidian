@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0ab804f71b2bb4db",
+        "id": "d0a46483d8024db0",
         "type": "tabs",
         "children": [
           {
-            "id": "fb37a8798716fb13",
+            "id": "cf2a60f8b6f9ce13",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘/필기/스택의 활용 (수식의 괄호 쌍).md",
+                "file": "프론트엔드/기타/Js Syntax.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘/필기/스택의 활용 (수식의 괄호 쌍).md",
+                "file": "프론트엔드/기타/Js Syntax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘/필기/스택의 활용 (수식의 괄호 쌍).md",
+                "file": "프론트엔드/기타/Js Syntax.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘/필기/스택의 활용 (수식의 괄호 쌍).md"
+                "file": "프론트엔드/기타/Js Syntax.md"
               }
             }
           },
@@ -175,7 +175,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -205,10 +207,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fb37a8798716fb13",
+  "active": "cf2a60f8b6f9ce13",
   "lastOpenFiles": [
-    "CS/C++ STL/Deque.md",
+    "프론트엔드/기타/기타.md",
+    "프론트엔드/기타/Js Syntax.md",
+    "프론트엔드/리액트/리액트.md",
+    "프론트엔드/기타",
+    "프론트엔드/웹 부트캠프 2023/웹 부트캠프 2023.md",
+    "알고리즘/알고리즘.md",
+    "프론트엔드/기타타/기.md",
+    "프론트엔드/기타타",
+    "프론트엔드/Untitled.md",
+    "프론트엔드/리액트",
     "알고리즘/필기/스택의 활용 (수식의 괄호 쌍).md",
+    "CS/C++ STL/Deque.md",
     "알고리즘/예제/덱/Deque example.md",
     "알고리즘/예제/덱/덱.md",
     "알고리즘/예제/덱",
@@ -230,29 +242,19 @@
     "알고리즘/예제/스택/스택.md",
     "알고리즘/예제/스택/Untitled 1.md",
     "알고리즘/예제/스택",
-    "알고리즘/필기/배열.md",
-    "알고리즘/필기/연결 리스트.md",
     "Attached Files/Pasted image 20231221203110.png",
     "Attached Files/Pasted image 20231221203051.png",
     "Attached Files/Pasted image 20231221203023.png",
-    "CS/C++ STL/(Iterator).md",
-    "알고리즘/예제/연결 리스트/List example.md",
-    "알고리즘/예제/연결 리스트/연결 리스트.md",
-    "알고리즘/예제/연결 리스트/Untitled 1.md",
     "알고리즘/예제/연결 리스트",
     "Attached Files/Pasted image 20231221201828.png",
     "Attached Files/Pasted image 20231221201654.png",
     "Attached Files/Pasted image 20231221201115.png",
-    "CS/C++ STL/.Iterator.md",
     "CS/C++ STL",
     "CS/C++ STL",
     "Attached Files/Pasted image 20231221194217.png",
     "Attached Files/Pasted image 20231221193505.png",
     "Attached Files/Pasted image 20231221193432.png",
     "알고리즘/예제/배열",
-    "CS",
-    "알고리즘/예제",
-    "알고리즘/필기",
     "Task Dashboard.canvas"
   ]
 }

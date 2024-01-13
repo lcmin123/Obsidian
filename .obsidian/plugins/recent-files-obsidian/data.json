@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Js Syntax",
+      "path": "프론트엔드/기타/Js Syntax.md"
+    },
+    {
+      "basename": "기타",
+      "path": "프론트엔드/기타/기타.md"
+    },
+    {
+      "basename": "리액트",
+      "path": "프론트엔드/리액트/리액트.md"
+    },
+    {
+      "basename": "웹 부트캠프 2023",
+      "path": "프론트엔드/웹 부트캠프 2023/웹 부트캠프 2023.md"
+    },
+    {
+      "basename": "알고리즘",
+      "path": "알고리즘/알고리즘.md"
+    },
+    {
       "basename": "스택의 활용 (수식의 괄호 쌍)",
       "path": "알고리즘/필기/스택의 활용 (수식의 괄호 쌍).md"
     },
@@ -113,10 +133,6 @@
       "path": "CS/Overhead.md"
     },
     {
-      "basename": "알고리즘",
-      "path": "알고리즘/알고리즘.md"
-    },
-    {
       "basename": "Cache Hit Rate",
       "path": "CS/Cache Hit Rate.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "선택적 정보 은닉",
       "path": "3학년 2학기/객체1/기말범위/선택적 정보 은닉.md"
-    },
-    {
-      "basename": "오버로딩(중복)",
-      "path": "3학년 2학기/객체1/기말범위/오버로딩(중복).md"
-    },
-    {
-      "basename": "다중상속",
-      "path": "3학년 2학기/객체1/기말범위/다중상속.md"
-    },
-    {
-      "basename": "재사용",
-      "path": "3학년 2학기/객체1/기말범위/재사용.md"
-    },
-    {
-      "basename": "함수 재정의",
-      "path": "3학년 2학기/객체1/기말범위/함수 재정의.md"
     }
   ],
   "omittedPaths": [],
