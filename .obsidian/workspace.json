@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프론트엔드/기타/JS 비동기 처리 방법.md",
+                "file": "프론트엔드/기타/JS Modules.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프론트엔드/기타/JS 비동기 처리 방법.md",
+                "file": "프론트엔드/기타/JS Modules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프론트엔드/기타/JS 비동기 처리 방법.md",
+                "file": "프론트엔드/기타/JS Modules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프론트엔드/기타/JS 비동기 처리 방법.md"
+                "file": "프론트엔드/기타/JS Modules.md"
               }
             }
           },
@@ -209,10 +209,12 @@
   },
   "active": "cf2a60f8b6f9ce13",
   "lastOpenFiles": [
+    "프론트엔드/기타/JS 비동기 처리 방법.md",
+    "프론트엔드/기타/JS Modules.md",
+    "Attached Files/Pasted image 20240113190128.png",
     "Attached Files/Pasted image 20240113184723.png",
     "Attached Files/Pasted image 20240113184343.png",
     "프론트엔드/기타/Js Syntax.md",
-    "프론트엔드/기타/JS 비동기 처리 방법.md",
     "Attached Files/Pasted image 20240113180905.png",
     "Attached Files/Pasted image 20240113180851.png",
     "Attached Files/Pasted image 20240113180357.png",
@@ -249,8 +251,6 @@
     "Attached Files/Pasted image 20231221205448.png",
     "알고리즘/예제/스택/Stack example.md",
     "알고리즘/예제/스택",
-    "Attached Files/Pasted image 20231221203110.png",
-    "Attached Files/Pasted image 20231221203051.png",
     "알고리즘/예제/연결 리스트",
     "CS/C++ STL",
     "CS/C++ STL",

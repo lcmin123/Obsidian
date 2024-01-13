@@ -1,3 +1,5 @@
+- 비동기 처리
+	- 특정 코드의 실행이 완료될 때 까지 기다리지 않고 다음 코드를 먼저 수행하는 것
 - promise
 	- 비동기 작업의 최종 완료 또는 실패를 나타내는 객체
 	- 작업에 대한 상태정보 가짐
@@ -18,5 +20,13 @@
 		- promise가 완료 될 때 까지 기다림
 		- promise가 resolve한 값 리턴
 		- 따라서 await는 async가 붙은 함수 내에서만 사용 가능![[Pasted image 20240113184723.png]]
-- then, catch, fimally
-	- then과 catch 메서드를 이용해 promise 객
+- then, catch, finally
+	- then
+		- 성공한 경우 처리
+		- 2개의 콜백 함수를 인자로 받음
+		- 첫번째는 성공시, 두번째는 실패시 호출
+	- catch
+		- 에러 경우 처리
+		- then의 두번째 인자와 같은 역할
+	- finally
+		- 성공하든 실패하든 상관없이 실행하고 싶은 기능 넣기![[Pasted image 20240113190128.png]]
