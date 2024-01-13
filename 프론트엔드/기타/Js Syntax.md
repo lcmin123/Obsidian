@@ -27,4 +27,10 @@
 	- 딥카피
 		- 배열의 실제 값을 새로운 메모리공간에 복사
 		- 복사한 배열을 수정해도 원 배열은 불변
-		- 
+		- spread 연산자![[Pasted image 20240113180214.png]]
+		- Object.assign()![[Pasted image 20240113180247.png]]
+		- JSON.parse(), JSON.stringfy()![[Pasted image 20240113180318.png]]
+	- 쉘로우 카피
+		- 배열의 주소값만 복사
+		- 복사한 배열 수정시 원 배열 수정![[Pasted image 20240113180357.png]]
+- 
