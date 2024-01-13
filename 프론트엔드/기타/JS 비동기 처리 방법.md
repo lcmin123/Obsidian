@@ -1,3 +1,11 @@
+- promise
+	- 비동기 작업의 최종 완료 또는 실패를 나타내는 객체
+	- 작업에 대한 상태정보 가짐
+	- 작업의 결과가 객체에 저장되며, 이 객체를 통해 작업 성공 여부 파악
+	- 3가지 상태
+		- pending : 작업이 진행중
+		- fulfilled : 작업이 완료
+		- rejected : 작업이 실패
 - async, await
 	- 비동기 처리를 위한 문법
 	- async
@@ -10,4 +18,5 @@
 		- promise가 완료 될 때 까지 기다림
 		- promise가 resolve한 값 리턴
 		- 따라서 await는 async가 붙은 함수 내에서만 사용 가능![[Pasted image 20240113184723.png]]
-- 
+- then, catch
+	- then과 catch 메서드를 이용해 promise 객
