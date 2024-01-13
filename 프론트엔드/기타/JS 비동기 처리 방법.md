@@ -18,5 +18,5 @@
 		- promise가 완료 될 때 까지 기다림
 		- promise가 resolve한 값 리턴
 		- 따라서 await는 async가 붙은 함수 내에서만 사용 가능![[Pasted image 20240113184723.png]]
-- then, catch
+- then, catch, fimally
 	- then과 catch 메서드를 이용해 promise 객
