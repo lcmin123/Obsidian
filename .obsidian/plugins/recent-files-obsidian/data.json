@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Js Syntax",
+      "path": "프론트엔드/기타/Js Syntax.md"
+    },
+    {
       "basename": "virtual dom",
       "path": "프론트엔드/기타/virtual dom.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "JS 비동기 처리 방법",
       "path": "프론트엔드/기타/JS 비동기 처리 방법.md"
-    },
-    {
-      "basename": "Js Syntax",
-      "path": "프론트엔드/기타/Js Syntax.md"
     },
     {
       "basename": "기타",

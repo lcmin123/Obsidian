@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프론트엔드/기타/virtual dom.md",
+                "file": "프론트엔드/기타/Js Syntax.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프론트엔드/기타/virtual dom.md",
+                "file": "프론트엔드/기타/Js Syntax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프론트엔드/기타/virtual dom.md",
+                "file": "프론트엔드/기타/Js Syntax.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프론트엔드/기타/virtual dom.md"
+                "file": "프론트엔드/기타/Js Syntax.md"
               }
             }
           },
@@ -209,8 +209,8 @@
   },
   "active": "cf2a60f8b6f9ce13",
   "lastOpenFiles": [
-    "프론트엔드/기타/JS Modules.md",
     "프론트엔드/기타/virtual dom.md",
+    "프론트엔드/기타/JS Modules.md",
     "프론트엔드/기타/JS 비동기 처리 방법.md",
     "Attached Files/Pasted image 20240113190128.png",
     "Attached Files/Pasted image 20240113184723.png",
