@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "virtual dom",
+      "path": "프론트엔드/기타/virtual dom.md"
+    },
+    {
       "basename": "JS Modules",
       "path": "프론트엔드/기타/JS Modules.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "기말 족보",
       "path": "3학년 2학기/데이터베이스 설계/기말/기말 족보.md"
-    },
-    {
-      "basename": "객체1",
-      "path": "3학년 2학기/객체1/객체1.md"
     }
   ],
   "omittedPaths": [],
