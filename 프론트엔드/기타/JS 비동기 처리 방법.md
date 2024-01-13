@@ -4,4 +4,4 @@
 		- 함수 앞에 붙여 사용
 		- 이 키워드가 붙은 함수는 promise 객체 반환
 		- async를 사용하면 함수는 자동으로 promise객체로 인식
-		- return값 == 
+		- return값 == resolve() 값
