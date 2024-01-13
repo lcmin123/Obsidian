@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "JS 비동기 처리 방법",
+      "path": "프론트엔드/기타/JS 비동기 처리 방법.md"
+    },
+    {
       "basename": "Js Syntax",
       "path": "프론트엔드/기타/Js Syntax.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "20040",
       "path": "3학년 2학기/객체1/lab/기말/20040.md"
-    },
-    {
-      "basename": "선택적 정보 은닉",
-      "path": "3학년 2학기/객체1/기말범위/선택적 정보 은닉.md"
     }
   ],
   "omittedPaths": [],
