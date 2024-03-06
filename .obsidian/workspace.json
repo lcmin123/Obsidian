@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "aa5f1b9b171bd668",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -207,7 +218,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cf2a60f8b6f9ce13",
+  "active": "aa5f1b9b171bd668",
   "lastOpenFiles": [
     "프론트엔드/기타/virtual dom.md",
     "프론트엔드/기타/JS Modules.md",
