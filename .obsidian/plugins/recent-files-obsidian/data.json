@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "정보 보안 기본 원칙",
+      "path": "4학년 1학기/시클보/정보 보안 기본 원칙.md"
+    },
+    {
       "basename": "Js Syntax",
       "path": "프론트엔드/기타/Js Syntax.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Query Optimization",
       "path": "3학년 2학기/데이터베이스 설계/기말/Query Optimization.md"
-    },
-    {
-      "basename": "기말 족보",
-      "path": "3학년 2학기/데이터베이스 설계/기말/기말 족보.md"
     }
   ],
   "omittedPaths": [],
