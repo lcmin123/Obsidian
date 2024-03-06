@@ -23,9 +23,9 @@
             "id": "aa5f1b9b171bd668",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "mk-space",
               "state": {
-                "currentVersion": "1.5.8"
+                "path": "프론트엔드"
               }
             }
           }
@@ -92,7 +92,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -218,8 +219,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "aa5f1b9b171bd668",
+  "active": "0e580cb45613e193",
   "lastOpenFiles": [
+    "4학년 1학기/시분설",
+    "4학년 1학기/블체",
+    "4학년 1학기/캡스톤",
+    "4학년 1학기/객2",
+    "4학년 1학기/시클보",
+    "4학년 1학기",
     "프론트엔드/기타/virtual dom.md",
     "프론트엔드/기타/JS Modules.md",
     "프론트엔드/기타/JS 비동기 처리 방법.md",
@@ -258,14 +265,8 @@
     "CS/C++ STL/C++ STL.md",
     "CS/Linked List.md",
     "알고리즘/예제/큐/Queue example.md",
-    "알고리즘/예제/큐/큐.md",
     "알고리즘/예제/큐",
     "Attached Files/Pasted image 20231221205448.png",
-    "알고리즘/예제/스택",
-    "알고리즘/예제/연결 리스트",
-    "CS/C++ STL",
-    "CS/C++ STL",
-    "알고리즘/예제/배열",
     "Task Dashboard.canvas"
   ]
 }
