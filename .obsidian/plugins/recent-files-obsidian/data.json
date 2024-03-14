@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "블록체인",
+      "path": "4학년 1학기/블체/블록체인.md"
+    },
+    {
+      "basename": "SSOT",
+      "path": "4학년 1학기/블체/SSOT.md"
+    },
+    {
+      "basename": "CRUD",
+      "path": "4학년 1학기/블체/CRUD.md"
+    },
+    {
       "basename": "1. 정보 보안 기본 원칙",
       "path": "4학년 1학기/시클보/1. 정보 보안 기본 원칙.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Stable Storage",
       "path": "3학년 2학기/데이터베이스 설계/기말/Stable Storage.md"
-    },
-    {
-      "basename": "materialized view - 수업필기",
-      "path": "3학년 2학기/데이터베이스 설계/기말/materialized view - 수업필기.md"
-    },
-    {
-      "basename": "Materialized view - 강의자료",
-      "path": "3학년 2학기/데이터베이스 설계/기말/Materialized view - 강의자료.md"
-    },
-    {
-      "basename": "Query Optimization",
-      "path": "3학년 2학기/데이터베이스 설계/기말/Query Optimization.md"
     }
   ],
   "omittedPaths": [],
