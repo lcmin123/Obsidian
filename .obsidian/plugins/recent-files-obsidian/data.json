@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "클라우드 컴퓨팅",
+      "path": "4학년 1학기/블체/클라우드 컴퓨팅.md"
+    },
+    {
       "basename": "블록체인",
       "path": "4학년 1학기/블체/블록체인.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Cascading Rollback",
       "path": "3학년 2학기/데이터베이스 설계/기말/Cascading Rollback.md"
-    },
-    {
-      "basename": "Stable Storage",
-      "path": "3학년 2학기/데이터베이스 설계/기말/Stable Storage.md"
     }
   ],
   "omittedPaths": [],
