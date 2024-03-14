@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Smart Contract",
+      "path": "4학년 1학기/블체/Smart Contract.md"
+    },
+    {
       "basename": "블록체인",
       "path": "4학년 1학기/블체/블록체인.md"
+    },
+    {
+      "basename": "CRUD",
+      "path": "4학년 1학기/블체/CRUD.md"
+    },
+    {
+      "basename": "DEX",
+      "path": "4학년 1학기/블체/DEX.md"
+    },
+    {
+      "basename": "CEX",
+      "path": "4학년 1학기/블체/CEX.md"
     },
     {
       "basename": "CAP",
@@ -11,10 +27,6 @@
     {
       "basename": "SAP",
       "path": "4학년 1학기/블체/SAP.md"
-    },
-    {
-      "basename": "CRUD",
-      "path": "4학년 1학기/블체/CRUD.md"
     },
     {
       "basename": "클라우드 컴퓨팅",
@@ -187,18 +199,6 @@
     {
       "basename": "Recovery Sytstem",
       "path": "3학년 2학기/데이터베이스 설계/기말/Recovery Sytstem.md"
-    },
-    {
-      "basename": "Concurrency Control",
-      "path": "3학년 2학기/데이터베이스 설계/기말/Concurrency Control.md"
-    },
-    {
-      "basename": "snapshot isolation",
-      "path": "3학년 2학기/데이터베이스 설계/기말/snapshot isolation.md"
-    },
-    {
-      "basename": "Two phase locking protocol",
-      "path": "3학년 2학기/데이터베이스 설계/기말/Two phase locking protocol.md"
     }
   ],
   "omittedPaths": [],
