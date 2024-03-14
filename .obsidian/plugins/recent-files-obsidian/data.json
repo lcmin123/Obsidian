@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "기학",
+      "path": "4학년 1학기/기학/기학.md"
+    },
+    {
+      "basename": "4학년 1학기",
+      "path": "4학년 1학기/4학년 1학기.md"
+    },
+    {
       "basename": "DAME",
       "path": "4학년 1학기/블체/DAME.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Cache Hit Rate",
       "path": "CS/Cache Hit Rate.md"
-    },
-    {
-      "basename": "CS",
-      "path": "CS/CS.md"
-    },
-    {
-      "basename": "필기",
-      "path": "알고리즘/필기/필기.md"
     }
   ],
   "omittedPaths": [],
