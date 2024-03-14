@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "1차 보고서",
+      "path": "4학년 1학기/캡스톤/1차 보고서.md"
+    },
+    {
       "basename": "기학",
       "path": "4학년 1학기/기학/기학.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Overhead",
       "path": "CS/Overhead.md"
-    },
-    {
-      "basename": "Cache Hit Rate",
-      "path": "CS/Cache Hit Rate.md"
     }
   ],
   "omittedPaths": [],
