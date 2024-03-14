@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "DAME",
+      "path": "4학년 1학기/블체/DAME.md"
+    },
+    {
       "basename": "SSOT",
       "path": "4학년 1학기/블체/SSOT.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "필기",
       "path": "알고리즘/필기/필기.md"
-    },
-    {
-      "basename": "Recovery Sytstem",
-      "path": "3학년 2학기/데이터베이스 설계/기말/Recovery Sytstem.md"
     }
   ],
   "omittedPaths": [],
