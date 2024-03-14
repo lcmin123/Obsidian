@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "CEX",
+      "path": "4학년 1학기/블체/CEX.md"
+    },
+    {
+      "basename": "클라우드 컴퓨팅",
+      "path": "4학년 1학기/블체/클라우드 컴퓨팅.md"
+    },
+    {
+      "basename": "SAP",
+      "path": "4학년 1학기/블체/SAP.md"
+    },
+    {
+      "basename": "CAP",
+      "path": "4학년 1학기/블체/CAP.md"
+    },
+    {
       "basename": "Smart Contract",
       "path": "4학년 1학기/블체/Smart Contract.md"
     },
@@ -13,28 +29,12 @@
       "path": "4학년 1학기/블체/CRUD.md"
     },
     {
-      "basename": "DEX",
-      "path": "4학년 1학기/블체/DEX.md"
-    },
-    {
-      "basename": "CEX",
-      "path": "4학년 1학기/블체/CEX.md"
-    },
-    {
-      "basename": "CAP",
-      "path": "4학년 1학기/블체/CAP.md"
-    },
-    {
-      "basename": "SAP",
-      "path": "4학년 1학기/블체/SAP.md"
-    },
-    {
-      "basename": "클라우드 컴퓨팅",
-      "path": "4학년 1학기/블체/클라우드 컴퓨팅.md"
-    },
-    {
       "basename": "SSOT",
       "path": "4학년 1학기/블체/SSOT.md"
+    },
+    {
+      "basename": "DEX",
+      "path": "4학년 1학기/블체/DEX.md"
     },
     {
       "basename": "1. 정보 보안 기본 원칙",
