@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "SAP",
+      "path": "4학년 1학기/블체/SAP.md"
+    },
+    {
+      "basename": "CAP",
+      "path": "4학년 1학기/블체/CAP.md"
+    },
+    {
+      "basename": "CRUD",
+      "path": "4학년 1학기/블체/CRUD.md"
+    },
+    {
       "basename": "블록체인",
       "path": "4학년 1학기/블체/블록체인.md"
     },
@@ -11,10 +23,6 @@
     {
       "basename": "SSOT",
       "path": "4학년 1학기/블체/SSOT.md"
-    },
-    {
-      "basename": "CRUD",
-      "path": "4학년 1학기/블체/CRUD.md"
     },
     {
       "basename": "1. 정보 보안 기본 원칙",
@@ -191,14 +199,6 @@
     {
       "basename": "Two phase locking protocol",
       "path": "3학년 2학기/데이터베이스 설계/기말/Two phase locking protocol.md"
-    },
-    {
-      "basename": "transaction",
-      "path": "3학년 2학기/데이터베이스 설계/기말/transaction.md"
-    },
-    {
-      "basename": "Cascading Rollback",
-      "path": "3학년 2학기/데이터베이스 설계/기말/Cascading Rollback.md"
     }
   ],
   "omittedPaths": [],

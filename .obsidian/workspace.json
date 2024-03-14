@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4학년 1학기/블체/블록체인.md",
+                "file": "4학년 1학기/블체/SAP.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4학년 1학기/블체/블록체인.md",
+                "file": "4학년 1학기/블체/SAP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4학년 1학기/블체/블록체인.md",
+                "file": "4학년 1학기/블체/SAP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4학년 1학기/블체/블록체인.md"
+                "file": "4학년 1학기/블체/SAP.md"
               }
             }
           },
@@ -222,10 +222,12 @@
   },
   "active": "aa5f1b9b171bd668",
   "lastOpenFiles": [
-    "4학년 1학기/블체/클라우드 컴퓨팅.md",
-    "4학년 1학기/블체/블록체인.md",
-    "4학년 1학기/블체/SSOT.md",
+    "4학년 1학기/블체/CAP.md",
+    "4학년 1학기/블체/SAP.md",
     "4학년 1학기/블체/CRUD.md",
+    "4학년 1학기/블체/블록체인.md",
+    "4학년 1학기/블체/클라우드 컴퓨팅.md",
+    "4학년 1학기/블체/SSOT.md",
     "4학년 1학기/시클보/1. 정보 보안 기본 원칙.md",
     "4학년 1학기/시분설",
     "4학년 1학기/블체",
@@ -265,8 +267,6 @@
     "CS/C++ STL/Queue.md",
     "CS/C++ STL/Stack.md",
     "CS/C++ STL/Vector.md",
-    "알고리즘/필기/덱.md",
-    "알고리즘/필기/스택.md",
     "Attached Files/Pasted image 20231221205448.png",
     "Task Dashboard.canvas"
   ]
