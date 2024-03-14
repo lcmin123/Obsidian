@@ -5,6 +5,10 @@
       "path": "4학년 1학기/기학/기학.md"
     },
     {
+      "basename": "Js Syntax",
+      "path": "프론트엔드/기타/Js Syntax.md"
+    },
+    {
       "basename": "4학년 1학기",
       "path": "4학년 1학기/4학년 1학기.md"
     },
@@ -51,10 +55,6 @@
     {
       "basename": "1. 정보 보안 기본 원칙",
       "path": "4학년 1학기/시클보/1. 정보 보안 기본 원칙.md"
-    },
-    {
-      "basename": "Js Syntax",
-      "path": "프론트엔드/기타/Js Syntax.md"
     },
     {
       "basename": "virtual dom",

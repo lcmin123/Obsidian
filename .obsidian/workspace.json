@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -218,8 +217,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "10b74a800ea591c9",
+  "active": "fae4de5150421500",
   "lastOpenFiles": [
+    "프론트엔드/기타/Js Syntax.md",
     "4학년 1학기/4학년 1학기.md",
     "4학년 1학기/기학/기학.md",
     "4학년 1학기/기학",
@@ -247,7 +247,6 @@
     "Attached Files/Pasted image 20240113190128.png",
     "Attached Files/Pasted image 20240113184723.png",
     "Attached Files/Pasted image 20240113184343.png",
-    "프론트엔드/기타/Js Syntax.md",
     "Attached Files/Pasted image 20240113180905.png",
     "Attached Files/Pasted image 20240113180851.png",
     "Attached Files/Pasted image 20240113180357.png",
