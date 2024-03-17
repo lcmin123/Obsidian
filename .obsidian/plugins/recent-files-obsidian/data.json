@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "카카오vx",
+      "path": "4학년 1학기/캡스톤/카카오vx.md"
+    },
+    {
       "basename": "설문조사",
       "path": "4학년 1학기/캡스톤/설문조사.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "배열",
       "path": "알고리즘/예제/배열/배열.md"
-    },
-    {
-      "basename": "예제",
-      "path": "알고리즘/예제/예제.md"
     }
   ],
   "omittedPaths": [],
