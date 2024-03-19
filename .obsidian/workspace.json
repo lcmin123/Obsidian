@@ -11,9 +11,11 @@
             "id": "cf2a60f8b6f9ce13",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "4학년 1학기/기학"
+                "file": "4학년 1학기/기학/머신러닝 시스템 분류 기준.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -109,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4학년 1학기/기학/기학.md",
+                "file": "4학년 1학기/기학/머신러닝 시스템 분류 기준.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4학년 1학기/기학/기학.md",
+                "file": "4학년 1학기/기학/머신러닝 시스템 분류 기준.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4학년 1학기/기학/기학.md"
+                "file": "4학년 1학기/기학/머신러닝 시스템 분류 기준.md"
               }
             }
           },
@@ -215,8 +217,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cf9b67c68a3c2c74",
+  "active": "cf2a60f8b6f9ce13",
   "lastOpenFiles": [
+    "4학년 1학기/기학/기학.md",
+    "4학년 1학기/기학/머신러닝 시스템 분류 기준.md",
     "4학년 1학기/블체/CAP.md",
     "4학년 1학기/블체/CEX.md",
     "4학년 1학기/블체/CRUD.md",
@@ -229,7 +233,6 @@
     "4학년 1학기/캡스톤/카카오vx.md",
     "4학년 1학기/캡스톤/설문조사.md",
     "4학년 1학기/캡스톤/1차 보고서.md",
-    "4학년 1학기/기학/기학.md",
     "Attached Files/Pasted image 20240314184223.png",
     "프론트엔드/기타/Js Syntax.md",
     "4학년 1학기/4학년 1학기.md",
@@ -260,7 +263,6 @@
     "프론트엔드/기타",
     "프론트엔드/웹 부트캠프 2023/웹 부트캠프 2023.md",
     "알고리즘/알고리즘.md",
-    "프론트엔드/기타타/기.md",
     "프론트엔드/기타타",
     "프론트엔드/리액트",
     "Task Dashboard.canvas"
