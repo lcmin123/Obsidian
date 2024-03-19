@@ -11,11 +11,9 @@
             "id": "cf2a60f8b6f9ce13",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "4학년 1학기/캡스톤/카카오vx.md",
-                "mode": "source",
-                "source": false
+                "path": "4학년 1학기/블체"
               }
             }
           },
@@ -111,7 +109,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4학년 1학기/캡스톤/카카오vx.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +125,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4학년 1학기/캡스톤/카카오vx.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,9 +146,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "4학년 1학기/캡스톤/카카오vx.md"
-              }
+              "state": {}
             }
           },
           {
@@ -219,8 +213,8 @@
   },
   "active": "cf2a60f8b6f9ce13",
   "lastOpenFiles": [
-    "4학년 1학기/캡스톤/설문조사.md",
     "4학년 1학기/캡스톤/카카오vx.md",
+    "4학년 1학기/캡스톤/설문조사.md",
     "4학년 1학기/캡스톤/1차 보고서.md",
     "4학년 1학기/기학/기학.md",
     "Attached Files/Pasted image 20240314184223.png",
