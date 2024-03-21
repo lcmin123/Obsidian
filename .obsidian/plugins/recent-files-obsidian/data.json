@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "SAP",
+      "path": "4학년 1학기/블체/SAP.md"
+    },
+    {
+      "basename": "해쉬",
+      "path": "3학년 2학기/컴퓨터 보안/중간/해쉬.md"
+    },
+    {
       "basename": "암호화 방식",
       "path": "4학년 1학기/블체/암호화 방식.md"
     },
@@ -23,10 +31,6 @@
     {
       "basename": "CAP",
       "path": "4학년 1학기/블체/CAP.md"
-    },
-    {
-      "basename": "SAP",
-      "path": "4학년 1학기/블체/SAP.md"
     },
     {
       "basename": "DEX",
@@ -195,10 +199,6 @@
     {
       "basename": "배열",
       "path": "알고리즘/필기/배열.md"
-    },
-    {
-      "basename": "연결 리스트",
-      "path": "알고리즘/필기/연결 리스트.md"
     }
   ],
   "omittedPaths": [],
