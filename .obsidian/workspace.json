@@ -11,11 +11,9 @@
             "id": "cf2a60f8b6f9ce13",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "4학년 1학기/블체/SAP.md",
-                "mode": "source",
-                "source": false
+                "path": "4학년 1학기/블체"
               }
             }
           }
@@ -101,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4학년 1학기/블체/SAP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +115,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4학년 1학기/블체/SAP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,9 +136,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "4학년 1학기/블체/SAP.md"
-              }
+              "state": {}
             }
           },
           {
@@ -209,7 +203,9 @@
   },
   "active": "cf2a60f8b6f9ce13",
   "lastOpenFiles": [
+    "4학년 1학기/블체/블록체인.md",
     "3학년 2학기/컴퓨터 보안/중간/해쉬.md",
+    "4학년 1학기/블체/SAP.md",
     "4학년 1학기/블체/암호화 방식.md",
     "3학년 2학기/컴퓨터 보안/중간/인증.md",
     "3학년 2학기/컴퓨터 보안/중간/공개키.md",
@@ -218,10 +214,8 @@
     "4학년 1학기/블체/CAP.md",
     "4학년 1학기/블체/.md",
     "4학년 1학기/블체/비트코인의 노드.md",
-    "4학년 1학기/블체/SAP.md",
     "4학년 1학기/블체/DEX.md",
     "4학년 1학기/블체/Layer.md",
-    "4학년 1학기/블체/블록체인.md",
     "4학년 1학기/기학/기학.md",
     "4학년 1학기/기학/머신러닝 시스템 분류 기준.md",
     "4학년 1학기/블체/CEX.md",
