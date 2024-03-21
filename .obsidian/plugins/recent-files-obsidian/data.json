@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Integrity (무결성)",
+      "path": "4학년 1학기/시클보/Integrity (무결성).md"
+    },
+    {
       "basename": "Confidentiality (기밀성)",
       "path": "4학년 1학기/시클보/Confidentiality (기밀성).md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "큐",
       "path": "알고리즘/예제/큐/큐.md"
-    },
-    {
-      "basename": "Stack example",
-      "path": "알고리즘/예제/스택/Stack example.md"
     }
   ],
   "omittedPaths": [],
