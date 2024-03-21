@@ -18,16 +18,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "aa5f1b9b171bd668",
-            "type": "leaf",
-            "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "4학년 1학기/기학"
-              }
-            }
           }
         ]
       }
@@ -111,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4학년 1학기/기학/머신러닝 시스템 분류 기준.md",
+                "file": "4학년 1학기/기학/기학.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4학년 1학기/기학/머신러닝 시스템 분류 기준.md",
+                "file": "4학년 1학기/기학/기학.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4학년 1학기/기학/머신러닝 시스템 분류 기준.md"
+                "file": "4학년 1학기/기학/기학.md"
               }
             }
           },
@@ -217,7 +207,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cf2a60f8b6f9ce13",
+  "active": "0e6e9e156fa16352",
   "lastOpenFiles": [
     "4학년 1학기/기학/기학.md",
     "4학년 1학기/기학/머신러닝 시스템 분류 기준.md",
