@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Confidentiality (기밀성)",
+      "path": "4학년 1학기/시클보/Confidentiality (기밀성).md"
+    },
+    {
       "basename": "1. 정보 보안 기본 원칙",
       "path": "4학년 1학기/시클보/1. 정보 보안 기본 원칙.md"
+    },
+    {
+      "basename": "기밀성",
+      "path": "3학년 2학기/컴퓨터 보안/중간/기밀성.md"
     },
     {
       "basename": "블록체인",
@@ -191,14 +199,6 @@
     {
       "basename": "Stack example",
       "path": "알고리즘/예제/스택/Stack example.md"
-    },
-    {
-      "basename": "스택",
-      "path": "알고리즘/예제/스택/스택.md"
-    },
-    {
-      "basename": "배열",
-      "path": "알고리즘/필기/배열.md"
     }
   ],
   "omittedPaths": [],
