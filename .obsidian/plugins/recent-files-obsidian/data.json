@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "암호화 방식",
+      "path": "4학년 1학기/블체/암호화 방식.md"
+    },
+    {
+      "basename": "인증",
+      "path": "3학년 2학기/컴퓨터 보안/중간/인증.md"
+    },
+    {
+      "basename": "공개키",
+      "path": "3학년 2학기/컴퓨터 보안/중간/공개키.md"
+    },
+    {
+      "basename": "족보 기말",
+      "path": "3학년 2학기/컴퓨터 보안/족보 기말/족보 기말.md"
+    },
+    {
       "basename": "합의 알고리즘",
       "path": "4학년 1학기/블체/합의 알고리즘.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "연결 리스트",
       "path": "알고리즘/필기/연결 리스트.md"
-    },
-    {
-      "basename": "(Iterator)",
-      "path": "CS/C++ STL/(Iterator).md"
-    },
-    {
-      "basename": "List example",
-      "path": "알고리즘/예제/연결 리스트/List example.md"
-    },
-    {
-      "basename": "연결 리스트",
-      "path": "알고리즘/예제/연결 리스트/연결 리스트.md"
-    },
-    {
-      "basename": "Vector example",
-      "path": "알고리즘/예제/배열/Vector example.md"
     }
   ],
   "omittedPaths": [],
