@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Layer",
+      "path": "4학년 1학기/블체/Layer.md"
+    },
+    {
       "basename": "SAP",
       "path": "4학년 1학기/블체/SAP.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "기초 코드 작성 요령",
       "path": "알고리즘/필기/기초 코드 작성 요령.md"
-    },
-    {
-      "basename": "Insert, Erase 구현",
-      "path": "알고리즘/예제/배열/Insert, Erase 구현.md"
     }
   ],
   "omittedPaths": [],

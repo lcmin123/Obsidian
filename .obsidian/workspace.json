@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4학년 1학기/블체/SAP.md",
+                "file": "4학년 1학기/블체/Layer.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4학년 1학기/블체/SAP.md",
+                "file": "4학년 1학기/블체/Layer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4학년 1학기/블체/SAP.md",
+                "file": "4학년 1학기/블체/Layer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4학년 1학기/블체/SAP.md"
+                "file": "4학년 1학기/블체/Layer.md"
               }
             }
           },
@@ -209,13 +209,14 @@
   },
   "active": "cf2a60f8b6f9ce13",
   "lastOpenFiles": [
+    "4학년 1학기/블체/SAP.md",
+    "4학년 1학기/블체/Layer.md",
     "4학년 1학기/블체/CAP.md",
     "4학년 1학기/기학/기학.md",
     "4학년 1학기/기학/머신러닝 시스템 분류 기준.md",
     "4학년 1학기/블체/CEX.md",
     "4학년 1학기/블체/CRUD.md",
     "4학년 1학기/블체/DAME.md",
-    "4학년 1학기/블체/SAP.md",
     "4학년 1학기/블체/DEX.md",
     "4학년 1학기/블체/SSOT.md",
     "4학년 1학기/블체/블록체인.md",
@@ -252,7 +253,6 @@
     "프론트엔드/리액트/리액트.md",
     "프론트엔드/기타",
     "프론트엔드/웹 부트캠프 2023/웹 부트캠프 2023.md",
-    "알고리즘/알고리즘.md",
     "프론트엔드/기타타",
     "프론트엔드/리액트",
     "Task Dashboard.canvas"
