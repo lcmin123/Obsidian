@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "CAP",
+      "path": "4학년 1학기/블체/CAP.md"
+    },
+    {
       "basename": "SAP",
       "path": "4학년 1학기/블체/SAP.md"
+    },
+    {
+      "basename": "DEX",
+      "path": "4학년 1학기/블체/DEX.md"
     },
     {
       "basename": "Layer",
@@ -11,10 +19,6 @@
     {
       "basename": "블록체인",
       "path": "4학년 1학기/블체/블록체인.md"
-    },
-    {
-      "basename": "CAP",
-      "path": "4학년 1학기/블체/CAP.md"
     },
     {
       "basename": "기학",
@@ -35,10 +39,6 @@
     {
       "basename": "DAME",
       "path": "4학년 1학기/블체/DAME.md"
-    },
-    {
-      "basename": "DEX",
-      "path": "4학년 1학기/블체/DEX.md"
     },
     {
       "basename": "SSOT",
@@ -195,10 +195,6 @@
     {
       "basename": "Vector example",
       "path": "알고리즘/예제/배열/Vector example.md"
-    },
-    {
-      "basename": "기초 코드 작성 요령",
-      "path": "알고리즘/필기/기초 코드 작성 요령.md"
     }
   ],
   "omittedPaths": [],
