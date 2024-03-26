@@ -1,2 +1,3 @@
 - 블록체인에는 L1과 L2가 존재
 - L2는 L1의 interoperability(상호운용성)등을 개선한 버전이다
+- 가장 큰 차점은 [[Smart Contract]]의 가능성 여부
