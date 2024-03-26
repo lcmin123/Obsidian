@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4학년 1학기/블체/암호화 방식.md",
+                "file": "4학년 1학기/블체/Layer.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4학년 1학기/블체/암호화 방식.md",
+                "file": "4학년 1학기/블체/Layer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4학년 1학기/블체/암호화 방식.md",
+                "file": "4학년 1학기/블체/Layer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4학년 1학기/블체/암호화 방식.md"
+                "file": "4학년 1학기/블체/Layer.md"
               }
             }
           },
@@ -209,10 +209,10 @@
   },
   "active": "cf2a60f8b6f9ce13",
   "lastOpenFiles": [
+    "4학년 1학기/블체/암호화 방식.md",
     "4학년 1학기/블체/합의 알고리즘.md",
     "4학년 1학기/블체/클라우드 컴퓨팅.md",
     "4학년 1학기/블체/블록체인.md",
-    "4학년 1학기/블체/암호화 방식.md",
     "4학년 1학기/시클보/Integrity (무결성).md",
     "4학년 1학기/시클보/Confidentiality (기밀성).md",
     "4학년 1학기/시클보/1. 정보 보안 기본 원칙.md",
