@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
       "basename": "Smart Contract",
       "path": "4학년 1학기/블체/Smart Contract.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Queue example",
       "path": "알고리즘/예제/큐/Queue example.md"
-    },
-    {
-      "basename": "큐",
-      "path": "알고리즘/예제/큐/큐.md"
     }
   ],
   "omittedPaths": [],
