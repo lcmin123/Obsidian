@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4학년 1학기/시클보/chap.1/공격 표면.md",
+                "file": "4학년 1학기/시클보/chap.1/Set-UID 프로그램의 보안 결함.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "820e057e32293046",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4학년 1학기/시클보/chap.1/특권 프로그램 유형.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4학년 1학기/시클보/chap.1/공격 표면.md",
+                "file": "4학년 1학기/시클보/chap.1/특권 프로그램 유형.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4학년 1학기/시클보/chap.1/공격 표면.md",
+                "file": "4학년 1학기/시클보/chap.1/특권 프로그램 유형.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4학년 1학기/시클보/chap.1/공격 표면.md"
+                "file": "4학년 1학기/시클보/chap.1/특권 프로그램 유형.md"
               }
             }
           },
@@ -207,12 +220,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dc5dcf9092f10f78",
+  "active": "820e057e32293046",
   "lastOpenFiles": [
-    "4학년 1학기/시클보/chap.1/Set-UID 프로그램의 보안 결함.md",
-    "4학년 1학기/시클보/chap.1/Set-UID 프로그램의 필요성.md",
-    "4학년 1학기/시클보/chap.1/공격 표면.md",
     "4학년 1학기/시클보/chap.1/000INDEX.md",
+    "4학년 1학기/시클보/chap.1/특권 프로그램 유형.md",
+    "4학년 1학기/시클보/chap.1/특권 프로그램의 보안 강화 방법.md",
+    "4학년 1학기/시클보/chap.1/Set-UID 프로그램의 보안 결함.md",
+    "4학년 1학기/시클보/chap.1/공격 표면.md",
+    "4학년 1학기/시클보/chap.1/Set-UID 프로그램의 필요성.md",
     "4학년 1학기/시클보/chap.1/Set-UID 메커니즘 작동 방식.md",
     "4학년 1학기/시클보/chap.1/Set-UID 특권 프로그램에 대한 개요.md",
     "4학년 1학기/시클보/chap.0/1. 정보 보안 기본 원칙.md",
@@ -235,8 +250,6 @@
     "4학년 1학기/블체/SAP.md",
     "3학년 2학기/컴퓨터 보안/중간/인증.md",
     "3학년 2학기/컴퓨터 보안/중간/공개키.md",
-    "3학년 2학기/컴퓨터 보안/족보 기말/족보 기말.md",
-    "4학년 1학기/블체/CAP.md",
     "Attached Files/Pasted image 20240314184223.png",
     "4학년 1학기/기학",
     "4학년 1학기/시분설",

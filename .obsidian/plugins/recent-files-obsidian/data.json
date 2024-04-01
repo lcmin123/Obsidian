@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "특권 프로그램 유형",
+      "path": "4학년 1학기/시클보/chap.1/특권 프로그램 유형.md"
+    },
+    {
+      "basename": "000INDEX",
+      "path": "4학년 1학기/시클보/chap.1/000INDEX.md"
+    },
+    {
+      "basename": "특권 프로그램의 보안 강화 방법",
+      "path": "4학년 1학기/시클보/chap.1/특권 프로그램의 보안 강화 방법.md"
+    },
+    {
       "basename": "Set-UID 프로그램의 보안 결함",
       "path": "4학년 1학기/시클보/chap.1/Set-UID 프로그램의 보안 결함.md"
     },
@@ -11,10 +23,6 @@
     {
       "basename": "Set-UID 프로그램의 필요성",
       "path": "4학년 1학기/시클보/chap.1/Set-UID 프로그램의 필요성.md"
-    },
-    {
-      "basename": "000INDEX",
-      "path": "4학년 1학기/시클보/chap.1/000INDEX.md"
     },
     {
       "basename": "Set-UID 메커니즘 작동 방식",
@@ -191,14 +199,6 @@
     {
       "basename": "Queue",
       "path": "CS/C++ STL/Queue.md"
-    },
-    {
-      "basename": "Stack",
-      "path": "CS/C++ STL/Stack.md"
-    },
-    {
-      "basename": "Vector",
-      "path": "CS/C++ STL/Vector.md"
     }
   ],
   "omittedPaths": [],
