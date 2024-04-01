@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "특권 Set-UID 프로그램의 보안 결함",
+      "path": "4학년 1학기/시클보/chap.1/특권 Set-UID 프로그램의 보안 결함.md"
+    },
+    {
       "basename": "000INDEX",
       "path": "4학년 1학기/시클보/chap.1/000INDEX.md"
     },
     {
-      "basename": "특권 프로그램의 필요성",
-      "path": "4학년 1학기/시클보/chap.1/특권 프로그램의 필요성.md"
+      "basename": "Set-UID 메커니즘 작동 방식",
+      "path": "4학년 1학기/시클보/chap.1/Set-UID 메커니즘 작동 방식.md"
     },
     {
       "basename": "Set-UID 특권 프로그램에 대한 개요",
       "path": "4학년 1학기/시클보/chap.1/Set-UID 특권 프로그램에 대한 개요.md"
+    },
+    {
+      "basename": "특권 프로그램의 필요성",
+      "path": "4학년 1학기/시클보/chap.1/특권 프로그램의 필요성.md"
     },
     {
       "basename": "1. 정보 보안 기본 원칙",
@@ -191,14 +199,6 @@
     {
       "basename": "덱",
       "path": "알고리즘/필기/덱.md"
-    },
-    {
-      "basename": "스택",
-      "path": "알고리즘/필기/스택.md"
-    },
-    {
-      "basename": "큐",
-      "path": "알고리즘/필기/큐.md"
     }
   ],
   "omittedPaths": [],
