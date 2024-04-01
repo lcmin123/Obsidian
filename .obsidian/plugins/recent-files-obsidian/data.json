@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "특권 프로그램 유형",
-      "path": "4학년 1학기/시클보/chap.1/특권 프로그램 유형.md"
+      "basename": "Set-UID 개념",
+      "path": "4학년 1학기/시클보/chap.1/Set-UID 개념.md"
     },
     {
       "basename": "000INDEX",
       "path": "4학년 1학기/시클보/chap.1/000INDEX.md"
+    },
+    {
+      "basename": "특권 프로그램 유형",
+      "path": "4학년 1학기/시클보/chap.1/특권 프로그램 유형.md"
     },
     {
       "basename": "특권 프로그램의 보안 강화 방법",
@@ -195,10 +199,6 @@
     {
       "basename": "List",
       "path": "CS/C++ STL/List.md"
-    },
-    {
-      "basename": "Queue",
-      "path": "CS/C++ STL/Queue.md"
     }
   ],
   "omittedPaths": [],
