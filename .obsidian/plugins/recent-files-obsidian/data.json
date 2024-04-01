@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Set-UID 특권 프로그램에 대한 개요",
+      "path": "4학년 1학기/시클보/chap.1/Set-UID 특권 프로그램에 대한 개요.md"
+    },
+    {
+      "basename": "000INDEX",
+      "path": "4학년 1학기/시클보/chap.1/000INDEX.md"
+    },
+    {
       "basename": "1. 정보 보안 기본 원칙",
-      "path": "4학년 1학기/시클보/1. 정보 보안 기본 원칙.md"
+      "path": "4학년 1학기/시클보/chap.0/1. 정보 보안 기본 원칙.md"
     },
     {
       "basename": "Integrity (무결성)",
-      "path": "4학년 1학기/시클보/Integrity (무결성).md"
+      "path": "4학년 1학기/시클보/chap.0/Integrity (무결성).md"
     },
     {
       "basename": "Confidentiality (기밀성)",
-      "path": "4학년 1학기/시클보/Confidentiality (기밀성).md"
+      "path": "4학년 1학기/시클보/chap.0/Confidentiality (기밀성).md"
+    },
+    {
+      "basename": "chap.0",
+      "path": "4학년 1학기/시클보/chap.0/chap.0.md"
     },
     {
       "basename": "Smart Contract",
@@ -187,14 +199,6 @@
     {
       "basename": "C++ STL",
       "path": "CS/C++ STL/C++ STL.md"
-    },
-    {
-      "basename": "Linked List",
-      "path": "CS/Linked List.md"
-    },
-    {
-      "basename": "Queue example",
-      "path": "알고리즘/예제/큐/Queue example.md"
     }
   ],
   "omittedPaths": [],
