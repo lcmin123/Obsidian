@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "자료흐름",
+      "path": "4학년 1학기/시분설/자료흐름.md"
+    },
+    {
       "basename": "합의 알고리즘",
       "path": "4학년 1학기/블체/합의 알고리즘.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "덱",
       "path": "알고리즘/예제/덱/덱.md"
-    },
-    {
-      "basename": "List",
-      "path": "CS/C++ STL/List.md"
     }
   ],
   "omittedPaths": [],
