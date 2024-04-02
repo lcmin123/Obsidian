@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "자료흐름",
-      "path": "4학년 1학기/시분설/자료흐름.md"
+      "basename": "0402과제",
+      "path": "4학년 1학기/시분설/0402과제.md"
+    },
+    {
+      "basename": "중간고사",
+      "path": "4학년 1학기/시분설/중간고사.md"
     },
     {
       "basename": "합의 알고리즘",
@@ -195,10 +199,6 @@
     {
       "basename": "Deque example",
       "path": "알고리즘/예제/덱/Deque example.md"
-    },
-    {
-      "basename": "덱",
-      "path": "알고리즘/예제/덱/덱.md"
     }
   ],
   "omittedPaths": [],
