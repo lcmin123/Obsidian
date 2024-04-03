@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4학년 1학기/시분설/0402과제.md",
+                "file": "4학년 1학기/기학/머신러닝 시스템 분류 기준.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4학년 1학기/시분설/0402과제.md",
+                "file": "4학년 1학기/기학/머신러닝 시스템 분류 기준.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4학년 1학기/시분설/0402과제.md",
+                "file": "4학년 1학기/기학/머신러닝 시스템 분류 기준.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4학년 1학기/시분설/0402과제.md"
+                "file": "4학년 1학기/기학/머신러닝 시스템 분류 기준.md"
               }
             }
           },
@@ -222,8 +222,9 @@
   },
   "active": "820e057e32293046",
   "lastOpenFiles": [
-    "4학년 1학기/시분설/중간고사.md",
+    "4학년 1학기/기학/기학.md",
     "4학년 1학기/시분설/0402과제.md",
+    "4학년 1학기/시분설/중간고사.md",
     "4학년 1학기/블체/합의 알고리즘.md",
     "4학년 1학기/블체/DAME.md",
     "4학년 1학기/블체/DEX.md",
@@ -247,7 +248,6 @@
     "4학년 1학기/시클보/chap.0/Integrity (무결성).md",
     "4학년 1학기/시클보/chap.0/Confidentiality (기밀성).md",
     "4학년 1학기/시클보/chap.0/chap.0.md",
-    "4학년 1학기/시클보/chap.1/chap.1.md",
     "4학년 1학기/시클보/chap.1",
     "4학년 1학기/시클보/chap.0",
     "Attached Files/Pasted image 20240314184223.png",
