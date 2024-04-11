@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "강의 1 요약",
+      "path": "프론트엔드/Next.js/강의 1 요약.md"
+    },
+    {
+      "basename": "Untitled 1",
+      "path": "프론트엔드/Next.js/Untitled 1.md"
+    },
+    {
+      "basename": "기타",
+      "path": "프론트엔드/기타/기타.md"
+    },
+    {
       "basename": "탈중앙화",
       "path": "4학년 1학기/블체/탈중앙화.md"
     },
@@ -177,10 +189,6 @@
       "path": "프론트엔드/기타/JS 비동기 처리 방법.md"
     },
     {
-      "basename": "기타",
-      "path": "프론트엔드/기타/기타.md"
-    },
-    {
       "basename": "리액트",
       "path": "프론트엔드/리액트/리액트.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "알고리즘",
       "path": "알고리즘/알고리즘.md"
-    },
-    {
-      "basename": "스택의 활용 (수식의 괄호 쌍)",
-      "path": "알고리즘/필기/스택의 활용 (수식의 괄호 쌍).md"
-    },
-    {
-      "basename": "Deque",
-      "path": "CS/C++ STL/Deque.md"
     }
   ],
   "omittedPaths": [],
