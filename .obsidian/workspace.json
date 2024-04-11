@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4학년 1학기/블체/Smart Contract.md",
+                "file": "4학년 1학기/블체/탈중앙화.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4학년 1학기/블체/Smart Contract.md",
+                "file": "4학년 1학기/블체/탈중앙화.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4학년 1학기/블체/Smart Contract.md",
+                "file": "4학년 1학기/블체/탈중앙화.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4학년 1학기/블체/Smart Contract.md"
+                "file": "4학년 1학기/블체/탈중앙화.md"
               }
             }
           },
@@ -223,6 +223,9 @@
   "active": "820e057e32293046",
   "lastOpenFiles": [
     "4학년 1학기/블체/합의 알고리즘.md",
+    "4학년 1학기/블체/탈중앙화.md",
+    "4학년 1학기/블체/블록체인.md",
+    "4학년 1학기/블체/Smart Contract.md",
     "4학년 1학기/기학/머신러닝 시스템 분류 기준.md",
     "4학년 1학기/기학/기학.md",
     "4학년 1학기/시분설/0402과제.md",
@@ -232,9 +235,7 @@
     "4학년 1학기/블체/Layer.md",
     "4학년 1학기/블체/SAP.md",
     "4학년 1학기/블체/SSOT.md",
-    "4학년 1학기/블체/Smart Contract.md",
     "4학년 1학기/블체/암호화 방식.md",
-    "4학년 1학기/블체/블록체인.md",
     "4학년 1학기/블체/클라우드 컴퓨팅.md",
     "4학년 1학기/시클보/chap.1/Set-UID 프로그램의 필요성.md",
     "4학년 1학기/시클보/chap.1/Set-UID 프로그램의 보안 결함.md",
@@ -247,7 +248,6 @@
     "4학년 1학기/시클보/chap.1/공격 표면.md",
     "4학년 1학기/시클보/chap.0/1. 정보 보안 기본 원칙.md",
     "4학년 1학기/시클보/chap.0/Integrity (무결성).md",
-    "4학년 1학기/시클보/chap.0/Confidentiality (기밀성).md",
     "4학년 1학기/시클보/chap.1",
     "4학년 1학기/시클보/chap.0",
     "Attached Files/Pasted image 20240314184223.png",

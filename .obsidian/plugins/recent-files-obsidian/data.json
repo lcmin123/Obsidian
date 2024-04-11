@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Smart Contract",
-      "path": "4학년 1학기/블체/Smart Contract.md"
+      "basename": "탈중앙화",
+      "path": "4학년 1학기/블체/탈중앙화.md"
     },
     {
       "basename": "합의 알고리즘",
       "path": "4학년 1학기/블체/합의 알고리즘.md"
+    },
+    {
+      "basename": "블록체인",
+      "path": "4학년 1학기/블체/블록체인.md"
+    },
+    {
+      "basename": "Smart Contract",
+      "path": "4학년 1학기/블체/Smart Contract.md"
     },
     {
       "basename": "머신러닝 시스템 분류 기준",
@@ -47,10 +55,6 @@
     {
       "basename": "암호화 방식",
       "path": "4학년 1학기/블체/암호화 방식.md"
-    },
-    {
-      "basename": "블록체인",
-      "path": "4학년 1학기/블체/블록체인.md"
     },
     {
       "basename": "클라우드 컴퓨팅",
@@ -195,10 +199,6 @@
     {
       "basename": "Deque",
       "path": "CS/C++ STL/Deque.md"
-    },
-    {
-      "basename": "Deque example",
-      "path": "알고리즘/예제/덱/Deque example.md"
     }
   ],
   "omittedPaths": [],
