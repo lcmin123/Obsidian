@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "4학년 1학기/캡스톤/Untitled.md"
+    },
+    {
       "basename": "강의 1 요약",
       "path": "프론트엔드/Next.js/강의 1 요약.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "웹 부트캠프 2023",
       "path": "프론트엔드/웹 부트캠프 2023/웹 부트캠프 2023.md"
-    },
-    {
-      "basename": "알고리즘",
-      "path": "알고리즘/알고리즘.md"
     }
   ],
   "omittedPaths": [],

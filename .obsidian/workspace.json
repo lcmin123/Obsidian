@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프론트엔드/Next.js/강의 1 요약.md",
+                "file": "4학년 1학기/캡스톤/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프론트엔드/Next.js/강의 1 요약.md",
+                "file": "4학년 1학기/캡스톤/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프론트엔드/Next.js/강의 1 요약.md",
+                "file": "4학년 1학기/캡스톤/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프론트엔드/Next.js/강의 1 요약.md"
+                "file": "4학년 1학기/캡스톤/Untitled.md"
               }
             }
           },
@@ -222,8 +222,9 @@
   },
   "active": "820e057e32293046",
   "lastOpenFiles": [
-    "프론트엔드/Next.js/Untitled 1.md",
     "프론트엔드/Next.js/강의 1 요약.md",
+    "4학년 1학기/캡스톤/Untitled.md",
+    "프론트엔드/Next.js/Untitled 1.md",
     "프론트엔드/Next.js/Next.js.md",
     "프론트엔드/Next.js",
     "프론트엔드/기타/기타.md",
@@ -248,7 +249,6 @@
     "4학년 1학기/시클보/chap.1/Set-UID 특권 프로그램에 대한 개요.md",
     "4학년 1학기/시클보/chap.1/Set-UID 메커니즘 작동 방식.md",
     "4학년 1학기/시클보/chap.1/Set-UID 개념.md",
-    "4학년 1학기/시클보/chap.1/특권 프로그램의 보안 강화 방법.md",
     "4학년 1학기/시클보/chap.1",
     "4학년 1학기/시클보/chap.0",
     "Attached Files/Pasted image 20240314184223.png",
