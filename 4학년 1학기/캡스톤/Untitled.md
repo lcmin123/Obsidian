@@ -28,7 +28,7 @@
 - 아키텍처
 	- ![[KakaoTalk_Photo_2024-04-15-01-47-38.png]]
 - db테이블
-	- 
+	- ![[KakaoTalk_Photo_2024-04-15-01-49-14.png]]
 - 버전관리
 	- ![[Pasted image 20240415015121.png]]
 	- ![[Pasted image 20240415015200.png]]
@@ -36,4 +36,5 @@
 	- ![[Pasted image 20240415015253.png]]
 - 포스트맨? CI/CD?
 - 향후 개발 계획
+	- 
 - 영상
