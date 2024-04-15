@@ -9,6 +9,10 @@
       "path": "4학년 1학기/캡스톤/Untitled.md"
     },
     {
+      "basename": "1차 보고서",
+      "path": "4학년 1학기/캡스톤/1차 보고서.md"
+    },
+    {
       "basename": "강의 1 요약",
       "path": "프론트엔드/Next.js/강의 1 요약.md"
     },
@@ -171,10 +175,6 @@
     {
       "basename": "설문조사",
       "path": "4학년 1학기/캡스톤/설문조사.md"
-    },
-    {
-      "basename": "1차 보고서",
-      "path": "4학년 1학기/캡스톤/1차 보고서.md"
     },
     {
       "basename": "Js Syntax",
