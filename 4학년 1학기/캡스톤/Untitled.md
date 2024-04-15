@@ -25,6 +25,8 @@
 			- askup
 - 아키텍처
 	- ![[KakaoTalk_Photo_2024-04-15-01-47-38.png]]
+- aws로 인프라를 먼저 구상해놓음
+- muckgymma.kro.kr로 
 - db테이블
 	- ![[KakaoTalk_Photo_2024-04-15-01-49-14.png]]
 - 버전관리
