@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "1차대본",
+      "path": "4학년 1학기/캡스톤/1차대본.md"
+    },
+    {
       "basename": "Untitled",
       "path": "4학년 1학기/캡스톤/Untitled.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "리액트",
       "path": "프론트엔드/리액트/리액트.md"
-    },
-    {
-      "basename": "웹 부트캠프 2023",
-      "path": "프론트엔드/웹 부트캠프 2023/웹 부트캠프 2023.md"
     }
   ],
   "omittedPaths": [],
