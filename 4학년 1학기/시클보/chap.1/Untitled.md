@@ -21,6 +21,26 @@
 	- 일반 사용자가 상승된 특권을 가짐
 - Set-UID 프로그램으로 전환하기
 ```shell
-cp /bin/cat ./mycat cat 프로그램 복사
-sudo chown root mycat owner seed -> root
+cp /bin/cat ./mycat //cat 프로그램 복사
+
+ls -l mycat
+>>> -rwxr-xr-x 1 seed seed
+
+sudo chown root mycat //owner seed -> root
+
+ls -l mycat
+>>> -rwxr-xr-x root seed // owner changed
+
+mycat /etc/shadow
+>>> permission denied
+
+sudo chmod 4755 mycat // change to Set-UID
+
+ls -l mycat
+>>> -rwsr-xr-x root seed
+
+mycat /etc/shadow
+>>> 정상 출력
 ```
+- Set-UID 작동 방식
+	- 
