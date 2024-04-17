@@ -75,7 +75,9 @@ mycat /etc/shadow
 	- Capability Leaking을 통한 공격
 		- 파일 디스크립터를 닫지 않고 특권이 낮아지면 파일 디스크립터가 여전히 유효할 수 있음
 		- 특권이 낮아지기 전에 파일 디스크립터를 삭제해야 취약점 해결 가능
-```c
+```c 
+cap_leak.c
+
 fd = open("etc/zzz", O_RDWR | O_APPEND);
 if (fd == -1){
 	printf("Cannot open /etc/zzz");
@@ -86,5 +88,29 @@ if (fd == -1){
 printf("fd is %d\n", fd);
 
 setuid(getuid());
--> 
+-> 특권 하향
+
+v[0] = "/bin/sh";
+v[1] = 0;
+execve(v[0], v, 0);
+```
+
+```shell
+sudo chown root cap_leak
+sudo chmod 4755 cap_leak
+-> change to root-owned SUID program
+
+ls -l cap_leak
+>>> -rwsr-xr-x root seed
+
+cat /etc/zzz
+>>> bbb
+
+echo aaa > /etc/zzz
+>>> permission denied
+-> file에 직접 write 불가능
+
+cap_leak
+>>> fd is
+
 ```
