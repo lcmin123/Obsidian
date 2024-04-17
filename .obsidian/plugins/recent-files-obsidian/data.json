@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Availability (가용성)",
+      "path": "4학년 1학기/시클보/chap.0/Availability (가용성).md"
+    },
+    {
+      "basename": "Confidentiality (기밀성)",
+      "path": "4학년 1학기/시클보/chap.0/Confidentiality (기밀성).md"
+    },
+    {
+      "basename": "1. 정보 보안 기본 원칙",
+      "path": "4학년 1학기/시클보/chap.0/1. 정보 보안 기본 원칙.md"
+    },
+    {
+      "basename": "Integrity (무결성)",
+      "path": "4학년 1학기/시클보/chap.0/Integrity (무결성).md"
+    },
+    {
+      "basename": "Set-UID 프로그램의 보안 결함",
+      "path": "4학년 1학기/시클보/chap.1/Set-UID 프로그램의 보안 결함.md"
+    },
+    {
       "basename": "1차대본",
       "path": "4학년 1학기/캡스톤/1차대본.md"
     },
@@ -89,10 +109,6 @@
       "path": "4학년 1학기/시클보/chap.1/Set-UID 프로그램의 필요성.md"
     },
     {
-      "basename": "Set-UID 프로그램의 보안 결함",
-      "path": "4학년 1학기/시클보/chap.1/Set-UID 프로그램의 보안 결함.md"
-    },
-    {
       "basename": "Set-UID 특권 프로그램에 대한 개요",
       "path": "4학년 1학기/시클보/chap.1/Set-UID 특권 프로그램에 대한 개요.md"
     },
@@ -119,18 +135,6 @@
     {
       "basename": "공격 표면",
       "path": "4학년 1학기/시클보/chap.1/공격 표면.md"
-    },
-    {
-      "basename": "1. 정보 보안 기본 원칙",
-      "path": "4학년 1학기/시클보/chap.0/1. 정보 보안 기본 원칙.md"
-    },
-    {
-      "basename": "Integrity (무결성)",
-      "path": "4학년 1학기/시클보/chap.0/Integrity (무결성).md"
-    },
-    {
-      "basename": "Confidentiality (기밀성)",
-      "path": "4학년 1학기/시클보/chap.0/Confidentiality (기밀성).md"
     },
     {
       "basename": "chap.0",
@@ -195,10 +199,6 @@
     {
       "basename": "JS 비동기 처리 방법",
       "path": "프론트엔드/기타/JS 비동기 처리 방법.md"
-    },
-    {
-      "basename": "리액트",
-      "path": "프론트엔드/리액트/리액트.md"
     }
   ],
   "omittedPaths": [],
