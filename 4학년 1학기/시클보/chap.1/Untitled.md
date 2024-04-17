@@ -87,6 +87,8 @@ if (fd == -1){
 
 printf("fd is %d\n", fd);
 
+!close(fd);!
+
 setuid(getuid());
 -> 특권 하향
 
