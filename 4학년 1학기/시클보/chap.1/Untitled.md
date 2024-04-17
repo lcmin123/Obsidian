@@ -20,3 +20,7 @@
 	- Set-UID 프로세스 실행 시 RUID  ≠ EUID (seed에서 실행 시 RUID = root, EUID = seed)
 	- 일반 사용자가 상승된 특권을 가짐
 - Set-UID 프로그램으로 전환하기
+```shell
+cp /bin/cat ./mycat cat 프로그램 복사
+sudo chown root mycat owner seed -> root
+```
