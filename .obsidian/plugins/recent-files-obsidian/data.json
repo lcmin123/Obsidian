@@ -1,12 +1,52 @@
 {
   "recentFiles": [
     {
-      "basename": "Accountability (책임성)",
-      "path": "4학년 1학기/시클보/chap.0/Accountability (책임성).md"
+      "basename": "Untitled",
+      "path": "4학년 1학기/시클보/chap.1/Untitled.md"
+    },
+    {
+      "basename": "Set-UID 개념",
+      "path": "4학년 1학기/시클보/chap.1/Set-UID 개념.md"
+    },
+    {
+      "basename": "000INDEX",
+      "path": "4학년 1학기/시클보/chap.1/000INDEX.md"
+    },
+    {
+      "basename": "특권 프로그램 유형",
+      "path": "4학년 1학기/시클보/chap.1/특권 프로그램 유형.md"
+    },
+    {
+      "basename": "특권 프로그램의 보안 강화 방법",
+      "path": "4학년 1학기/시클보/chap.1/특권 프로그램의 보안 강화 방법.md"
+    },
+    {
+      "basename": "Set-UID 프로그램의 보안 결함",
+      "path": "4학년 1학기/시클보/chap.1/Set-UID 프로그램의 보안 결함.md"
+    },
+    {
+      "basename": "Set-UID 메커니즘 작동 방식",
+      "path": "4학년 1학기/시클보/chap.1/Set-UID 메커니즘 작동 방식.md"
+    },
+    {
+      "basename": "Set-UID 특권 프로그램에 대한 개요",
+      "path": "4학년 1학기/시클보/chap.1/Set-UID 특권 프로그램에 대한 개요.md"
+    },
+    {
+      "basename": "Set-UID 프로그램의 필요성",
+      "path": "4학년 1학기/시클보/chap.1/Set-UID 프로그램의 필요성.md"
+    },
+    {
+      "basename": "chap.0",
+      "path": "4학년 1학기/시클보/chap.0/chap.0.md"
     },
     {
       "basename": "1. 정보 보안 기본 원칙",
       "path": "4학년 1학기/시클보/chap.0/1. 정보 보안 기본 원칙.md"
+    },
+    {
+      "basename": "Accountability (책임성)",
+      "path": "4학년 1학기/시클보/chap.0/Accountability (책임성).md"
     },
     {
       "basename": "Authenticity (인증성)",
@@ -23,10 +63,6 @@
     {
       "basename": "Integrity (무결성)",
       "path": "4학년 1학기/시클보/chap.0/Integrity (무결성).md"
-    },
-    {
-      "basename": "Set-UID 프로그램의 보안 결함",
-      "path": "4학년 1학기/시클보/chap.1/Set-UID 프로그램의 보안 결함.md"
     },
     {
       "basename": "1차대본",
@@ -113,40 +149,8 @@
       "path": "4학년 1학기/블체/클라우드 컴퓨팅.md"
     },
     {
-      "basename": "Set-UID 프로그램의 필요성",
-      "path": "4학년 1학기/시클보/chap.1/Set-UID 프로그램의 필요성.md"
-    },
-    {
-      "basename": "Set-UID 특권 프로그램에 대한 개요",
-      "path": "4학년 1학기/시클보/chap.1/Set-UID 특권 프로그램에 대한 개요.md"
-    },
-    {
-      "basename": "Set-UID 메커니즘 작동 방식",
-      "path": "4학년 1학기/시클보/chap.1/Set-UID 메커니즘 작동 방식.md"
-    },
-    {
-      "basename": "Set-UID 개념",
-      "path": "4학년 1학기/시클보/chap.1/Set-UID 개념.md"
-    },
-    {
-      "basename": "특권 프로그램의 보안 강화 방법",
-      "path": "4학년 1학기/시클보/chap.1/특권 프로그램의 보안 강화 방법.md"
-    },
-    {
-      "basename": "특권 프로그램 유형",
-      "path": "4학년 1학기/시클보/chap.1/특권 프로그램 유형.md"
-    },
-    {
-      "basename": "000INDEX",
-      "path": "4학년 1학기/시클보/chap.1/000INDEX.md"
-    },
-    {
       "basename": "공격 표면",
       "path": "4학년 1학기/시클보/chap.1/공격 표면.md"
-    },
-    {
-      "basename": "chap.0",
-      "path": "4학년 1학기/시클보/chap.0/chap.0.md"
     },
     {
       "basename": "기밀성",
@@ -195,10 +199,6 @@
     {
       "basename": "4학년 1학기",
       "path": "4학년 1학기/4학년 1학기.md"
-    },
-    {
-      "basename": "virtual dom",
-      "path": "프론트엔드/기타/virtual dom.md"
     }
   ],
   "omittedPaths": [],
