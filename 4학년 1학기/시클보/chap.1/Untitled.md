@@ -81,5 +81,10 @@ if (fd == -1){
 	printf("Cannot open /etc/zzz");
 	exit(0);
 }
+-> file descripter 생성(root owned SUID program), /etc/zzz는 root에 의해서만 쓰기 가능
+
+printf("fd is %d\n", fd);
+
+setuid(getuid());
 
 ```
