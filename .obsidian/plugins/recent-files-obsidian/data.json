@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Accountability (책임성)",
+      "path": "4학년 1학기/시클보/chap.0/Accountability (책임성).md"
+    },
+    {
+      "basename": "1. 정보 보안 기본 원칙",
+      "path": "4학년 1학기/시클보/chap.0/1. 정보 보안 기본 원칙.md"
+    },
+    {
+      "basename": "Authenticity (인증성)",
+      "path": "4학년 1학기/시클보/chap.0/Authenticity (인증성).md"
+    },
+    {
       "basename": "Availability (가용성)",
       "path": "4학년 1학기/시클보/chap.0/Availability (가용성).md"
     },
     {
       "basename": "Confidentiality (기밀성)",
       "path": "4학년 1학기/시클보/chap.0/Confidentiality (기밀성).md"
-    },
-    {
-      "basename": "1. 정보 보안 기본 원칙",
-      "path": "4학년 1학기/시클보/chap.0/1. 정보 보안 기본 원칙.md"
     },
     {
       "basename": "Integrity (무결성)",
@@ -191,14 +199,6 @@
     {
       "basename": "virtual dom",
       "path": "프론트엔드/기타/virtual dom.md"
-    },
-    {
-      "basename": "JS Modules",
-      "path": "프론트엔드/기타/JS Modules.md"
-    },
-    {
-      "basename": "JS 비동기 처리 방법",
-      "path": "프론트엔드/기타/JS 비동기 처리 방법.md"
     }
   ],
   "omittedPaths": [],
