@@ -10,3 +10,13 @@
 	- Set-UID Programs
 		- UNIX 시스템에서 널리 사용
 		- 특별한 bit로 mark 되어있다
+- Set-UID 개념
+	- 사용자가 특정 프로그램 실행 시, 그 프로그램을 소유한 사용자의 특권을 임시로 얻을 수 있는 메커니즘
+	- Set-UID 프로그램을 일반 권한으로 실행해도, 소유자 권한으로 실행 됨
+	- 각 프로세스는 두개의 ID 소유
+		- RUID : 프로세스의 실제 소유자 식별 ID
+		- EUID : 프로세스 특권 ID
+	- 일반 프로세스 실행 시, RUID = EUID
+	- Set-UID 프로세스 실행 시 RUID  ≠ EUID (seed에서 실행 시 RUID = root, EUID = seed)
+	- 일반 사용자가 상승된 특권을 가짐
+- Set-UID 프로그램으로 전환하기
