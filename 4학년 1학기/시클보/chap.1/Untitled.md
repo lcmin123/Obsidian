@@ -111,6 +111,16 @@ echo aaa > /etc/zzz
 -> file에 직접 write 불가능
 
 cap_leak
->>> fd is
+>>> fd is 3
 
+echo ccc >& 3
+-> file descripter 값 3에 직접 redirect 시도: seed도 수정이 가능해진다!
+
+exit
+
+cat /etc/zzz
+>>> bbb
+>>> ccc
 ```
+- 위의 예시는 파일을 닫기 전에 fd가 여전히 사용가능해서 발생하는 문제 : Capability Leak이다.
+- 고치려면? 특권 하향 전에 file descripter를 파괴해야한다(close the file)
