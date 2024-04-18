@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "합의 알고리즘",
+      "path": "4학년 1학기/블체/합의 알고리즘.md"
+    },
+    {
+      "basename": "POX",
+      "path": "4학년 1학기/블체/POX.md"
+    },
+    {
       "basename": "scalability",
       "path": "4학년 1학기/블체/scalability.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "탈중앙화",
       "path": "4학년 1학기/블체/탈중앙화.md"
-    },
-    {
-      "basename": "합의 알고리즘",
-      "path": "4학년 1학기/블체/합의 알고리즘.md"
     },
     {
       "basename": "CAP",
@@ -195,10 +199,6 @@
     {
       "basename": "족보 기말",
       "path": "3학년 2학기/컴퓨터 보안/족보 기말/족보 기말.md"
-    },
-    {
-      "basename": "CEX",
-      "path": "4학년 1학기/블체/CEX.md"
     }
   ],
   "omittedPaths": [],

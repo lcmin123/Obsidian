@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4학년 1학기/블체/scalability.md",
+                "file": "4학년 1학기/블체/합의 알고리즘.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4학년 1학기/블체/scalability.md",
+                "file": "4학년 1학기/블체/합의 알고리즘.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4학년 1학기/블체/scalability.md",
+                "file": "4학년 1학기/블체/합의 알고리즘.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4학년 1학기/블체/scalability.md"
+                "file": "4학년 1학기/블체/합의 알고리즘.md"
               }
             }
           },
@@ -209,12 +209,13 @@
   },
   "active": "78c122b4cb6dd3ba",
   "lastOpenFiles": [
+    "4학년 1학기/블체/POX.md",
+    "4학년 1학기/블체/scalability.md",
     "4학년 1학기/블체/클라우드 컴퓨팅.md",
     "4학년 1학기/블체/암호화 방식.md",
     "4학년 1학기/블체/탈중앙화.md",
     "4학년 1학기/블체/합의 알고리즘.md",
     "4학년 1학기/블체/CAP.md",
-    "4학년 1학기/블체/scalability.md",
     "4학년 1학기/블체/Layer.md",
     "4학년 1학기/블체/블록체인.md",
     "4학년 1학기/블체/web3.md",
@@ -234,7 +235,6 @@
     "4학년 1학기/시클보/chap.0/1. 정보 보안 기본 원칙.md",
     "4학년 1학기/시클보/chap.0/Accountability (책임성).md",
     "4학년 1학기/시클보/chap.0/Authenticity (인증성).md",
-    "4학년 1학기/시클보/chap.0/Availability (가용성).md",
     "Attached Files/KakaoTalk_Photo_2024-04-15-01-49-14.png",
     "Attached Files/Pasted image 20240415015253.png",
     "Attached Files/Pasted image 20240415015200.png",
