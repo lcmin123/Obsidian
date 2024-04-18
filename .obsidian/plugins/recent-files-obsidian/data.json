@@ -9,6 +9,22 @@
       "path": "4학년 1학기/블체/클라우드 컴퓨팅.md"
     },
     {
+      "basename": "암호화 방식",
+      "path": "4학년 1학기/블체/암호화 방식.md"
+    },
+    {
+      "basename": "탈중앙화",
+      "path": "4학년 1학기/블체/탈중앙화.md"
+    },
+    {
+      "basename": "합의 알고리즘",
+      "path": "4학년 1학기/블체/합의 알고리즘.md"
+    },
+    {
+      "basename": "CAP",
+      "path": "4학년 1학기/블체/CAP.md"
+    },
+    {
       "basename": "Layer",
       "path": "4학년 1학기/블체/Layer.md"
     },
@@ -23,10 +39,6 @@
     {
       "basename": "finalization",
       "path": "4학년 1학기/블체/finalization.md"
-    },
-    {
-      "basename": "합의 알고리즘",
-      "path": "4학년 1학기/블체/합의 알고리즘.md"
     },
     {
       "basename": "머클트리",
@@ -125,10 +137,6 @@
       "path": "프론트엔드/기타/기타.md"
     },
     {
-      "basename": "탈중앙화",
-      "path": "4학년 1학기/블체/탈중앙화.md"
-    },
-    {
       "basename": "Smart Contract",
       "path": "4학년 1학기/블체/Smart Contract.md"
     },
@@ -165,10 +173,6 @@
       "path": "4학년 1학기/블체/SSOT.md"
     },
     {
-      "basename": "암호화 방식",
-      "path": "4학년 1학기/블체/암호화 방식.md"
-    },
-    {
       "basename": "공격 표면",
       "path": "4학년 1학기/시클보/chap.1/공격 표면.md"
     },
@@ -191,10 +195,6 @@
     {
       "basename": "족보 기말",
       "path": "3학년 2학기/컴퓨터 보안/족보 기말/족보 기말.md"
-    },
-    {
-      "basename": "CAP",
-      "path": "4학년 1학기/블체/CAP.md"
     },
     {
       "basename": "CEX",
