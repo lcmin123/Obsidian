@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4학년 1학기/블체/web3.md",
+                "file": "4학년 1학기/블체/scalability.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4학년 1학기/블체/web3.md",
+                "file": "4학년 1학기/블체/scalability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4학년 1학기/블체/web3.md",
+                "file": "4학년 1학기/블체/scalability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4학년 1학기/블체/web3.md"
+                "file": "4학년 1학기/블체/scalability.md"
               }
             }
           },
@@ -209,8 +209,12 @@
   },
   "active": "78c122b4cb6dd3ba",
   "lastOpenFiles": [
-    "4학년 1학기/블체/finalization.md",
+    "4학년 1학기/블체/클라우드 컴퓨팅.md",
+    "4학년 1학기/블체/scalability.md",
+    "4학년 1학기/블체/Layer.md",
+    "4학년 1학기/블체/블록체인.md",
     "4학년 1학기/블체/web3.md",
+    "4학년 1학기/블체/finalization.md",
     "4학년 1학기/블체/합의 알고리즘.md",
     "4학년 1학기/블체/머클트리.md",
     "4학년 1학기/블체/as a service.md",
@@ -231,16 +235,12 @@
     "4학년 1학기/시클보/chap.0/Confidentiality (기밀성).md",
     "4학년 1학기/시클보/chap.0/Integrity (무결성).md",
     "4학년 1학기/캡스톤/1차대본.md",
-    "4학년 1학기/캡스톤/Untitled.md",
-    "4학년 1학기/캡스톤/1차 보고서.md",
     "Attached Files/KakaoTalk_Photo_2024-04-15-01-49-14.png",
     "Attached Files/Pasted image 20240415015253.png",
     "Attached Files/Pasted image 20240415015200.png",
     "Attached Files/Pasted image 20240415015121.png",
     "Attached Files/KakaoTalk_Photo_2024-04-15-01-47-38 1.png",
     "Attached Files/KakaoTalk_Photo_2024-04-15-01-47-38.png",
-    "프론트엔드/Next.js/강의 1 요약.md",
-    "프론트엔드/Next.js/Untitled 1.md",
     "프론트엔드/Next.js",
     "4학년 1학기/시클보/chap.1",
     "4학년 1학기/시클보/chap.0",

@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "scalability",
+      "path": "4학년 1학기/블체/scalability.md"
+    },
+    {
+      "basename": "클라우드 컴퓨팅",
+      "path": "4학년 1학기/블체/클라우드 컴퓨팅.md"
+    },
+    {
+      "basename": "Layer",
+      "path": "4학년 1학기/블체/Layer.md"
+    },
+    {
+      "basename": "블록체인",
+      "path": "4학년 1학기/블체/블록체인.md"
+    },
+    {
       "basename": "web3",
       "path": "4학년 1학기/블체/web3.md"
     },
@@ -113,10 +129,6 @@
       "path": "4학년 1학기/블체/탈중앙화.md"
     },
     {
-      "basename": "블록체인",
-      "path": "4학년 1학기/블체/블록체인.md"
-    },
-    {
       "basename": "Smart Contract",
       "path": "4학년 1학기/블체/Smart Contract.md"
     },
@@ -145,10 +157,6 @@
       "path": "4학년 1학기/블체/DEX.md"
     },
     {
-      "basename": "Layer",
-      "path": "4학년 1학기/블체/Layer.md"
-    },
-    {
       "basename": "SAP",
       "path": "4학년 1학기/블체/SAP.md"
     },
@@ -159,10 +167,6 @@
     {
       "basename": "암호화 방식",
       "path": "4학년 1학기/블체/암호화 방식.md"
-    },
-    {
-      "basename": "클라우드 컴퓨팅",
-      "path": "4학년 1학기/블체/클라우드 컴퓨팅.md"
     },
     {
       "basename": "공격 표면",
@@ -195,10 +199,6 @@
     {
       "basename": "CEX",
       "path": "4학년 1학기/블체/CEX.md"
-    },
-    {
-      "basename": "CRUD",
-      "path": "4학년 1학기/블체/CRUD.md"
     }
   ],
   "omittedPaths": [],
