@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "머클트리",
+      "path": "4학년 1학기/블체/머클트리.md"
+    },
+    {
+      "basename": "합의 알고리즘",
+      "path": "4학년 1학기/블체/합의 알고리즘.md"
+    },
+    {
+      "basename": "as a service",
+      "path": "4학년 1학기/블체/as a service.md"
+    },
+    {
       "basename": "Untitled",
       "path": "4학년 1학기/시클보/chap.1/Untitled.md"
     },
@@ -91,10 +103,6 @@
     {
       "basename": "탈중앙화",
       "path": "4학년 1학기/블체/탈중앙화.md"
-    },
-    {
-      "basename": "합의 알고리즘",
-      "path": "4학년 1학기/블체/합의 알고리즘.md"
     },
     {
       "basename": "블록체인",
@@ -191,14 +199,6 @@
     {
       "basename": "설문조사",
       "path": "4학년 1학기/캡스톤/설문조사.md"
-    },
-    {
-      "basename": "Js Syntax",
-      "path": "프론트엔드/기타/Js Syntax.md"
-    },
-    {
-      "basename": "4학년 1학기",
-      "path": "4학년 1학기/4학년 1학기.md"
     }
   ],
   "omittedPaths": [],
