@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "머클트리",
-      "path": "4학년 1학기/블체/머클트리.md"
+      "basename": "web3",
+      "path": "4학년 1학기/블체/web3.md"
+    },
+    {
+      "basename": "finalization",
+      "path": "4학년 1학기/블체/finalization.md"
     },
     {
       "basename": "합의 알고리즘",
       "path": "4학년 1학기/블체/합의 알고리즘.md"
+    },
+    {
+      "basename": "머클트리",
+      "path": "4학년 1학기/블체/머클트리.md"
     },
     {
       "basename": "as a service",
@@ -191,14 +199,6 @@
     {
       "basename": "CRUD",
       "path": "4학년 1학기/블체/CRUD.md"
-    },
-    {
-      "basename": "카카오vx",
-      "path": "4학년 1학기/캡스톤/카카오vx.md"
-    },
-    {
-      "basename": "설문조사",
-      "path": "4학년 1학기/캡스톤/설문조사.md"
     }
   ],
   "omittedPaths": [],
