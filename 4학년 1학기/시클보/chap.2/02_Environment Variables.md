@@ -100,6 +100,29 @@ LOGNAME3 = bob
 	- 두 변수는 사용자가 설정 가능하므로 프로그램이 SUID 프로그램이라면 보안 위반으로 이어짐
 	- Normal Programs
 		- 동적 링킹된 sleep 함수를 프로그램이 호출할 때, 공격자는 자체 sleep()함수를 구현하고, 해당 공유 라이브러리를 LD_PRELOAD 환경변수에 추가함으로써 악의적인 코드 삽입 가능
+```c
+mytest.c
+
+int main() {
+	sleep(1);
+	return 0;
+}
+
+sleep.c
+void sleep (int s){
+	printf("I am not sleeping");
+}
+```
+
+```shell
+attacking
+
+$ gcc -c sleep.c
+$ gcc -shared -o libmylib.so.1.0.1 sleep.o
+-> sleep.c 컴파일 한 뒤 공유 라이브러리에 배포 :: 이제 sleep(1) 실행 시 system의 sleep 대신 mySleep이 실행된다!
+
+
+```
 	- SUID Programs
 		- 위의 기법이 SUID 프로그램에서 작동 시 매우 위험
 		- 그러나 SUID 프로그램은 LD_PRELOAD 및 LD_LIBRARY_PATH 환경 변수를 무시하는 동적 링커의 대책이 적용되어있어, sleep()함수가 호출되지 않을 수 있음
