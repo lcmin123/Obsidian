@@ -256,7 +256,7 @@ int main(int argc, char** argv){
 	- 프로그램은 직접 환경 변수 사용 가능. 특권 프로그램의 경우, 이는 신뢰할 수 없는 입력 가져올 수 있음
 	- 예시 - 환경 변수를 사용해 현재 작업 디렉토리 출력
 ```c
-prog.c
+print_pwd.c
 
 int main(void)
 {
@@ -291,6 +291,11 @@ $ pwd
 /
 $ echo $PWD
 xyz
+$ ./print_pwd
+present working dir is: xyz
+$ export PWD = "anything I want"
+$ ./print_pwd
+present working dir is: anything I want
 -- current dir with modified shell var --
 ```
 - 프로그램은 PWD 환경 변수를 사용해 현재 디렉토리를 가져오고 이를 arr 배열에 복사하는데, 입력 길이 확인이 없어 **버퍼 오버플로우 발생 가능**
