@@ -177,12 +177,17 @@ $ echo "bob ALL = (ALL) NOPASSWD:ALL" >& 3
 - 외부 프로그램을 통한 공격
 	- 어플리케이션이 외부 프로그램을 호출 시, 환경 변수 사용 가능성 존재
 	- system() 
-		- fork() 시스템 콜을 통해 자식 프로세스로써 쉘 프로세스를 실행
-		- 
+		- prog_a에서 system(prog_b) 호출
+		- fork() 시스템 콜을 통해 자식 프로세스로써 쉘 프로세스를 실행 (PATH 환경변수 참조 - 쉘프로세스를 거쳐서 prog_b를 실행하기 때문에)
+		- 쉘 프로세스로 prog_b 실행
+	- execve()
+		- prog_a에서 execve(prog_b) 호출
+		- 직접적으로 prog_b 실행
 	- 공격표면 - prog_a가 pro_b를 호출할 때
 		- execve()사용 : prog_a와 prog_b의 합집합
 		- system()사용 : prog_a, prog_B, 쉘 프로그램(bash 등)의 합집합
 		- 결과적으로, execve()는 쉘을 호출하지 않으며, 환경변수의 영향을 받지 않으므로 특권 프로그램에서 외부 프로그램을 호출할 때는 execve()를 사용해야 쉘을 거치지 않고 직접 실행되므로 안전하다
+		- 환경변수는 일반 사용자가 SUID 입력등으로 조작할수 있음
 	- 예시 (PATH 변수 조작)
 ```c
 vulnerable.c
