@@ -157,7 +157,7 @@ LD_MYOWN = my own value
 ```
 - Dynamic Linker 공격 - Case 2
 	- OS X의 동적링커 사례
-	- DYLD_PRINT_TO_FILE 환경변수는 사용자가 dyld에 파일 이름을 제공할 수 있게 하며, SUID 프로그램에서는 사용자가 보호된 파일에 쓰기 권한을 가지게 함. 이로 인해 파일 디스크립터가 닫히지 않는 Capability Leaking 발생 가능
+	- DYLD_PRINT_TO_FILE 환경변수는 사용자가 dyld에 파일 이름을 제공할 수 있게 하며, SUID 프로그램에서는 사용자가 보호된 파일에 쓰기 권한을 가지게 함. 이로 인해 **파일 디스크립터가 닫히지 않는 Capability Leaking 발생** 가능
 	- 과정
 	1. DYLD_PRINT_TO_FILE를 /etc/sudoers로 설정
 	2. Bob의 계정으로 전환하기 위해 su를 실행
