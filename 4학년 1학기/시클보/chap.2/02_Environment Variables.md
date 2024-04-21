@@ -235,7 +235,7 @@ $ sudo ln -sf /bin/dash /bin/sh
 - 라이브러리를 통한 공격 - Case Locale in UNIX
 	- 메시지 출력마다, 프로그램은 번역된 메시지 위해 라이브러리 함수 사용
 	- UNIX는 libc 라이브러리의 gettext()와 catopen() 사용
-	- 예시 - argc 검사해 파일명이 주어지지 않았을 때 사용법을 출력하고 프로그램 종료
+	- 예시 - argc 검사해 argument가 주어지지 않았을 때 사용법을 출력하고 프로그램 종료
 ```c
 int main(int argc, char** argv){
 
