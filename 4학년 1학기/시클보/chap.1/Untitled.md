@@ -168,5 +168,15 @@ $ ls -l catall
 > -rwsr-xr-x root seed
 $ catall /etc/shadow
 > 정상 출력
-$ catall "aa;/bin/sh"
+$ catall "aa;/bin/sh" 
+-> root 권한으로 system(command) => bin/cat aa;bin/sh 실행한것과 동일.
+root 권한의 catall로 부터 bin/sh가 root 권한으로 실행되어 EUID root의 shell 실행.
 ```
+- 
+	- 방지하기 위해서..
+		- system() 대신 execve() 함수를 이용해 외부 명령어를 호출하면 안전
+		- 외부 명령어를 실행할 때 코드와 데이터를 분리해 사용자 input이 코드로 변환되는 것을 방지
+		- execve(v[0], v, 0)
+			- v[0] : 프로그램에 의해 제공되는 커맨드
+			- v : 사용자 input data
+			- 0 : 
