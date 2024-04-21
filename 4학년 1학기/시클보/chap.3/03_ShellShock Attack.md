@@ -39,6 +39,7 @@ Inside Func
 
 - 자식 프로세스에 쉘 함수 전달하기
 	- Approach 1 : 부모 쉘에서 함수를 정의하고 내보내면, 자식 프로세스에서 해당 함수 사용 가능
+	- ps $ x 2 로 현재 pid 확인 가능
 	- 예시
 ```shell
 $ foo() { echo "Inside Func"; }
