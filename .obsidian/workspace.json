@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4학년 1학기/블체/blockchain trilemma.md",
+                "file": "4학년 1학기/시클보/chap.1/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "25192bdd3f6894eb",
@@ -101,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4학년 1학기/블체/blockchain trilemma.md",
+                "file": "4학년 1학기/시클보/chap.1/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4학년 1학기/블체/blockchain trilemma.md",
+                "file": "4학년 1학기/시클보/chap.1/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4학년 1학기/블체/blockchain trilemma.md"
+                "file": "4학년 1학기/시클보/chap.1/Untitled.md"
               }
             }
           },
@@ -209,8 +210,8 @@
   },
   "active": "78c122b4cb6dd3ba",
   "lastOpenFiles": [
-    "4학년 1학기/블체/합의 알고리즘.md",
     "4학년 1학기/블체/blockchain trilemma.md",
+    "4학년 1학기/블체/합의 알고리즘.md",
     "4학년 1학기/블체/POX.md",
     "4학년 1학기/블체/scalability.md",
     "4학년 1학기/블체/클라우드 컴퓨팅.md",

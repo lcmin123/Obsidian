@@ -124,5 +124,8 @@ cat /etc/zzz
 >>> bbb
 >>> ccc
 ```
-- 위의 예시는 파일을 닫기 전에 fd가 여전히 사용가능해서 발생하는 문제 : Capability Leak이다.
-- 고치려면? 특권 하향 전에 file descripter를 파괴해야한다(close the file)
+- 
+	- 위의 예시는 파일을 닫기 전에 fd가 여전히 사용가능해서 발생하는 문제 : Capability Leak이다.
+	- 고치려면? 특권 하향 전에 file descripter를 파괴해야한다(close the file)
+- Capability Leaking in OS X
+	- 
