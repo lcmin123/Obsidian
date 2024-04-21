@@ -133,9 +133,10 @@ $ ./mytest
 $
 -> 다시 system의 sleep 실행
 ```
+- 
 	- SUID Programs
 		- 위의 기법이 SUID 프로그램에서 작동 시 매우 위험
-		- 그러나 SUID 프로그램은 LD_PRELOAD 및 LD_LIBRARY_PATH 환경 변수를 무시하는 동적 링커의 대책이 적용되어있어, sleep()함수가 호출되지 않을 수 있음
+		- **그러나 SUID 프로그램은 LD_PRELOAD 및 LD_LIBRARY_PATH 환경 변수를 무시하는 동적 링커의 대책이 적용**되어있어, sleep()함수가 호출되지 않을 수 있음
 ```shell
 $ cp /usr/bin/env ./myenv
 $ sudo chown root myenv
