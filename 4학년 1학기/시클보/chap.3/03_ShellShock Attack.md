@@ -27,9 +27,33 @@ foo ()
 { 
     echo "Inside Func"
 }
+-> 함수의 정의를 확인
  $ foo
 Inside Func
+-> 함수 호출
  $ unset -f foo
+ -> 함수 삭제
  $ declare -f foo
+ -> 함수의 정의를 확인하면 아무것도 없다
+```
+
+- 자식 프로세스에 쉘 함수 전달하기
+	- Approach 1 : 부모 쉘에서 함수를 정의하고 내보내면, 자식 프로세스에서 해당 함수 사용 가능
+	- 예시
+```shell
+$ foo() { echo "Inside Func"; }
+ -> foo라는 함수를 정의
+$ declare -f foo
+foo () 
+{ 
+    echo "Inside Func"
+}
+-> 함수의 정의를 확인
+$ foo
+Inside Func
+-> 함수 호출
+$ export -f foo
+-> 내보내기
+
 ```
 
