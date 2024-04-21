@@ -119,9 +119,19 @@ attacking
 
 $ gcc -c sleep.c
 $ gcc -shared -o libmylib.so.1.0.1 sleep.o
--> sleep.c 컴파일 한 뒤 공유 라이브러리에 배포 :: 이제 sleep(1) 실행 시 system의 sleep 대신 mySleep이 실행된다!
+-> sleep.c 컴파일 한 뒤 공유 라이브러리에 배포
 
+$ export LD_PRELOAD = ./libmylib.so.1.0.1
+-> 환경변수에 공유 라이브러리 추가 :: 이제 sleep(1) 실행 시 system의 sleep 대신 mySleep이 실행된다!
 
+$ ./mytest
+I am not sleeping!
+-> ./mytest는 먼저 LD_PRELOAD에서 sleep을 찾는다. gotcha! our library function got invoked!
+
+$ unset LD_PRELOAD
+$ ./mytest
+$
+-> 다시 system의 sleep
 ```
 	- SUID Programs
 		- 위의 기법이 SUID 프로그램에서 작동 시 매우 위험
