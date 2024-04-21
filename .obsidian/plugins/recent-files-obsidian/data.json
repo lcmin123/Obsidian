@@ -5,12 +5,36 @@
       "path": "4학년 1학기/시클보/chap.3/03_ShellShock Attack.md"
     },
     {
-      "basename": "chap.3",
-      "path": "4학년 1학기/시클보/chap.3/chap.3.md"
+      "basename": "1. 정보 보안 기본 원칙",
+      "path": "4학년 1학기/시클보/chap.0/1. 정보 보안 기본 원칙.md"
+    },
+    {
+      "basename": "Confidentiality (기밀성)",
+      "path": "4학년 1학기/시클보/chap.0/Confidentiality (기밀성).md"
+    },
+    {
+      "basename": "Integrity (무결성)",
+      "path": "4학년 1학기/시클보/chap.0/Integrity (무결성).md"
+    },
+    {
+      "basename": "Availability (가용성)",
+      "path": "4학년 1학기/시클보/chap.0/Availability (가용성).md"
+    },
+    {
+      "basename": "Authenticity (인증성)",
+      "path": "4학년 1학기/시클보/chap.0/Authenticity (인증성).md"
+    },
+    {
+      "basename": "Accountability (책임성)",
+      "path": "4학년 1학기/시클보/chap.0/Accountability (책임성).md"
     },
     {
       "basename": "02_Environment Variables",
       "path": "4학년 1학기/시클보/chap.2/02_Environment Variables.md"
+    },
+    {
+      "basename": "chap.3",
+      "path": "4학년 1학기/시클보/chap.3/chap.3.md"
     },
     {
       "basename": "chap.2",
@@ -83,30 +107,6 @@
     {
       "basename": "chap.0",
       "path": "4학년 1학기/시클보/chap.0/chap.0.md"
-    },
-    {
-      "basename": "1. 정보 보안 기본 원칙",
-      "path": "4학년 1학기/시클보/chap.0/1. 정보 보안 기본 원칙.md"
-    },
-    {
-      "basename": "Accountability (책임성)",
-      "path": "4학년 1학기/시클보/chap.0/Accountability (책임성).md"
-    },
-    {
-      "basename": "Authenticity (인증성)",
-      "path": "4학년 1학기/시클보/chap.0/Authenticity (인증성).md"
-    },
-    {
-      "basename": "Availability (가용성)",
-      "path": "4학년 1학기/시클보/chap.0/Availability (가용성).md"
-    },
-    {
-      "basename": "Confidentiality (기밀성)",
-      "path": "4학년 1학기/시클보/chap.0/Confidentiality (기밀성).md"
-    },
-    {
-      "basename": "Integrity (무결성)",
-      "path": "4학년 1학기/시클보/chap.0/Integrity (무결성).md"
     },
     {
       "basename": "1차대본",
