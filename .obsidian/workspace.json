@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4학년 1학기/시클보/chap.1/01_SetUID.md",
+                "file": "4학년 1학기/시클보/chap.2/02_Environment Variables.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4학년 1학기/시클보/chap.1/01_SetUID.md",
+                "file": "4학년 1학기/시클보/chap.2/02_Environment Variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4학년 1학기/시클보/chap.1/01_SetUID.md",
+                "file": "4학년 1학기/시클보/chap.2/02_Environment Variables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4학년 1학기/시클보/chap.1/01_SetUID.md"
+                "file": "4학년 1학기/시클보/chap.2/02_Environment Variables.md"
               }
             }
           },
@@ -209,8 +209,13 @@
   },
   "active": "78c122b4cb6dd3ba",
   "lastOpenFiles": [
-    "4학년 1학기/시클보/chap.1/000INDEX.md",
+    "4학년 1학기/시클보/chap.2/chap.2.md",
+    "4학년 1학기/시클보/chap.2/02_Environment Variables.md",
     "4학년 1학기/시클보/chap.1/01_SetUID.md",
+    "4학년 1학기/시클보/chap.1/chap.1.md",
+    "4학년 1학기/시클보/chap.2",
+    "4학년 1학기/시클보/Untitled.md",
+    "4학년 1학기/시클보/chap.1/000INDEX.md",
     "4학년 1학기/시클보/chap.1/Set-UID 개념.md",
     "4학년 1학기/블체/blockchain trilemma.md",
     "4학년 1학기/블체/합의 알고리즘.md",
@@ -231,10 +236,6 @@
     "4학년 1학기/시클보/chap.1/Set-UID 프로그램의 보안 결함.md",
     "4학년 1학기/시클보/chap.1/Set-UID 메커니즘 작동 방식.md",
     "4학년 1학기/시클보/chap.1/Set-UID 특권 프로그램에 대한 개요.md",
-    "4학년 1학기/시클보/chap.1/Set-UID 프로그램의 필요성.md",
-    "4학년 1학기/시클보/chap.0/chap.0.md",
-    "4학년 1학기/시클보/chap.0/1. 정보 보안 기본 원칙.md",
-    "4학년 1학기/시클보/chap.0/Accountability (책임성).md",
     "Attached Files/KakaoTalk_Photo_2024-04-15-01-49-14.png",
     "Attached Files/Pasted image 20240415015253.png",
     "Attached Files/Pasted image 20240415015200.png",
@@ -251,7 +252,6 @@
     "4학년 1학기/캡스톤",
     "4학년 1학기/객2",
     "4학년 1학기/시클보",
-    "4학년 1학기",
     "Attached Files/Pasted image 20240113190128.png",
     "Attached Files/Pasted image 20240113184723.png",
     "Attached Files/Pasted image 20240113184343.png",
