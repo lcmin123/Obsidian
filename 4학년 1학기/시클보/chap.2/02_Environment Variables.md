@@ -41,5 +41,20 @@
 	- 쉘 변수와 환경 변수는 다르다
 	- 쉘 프로그램 실행 시 ,쉘 변수로 환경 변수가 복사된다. 쉘 변수 변경은 환경 변수에 영향을 주지 않는다.
 ```shell 
-$ strings /proc/&&/environ | 
+$ strings /proc/&&/environ | grep LOGNAME
+LOGNAME = seed -> 환경변수
+$ ehco $LOGNAME
+seed -> 쉘변수
+$ LOGNAME = bob -> 환경변수 LOGNAME 변경
+$ echo $LOGNAME
+bob
+$ strings /proc/$$/environ | grep LOGNAME
+LOGNAME = seed -> 환경변수는 영향없음
+$ unset LOGNAME -> 쉘변수 초기화
+$ echo $LOGNAME
+
+$ strings /proc/$$/environ | grep LOGNAME
+LOGNAME = seed -> 환경변수는 영향없음
 ```
+- 쉘 변수가 자식 프로세스의 환경 변수에 미치는 영향
+	- 
