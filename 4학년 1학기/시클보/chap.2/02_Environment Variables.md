@@ -77,4 +77,14 @@ LOGNAME3 = bob
 - 환경 변수로 인한 공격 표면
 	- 환경 변수의 숨겨진 사용은 위험
 	- 사용자가 환경 변수를 설정할 수 있으므로 ,환경변수는 SUID 프로그램에서의 공격표면이 된다
-	- 외부 라이브러리 함수 코드를 로딩하는 Linker, Library, External Program, Application Code등이 공격 표면
+	- 외부 라이브러리 함수 코드를 로딩하는 Linker, Library, External Program, Application Code등이 공격 표면이 될 수 있음
+- Linker를 이용한 공격
+	- 외부 라이브러리를 로드하는 과정에서 공격 발생가능
+	- Dynamic Linking
+		- 프로그램 실행 시 linking
+		- gcc -o hello hello.c
+		- 환경 변수를 사용하며, 그것이 공격표면화
+	- Static Linking
+		- 컴파일시 linking
+		- gcc -static -o hello hello.c
+		- 링커는 프로그램 코드와 라이브러리
