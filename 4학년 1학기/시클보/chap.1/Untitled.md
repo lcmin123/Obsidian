@@ -130,3 +130,25 @@ cat /etc/zzz
 - Capability Leaking in OS X
 	- 동적 링커 dyld에 DYLD_PRINT_TO_FILE 환경 변수를 추가함으로 공격
 	- SUID 프로그램에서 root 권한 프로그램이 dyld 호출 시 dyld의 EUID 또한 root가 됨을 이용
+- Invoking other programs
+	- 일반적으로 SUID 프로그램이 실행하는 외부 명령어는 사용자의 input을 받지 않음
+	- 공격
+		- 사용자는 종종 외부 명령어에 입력 데이터를 제공하도록 요청받는데,
+		- 외부 명령어가 올바르게 호출되지 않으면 사용자의 입력 데이터가 명령어 이름으로 변환될 수 있음 → 위험
+	- 안전하지 않은 접근
+		- 외부 명령어를 호출하는 가장 쉬운 방법은 system() 함수
+		- 아래의 프로그램은 /bin/cat 프로그램을 실행해야 함
+		- root 소유 SUID 프로그램이므로 프로그램은 모든 파일을 볼 수는 있지만 쓸 수는 없다
+		- 이 프로그램을 사용해 다른 명령어를 root 권한으로 실행해보자
+```c
+int main (int argc, char *argv[]) {
+	char *cat = "/bin/cat";
+	
+	if (argc < 2) {
+		priintf("please type a file name");
+		return 1;
+	}
+
+	char *command = malloc(strle)
+}
+```
