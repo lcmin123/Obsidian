@@ -142,8 +142,14 @@ $ cp /usr/bin/env ./myenv
 $ sudo chown root myenv
 $ sudo chmod 4755 myenv
 
+$ export LD_PRELOAD = ./libmylib.so.1.0.1
+$ export LD_LIBRARY_PATH = . 
+-> 현재 디렉토리
+$ export LD_MYOWN = "my own value"
+
 $ env | grep LD_
-LD_LIBRARY_PATH = .
+LD_PRELOAD = ./libmylib.so.1.0.1
+LD_LIBRARY_PATH = . 
 LD_MYOWN = my own value
 $ myenv | grep LD_
 LD_MYOWN = my own value
