@@ -16,3 +16,7 @@
 	- fork() 시스템 호출을 사용해 자식은 부모의 환경 변수를 상속받음
 	- 프로세스가 자체적으로 새 프로그램을 실행 할 때, execve()를 이용해 시스템 호출. 이때 프로세스 메모리 공간이 새 프로그램 데이터로 덮어 씌워지며 이전 환경변수 손실. 
 	  execve()는 int execve(const char* filename, char* const argv[], <<char* const envp[]>>)를 이용해 환경 변수 전달 가능
+- 환경 변수의 메모리 할당
+	- 환경 변수는 메모리의 stack에 저장
+	- heap은 malloc, new등으로 동적 메모리 관리
+	- 
