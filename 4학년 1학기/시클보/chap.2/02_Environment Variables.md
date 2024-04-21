@@ -36,7 +36,7 @@
 		- 프로세스의 동작 방식을 조절
 		- 프로그램 실행 시 중요한 역할
 - /proc file system
-	- /proc 파일 시스템은 커널 및 프로세스 정보 실행중인 프로세스에 대한 데$이터가 저장) 제공
+	- /proc 파일 시스템은 커널 및 프로세스 정보 실행중인 프로세스에 대한 데이터가 저장) 제공
 	- strings /proc/ $ /environ 명령어를 통해 현재 프로세스의 환경 변수 출력 가능
 - 쉘 변수와 환경 변수 - 이어서
 	- 쉘 변수와 환경 변수는 다르다
@@ -46,7 +46,7 @@ $ strings /proc/&&/environ | grep LOGNAME
 LOGNAME = seed -> 환경변수
 $ ehco $LOGNAME
 seed -> 쉘변수
-$ LOGNAME = bob -> 환경변수 LOGNAME 변경
+$ LOGNAME = bob -> 쉘변수 LOGNAME 변경
 $ echo $LOGNAME
 bob
 $ strings /proc/$$/environ | grep LOGNAME
