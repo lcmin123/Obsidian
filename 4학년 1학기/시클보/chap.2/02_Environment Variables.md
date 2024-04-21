@@ -131,7 +131,7 @@ I am not sleeping!
 $ unset LD_PRELOAD
 $ ./mytest
 $
--> 다시 system의 sleep
+-> 다시 system의 sleep 실행
 ```
 	- SUID Programs
 		- 위의 기법이 SUID 프로그램에서 작동 시 매우 위험
