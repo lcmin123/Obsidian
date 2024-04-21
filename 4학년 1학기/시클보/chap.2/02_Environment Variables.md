@@ -59,4 +59,17 @@ LOGNAME = seed -> 환경변수는 영향없음
 - 쉘 변수가 자식 프로세스의 환경 변수에 미치는 영향
 	- 부모 프로세스의 쉘 변수 중 부모의 환경변수 사본 쉘 변수와, exported shell 변수가 자식으로 전달된다.
 	- not exported shell 변수와 predefined shell 변수는 자식에게 전달되지 않는다.
-- 
+```shell
+$ strings /proc/$$/environ | grep LOGNAME
+LOGNAME = seed
+$ LOGNAME2 = alice
+$ export LOGNAME3 = bob 
+-> exported shell variable
+$ env | grep LOGNAME 
+-> 현재 환경변수 보여주는 명령어: 쉘은 새로운 자식 프로세스를 생성해 환경 변수 출력
+LOGNAME = seed
+LOGNAME3 = bob
+$ unset LOGNAME 
+-> LOGNAME 쉘 변수 할당 해제
+
+```
