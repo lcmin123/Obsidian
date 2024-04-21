@@ -177,6 +177,30 @@ root 권한의 catall로 부터 bin/sh가 root 권한으로 실행되어 EUID ro
 		- system() 대신 execve() 함수를 이용해 외부 명령어를 호출하면 안전
 		- 외부 명령어를 실행할 때 코드와 데이터를 분리해 사용자 input이 코드로 변환되는 것을 방지
 		- execve(v[0], v, 0)
-			- v[0] : 프로그램에 의해 제공되는 커맨드
+			- v[0] : 실행할 프로그램 경로
 			- v : 사용자 input data
-			- 0 : 
+			- 0 : 환경변수 배열
+	- 안전한 코드
+```c
+catall.c
+
+int main (int argc, char *argv[]) {
+	char *v[3];
+	
+	if (argc < 2) {
+		priintf("please type a file name");
+		return 1;
+	}
+
+	v[0] = "/bin/cat";
+	v[1] = argv[1];
+	v[2] = 0;
+
+	execve(v[0], v, 0);
+	
+	return 0;
+}
+```
+- 보안 원칙
+	- 코드와 데이터는 반드시 분리되어야 함
+
