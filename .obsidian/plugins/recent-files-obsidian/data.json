@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "02_Environment Variables",
+      "path": "4학년 1학기/시클보/chap.2/02_Environment Variables.md"
+    },
+    {
+      "basename": "01_SetUID",
+      "path": "4학년 1학기/시클보/chap.1/01_SetUID.md"
+    },
+    {
       "basename": "03_ShellShock Attack",
       "path": "4학년 1학기/시클보/chap.3/03_ShellShock Attack.md"
     },
@@ -29,20 +37,12 @@
       "path": "4학년 1학기/시클보/chap.0/Accountability (책임성).md"
     },
     {
-      "basename": "02_Environment Variables",
-      "path": "4학년 1학기/시클보/chap.2/02_Environment Variables.md"
-    },
-    {
       "basename": "chap.3",
       "path": "4학년 1학기/시클보/chap.3/chap.3.md"
     },
     {
       "basename": "chap.2",
       "path": "4학년 1학기/시클보/chap.2/chap.2.md"
-    },
-    {
-      "basename": "01_SetUID",
-      "path": "4학년 1학기/시클보/chap.1/01_SetUID.md"
     },
     {
       "basename": "chap.1",
