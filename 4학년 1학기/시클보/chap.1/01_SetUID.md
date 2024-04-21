@@ -1,4 +1,5 @@
 - Two - Tier Approach
+	- 운영체제에 의한 접근제어인 generic access, 특권 프로그램에 의한 fine-grained access로 나뉜다
 	- 운영체제에서 세밀한 접근 제어를 구현하는 것은 바람직하지 않음
 	- 그래서 접근 제어를 위해 특권 프로그램 이용
 	  ex) passwd 프로그램 → /etc/shadow 파일에 대한 세밀한 접근 제어 로직 구현
