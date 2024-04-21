@@ -115,13 +115,27 @@ attack
 -> extra command gets executed!
 -----------------child--------------------
 $ echo $foo
-
+-> shell function이므로 무응답
 $ declare -f foo
 foo (){
 	echo "hello"
 }
 ```
 
+- bash code의 문제점
+``` c
+void initialize_shell_variables (char** env,int privmode) {
+
+	if (privmode == 0 && read_but_dont_execute ==0 && STREQN ("() (",string,4)))
+}
+-> parsing하며
+foo = () {echo "hello";}; echo "extra";를
+foo () {echo "hello";}; echo "extra";로
+코드를 전환한다 (등호 없애기)
+
+parse_and_execute(temp_string, name, SEVAL_NONINT | SEVAL_NONIST);
+-> 전환된 코드에서 세미콜론을 기준으로 foo(){echo "hello";} 실행 후 echo "extra"를 실행한다
+```
 
 
 
