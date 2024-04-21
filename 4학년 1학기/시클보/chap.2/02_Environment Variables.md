@@ -133,4 +133,26 @@ password:
 $ echo "bob ALL = (ALL) NOPASSWD:ALL" >& 3
 ```
 - 외부 프로그램을 통한 공격
-	- 
+	- 어플리케이션이 외부 프로그램을 호출 시, 환경 변수 사용 가능성 존재
+	- 공격표면 - prog_a가 pro_b를 호출할 때
+		- execve()사용 : prog_a와 prog_b의 합집합
+		- system()사용 : prog_a, prog_B, 쉘 프로그램(bash 등)의 합집합
+		- 결과적으로, execve()는 쉘을 호출하지 않으며, 환경변수의 영향을 받지 않으므로 특권 프로그램에서 외부 프로그램을 호출할 때는 execve()를 사용해야 쉘을 거치지 않고 직접 실행되므로 안전하다
+	- 예시 (PATH 변수 조작)
+```c
+vulnerable.c
+
+int main(){
+	system("cal");
+}
+
+cal.c -> 공격자에 의해 작성된 코드
+
+int main(){
+	system("/bin/dash/");
+}
+```
+
+```shell
+
+```
