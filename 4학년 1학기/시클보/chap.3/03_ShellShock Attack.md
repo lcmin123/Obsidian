@@ -12,3 +12,24 @@
 	- Set-UID root 프로그램이 /bin/ls 명령어를 실행할 때 쉘쇼크 취약점을 악용하여 권한이 없는 명령어가 실행될 수 있음을 설명합니다.
 	- Set-UID root 프로그램이 system() 함수를 사용하여 /bin/ls 명령어를 실행하고, 이를 통해 공격자가 설정한 환경 변수에 의해 무단 명령어가 실행될 수 있음을 보여줍니다.
 
+- 배경 : 쉘 함수
+	- 쉘 프로그램은 운영 체제의 명령 줄 해석기
+	- 사용자와 운영 체제 간의 인터페이스 제공
+	- sh, bash, zsh 등 이 존재
+	- bash 쉘은 가장 인기있는 linux 쉘 중 하나
+	- 쉘 쇼크 취약점은 쉘 함수와 관련 있음
+	- 예시
+```shell
+ $ foo() { echo "Inside Func"; }
+ -> foo라는 함수를 정의
+ $ declare -f foo
+foo () 
+{ 
+    echo "Inside Func"
+}
+ $ foo
+Inside Func
+ $ unset -f foo
+ $ declare -f foo
+```
+
