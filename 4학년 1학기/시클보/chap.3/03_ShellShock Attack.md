@@ -75,6 +75,25 @@ Inside Func
 - Approach 2 : 환경 변수를 정의한다. 그것이 곧 차일드 배쉬 프로세스의 함수 정의가 된다.
 	**- 부모 프로세스가 쉘 프로세스가 아니더라도 환경 변수만 가지고 있으면 된다**
 ```shell
-$ foo = '() { echo "hello"}'
+$ foo = '() { echo "hello"; }'
+$ echo $foo
+() { echo "hello"; }
+$ declare -f foo
+-> 아직 쉘 변수 상태이므로 declare 안먹힘
+$ export foo
+-> export를 통해 child의 환경변수에 추가하고, shell function으로 변환
+$ bash_shellshock
+-> 취약한 버전의 bash를 차일드에서 실행
+-------------------child------------------
+$ echo $foo
+-> foo는 더이상 shell 변수가 아닌, shell function이다
+$ delcare -f foo
+foo(){
+	echo "hello"
+}
+$ foo
+hello
 ```
+
+
 
