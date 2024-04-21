@@ -8,4 +8,11 @@
 	- 환경변수는 초기에 스택에 저장되며, main() 호출전에 스택에 푸시됨
 	- envp와 environ은 초기에 동일 위치를 가리키지만, envp는 main() 함수 내에서만 접근 가능하며 environ은 전역변수임
 	- 환경변수에 대한 메모리 위치 변경 시 environ 변경 가능
-	- 쉘 변수는 쉘에서 ㅅ
+	- 쉘 변수는 쉘에서 사용되는 내부 변수, 사용자가 할당 및 삭제 가능
+- 환경 변수 접근 방법
+	- main() 파라미터 통해 접근 (char* envp[])
+	- 전역변수 사용해 접근 (extern char** environ)
+- 프로세스가 환경 변수를 얻는 방법
+	- fork() 시스템 호출을 사용해 자식은 부모의 환경 변수를 상속받음
+	- 프로세스가 자체적으로 새 프로그램을 실행 할 때, execve()를 이용해 시스템 호출. 이때 프로세스 메모리 공간이 새 프로그램 데이터로 덮어 씌워지며 이전 환경변수 손실. 
+	  execve()는 int execve(const char* filename, char* const argv[], char const envp[])
