@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4학년 1학기/시클보/chap.1/Untitled.md",
+                "file": "4학년 1학기/시클보/chap.1/01_SetUID.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,8 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "25192bdd3f6894eb",
@@ -102,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4학년 1학기/시클보/chap.1/Untitled.md",
+                "file": "4학년 1학기/시클보/chap.1/01_SetUID.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4학년 1학기/시클보/chap.1/Untitled.md",
+                "file": "4학년 1학기/시클보/chap.1/01_SetUID.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4학년 1학기/시클보/chap.1/Untitled.md"
+                "file": "4학년 1학기/시클보/chap.1/01_SetUID.md"
               }
             }
           },
@@ -210,6 +209,9 @@
   },
   "active": "78c122b4cb6dd3ba",
   "lastOpenFiles": [
+    "4학년 1학기/시클보/chap.1/000INDEX.md",
+    "4학년 1학기/시클보/chap.1/01_SetUID.md",
+    "4학년 1학기/시클보/chap.1/Set-UID 개념.md",
     "4학년 1학기/블체/blockchain trilemma.md",
     "4학년 1학기/블체/합의 알고리즘.md",
     "4학년 1학기/블체/POX.md",
@@ -224,9 +226,6 @@
     "4학년 1학기/블체/finalization.md",
     "4학년 1학기/블체/머클트리.md",
     "4학년 1학기/블체/as a service.md",
-    "4학년 1학기/시클보/chap.1/Untitled.md",
-    "4학년 1학기/시클보/chap.1/Set-UID 개념.md",
-    "4학년 1학기/시클보/chap.1/000INDEX.md",
     "4학년 1학기/시클보/chap.1/특권 프로그램 유형.md",
     "4학년 1학기/시클보/chap.1/특권 프로그램의 보안 강화 방법.md",
     "4학년 1학기/시클보/chap.1/Set-UID 프로그램의 보안 결함.md",

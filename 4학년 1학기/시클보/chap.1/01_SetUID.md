@@ -201,6 +201,27 @@ int main (int argc, char *argv[]) {
 	return 0;
 }
 ```
+- 추가적인 논의
+	- execlp(), execvp(), execvpe()등은 PATH 환경변수 공격을 받을 수 있다
 - 보안 원칙
 	- 코드와 데이터는 반드시 분리되어야 함
-
+	- 공격 표면
+		- system()
+		- cross site scripting
+		- sql injection
+		- buffer overfolw attack
+- 최소 권한 원칙
+	- 특권 프로그램은 필요한 작업만 수행할 수 있는 최하의 권한을 부여받아야 함
+	- 특권 프로그램이 해당 권한이 더 이상 필요하지 않을 때 권한을 비활성화 (일시적 혹은 영구적) 해야함
+	- Linux에서는 seteuid(), setuid()를 이용해 권한 통제 가능
+**- 요약**
+	- Set-UID Privileged Programs
+		- 특권 프로그램의 필요성, Set-UID 메커니즘 작동, 보안 결함, 공격 표면, 특권 프로그램 보안 강화 방법 등에 대해 다룸
+	- Capability Leaking
+		- 특권 프로그램이 실행 중 권한을 낮추면서 발생하는 능력 누출에 대한 사례와 취약점 설명
+	- Invoking Other Programs
+		- 외부 명령어 호출에 대한 안전한 방법과 위험한 접근 방식, 그리고 다른 언어에서의 외부 명령어 호출에 대한 고려 사항을 다룸
+	- Principle of Code/Data Isolation
+		- 코드와 데이터의 분리를 통한 보안성 강화 방법과 위반 시 발생하는 공격에 대해 설명
+	- Principle of Least Privilege
+		- 특권 프로그램에 최소한의 권한을 부여하고 필요 없는 권한은 비활성화하는 원칙과 이를 구현하는 방법에 대해 다룸
