@@ -221,5 +221,22 @@ int main(void)
 ```shell
 $ pwd
 /seed/temp
-$ e
+$ echo $PWD
+/seed/temp
+$ cd..
+$ echo $PWD
+/seed
+$ cd /
+$ echo $PWD
+/
+-- current dir with unmodified shell var --
+$ PWD = xyz
+$ pwd
+/
+$ echo $PWD
+xyz
+-- current dir with modified shell var --
 ```
+- 프로그램은 PWD 환경 변수를 사용해 현재 디렉토리를 가져오고 이를 arr 배열에 복사하는데, 입력 길이 확인이 없어 버퍼 오버플로우 발생 가능
+- PWD 값은 쉘 프로그램에서 가져오며, 폴더 변경마다 쉘 프로그램이 쉘 변수 업데이트. 또한 사용자가 직접 쉘 변수 변경 가능
+- 이런 상황에서, 프로그램은 PWD 값에 의존하여 현재 디렉토리를 가져오는데, 이는 사용자가 PWD 값을 조작해 공격할 수 있음을 의미
