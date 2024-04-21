@@ -182,3 +182,19 @@ $ sudo ln -sf /bin/dash /bin/sh
 - 라이브러리를 통한 공격 - Case Locale in UNIX
 	- 메시지 출력마다, 프로그램은 번역된 메시지 위해 라이브러리 함수 사용
 	- UNIX는 libc 라이브러리의 gettext()와 catopen() 사용
+	- 예시
+```c
+int main(int argc, char** argv){
+
+	if(argc > 1){
+		printf(gettext("usage: %s filename"), argv[0]);
+		exit(0);
+	}
+	printf("normal execution proceeds...");
+}
+```
+- 
+	- gettext()에서 리턴된 값이 priintf()의 포맷 문자열로 사용됨
+	- 공격자가 printf() 호출에 제공되는 포맷 문자열을 제어할 수 있다면, 특권 프로그램의 포맷 문자열을 제어할 수 있게 되어 결국 특권 프로그램의 완전 제어 가능
+- 대책
+	- SUID 프로그램에서 catopen()및 catgets()함수가 호출 될 때 NSLPATH 환경 변수를 명시적으로 확인하고 무시하는 방법 등
