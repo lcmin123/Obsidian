@@ -128,4 +128,5 @@ cat /etc/zzz
 	- 위의 예시는 파일을 닫기 전에 fd가 여전히 사용가능해서 발생하는 문제 : Capability Leak이다.
 	- 고치려면? 특권 하향 전에 file descripter를 파괴해야한다(close the file)
 - Capability Leaking in OS X
-	- 
+	- 동적 링커 dyld에 DYLD_PRINT_TO_FILE 환경 변수를 추가함으로 공격
+	- SUID 프로그램에서 root 권한 프로그램이 dyld 호출 시 dyld의 EUID 또한 root가 됨을 이용
