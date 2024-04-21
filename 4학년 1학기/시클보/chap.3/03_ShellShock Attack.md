@@ -55,6 +55,15 @@ Inside Func
 -> 함수 호출
 $ export -f foo
 -> 내보내기
-
+$ bash 
+-> 자식 프로세스 생성
+$ ps $$
+-> 자식 프로세스의 pid 나옴
+$ declare -f foo
+foo (){
+	echo "Inside Func"
+}
+$ foo
+Inside Func
 ```
 
