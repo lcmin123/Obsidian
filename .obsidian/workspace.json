@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4학년 1학기/시클보/chap.2/02_Environment Variables.md",
+                "file": "4학년 1학기/시클보/chap.3/03_ShellShock Attack.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4학년 1학기/시클보/chap.2/02_Environment Variables.md",
+                "file": "4학년 1학기/시클보/chap.3/03_ShellShock Attack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4학년 1학기/시클보/chap.2/02_Environment Variables.md",
+                "file": "4학년 1학기/시클보/chap.3/03_ShellShock Attack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4학년 1학기/시클보/chap.2/02_Environment Variables.md"
+                "file": "4학년 1학기/시클보/chap.3/03_ShellShock Attack.md"
               }
             }
           },
@@ -234,8 +234,8 @@
   },
   "active": "e5e5542bc90a0e83",
   "lastOpenFiles": [
-    "4학년 1학기/시클보/chap.1/01_SetUID.md",
     "4학년 1학기/시클보/chap.2/02_Environment Variables.md",
+    "4학년 1학기/시클보/chap.1/01_SetUID.md",
     "4학년 1학기/시클보/chap.3/03_ShellShock Attack.md",
     "4학년 1학기/시클보/chap.0/1. 정보 보안 기본 원칙.md",
     "4학년 1학기/시클보/chap.0/Confidentiality (기밀성).md",
