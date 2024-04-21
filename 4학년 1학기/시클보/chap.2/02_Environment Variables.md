@@ -251,6 +251,7 @@ int main(int argc, char** argv){
 	- 공격자가 SUID 프로그램 등으로 printf() 호출에 제공되는 포맷 문자열을 제어할 수 있다면(NLSPATH 등의 환경변수 조작), 특권 프로그램의 포맷 문자열을 제어할 수 있게 되어 결국 특권 프로그램의 완전 제어 가능
 - 대책
 	- SUID 프로그램에서 catopen()및 catgets()함수가 호출 될 때 NSLPATH 환경 변수를 명시적으로 확인하고 무시하는 방법 등
+	- 보안 상 문제가 없는지 확인하는 과정을 sanitization이라 한다
 - 응용 프로그램 코드를 통한 공격
 	- 프로그램은 직접 환경 변수 사용 가능. 특권 프로그램의 경우, 이는 신뢰할 수 없는 입력 가져올 수 있음
 	- 예시 - 환경 변수를 사용해 현재 작업 디렉토리 출력
@@ -263,8 +264,10 @@ int main(void)
 	char* ptr;
 
 	ptr = getenv("PWD");
+	->PWD 환경변수를 가져온다
 	if(ptr != NULL) {
 		sptintf(arr,"present working dir is: %s", ptr);
+		->arr 버퍼에 문자열 채운다
 		printf("%s\n",arr);
 	}
 	return 0;
