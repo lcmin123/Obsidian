@@ -303,7 +303,7 @@ present working dir is: anything I want
 - 이런 상황에서, 프로그램은 PWD 값에 의존하여 현재 디렉토리를 가져오는데, 이는 사용자가 PWD 값을 조작해 공격할 수 있음을 의미
 - 대책
 	- secure_getenv() 사용 - 안전한 실행 필요(SUID 프로그램에서) 시 NULL 반환
-- Set-UID Approach vs Service Approach
+- 일반 사용자가 root 권한 얻는 두가지 방식: Set-UID Approach vs Service Approach
 	- SUID 접근 방식
 		- 일반 사용자가 일시적으로 루트 권한 획득 위해 특별한 프로그램을 실행해야 하는 방식
 		- 환경변수로 인해 더 넓은 공격 표면을 가지며 환경 변수를 신뢰할 수 없음
