@@ -71,5 +71,10 @@ LOGNAME = seed
 LOGNAME3 = bob
 $ unset LOGNAME 
 -> LOGNAME 쉘 변수 할당 해제
-
+$ env | grep LOGNAME
+LOGNAME3 = bob
 ```
+- 환경 변수로 인한 공격 표면
+	- 환경 변수의 숨겨진 사용은 위험
+	- 사용자가 환경 변수를 설정할 수 있으므로 ,환경변수는 SUID 프로그램에서의 공격표면이 된다
+	- 외부 라이브러리 함수 코드를 로딩하는 Linker, Library, External Program, Application Code등이 공격 표면
