@@ -100,4 +100,18 @@ LOGNAME3 = bob
 	- 두 변수는 사용자가 설정 가능하므로 프로그램이 SUID 프로그램이라면 보안 위반으로 이어짐
 	- Normal Programs
 		- 동적 링킹된 sleep 함수를 프로그램이 호출할 때, 공격자는 자체 sleep()함수를 구현하고, 해당 공유 라이브러리를 LD_PRELOAD 환경변수에 추가함으로써 악의적인 코드 삽입 가능
-	- SUID Progrm
+	- SUID Programs
+		- 위의 기법이 SUID 프로그램에서 작동 시 매우 위험
+		- 그러나 SUID 프로그램은 LD_PRELOAD 및 LD_LIBRARY_PATH 환경 변수를 무시하는 동적 링커의 대책이 적용되어있어, sleep()함수가 호출되지 않을 수 있음
+```shell
+$ cp /usr/bin/env ./myenv
+$ sudo chown root myenv
+$ sudo chmod 4755 myenv
+
+$ env | grep LD_
+LD_LIBRARY_PATH = .
+LD_MYOWN = my own value
+$ myenv | grep LD_
+LD_MYOWN = my own value
+-> SUID 프로그램에서는 LD_PRELOAD
+```
