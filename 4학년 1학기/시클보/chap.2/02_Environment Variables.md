@@ -216,7 +216,7 @@ ruid = seed euid = root
 	- /bin/dash에 의한 자동 권한 하향을 비활성화하기 위해 다음 작업 수행해야 함
 ```shell
 $ sudo ln -sf /bin/zsh /bin/sh
--> zsh로 기본 쉘 변경
+-> zsh로 기본 쉘 변경 : zsh는 카운터메저가 적용 안되어있음
 $ sudo ln -sf /bin/dash /bin/sh
 -> 원래로 돌아가려면 이것을
 ```
