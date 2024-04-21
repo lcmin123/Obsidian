@@ -113,5 +113,22 @@ LD_LIBRARY_PATH = .
 LD_MYOWN = my own value
 $ myenv | grep LD_
 LD_MYOWN = my own value
--> SUID 프로그램에서는 LD_PRELOAD
+-> SUID 프로그램에서는 LD_PRELOAD 및 LD_LIBRARY_PATH의 대책이 적용되어 있음!
+```
+- Dynamic Linker 공격 - Case 2
+	- OS X의 동적링커 사례
+	- DYLD_PRINT_TO_FILE 환경변수는 사용자가 dyld에 파일 이름을 제공할 수 있게 하며, SUID 프로그램에서는 사용자가 보호된 파일에 쓰기 권한을 가지게 함. 이로 인해 파일 디스크립터가 닫히지 않는 Capability Leaking 발생 가능
+	- 과정
+	1. DYLD_PRINT_TO_FILE를 /etc/sudoers로 설정
+	2. Bob의 계정으로 전환하기 위해 su를 실행
+	3. su를 실행하는 동안 dyld가 실행됨
+	4. su가 Set-UID root 프로그램이므로 dyld도 root 권한으로 실행되어 /etc/sudoers를 성공적으로 쓰기 모드로 엽니다
+	5. echo 명령어를 사용하여 /etc/sudoers에 쓰기
+	6. 여기서 "3"은 /etc/sudoers의 쓰기용 파일 디스크립터를 나타냅니다
+	7. 결과적으로 bob은 sudo를 사용하여 root로서 어떤 명령어든 실행할 수 있습니다.
+```shell
+$ DYLD_PRINT_TO_FILE = /etc/sudoers
+$ su bob
+password:
+$ echo "bob ALL = (ALL)"
 ```
