@@ -97,7 +97,9 @@ hello
 
 - 두 approach 비교
 	- 둘다 환경변수를 사용한다는 점에서 비슷하다
-	- 
+	- approach 1은 부모 쉘이 새 프로세스를 생성했을 때, 각 exported function definition을 환경변수로써 전달한다
+	- 자식 프로세스가 bash를 실행하면 bash는 환경 변수를 함수 정의로 다시 해석 =. approach 2
+	- approach 2는 부모 프로세스가 쉘 프로세스일 필요가 없다 → 환경변수만 사용 가능하면 됨
 
 
 
