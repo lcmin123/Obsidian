@@ -5,12 +5,12 @@
       "path": "4학년 1학기/시클보/chap.3/03_ShellShock Attack.md"
     },
     {
-      "basename": "02_Environment Variables",
-      "path": "4학년 1학기/시클보/chap.2/02_Environment Variables.md"
-    },
-    {
       "basename": "01_SetUID",
       "path": "4학년 1학기/시클보/chap.1/01_SetUID.md"
+    },
+    {
+      "basename": "02_Environment Variables",
+      "path": "4학년 1학기/시클보/chap.2/02_Environment Variables.md"
     },
     {
       "basename": "1. 정보 보안 기본 원칙",
