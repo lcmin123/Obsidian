@@ -137,5 +137,12 @@ parse_and_execute(temp_string, name, SEVAL_NONINT | SEVAL_NONIST);
 -> 전환된 코드에서 세미콜론을 기준으로 foo(){echo "hello";} 실행 후 echo "extra"를 실행한다
 ```
 
+- 위의 두 부분이 shellshock vulnerability이다
+- shellshock vulnerability를 발생시키는 두 요인
+	- 타겟 프로세스는 공격자에 의해 설정된 환경 변수를 가지고 있어야 함 (echo “attack” 등) 
+	- 타겟 프로세스가 bash shell을 trigger 해야함
+	  (bash_shellshock 등)
+	- 타겟 프로세스가 SetUID 프로그램일 시 더욱 치명적일 것
+
 
 
