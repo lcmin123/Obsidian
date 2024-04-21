@@ -171,5 +171,14 @@ ruid = seed euid = root
 ```
 	- /bin/dash에 의한 자동 권한 하향을 비활성화하기 위해 다음 작업 수행해야 함
 ```shell
-
+$ sudo ln -sf /bin/zsh /bin/sh
+-> zsh로 기본 쉘 변경
+$ sudo ln -sf /bin/dash /bin/sh
+-> 원래로 돌아가려면 이것을
 ```
+- 라이브러리를 통한 공격
+	- 프로그램은 외부 라이브러리의 함수를 사용하기도 함
+	- 이런 함수가 환경변수를 사용하면, 공격표면 추가
+- 라이브러리를 통한 공격 - Case Locale in UNIX
+	- 메시지 출력마다, 프로그램은 번역된 메시지 위해 라이브러리 함수 사용
+	- UNIX는 libc 라이브러리의 gettext()와 catopen() 사용
