@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4학년 1학기/시클보/chap.0/1. 정보 보안 기본 원칙.md",
+                "file": "4학년 1학기/시클보/chap.0/Accountability (책임성).md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4학년 1학기/시클보/chap.0/1. 정보 보안 기본 원칙.md",
+                "file": "4학년 1학기/시클보/chap.0/Accountability (책임성).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4학년 1학기/시클보/chap.0/1. 정보 보안 기본 원칙.md",
+                "file": "4학년 1학기/시클보/chap.0/Accountability (책임성).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4학년 1학기/시클보/chap.0/1. 정보 보안 기본 원칙.md"
+                "file": "4학년 1학기/시클보/chap.0/Accountability (책임성).md"
               }
             }
           },
@@ -234,15 +234,15 @@
   },
   "active": "459b94147409cb6d",
   "lastOpenFiles": [
+    "4학년 1학기/시클보/chap.0/1. 정보 보안 기본 원칙.md",
+    "4학년 1학기/시클보/chap.0/Availability (가용성).md",
+    "4학년 1학기/시클보/chap.0/Authenticity (인증성).md",
+    "4학년 1학기/시클보/chap.0/Integrity (무결성).md",
+    "4학년 1학기/시클보/chap.0/Confidentiality (기밀성).md",
     "4학년 1학기/시클보/chap.0/chap.0.md",
     "4학년 1학기/시클보/chap.3/03_ShellShock Attack.md",
     "4학년 1학기/시클보/chap.2/02_Environment Variables.md",
     "4학년 1학기/시클보/chap.1/01_SetUID.md",
-    "4학년 1학기/시클보/chap.0/1. 정보 보안 기본 원칙.md",
-    "4학년 1학기/시클보/chap.0/Confidentiality (기밀성).md",
-    "4학년 1학기/시클보/chap.0/Integrity (무결성).md",
-    "4학년 1학기/시클보/chap.0/Availability (가용성).md",
-    "4학년 1학기/시클보/chap.0/Authenticity (인증성).md",
     "4학년 1학기/시클보/chap.0/Accountability (책임성).md",
     "4학년 1학기/시클보/chap.3/chap.3.md",
     "4학년 1학기/시클보/chap.3/Untitled 1.md",
