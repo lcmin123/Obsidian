@@ -61,4 +61,5 @@
 	- rank가 다를 때
 		- 차원에 1을 붙여서 차원수 맞춘다
 		- np.arange(5).reshape(1,1,5)
-	- r
+	- rank는 같지만 shape이 다를 때
+		- 
