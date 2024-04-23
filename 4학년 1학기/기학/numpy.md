@@ -62,4 +62,16 @@
 		- 차원에 1을 붙여서 차원수 맞춘다
 		- np.arange(5).reshape(1,1,5)
 	- rank는 같지만 shape이 다를 때
-		- 
+		- 알잘딱
+	- rank와 shape이 모두 다를때
+		- 오류
+- upcasting
+	- unit8 + 소수 = float64 형변환(dtype)
+- conditional operator
+	- [1,2,3] < [0,0,5]
+	  array([False, False, True])
+- a.mean()
+	- 배열 내 평균값 리턴
+- 3차원 배열일때
+	- a.sum(axis = 0)
+		- z축 방향으로 sum 수행
