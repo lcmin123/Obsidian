@@ -52,4 +52,13 @@
 - a.reshape(4,6)
 	- 기존 array에 대해 다른 view를 리턴
 	- **원본과 같은 메모리 공간 사용**
-- 
+- a[1,2] = 999
+	- a의 1행 2열 값 업데이트
+- a.ravel()
+	- a의 값을 갖는 1-dimensional view 생성
+- **broadcasting**
+	- 두 피연산자 배열의 크기가 다를 때 element wise를 위해 shape을 일치 시키려는 시도
+	- rank가 다를 때
+		- 차원에 1을 붙여서 차원수 맞춘다
+		- np.arange(5).reshape(1,1,5)
+	- r
