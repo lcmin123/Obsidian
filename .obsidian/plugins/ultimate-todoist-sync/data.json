@@ -1,0 +1,292 @@
+{
+  "initialized": true,
+  "apiInitialized": true,
+  "defaultProjectName": "Inbox",
+  "automaticSynchronizationInterval": 300,
+  "todoistTasksData": {
+    "projects": [
+      {
+        "id": "2323528110",
+        "parentId": null,
+        "order": 0,
+        "color": "charcoal",
+        "name": "Inbox",
+        "commentCount": 0,
+        "isShared": false,
+        "isFavorite": false,
+        "isInboxProject": true,
+        "isTeamInbox": false,
+        "url": "https://todoist.com/showProject?id=2323528110",
+        "viewStyle": "list"
+      }
+    ],
+    "tasks": [],
+    "events": [
+      {
+        "event_date": "2023-11-13T06:47:07.000000Z",
+        "event_type": "added",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "name": "Inbox",
+          "note_count": 0
+        },
+        "extra_data_id": 22048267636,
+        "id": 21961977844,
+        "initiator_id": null,
+        "object_id": "2323528110",
+        "object_type": "project",
+        "parent_item_id": null,
+        "parent_project_id": null
+      },
+      {
+        "event_date": "2023-11-13T07:18:53.000000Z",
+        "event_type": "completed",
+        "extra_data": {
+          "client": "Mozilla/5.0; Todoist/4617",
+          "content": "뭉이 밥주기",
+          "note_count": 0
+        },
+        "extra_data_id": 22048561997,
+        "id": 21962272190,
+        "initiator_id": null,
+        "object_id": "7405984864",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2323528110"
+      },
+      {
+        "event_date": "2023-11-13T07:25:09.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "뭉이 밥주기   2023-11-13",
+          "last_content": "뭉이 밥주기",
+          "note_count": 0
+        },
+        "extra_data_id": 22048625271,
+        "id": 21962335467,
+        "initiator_id": null,
+        "object_id": "7405994387",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2323528110"
+      },
+      {
+        "event_date": "2023-11-21T07:23:15.000000Z",
+        "event_type": "completed",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "crud   ✅ 2023-11-21",
+          "note_count": 0
+        },
+        "extra_data_id": 22139839471,
+        "id": 22053547569,
+        "initiator_id": null,
+        "object_id": "7432357629",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2323528110"
+      },
+      {
+        "event_date": "2023-11-21T07:23:43.000000Z",
+        "event_type": "uncompleted",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "crud",
+          "note_count": 0
+        },
+        "extra_data_id": 22139843095,
+        "id": 22053551194,
+        "initiator_id": null,
+        "object_id": "7432357629",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2323528110"
+      },
+      {
+        "event_date": "2023-11-21T07:24:20.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "udemy",
+          "due_date": "2023-11-20T23:00:00.000000Z",
+          "last_due_date": null,
+          "note_count": 0
+        },
+        "extra_data_id": 22139847914,
+        "id": 22053556015,
+        "initiator_id": null,
+        "object_id": "7432361265",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2323528110"
+      },
+      {
+        "event_date": "2023-11-21T07:24:20.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "udemy",
+          "last_content": "udemy   🗓️202-11-21",
+          "note_count": 0
+        },
+        "extra_data_id": 22139847913,
+        "id": 22053556013,
+        "initiator_id": null,
+        "object_id": "7432361265",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2323528110"
+      },
+      {
+        "event_date": "2023-11-21T07:24:18.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "알고 lms, 퀴즈",
+          "due_date": "2023-11-20T23:00:00.000000Z",
+          "last_due_date": null,
+          "note_count": 0
+        },
+        "extra_data_id": 22139847534,
+        "id": 22053555631,
+        "initiator_id": null,
+        "object_id": "7432361687",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2323528110"
+      },
+      {
+        "event_date": "2023-11-21T07:24:01.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "udemy   🗓️202-11-21",
+          "last_content": "udemy",
+          "note_count": 0
+        },
+        "extra_data_id": 22139845693,
+        "id": 22053553791,
+        "initiator_id": null,
+        "object_id": "7432361265",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2323528110"
+      },
+      {
+        "event_date": "2023-11-21T07:23:41.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "crud",
+          "last_content": "crud   ✅ 2023-11-21",
+          "note_count": 0
+        },
+        "extra_data_id": 22139842912,
+        "id": 22053551010,
+        "initiator_id": null,
+        "object_id": "7432357629",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2323528110"
+      },
+      {
+        "event_date": "2023-11-21T07:23:41.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "crud",
+          "due_date": "2023-11-20T23:00:00.000000Z",
+          "last_due_date": null,
+          "note_count": 0
+        },
+        "extra_data_id": 22139842906,
+        "id": 22053551004,
+        "initiator_id": null,
+        "object_id": "7432357629",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2323528110"
+      },
+      {
+        "event_date": "2023-11-21T07:23:14.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "crud   ✅ 2023-11-21",
+          "last_content": "crud",
+          "note_count": 0
+        },
+        "extra_data_id": 22139839334,
+        "id": 22053547430,
+        "initiator_id": null,
+        "object_id": "7432357629",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2323528110"
+      },
+      {
+        "event_date": "2023-11-22T06:27:32.000000Z",
+        "event_type": "completed",
+        "extra_data": {
+          "client": "Mozilla/5.0; Todoist/4617",
+          "content": "crud",
+          "note_count": 0
+        },
+        "extra_data_id": 22152325110,
+        "id": 22066033056,
+        "initiator_id": null,
+        "object_id": "7432357629",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2323528110"
+      },
+      {
+        "event_date": "2023-11-22T06:27:31.000000Z",
+        "event_type": "completed",
+        "extra_data": {
+          "client": "Mozilla/5.0; Todoist/4617",
+          "content": "udemy",
+          "note_count": 0
+        },
+        "extra_data_id": 22152324973,
+        "id": 22066032918,
+        "initiator_id": null,
+        "object_id": "7432361265",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2323528110"
+      },
+      {
+        "event_date": "2023-11-22T06:27:30.000000Z",
+        "event_type": "completed",
+        "extra_data": {
+          "client": "Mozilla/5.0; Todoist/4617",
+          "content": "알고 lms, 퀴즈",
+          "note_count": 0
+        },
+        "extra_data_id": 22152324841,
+        "id": 22066032786,
+        "initiator_id": null,
+        "object_id": "7432361687",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2323528110"
+      }
+    ]
+  },
+  "fileMetadata": {
+    "#TODOIST.md": {
+      "todoistTasks": [],
+      "todoistCount": 0
+    },
+    "프론트엔드/웹 부트캠프 2023/섹션 3, 4, 5, 6 - HTML/폼.md": {
+      "todoistTasks": [],
+      "todoistCount": 0
+    }
+  },
+  "enableFullVaultSync": false,
+  "statistics": {},
+  "debugMode": false,
+  "todoistAPIToken": "8ffaf6886ec0699ef14efa0f575d14e205246397"
+}
