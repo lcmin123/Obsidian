@@ -5,6 +5,10 @@
       "path": "4학년 1학기/블체/__중간 찝.md"
     },
     {
+      "basename": "CAP",
+      "path": "4학년 1학기/블체/CAP.md"
+    },
+    {
       "basename": "Accountability (책임성)",
       "path": "4학년 1학기/시클보/chap.0/Accountability (책임성).md"
     },
@@ -83,10 +87,6 @@
     {
       "basename": "탈중앙화",
       "path": "4학년 1학기/블체/탈중앙화.md"
-    },
-    {
-      "basename": "CAP",
-      "path": "4학년 1학기/블체/CAP.md"
     },
     {
       "basename": "Layer",
