@@ -75,3 +75,10 @@
 - 3차원 배열일때
 	- a.sum(axis = 0)
 		- z축 방향으로 sum 수행
+	- a.sum(axis = 1)
+		- y축 방향으로 sum 수행
+	- a.sum(axis=(0,2))
+		- x,z축 방향으로 sum
+- np.square(a)
+	- 배열내 원소들 제곱해서 각각 리턴
+- 
