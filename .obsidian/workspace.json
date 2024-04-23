@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4학년 1학기/기학/ML Landscape.md",
+                "file": "4학년 1학기/기학/ML Landscape 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4학년 1학기/기학/ML Landscape.md",
+                "file": "4학년 1학기/기학/ML Landscape 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4학년 1학기/기학/ML Landscape.md",
+                "file": "4학년 1학기/기학/ML Landscape 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4학년 1학기/기학/ML Landscape.md"
+                "file": "4학년 1학기/기학/ML Landscape 2.md"
               }
             }
           },
@@ -234,8 +234,9 @@
   },
   "active": "459b94147409cb6d",
   "lastOpenFiles": [
+    "4학년 1학기/기학/ML Landscape 1.md",
+    "4학년 1학기/기학/ML Landscape 2.md",
     "4학년 1학기/기학/기학.md",
-    "4학년 1학기/기학/ML Landscape.md",
     "4학년 1학기/블체/__중간 찝.md",
     "4학년 1학기/기학/.md",
     "4학년 1학기/블체/CAP.md",
@@ -261,7 +262,6 @@
     "4학년 1학기/블체/blockchain trilemma.md",
     "4학년 1학기/블체/합의 알고리즘.md",
     "4학년 1학기/블체/POX.md",
-    "4학년 1학기/블체/scalability.md",
     "Attached Files/KakaoTalk_Photo_2024-04-15-01-49-14.png",
     "Attached Files/Pasted image 20240415015253.png",
     "Attached Files/Pasted image 20240415015200.png",
