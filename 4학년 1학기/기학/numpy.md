@@ -27,4 +27,13 @@
 - np.linspace(0,1.5,4)
 	- [0, 0.5, 1, 1.5]
 	- 0부터 1.5포함 4등분
-- 
+- np.random.rand(3,4)
+	- 0~1 난수로 채워진 3행 4열 배열
+- np.random.randn(3,4)
+	- 평균0, 분산1 정규분포 난수로 채워진 3행 4열
+- def my_function(z,y,x):
+	  return x + 10 * y + 100 * z
+	  
+  np.fromfunction(my_function,(3,2,10))
+	- 2행 10열 3개 3차원 배열 생성. 값은 my_func
+	- 
