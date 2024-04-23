@@ -36,4 +36,20 @@
 	  
   np.fromfunction(my_function,(3,2,10))
 	- 2행 10열 3개 3차원 배열 생성. 값은 my_func
-	- 
+- a.dtype
+	- 배열 자료형 반환
+	- int64, float64, complex64(복소수)
+- type(np.zeros((3,4)))
+	- numpy.ndarray
+- a.itemsize
+	- 할당 메모리 공간
+- a.data
+	- 할당 메모리 주소
+- a.shape = (6,4)
+	- 6행 4열의 배열로 reshape
+	- 원본이랑 원소 개수 같아야 함
+	- 별개의 메모리 공간을 사용하는 배열
+- a.reshape(4,6)
+	- 기존 array에 대해 다른 view를 리턴
+	- **원본과 같은 메모리 공간 사용**
+- 
