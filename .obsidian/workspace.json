@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "61f7c0d2188e8450",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4학년 1학기/시클보/chap.1/01_SetUID.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e5e5542bc90a0e83",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4학년 1학기/시클보/chap.2/02_Environment Variables.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "459b94147409cb6d",
             "type": "leaf",
             "state": {
@@ -43,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,8 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "25192bdd3f6894eb",
@@ -235,18 +209,18 @@
   },
   "active": "459b94147409cb6d",
   "lastOpenFiles": [
+    "4학년 1학기/기학/ML Landscape 1.md",
+    "4학년 1학기/기학/ML Landscape 2.md",
     "Attached Files/Pasted image 20240424035233.png",
     "Attached Files/Pasted image 20240424034441.png",
     "Attached Files/Pasted image 20240424034428.png",
     "Attached Files/Pasted image 20240424033753.png",
-    "4학년 1학기/기학/ML Landscape 2.md",
     "Attached Files/Pasted image 20240424033351.png",
     "Attached Files/Pasted image 20240424032620.png",
     "Attached Files/Pasted image 20240424032234.png",
     "Attached Files/Pasted image 20240424032059.png",
     "Attached Files/Pasted image 20240424032014.png",
     "Attached Files/Pasted image 20240424031915.png",
-    "4학년 1학기/기학/ML Landscape 1.md",
     "4학년 1학기/기학/기학.md",
     "4학년 1학기/블체/__중간 찝.md",
     "4학년 1학기/기학/.md",
@@ -272,7 +246,6 @@
     "4학년 1학기/시클보/chap.1/Set-UID 개념.md",
     "4학년 1학기/블체/blockchain trilemma.md",
     "4학년 1학기/블체/합의 알고리즘.md",
-    "Attached Files/KakaoTalk_Photo_2024-04-15-01-49-14.png",
     "프론트엔드/Next.js",
     "4학년 1학기/시클보/chap.1",
     "4학년 1학기/시클보/chap.0",
