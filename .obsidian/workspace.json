@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4학년 1학기/블체/__중간 찝.md",
+                "file": "4학년 1학기/블체/1장.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4학년 1학기/블체/__중간 찝.md",
+                "file": "4학년 1학기/블체/1장.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4학년 1학기/블체/__중간 찝.md",
+                "file": "4학년 1학기/블체/1장.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4학년 1학기/블체/__중간 찝.md"
+                "file": "4학년 1학기/블체/1장.md"
               }
             }
           },
@@ -209,6 +209,9 @@
   },
   "active": "d589f686a4cae3a8",
   "lastOpenFiles": [
+    "4학년 1학기/블체/블체.md",
+    "4학년 1학기/블체/__중간 찝.md",
+    "4학년 1학기/블체/1장.md",
     "4학년 1학기/기학/ML Landscape 2.md",
     "4학년 1학기/기학/ML Landscape 1.md",
     "4학년 1학기/기학/과제1.md",
@@ -224,7 +227,6 @@
     "Attached Files/Pasted image 20240424032014.png",
     "Attached Files/Pasted image 20240424031915.png",
     "4학년 1학기/기학/기학.md",
-    "4학년 1학기/블체/__중간 찝.md",
     "4학년 1학기/기학/.md",
     "4학년 1학기/블체/CAP.md",
     "4학년 1학기/시클보/chap.0/Accountability (책임성).md",
@@ -245,8 +247,6 @@
     "4학년 1학기/시클보/chap.2",
     "4학년 1학기/시클보/Untitled.md",
     "4학년 1학기/시클보/chap.1/000INDEX.md",
-    "4학년 1학기/시클보/chap.1/Set-UID 개념.md",
-    "4학년 1학기/블체/blockchain trilemma.md",
     "프론트엔드/Next.js",
     "4학년 1학기/시클보/chap.1",
     "4학년 1학기/시클보/chap.0",
