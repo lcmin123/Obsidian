@@ -85,7 +85,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "25192bdd3f6894eb",
@@ -209,8 +210,9 @@
   },
   "active": "d589f686a4cae3a8",
   "lastOpenFiles": [
-    "4학년 1학기/블체/__중간 찝.md",
+    "Attached Files/Pasted image 20240425040803.png",
     "4학년 1학기/블체/1장.md",
+    "4학년 1학기/블체/__중간 찝.md",
     "4학년 1학기/블체/블체.md",
     "4학년 1학기/기학/ML Landscape 2.md",
     "4학년 1학기/기학/ML Landscape 1.md",
@@ -225,7 +227,6 @@
     "Attached Files/Pasted image 20240424032234.png",
     "Attached Files/Pasted image 20240424032059.png",
     "Attached Files/Pasted image 20240424032014.png",
-    "Attached Files/Pasted image 20240424031915.png",
     "4학년 1학기/기학/기학.md",
     "4학년 1학기/기학/.md",
     "4학년 1학기/블체/CAP.md",
@@ -246,7 +247,6 @@
     "4학년 1학기/시클보/chap.1/chap.1.md",
     "4학년 1학기/시클보/chap.2",
     "4학년 1학기/시클보/Untitled.md",
-    "4학년 1학기/시클보/chap.1/000INDEX.md",
     "프론트엔드/Next.js",
     "4학년 1학기/시클보/chap.1",
     "4학년 1학기/시클보/chap.0",
