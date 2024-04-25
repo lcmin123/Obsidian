@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4학년 1학기/블체/1장.md",
+                "file": "4학년 1학기/블체/합의 알고리즘.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,8 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "25192bdd3f6894eb",
@@ -102,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4학년 1학기/블체/1장.md",
+                "file": "4학년 1학기/블체/합의 알고리즘.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4학년 1학기/블체/1장.md",
+                "file": "4학년 1학기/블체/합의 알고리즘.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4학년 1학기/블체/1장.md"
+                "file": "4학년 1학기/블체/합의 알고리즘.md"
               }
             }
           },
@@ -210,9 +209,9 @@
   },
   "active": "d589f686a4cae3a8",
   "lastOpenFiles": [
-    "Attached Files/Pasted image 20240425040803.png",
-    "4학년 1학기/블체/1장.md",
     "4학년 1학기/블체/__중간 찝.md",
+    "4학년 1학기/블체/1장.md",
+    "Attached Files/Pasted image 20240425040803.png",
     "4학년 1학기/블체/블체.md",
     "4학년 1학기/기학/ML Landscape 2.md",
     "4학년 1학기/기학/ML Landscape 1.md",
