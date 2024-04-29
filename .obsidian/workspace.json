@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4학년 1학기/블체/__중간 찝.md",
+                "file": "4학년 1학기/시클보/기말/04.ShellShock 2/04.ShellShock 2 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4학년 1학기/블체/__중간 찝.md",
+                "file": "4학년 1학기/시클보/기말/04.ShellShock 2/04.ShellShock 2 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4학년 1학기/블체/__중간 찝.md",
+                "file": "4학년 1학기/시클보/기말/04.ShellShock 2/04.ShellShock 2 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4학년 1학기/블체/__중간 찝.md"
+                "file": "4학년 1학기/시클보/기말/04.ShellShock 2/04.ShellShock 2 1.md"
               }
             }
           },
@@ -209,8 +209,16 @@
   },
   "active": "d589f686a4cae3a8",
   "lastOpenFiles": [
-    "4학년 1학기/블체/1장.md",
+    "4학년 1학기/시클보/기말/04.ShellShock 2/04.ShellShock 2 1.md",
+    "4학년 1학기/시클보/기말/기말.md",
+    "4학년 1학기/시클보/기말/04.ShellShock 2/04.ShellShock 2.md",
+    "4학년 1학기/시클보/기말/04.ShellShock 2",
+    "4학년 1학기/시클보/중간/중간.md",
+    "4학년 1학기/시클보/기말",
+    "4학년 1학기/시클보/중간/chap.3/03_ShellShock Attack.md",
+    "4학년 1학기/시클보/중간",
     "4학년 1학기/블체/__중간 찝.md",
+    "4학년 1학기/블체/1장.md",
     "4학년 1학기/블체/합의 알고리즘.md",
     "Attached Files/Pasted image 20240425040803.png",
     "4학년 1학기/블체/블체.md",
@@ -230,31 +238,23 @@
     "4학년 1학기/기학/기학.md",
     "4학년 1학기/기학/.md",
     "4학년 1학기/블체/CAP.md",
-    "4학년 1학기/시클보/chap.0/Accountability (책임성).md",
-    "4학년 1학기/시클보/chap.0/1. 정보 보안 기본 원칙.md",
-    "4학년 1학기/시클보/chap.0/Availability (가용성).md",
-    "4학년 1학기/시클보/chap.0/Authenticity (인증성).md",
-    "4학년 1학기/시클보/chap.0/Integrity (무결성).md",
-    "4학년 1학기/시클보/chap.0/Confidentiality (기밀성).md",
-    "4학년 1학기/시클보/chap.0/chap.0.md",
-    "4학년 1학기/시클보/chap.3/03_ShellShock Attack.md",
-    "4학년 1학기/시클보/chap.2/02_Environment Variables.md",
-    "4학년 1학기/시클보/chap.1/01_SetUID.md",
-    "4학년 1학기/시클보/chap.3/chap.3.md",
-    "4학년 1학기/시클보/chap.3/Untitled 1.md",
-    "4학년 1학기/시클보/chap.3",
-    "4학년 1학기/시클보/chap.2/chap.2.md",
-    "4학년 1학기/시클보/chap.1/chap.1.md",
-    "4학년 1학기/시클보/chap.2",
-    "4학년 1학기/시클보/Untitled.md",
+    "4학년 1학기/시클보/중간/chap.0/Accountability (책임성).md",
+    "4학년 1학기/시클보/중간/chap.0/1. 정보 보안 기본 원칙.md",
+    "4학년 1학기/시클보/중간/chap.0/Availability (가용성).md",
+    "4학년 1학기/시클보/중간/chap.0/Authenticity (인증성).md",
+    "4학년 1학기/시클보/중간/chap.0/Integrity (무결성).md",
+    "4학년 1학기/시클보/중간/chap.0/Confidentiality (기밀성).md",
+    "4학년 1학기/시클보/중간/chap.0/chap.0.md",
+    "4학년 1학기/시클보/중간/chap.2/02_Environment Variables.md",
+    "4학년 1학기/시클보/중간/chap.1/01_SetUID.md",
+    "4학년 1학기/시클보/중간/chap.3/chap.3.md",
+    "4학년 1학기/시클보/중간/chap.3",
+    "4학년 1학기/시클보/중간/chap.2",
     "프론트엔드/Next.js",
-    "4학년 1학기/시클보/chap.1",
-    "4학년 1학기/시클보/chap.0",
+    "4학년 1학기/시클보/중간/chap.1",
+    "4학년 1학기/시클보/중간/chap.0",
     "4학년 1학기/기학",
     "4학년 1학기/시분설",
-    "4학년 1학기/블체",
-    "4학년 1학기/캡스톤",
-    "4학년 1학기/객2",
     "Task Dashboard.canvas"
   ]
 }

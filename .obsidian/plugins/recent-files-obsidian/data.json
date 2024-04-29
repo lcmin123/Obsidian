@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "04.ShellShock 2 1",
+      "path": "4학년 1학기/시클보/기말/04.ShellShock 2/04.ShellShock 2 1.md"
+    },
+    {
+      "basename": "기말",
+      "path": "4학년 1학기/시클보/기말/기말.md"
+    },
+    {
+      "basename": "중간",
+      "path": "4학년 1학기/시클보/중간/중간.md"
+    },
+    {
+      "basename": "03_ShellShock Attack",
+      "path": "4학년 1학기/시클보/중간/chap.3/03_ShellShock Attack.md"
+    },
+    {
       "basename": "__중간 찝",
       "path": "4학년 1학기/블체/__중간 찝.md"
     },
@@ -38,55 +54,51 @@
     },
     {
       "basename": "Accountability (책임성)",
-      "path": "4학년 1학기/시클보/chap.0/Accountability (책임성).md"
+      "path": "4학년 1학기/시클보/중간/chap.0/Accountability (책임성).md"
     },
     {
       "basename": "1. 정보 보안 기본 원칙",
-      "path": "4학년 1학기/시클보/chap.0/1. 정보 보안 기본 원칙.md"
+      "path": "4학년 1학기/시클보/중간/chap.0/1. 정보 보안 기본 원칙.md"
     },
     {
       "basename": "Availability (가용성)",
-      "path": "4학년 1학기/시클보/chap.0/Availability (가용성).md"
+      "path": "4학년 1학기/시클보/중간/chap.0/Availability (가용성).md"
     },
     {
       "basename": "Authenticity (인증성)",
-      "path": "4학년 1학기/시클보/chap.0/Authenticity (인증성).md"
+      "path": "4학년 1학기/시클보/중간/chap.0/Authenticity (인증성).md"
     },
     {
       "basename": "Integrity (무결성)",
-      "path": "4학년 1학기/시클보/chap.0/Integrity (무결성).md"
+      "path": "4학년 1학기/시클보/중간/chap.0/Integrity (무결성).md"
     },
     {
       "basename": "Confidentiality (기밀성)",
-      "path": "4학년 1학기/시클보/chap.0/Confidentiality (기밀성).md"
+      "path": "4학년 1학기/시클보/중간/chap.0/Confidentiality (기밀성).md"
     },
     {
       "basename": "chap.0",
-      "path": "4학년 1학기/시클보/chap.0/chap.0.md"
-    },
-    {
-      "basename": "03_ShellShock Attack",
-      "path": "4학년 1학기/시클보/chap.3/03_ShellShock Attack.md"
+      "path": "4학년 1학기/시클보/중간/chap.0/chap.0.md"
     },
     {
       "basename": "02_Environment Variables",
-      "path": "4학년 1학기/시클보/chap.2/02_Environment Variables.md"
+      "path": "4학년 1학기/시클보/중간/chap.2/02_Environment Variables.md"
     },
     {
       "basename": "01_SetUID",
-      "path": "4학년 1학기/시클보/chap.1/01_SetUID.md"
+      "path": "4학년 1학기/시클보/중간/chap.1/01_SetUID.md"
     },
     {
       "basename": "chap.3",
-      "path": "4학년 1학기/시클보/chap.3/chap.3.md"
+      "path": "4학년 1학기/시클보/중간/chap.3/chap.3.md"
     },
     {
       "basename": "chap.2",
-      "path": "4학년 1학기/시클보/chap.2/chap.2.md"
+      "path": "4학년 1학기/시클보/중간/chap.2/chap.2.md"
     },
     {
       "basename": "chap.1",
-      "path": "4학년 1학기/시클보/chap.1/chap.1.md"
+      "path": "4학년 1학기/시클보/중간/chap.1/chap.1.md"
     },
     {
       "basename": "blockchain trilemma",
@@ -187,18 +199,6 @@
     {
       "basename": "SSOT",
       "path": "4학년 1학기/블체/SSOT.md"
-    },
-    {
-      "basename": "기밀성",
-      "path": "3학년 2학기/컴퓨터 보안/중간/기밀성.md"
-    },
-    {
-      "basename": "해쉬",
-      "path": "3학년 2학기/컴퓨터 보안/중간/해쉬.md"
-    },
-    {
-      "basename": "인증",
-      "path": "3학년 2학기/컴퓨터 보안/중간/인증.md"
     }
   ],
   "omittedPaths": [],
