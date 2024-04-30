@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "virtual dom",
+      "path": "프론트엔드/기타/virtual dom.md"
+    },
+    {
+      "basename": "JS Modules",
+      "path": "프론트엔드/기타/JS Modules.md"
+    },
+    {
+      "basename": "JS 비동기 처리 방법",
+      "path": "프론트엔드/기타/JS 비동기 처리 방법.md"
+    },
+    {
+      "basename": "Js Syntax",
+      "path": "프론트엔드/기타/Js Syntax.md"
+    },
+    {
       "basename": "04.ShellShock 2 1",
       "path": "4학년 1학기/시클보/기말/04.ShellShock 2/04.ShellShock 2 1.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "중간고사",
       "path": "4학년 1학기/시분설/중간고사.md"
-    },
-    {
-      "basename": "DAME",
-      "path": "4학년 1학기/블체/DAME.md"
-    },
-    {
-      "basename": "DEX",
-      "path": "4학년 1학기/블체/DEX.md"
-    },
-    {
-      "basename": "SAP",
-      "path": "4학년 1학기/블체/SAP.md"
-    },
-    {
-      "basename": "SSOT",
-      "path": "4학년 1학기/블체/SSOT.md"
     }
   ],
   "omittedPaths": [],

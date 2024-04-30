@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4학년 1학기/시클보/기말/04.ShellShock 2/04.ShellShock 2 1.md",
+                "file": "프론트엔드/기타/virtual dom.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4학년 1학기/시클보/기말/04.ShellShock 2/04.ShellShock 2 1.md",
+                "file": "프론트엔드/기타/virtual dom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4학년 1학기/시클보/기말/04.ShellShock 2/04.ShellShock 2 1.md",
+                "file": "프론트엔드/기타/virtual dom.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4학년 1학기/시클보/기말/04.ShellShock 2/04.ShellShock 2 1.md"
+                "file": "프론트엔드/기타/virtual dom.md"
               }
             }
           },
@@ -209,6 +209,9 @@
   },
   "active": "d589f686a4cae3a8",
   "lastOpenFiles": [
+    "프론트엔드/기타/JS Modules.md",
+    "프론트엔드/기타/JS 비동기 처리 방법.md",
+    "프론트엔드/기타/Js Syntax.md",
     "4학년 1학기/시클보/기말/04.ShellShock 2/04.ShellShock 2 1.md",
     "4학년 1학기/시클보/기말/기말.md",
     "4학년 1학기/시클보/기말/04.ShellShock 2/04.ShellShock 2.md",
@@ -245,9 +248,6 @@
     "4학년 1학기/시클보/중간/chap.0/Integrity (무결성).md",
     "4학년 1학기/시클보/중간/chap.0/Confidentiality (기밀성).md",
     "4학년 1학기/시클보/중간/chap.0/chap.0.md",
-    "4학년 1학기/시클보/중간/chap.2/02_Environment Variables.md",
-    "4학년 1학기/시클보/중간/chap.1/01_SetUID.md",
-    "4학년 1학기/시클보/중간/chap.3/chap.3.md",
     "4학년 1학기/시클보/중간/chap.3",
     "4학년 1학기/시클보/중간/chap.2",
     "프론트엔드/Next.js",
