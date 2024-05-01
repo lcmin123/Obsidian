@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프론트엔드/기타/virtual dom.md",
+                "file": "4학년 1학기/기학/중간/ML Landscape 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "00d2eab85a48b6fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4학년 1학기/기학/기말/end to end part 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프론트엔드/기타/virtual dom.md",
+                "file": "4학년 1학기/기학/기말/end to end part 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프론트엔드/기타/virtual dom.md",
+                "file": "4학년 1학기/기학/기말/end to end part 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프론트엔드/기타/virtual dom.md"
+                "file": "4학년 1학기/기학/기말/end to end part 1.md"
               }
             }
           },
@@ -207,8 +220,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d589f686a4cae3a8",
+  "active": "00d2eab85a48b6fa",
   "lastOpenFiles": [
+    "4학년 1학기/기학/중간/중간.md",
+    "4학년 1학기/기학/기말/end to end part 1.md",
+    "4학년 1학기/기학/기말/기말.md",
+    "4학년 1학기/기학/중간/ML Landscape 2.md",
+    "4학년 1학기/기학/중간/ML Landscape 1.md",
+    "4학년 1학기/기학/기말",
+    "4학년 1학기/기학/기학.md",
+    "4학년 1학기/기학/중간",
+    "4학년 1학기/기학/과제1.md",
+    "4학년 1학기/기학/numpy.md",
+    "프론트엔드/기타/virtual dom.md",
     "프론트엔드/기타/JS Modules.md",
     "프론트엔드/기타/JS 비동기 처리 방법.md",
     "프론트엔드/기타/Js Syntax.md",
@@ -225,10 +249,6 @@
     "4학년 1학기/블체/합의 알고리즘.md",
     "Attached Files/Pasted image 20240425040803.png",
     "4학년 1학기/블체/블체.md",
-    "4학년 1학기/기학/ML Landscape 2.md",
-    "4학년 1학기/기학/ML Landscape 1.md",
-    "4학년 1학기/기학/과제1.md",
-    "4학년 1학기/기학/numpy.md",
     "Attached Files/Pasted image 20240424035233.png",
     "Attached Files/Pasted image 20240424034441.png",
     "Attached Files/Pasted image 20240424034428.png",
@@ -238,23 +258,16 @@
     "Attached Files/Pasted image 20240424032234.png",
     "Attached Files/Pasted image 20240424032059.png",
     "Attached Files/Pasted image 20240424032014.png",
-    "4학년 1학기/기학/기학.md",
     "4학년 1학기/기학/.md",
     "4학년 1학기/블체/CAP.md",
     "4학년 1학기/시클보/중간/chap.0/Accountability (책임성).md",
     "4학년 1학기/시클보/중간/chap.0/1. 정보 보안 기본 원칙.md",
     "4학년 1학기/시클보/중간/chap.0/Availability (가용성).md",
-    "4학년 1학기/시클보/중간/chap.0/Authenticity (인증성).md",
-    "4학년 1학기/시클보/중간/chap.0/Integrity (무결성).md",
-    "4학년 1학기/시클보/중간/chap.0/Confidentiality (기밀성).md",
-    "4학년 1학기/시클보/중간/chap.0/chap.0.md",
     "4학년 1학기/시클보/중간/chap.3",
     "4학년 1학기/시클보/중간/chap.2",
     "프론트엔드/Next.js",
     "4학년 1학기/시클보/중간/chap.1",
     "4학년 1학기/시클보/중간/chap.0",
-    "4학년 1학기/기학",
-    "4학년 1학기/시분설",
     "Task Dashboard.canvas"
   ]
 }

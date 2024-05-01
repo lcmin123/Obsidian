@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "end to end part 1",
+      "path": "4학년 1학기/기학/기말/end to end part 1.md"
+    },
+    {
+      "basename": "중간",
+      "path": "4학년 1학기/기학/중간/중간.md"
+    },
+    {
+      "basename": "기말",
+      "path": "4학년 1학기/기학/기말/기말.md"
+    },
+    {
+      "basename": "ML Landscape 2",
+      "path": "4학년 1학기/기학/중간/ML Landscape 2.md"
+    },
+    {
+      "basename": "ML Landscape 1",
+      "path": "4학년 1학기/기학/중간/ML Landscape 1.md"
+    },
+    {
+      "basename": "기학",
+      "path": "4학년 1학기/기학/기학.md"
+    },
+    {
       "basename": "virtual dom",
       "path": "프론트엔드/기타/virtual dom.md"
     },
@@ -43,26 +67,6 @@
     {
       "basename": "합의 알고리즘",
       "path": "4학년 1학기/블체/합의 알고리즘.md"
-    },
-    {
-      "basename": "ML Landscape 2",
-      "path": "4학년 1학기/기학/ML Landscape 2.md"
-    },
-    {
-      "basename": "ML Landscape 1",
-      "path": "4학년 1학기/기학/ML Landscape 1.md"
-    },
-    {
-      "basename": "과제1",
-      "path": "4학년 1학기/기학/과제1.md"
-    },
-    {
-      "basename": "numpy",
-      "path": "4학년 1학기/기학/numpy.md"
-    },
-    {
-      "basename": "기학",
-      "path": "4학년 1학기/기학/기학.md"
     },
     {
       "basename": "CAP",
@@ -195,10 +199,6 @@
     {
       "basename": "0402과제",
       "path": "4학년 1학기/시분설/0402과제.md"
-    },
-    {
-      "basename": "중간고사",
-      "path": "4학년 1학기/시분설/중간고사.md"
     }
   ],
   "omittedPaths": [],
