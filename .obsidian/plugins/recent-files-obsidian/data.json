@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "4주차",
+      "path": "4학년 1학기/멘토링/4주차.md"
+    },
+    {
+      "basename": "멘토링",
+      "path": "4학년 1학기/멘토링/멘토링.md"
+    },
+    {
       "basename": "end to end part 1",
       "path": "4학년 1학기/기학/기말/end to end part 1.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "기타",
       "path": "프론트엔드/기타/기타.md"
-    },
-    {
-      "basename": "Smart Contract",
-      "path": "4학년 1학기/블체/Smart Contract.md"
-    },
-    {
-      "basename": "0402과제",
-      "path": "4학년 1학기/시분설/0402과제.md"
     }
   ],
   "omittedPaths": [],
