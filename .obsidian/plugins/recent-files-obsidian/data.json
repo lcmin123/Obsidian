@@ -1,16 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "4주차",
+      "path": "4학년 1학기/멘토링/4주차.md"
+    },
+    {
       "basename": "Untitled",
       "path": "4학년 1학기/멘토링/Untitled.md"
     },
     {
       "basename": "멘토링",
       "path": "4학년 1학기/멘토링/멘토링.md"
-    },
-    {
-      "basename": "4주차",
-      "path": "4학년 1학기/멘토링/4주차.md"
     },
     {
       "basename": "end to end part 1",
@@ -195,10 +195,6 @@
     {
       "basename": "강의 1 요약",
       "path": "프론트엔드/Next.js/강의 1 요약.md"
-    },
-    {
-      "basename": "Untitled 1",
-      "path": "프론트엔드/Next.js/Untitled 1.md"
     }
   ],
   "omittedPaths": [],
