@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "4학년 1학기/시클보/기말/Untitled.md"
+    },
+    {
       "basename": "Untitled 1",
       "path": "4학년 1학기/캡스톤/Untitled 1.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "1차 보고서",
       "path": "4학년 1학기/캡스톤/1차 보고서.md"
-    },
-    {
-      "basename": "강의 1 요약",
-      "path": "프론트엔드/Next.js/강의 1 요약.md"
     }
   ],
   "omittedPaths": [],
