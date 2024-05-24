@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "토스 면접 예시",
+      "path": "4학년 1학기/멘토링/토스 면접 예시.md"
+    },
+    {
+      "basename": "자소서 예시",
+      "path": "4학년 1학기/멘토링/자소서 예시.md"
+    },
+    {
       "basename": "Untitled",
       "path": "4학년 1학기/시클보/기말/Untitled.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "4주차",
       "path": "4학년 1학기/멘토링/4주차.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "4학년 1학기/멘토링/Untitled.md"
     },
     {
       "basename": "멘토링",
@@ -195,10 +199,6 @@
     {
       "basename": "Untitled",
       "path": "4학년 1학기/캡스톤/Untitled.md"
-    },
-    {
-      "basename": "1차 보고서",
-      "path": "4학년 1학기/캡스톤/1차 보고서.md"
     }
   ],
   "omittedPaths": [],
