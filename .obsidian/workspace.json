@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4학년 1학기/캡스톤/1차대본.md",
+                "file": "4학년 1학기/시분설/스크럼과제.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "25192bdd3f6894eb",
@@ -115,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4학년 1학기/캡스톤/1차대본.md",
+                "file": "4학년 1학기/시분설/스크럼과제.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4학년 1학기/캡스톤/1차대본.md",
+                "file": "4학년 1학기/시분설/스크럼과제.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4학년 1학기/캡스톤/1차대본.md"
+                "file": "4학년 1학기/시분설/스크럼과제.md"
               }
             }
           },
@@ -223,13 +222,18 @@
   },
   "active": "00d2eab85a48b6fa",
   "lastOpenFiles": [
+    "4학년 1학기/시분설/중간고사.md",
+    "4학년 1학기/시분설/기말정리.md",
+    "4학년 1학기/시분설/스크럼과제.md",
+    "Attached Files/KakaoTalk_Photo_2024-05-30-15-21-31.jpeg",
+    "Attached Files/Pasted image 20240530152128.png",
+    "4학년 1학기/캡스톤/1차대본.md",
     "4학년 1학기/멘토링/멘토링.md",
     "4학년 1학기/멘토링/자소서 예시.md",
     "4학년 1학기/멘토링/넥슨 면접 예시.md",
     "4학년 1학기/멘토링/토스 면접 예시.md",
     "4학년 1학기/시클보/기말/Untitled.md",
     "4학년 1학기/캡스톤/Untitled 1.md",
-    "4학년 1학기/캡스톤/1차대본.md",
     "4학년 1학기/멘토링/4주차.md",
     "4학년 1학기/멘토링/Untitled 1.md",
     "4학년 1학기/기학/기말/end to end part 1.md",
@@ -250,11 +254,8 @@
     "프론트엔드/기타/Js Syntax.md",
     "4학년 1학기/시클보/기말/04.ShellShock 2/04.ShellShock 2 1.md",
     "4학년 1학기/시클보/기말/기말.md",
-    "4학년 1학기/시클보/기말/04.ShellShock 2/04.ShellShock 2.md",
     "4학년 1학기/시클보/기말/04.ShellShock 2",
-    "4학년 1학기/시클보/중간/중간.md",
     "4학년 1학기/시클보/기말",
-    "4학년 1학기/시클보/중간/chap.3/03_ShellShock Attack.md",
     "4학년 1학기/시클보/중간",
     "Attached Files/Pasted image 20240425040803.png",
     "Attached Files/Pasted image 20240424035233.png",
@@ -263,8 +264,6 @@
     "Attached Files/Pasted image 20240424033753.png",
     "Attached Files/Pasted image 20240424033351.png",
     "Attached Files/Pasted image 20240424032620.png",
-    "Attached Files/Pasted image 20240424032234.png",
-    "Attached Files/Pasted image 20240424032059.png",
     "4학년 1학기/시클보/중간/chap.3",
     "4학년 1학기/시클보/중간/chap.2",
     "프론트엔드/Next.js",

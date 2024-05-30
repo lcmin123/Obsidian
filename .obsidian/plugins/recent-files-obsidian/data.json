@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "스크럼과제",
+      "path": "4학년 1학기/시분설/스크럼과제.md"
+    },
+    {
+      "basename": "중간고사",
+      "path": "4학년 1학기/시분설/중간고사.md"
+    },
+    {
+      "basename": "기말정리",
+      "path": "4학년 1학기/시분설/기말정리.md"
+    },
+    {
       "basename": "1차대본",
       "path": "4학년 1학기/캡스톤/1차대본.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "web3",
       "path": "4학년 1학기/블체/web3.md"
-    },
-    {
-      "basename": "finalization",
-      "path": "4학년 1학기/블체/finalization.md"
-    },
-    {
-      "basename": "머클트리",
-      "path": "4학년 1학기/블체/머클트리.md"
-    },
-    {
-      "basename": "as a service",
-      "path": "4학년 1학기/블체/as a service.md"
     }
   ],
   "omittedPaths": [],
