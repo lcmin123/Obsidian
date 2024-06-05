@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "스크럼과제",
-      "path": "4학년 1학기/시분설/스크럼과제.md"
+      "basename": "기말정리",
+      "path": "4학년 1학기/시분설/기말정리.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "4학년 1학기/시분설/Untitled.md"
+    },
+    {
+      "basename": "ML Landscape 1",
+      "path": "4학년 1학기/기학/중간/ML Landscape 1.md"
     },
     {
       "basename": "중간고사",
       "path": "4학년 1학기/시분설/중간고사.md"
     },
     {
-      "basename": "기말정리",
-      "path": "4학년 1학기/시분설/기말정리.md"
+      "basename": "스크럼과제",
+      "path": "4학년 1학기/시분설/스크럼과제.md"
     },
     {
       "basename": "1차대본",
@@ -59,10 +67,6 @@
     {
       "basename": "ML Landscape 2",
       "path": "4학년 1학기/기학/중간/ML Landscape 2.md"
-    },
-    {
-      "basename": "ML Landscape 1",
-      "path": "4학년 1학기/기학/중간/ML Landscape 1.md"
     },
     {
       "basename": "기학",
@@ -195,10 +199,6 @@
     {
       "basename": "블록체인",
       "path": "4학년 1학기/블체/블록체인.md"
-    },
-    {
-      "basename": "web3",
-      "path": "4학년 1학기/블체/web3.md"
     }
   ],
   "omittedPaths": [],
