@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4학년 1학기/시분설/시분설 기말.md",
+                "file": "4학년 1학기/시클보/중간/chap.3/03_ShellShock Attack.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4학년 1학기/시분설/시분설 기말.md",
+                "file": "4학년 1학기/시클보/중간/chap.3/03_ShellShock Attack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4학년 1학기/시분설/시분설 기말.md",
+                "file": "4학년 1학기/시클보/중간/chap.3/03_ShellShock Attack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4학년 1학기/시분설/시분설 기말.md"
+                "file": "4학년 1학기/시클보/중간/chap.3/03_ShellShock Attack.md"
               }
             }
           },
@@ -209,8 +209,14 @@
   },
   "active": "96983161f32a98d1",
   "lastOpenFiles": [
-    "4학년 1학기/시분설/스크럼과제.md",
+    "4학년 1학기/시클보/중간/chap.3/chap.3.md",
+    "4학년 1학기/시클보/중간/chap.2/02_Environment Variables.md",
+    "4학년 1학기/시클보/중간/chap.2/chap.2.md",
+    "4학년 1학기/시클보/중간/chap.1/01_SetUID.md",
+    "4학년 1학기/시클보/중간/chap.1/chap.1.md",
+    "4학년 1학기/시클보/중간/chap.0/chap.0.md",
     "4학년 1학기/시분설/시분설 기말.md",
+    "4학년 1학기/시분설/스크럼과제.md",
     "Attached Files/Pasted image 20240605141319.png",
     "Attached Files/Pasted image 20240605141300.png",
     "Attached Files/Pasted image 20240605141238.png",
@@ -242,11 +248,6 @@
     "4학년 1학기/기학/기말",
     "4학년 1학기/기학/기학.md",
     "4학년 1학기/기학/중간",
-    "4학년 1학기/기학/과제1.md",
-    "4학년 1학기/기학/numpy.md",
-    "프론트엔드/기타/virtual dom.md",
-    "프론트엔드/기타/JS Modules.md",
-    "프론트엔드/기타/JS 비동기 처리 방법.md",
     "4학년 1학기/시클보/기말/04.ShellShock 2",
     "4학년 1학기/시클보/기말",
     "4학년 1학기/시클보/중간",
