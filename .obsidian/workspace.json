@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4학년 1학기/시분설/기말 공부.md",
+                "file": "4학년 1학기/시분설/시분설 기말.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4학년 1학기/시분설/기말 공부.md",
+                "file": "4학년 1학기/시분설/시분설 기말.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4학년 1학기/시분설/기말 공부.md",
+                "file": "4학년 1학기/시분설/시분설 기말.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4학년 1학기/시분설/기말 공부.md"
+                "file": "4학년 1학기/시분설/시분설 기말.md"
               }
             }
           },
@@ -209,8 +209,9 @@
   },
   "active": "96983161f32a98d1",
   "lastOpenFiles": [
-    "4학년 1학기/시클보/중간/chap.3/03_ShellShock Attack.md",
+    "Attached Files/Pasted image 20240610165102.png",
     "4학년 1학기/시분설/기말 공부.md",
+    "4학년 1학기/시클보/중간/chap.3/03_ShellShock Attack.md",
     "4학년 1학기/시클보/중간/chap.3/chap.3.md",
     "4학년 1학기/시클보/중간/chap.2/02_Environment Variables.md",
     "4학년 1학기/시클보/중간/chap.2/chap.2.md",
@@ -245,7 +246,6 @@
     "4학년 1학기/기학/기말/end to end part 1.md",
     "4학년 1학기/멘토링",
     "4학년 1학기/기학/중간/중간.md",
-    "4학년 1학기/기학/기말/기말.md",
     "4학년 1학기/기학/기말",
     "4학년 1학기/기학/중간",
     "4학년 1학기/시클보/기말/04.ShellShock 2",
