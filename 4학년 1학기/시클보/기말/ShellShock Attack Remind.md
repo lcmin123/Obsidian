@@ -143,7 +143,9 @@ parse_and_execute(temp_string, name, SEVAL_NONINT | SEVAL_NONIST);
 		- 기본적으로 웹 서버는 우분투에서 www-data 사용자 id로 실행 → 이를 통해 서버를 완전히 장악 할 수는 없지만, 몇가지 피해를 줄 수 있는 작업 수행 가능
 		- 예시) 리버스 쉘 생성
 			- 공격자는 자신의 머신(10.9.0.1)에서 netcat 명령어를 실행해 리버스 쉘 연결을 기다림
+			- 공격자는 curl -A를 통해 user-agent 헤더에 악성 명령어 포함
 			- 피해자 웹 서버 컨테이너 쉘에서 특정 명령어 실행해 리버스 쉘 생성
+			- 악성 명령어 포함된 환경변수 받은 후 배쉬는 환경 변수를 실행
 			- 명령어 실행 후, 공격자는 피해자 웹 서버(10.9.0.80)에서 연결 받음
 			- 이후 공격자는 서버 머신에서 원하는 명령어 실행 가능
 	- docker 명령어
@@ -154,3 +156,5 @@ parse_and_execute(temp_string, name, SEVAL_NONINT | SEVAL_NONIST);
 		- docksh <id> : id의 컨테이너 쉘 획득
 	- shellshock attack on set-uid
 		- export foo = ‘() { echo “hello” }; /bin/sh’
+
+~# /bin/bash -i
