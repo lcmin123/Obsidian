@@ -128,3 +128,10 @@ parse_and_execute(temp_string, name, SEVAL_NONINT | SEVAL_NONIST);
 	- 타겟 프로세스가 bash shell을 trigger 해야함
 	  (bash_shellshock 등)
 	- 타겟 프로세스가 SetUID 프로그램일 시 더욱 치명적일 것
+- CGI 프로그램에 대한 Shellshock 공격
+	- CGI는 웹 서버가 동적으로 웹 페이지를 생성하는 실행 프로그램을 실행하는데 사용
+	- CGI 프로그램은 쉘 스크립트를 사용하며, bash 사용 시 shellshock에 취약할 수 있음
+- CGI 프로그램을 이용한 공격 방법
+	- 웹 서버가 CGI 프로그램 호출
+		- 사용자가 CGI url을 아파치 웹서버에 보낼 때 아파치는 요청을 확인하고, cgi 요청인 경우 fork()를 사용해 새 프로세스를 시작하고, exec()함수를 사용해 cgi 프로그램 실행
+		- cgi 프로그램이 #! /bin/bash_shellshock으로 시작하면, exec은 실제로 /bin/
