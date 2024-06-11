@@ -1,12 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "기말 공부",
-      "path": "4학년 1학기/시분설/기말 공부.md"
-    },
-    {
-      "basename": "시분설 기말",
-      "path": "4학년 1학기/시분설/시분설 기말.md"
+      "basename": "ShellShock Attack Remind",
+      "path": "4학년 1학기/시클보/기말/ShellShock Attack Remind.md"
     },
     {
       "basename": "03_ShellShock Attack",
@@ -17,12 +13,36 @@
       "path": "4학년 1학기/시클보/중간/chap.3/chap.3.md"
     },
     {
-      "basename": "02_Environment Variables",
-      "path": "4학년 1학기/시클보/중간/chap.2/02_Environment Variables.md"
+      "basename": "중간",
+      "path": "4학년 1학기/시클보/중간/중간.md"
+    },
+    {
+      "basename": "기말",
+      "path": "4학년 1학기/시클보/기말/기말.md"
     },
     {
       "basename": "chap.2",
       "path": "4학년 1학기/시클보/중간/chap.2/chap.2.md"
+    },
+    {
+      "basename": "기학",
+      "path": "4학년 1학기/기학/기학.md"
+    },
+    {
+      "basename": "end to end part 1",
+      "path": "4학년 1학기/기학/기말/end to end part 1.md"
+    },
+    {
+      "basename": "기말 공부",
+      "path": "4학년 1학기/시분설/기말 공부.md"
+    },
+    {
+      "basename": "시분설 기말",
+      "path": "4학년 1학기/시분설/시분설 기말.md"
+    },
+    {
+      "basename": "02_Environment Variables",
+      "path": "4학년 1학기/시클보/중간/chap.2/02_Environment Variables.md"
     },
     {
       "basename": "01_SetUID",
