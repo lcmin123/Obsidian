@@ -151,3 +151,5 @@ parse_and_execute(temp_string, name, SEVAL_NONINT | SEVAL_NONIST);
 		- docker-compose up: 서비스 시작
 		- docker-composer down: 서비스 중지
 		- docker ps: 실행중인 docker 컨테이너 id 목록
+	- shellshock attack on set-uid
+		- export foo = ‘() { echo “hello” ’
