@@ -154,4 +154,3 @@ parse_and_execute(temp_string, name, SEVAL_NONINT | SEVAL_NONIST);
 		- docksh <id> : id의 컨테이너 쉘 획득
 	- shellshock attack on set-uid
 		- export foo = ‘() { echo “hello” }; /bin/sh’
-	- 
