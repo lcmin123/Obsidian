@@ -134,4 +134,13 @@ parse_and_execute(temp_string, name, SEVAL_NONINT | SEVAL_NONIST);
 - CGI 프로그램을 이용한 공격 방법
 	- 웹 서버가 CGI 프로그램 호출
 		- 사용자가 CGI url을 아파치 웹서버에 보낼 때 아파치는 요청을 확인하고, cgi 요청인 경우 fork()를 사용해 새 프로세스를 시작하고, exec()함수를 사용해 cgi 프로그램 실행
-		- cgi 프로그램이 #! /bin/bash_shellshock으로 시작하면, exec은 실제로 /bin/
+		- cgi 프로그램이 #! /bin/bash_shellshock으로 시작하면, exec은 실제로 /bin/bash_shellshock 실행해 쉘 스크립트 실행
+	- 사용자 데이터가 cgi 프로그램에 전달
+		- 아파치가 자식 프로세스를 생성할 때 bash 프로그램(자식 프로세스)에 모든 환경 변수를 제공
+		- curl -A 옵션을 사용해 사용자 Agent 필드를 원하는 값으로 변경 가능
+	- shellshock 공격 실행
+		- 악의적인 명령을 포함한 환경 변수를 설정해 공격 실행
+		- 기본적으로 웹 서버는 우분투에서 www-data 사용자 id로 실행 → 이를 통해 서버를 완전히 장악 할 수는 없지만, 몇가지 피해를 줄 수 있는 작업 수행 가능
+		- 예시) 리버스 쉘 생성
+			- 공격자는 자신의 머신(10.9.0.1)에서 netcat 명령어를 실행해 리버스 쉘 연결을 기다림
+			- 피해자 웹 서버 컨테이너 쉘에서 ㅌ
