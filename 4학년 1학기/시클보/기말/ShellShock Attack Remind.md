@@ -146,3 +146,8 @@ parse_and_execute(temp_string, name, SEVAL_NONINT | SEVAL_NONIST);
 			- 피해자 웹 서버 컨테이너 쉘에서 특정 명령어 실행해 리버스 쉘 생성
 			- 명령어 실행 후, 공격자는 피해자 웹 서버(10.9.0.80)에서 연결 받음
 			- 이후 공격자는 서버 머신에서 원하는 명령어 실행 가능
+	- docker 명령어
+		- docker-compose build: 이미지 빌드
+		- docker-compose up: 서비스 시작
+		- docker-composer down: 서비스 중지
+		- docker ps: 실행중인 docker 컨테이너 id 목록
