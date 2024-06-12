@@ -11,11 +11,9 @@
             "id": "96983161f32a98d1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "4학년 1학기/시클보/기말/buffer overflow.md",
-                "mode": "source",
-                "source": false
+                "path": "4학년 1학기/기학/기말"
               }
             }
           }
@@ -101,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4학년 1학기/시클보/기말/buffer overflow.md",
+                "file": "4학년 1학기/기학/기말/기말.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4학년 1학기/시클보/기말/buffer overflow.md",
+                "file": "4학년 1학기/기학/기말/기말.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4학년 1학기/시클보/기말/buffer overflow.md"
+                "file": "4학년 1학기/기학/기말/기말.md"
               }
             }
           },
@@ -207,10 +205,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "96983161f32a98d1",
+  "active": "5aeee20cb14c0550",
   "lastOpenFiles": [
-    "4학년 1학기/시클보/기말/ShellShock Attack Remind.md",
+    "4학년 1학기/기학/기말/6. training ml model prt 2.md",
+    "4학년 1학기/기학/기말/5. training ml model part 1.md",
+    "4학년 1학기/기학/기말/4. classification part 2.md",
+    "4학년 1학기/기학/기말/3. classification part 1.md",
+    "4학년 1학기/기학/기말/1. end to end part 2.md",
+    "4학년 1학기/기학/기말/2. end to end part 3.md",
+    "4학년 1학기/기학/기말/기말.md",
+    "4학년 1학기/기학/기말/end to end part 1.md",
     "4학년 1학기/시클보/기말/buffer overflow.md",
+    "4학년 1학기/시클보/기말/ShellShock Attack Remind.md",
     "4학년 1학기/시클보/중간/chap.3/03_ShellShock Attack.md",
     "4학년 1학기/시클보/중간/chap.3/chap.3.md",
     "4학년 1학기/시클보/중간/중간.md",
@@ -221,7 +227,6 @@
     "4학년 1학기/시클보/기말/04.ShellShock 2/04.ShellShock 2 1.md",
     "4학년 1학기/시클보/중간/chap.2/chap.2.md",
     "4학년 1학기/기학/기학.md",
-    "4학년 1학기/기학/기말/end to end part 1.md",
     "4학년 1학기/시분설/기말 공부.md",
     "4학년 1학기/시분설/시분설 기말.md",
     "Attached Files/Pasted image 20240610165102.png",
@@ -234,18 +239,11 @@
     "Attached Files/Pasted image 20240605141300.png",
     "Attached Files/Pasted image 20240605141238.png",
     "Attached Files/Pasted image 20240605133310.png",
-    "4학년 1학기/시분설/기말범위.md",
-    "4학년 1학기/시분설/기말정리.md",
     "Attached Files/Pasted image 20240605134133.png",
     "Attached Files/Pasted image 20240605134106.png",
     "Attached Files/Pasted image 20240605134031.png",
     "Attached Files/Pasted image 20240605133436.png",
     "Attached Files/Pasted image 20240605133355.png",
-    "4학년 1학기/기학/중간/ML Landscape 1.md",
-    "4학년 1학기/시분설/중간고사.md",
-    "4학년 1학기/캡스톤/1차대본.md",
-    "4학년 1학기/멘토링/멘토링.md",
-    "4학년 1학기/멘토링/자소서 예시.md",
     "4학년 1학기/멘토링",
     "4학년 1학기/기학/기말",
     "4학년 1학기/기학/중간",
