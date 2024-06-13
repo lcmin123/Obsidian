@@ -11,9 +11,11 @@
             "id": "96983161f32a98d1",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "4학년 1학기/기학"
+                "file": "4학년 1학기/블체/기말.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -99,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4학년 1학기/기학/기학.md",
+                "file": "4학년 1학기/블체/기말.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4학년 1학기/기학/기학.md",
+                "file": "4학년 1학기/블체/기말.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4학년 1학기/기학/기학.md"
+                "file": "4학년 1학기/블체/기말.md"
               }
             }
           },
@@ -205,8 +207,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0e6e9e156fa16352",
+  "active": "96983161f32a98d1",
   "lastOpenFiles": [
+    "4학년 1학기/기학/기학.md",
+    "4학년 1학기/블체/기말.md",
     "4학년 1학기/기학/기말/1. end to end part 2.md",
     "4학년 1학기/기학/기말/6. training ml model prt 2.md",
     "4학년 1학기/기학/기말/기말.md",
@@ -226,7 +230,6 @@
     "4학년 1학기/시클보/기말/04.ShellShock 2/04.ShellShock 2.md",
     "4학년 1학기/시클보/기말/04.ShellShock 2/04.ShellShock 2 1.md",
     "4학년 1학기/시클보/중간/chap.2/chap.2.md",
-    "4학년 1학기/기학/기학.md",
     "4학년 1학기/시분설/기말 공부.md",
     "4학년 1학기/시분설/시분설 기말.md",
     "Attached Files/Pasted image 20240610165102.png",
@@ -234,7 +237,6 @@
     "4학년 1학기/시클보/중간/chap.1/01_SetUID.md",
     "4학년 1학기/시클보/중간/chap.1/chap.1.md",
     "4학년 1학기/시클보/중간/chap.0/chap.0.md",
-    "4학년 1학기/시분설/스크럼과제.md",
     "Attached Files/Pasted image 20240605141319.png",
     "Attached Files/Pasted image 20240605141300.png",
     "Attached Files/Pasted image 20240605141238.png",
