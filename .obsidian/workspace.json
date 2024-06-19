@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2e64e26bf6e04d2e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -207,7 +218,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "96983161f32a98d1",
+  "active": "2e64e26bf6e04d2e",
   "lastOpenFiles": [
     "4학년 1학기/기학/기학.md",
     "4학년 1학기/블체/기말.md",
