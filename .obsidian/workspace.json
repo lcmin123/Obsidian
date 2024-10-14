@@ -23,11 +23,9 @@
             "id": "bbde79e65f04c82c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "3학년 2학기/컴퓨터 보안/족보 중간/2016 Midterm A.md",
-                "mode": "source",
-                "source": false
+                "path": "3학년 2학기"
               }
             }
           }
@@ -114,7 +112,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3학년 2학기/컴퓨터 보안/족보 중간/2016 Midterm A.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +128,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3학년 2학기/컴퓨터 보안/족보 중간/2016 Midterm A.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,9 +149,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "3학년 2학기/컴퓨터 보안/족보 중간/2016 Midterm A.md"
-              }
+              "state": {}
             }
           },
           {
@@ -220,8 +214,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bbde79e65f04c82c",
+  "active": "0e6e9e156fa16352",
   "lastOpenFiles": [
+    "3학년 2학기/컴퓨터 보안/족보 중간/2016 Midterm A.md",
     "3학년 2학기/컴퓨터 보안/족보 기말/족보 기말.md",
     "3학년 2학기/데이터베이스 설계/기말/기말 족보.md",
     "3학년 2학기/데이터베이스 설계/중간/인덱스.md",
@@ -247,7 +242,6 @@
     "4학년 1학기/기학/기말/2. end to end part 3.md",
     "4학년 1학기/기학/기말/end to end part 1.md",
     "4학년 1학기/시클보/기말/buffer overflow.md",
-    "4학년 1학기/시클보/기말/ShellShock Attack Remind.md",
     "4학년 1학기/시클보/기말",
     "Attached Files/Pasted image 20240610165102.png",
     "Attached Files/Pasted image 20240605141319.png",
