@@ -1,6 +1,66 @@
 {
   "recentFiles": [
     {
+      "basename": "2016 Midterm A",
+      "path": "3학년 2학기/컴퓨터 보안/족보 중간/2016 Midterm A.md"
+    },
+    {
+      "basename": "족보 기말",
+      "path": "3학년 2학기/컴퓨터 보안/족보 기말/족보 기말.md"
+    },
+    {
+      "basename": "기말 족보",
+      "path": "3학년 2학기/데이터베이스 설계/기말/기말 족보.md"
+    },
+    {
+      "basename": "인덱스",
+      "path": "3학년 2학기/데이터베이스 설계/중간/인덱스.md"
+    },
+    {
+      "basename": "엔티티타입",
+      "path": "3학년 2학기/데이터베이스 설계/중간/엔티티타입.md"
+    },
+    {
+      "basename": "식별 관계",
+      "path": "3학년 2학기/데이터베이스 설계/중간/식별 관계.md"
+    },
+    {
+      "basename": "스키마와 인스턴스",
+      "path": "3학년 2학기/데이터베이스 설계/중간/스키마와 인스턴스.md"
+    },
+    {
+      "basename": "관계형 데이터 모델",
+      "path": "3학년 2학기/데이터베이스 설계/중간/관계형 데이터 모델.md"
+    },
+    {
+      "basename": "select",
+      "path": "3학년 2학기/데이터베이스 설계/중간/select.md"
+    },
+    {
+      "basename": "join operation",
+      "path": "3학년 2학기/데이터베이스 설계/중간/join operation.md"
+    },
+    {
+      "basename": "hash join",
+      "path": "3학년 2학기/데이터베이스 설계/중간/hash join.md"
+    },
+    {
+      "basename": "block nested loop join",
+      "path": "3학년 2학기/데이터베이스 설계/중간/block nested loop join.md"
+    },
+    {
+      "basename": "NVL",
+      "path": "3학년 2학기/데이터베이스 설계/중간/NVL.md"
+    },
+    {
+      "basename": "LIKE",
+      "path": "3학년 2학기/데이터베이스 설계/중간/LIKE.md"
+    },
+    {
+      "basename": "4.BCNF",
+      "path": "3학년 2학기/데이터베이스 설계/중간/4.BCNF.md"
+    },
+    {
       "basename": "기말",
       "path": "4학년 1학기/블체/기말.md"
     },

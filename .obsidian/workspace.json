@@ -23,9 +23,11 @@
             "id": "bbde79e65f04c82c",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.7"
+                "file": "3학년 2학기/컴퓨터 보안/족보 중간/2016 Midterm A.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -112,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4학년 1학기/블체/기말.md",
+                "file": "3학년 2학기/컴퓨터 보안/족보 중간/2016 Midterm A.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4학년 1학기/블체/기말.md",
+                "file": "3학년 2학기/컴퓨터 보안/족보 중간/2016 Midterm A.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4학년 1학기/블체/기말.md"
+                "file": "3학년 2학기/컴퓨터 보안/족보 중간/2016 Midterm A.md"
               }
             }
           },
@@ -220,6 +222,20 @@
   },
   "active": "bbde79e65f04c82c",
   "lastOpenFiles": [
+    "3학년 2학기/컴퓨터 보안/족보 기말/족보 기말.md",
+    "3학년 2학기/데이터베이스 설계/기말/기말 족보.md",
+    "3학년 2학기/데이터베이스 설계/중간/인덱스.md",
+    "3학년 2학기/데이터베이스 설계/중간/엔티티타입.md",
+    "3학년 2학기/데이터베이스 설계/중간/식별 관계.md",
+    "3학년 2학기/데이터베이스 설계/중간/스키마와 인스턴스.md",
+    "3학년 2학기/데이터베이스 설계/중간/관계형 데이터 모델.md",
+    "3학년 2학기/데이터베이스 설계/중간/select.md",
+    "3학년 2학기/데이터베이스 설계/중간/join operation.md",
+    "3학년 2학기/데이터베이스 설계/중간/hash join.md",
+    "3학년 2학기/데이터베이스 설계/중간/block nested loop join.md",
+    "3학년 2학기/데이터베이스 설계/중간/NVL.md",
+    "3학년 2학기/데이터베이스 설계/중간/LIKE.md",
+    "3학년 2학기/데이터베이스 설계/중간/4.BCNF.md",
     "4학년 1학기/기학/기학.md",
     "4학년 1학기/블체/기말.md",
     "4학년 1학기/기학/기말/1. end to end part 2.md",
@@ -232,22 +248,8 @@
     "4학년 1학기/기학/기말/end to end part 1.md",
     "4학년 1학기/시클보/기말/buffer overflow.md",
     "4학년 1학기/시클보/기말/ShellShock Attack Remind.md",
-    "4학년 1학기/시클보/중간/chap.3/03_ShellShock Attack.md",
-    "4학년 1학기/시클보/중간/chap.3/chap.3.md",
-    "4학년 1학기/시클보/중간/중간.md",
-    "4학년 1학기/시클보/기말/기말.md",
     "4학년 1학기/시클보/기말",
-    "4학년 1학기/시클보/Untitled.md",
-    "4학년 1학기/시클보/기말/04.ShellShock 2/04.ShellShock 2.md",
-    "4학년 1학기/시클보/기말/04.ShellShock 2/04.ShellShock 2 1.md",
-    "4학년 1학기/시클보/중간/chap.2/chap.2.md",
-    "4학년 1학기/시분설/기말 공부.md",
-    "4학년 1학기/시분설/시분설 기말.md",
     "Attached Files/Pasted image 20240610165102.png",
-    "4학년 1학기/시클보/중간/chap.2/02_Environment Variables.md",
-    "4학년 1학기/시클보/중간/chap.1/01_SetUID.md",
-    "4학년 1학기/시클보/중간/chap.1/chap.1.md",
-    "4학년 1학기/시클보/중간/chap.0/chap.0.md",
     "Attached Files/Pasted image 20240605141319.png",
     "Attached Files/Pasted image 20240605141300.png",
     "Attached Files/Pasted image 20240605141238.png",
