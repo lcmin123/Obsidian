@@ -4,33 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "3f3f57dd279ecd6c",
+        "id": "f5135733a876afee",
         "type": "tabs",
         "children": [
           {
-            "id": "96983161f32a98d1",
+            "id": "3c17e9b5965e087b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-uri-view",
               "state": {
-                "file": "4학년 1학기/블체/기말.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bbde79e65f04c82c",
-            "type": "leaf",
-            "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "3학년 2학기"
-              }
+                "path": "https://www.make.md/static/latest.md"
+              },
+              "icon": "lucide-file",
+              "title": "https://www.make.md/static/latest.md"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -47,18 +36,12 @@
             "id": "0e6e9e156fa16352",
             "type": "leaf",
             "state": {
-              "type": "mk-file-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "0e580cb45613e193",
-            "type": "leaf",
-            "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
             }
           },
           {
@@ -73,7 +56,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "검색"
             }
           },
           {
@@ -81,7 +66,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           },
           {
@@ -89,7 +76,29 @@
             "type": "leaf",
             "state": {
               "type": "recent-files",
-              "state": {}
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          },
+          {
+            "id": "11d6f739bb313ac5",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "플러그인이 더 이상 활성화되지 않음"
+            }
+          },
+          {
+            "id": "e08b67404851c707",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Spaces"
             }
           }
         ]
@@ -119,7 +128,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "백링크"
             }
           },
           {
@@ -130,7 +141,9 @@
               "state": {
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "나가는 링크"
             }
           },
           {
@@ -141,7 +154,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -149,7 +164,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {},
+              "icon": "lucide-list",
+              "title": "개요"
             }
           },
           {
@@ -157,7 +174,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "플러그인이 더 이상 활성화되지 않음"
             }
           },
           {
@@ -165,7 +184,9 @@
             "type": "leaf",
             "state": {
               "type": "custom-frames-todoist",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "플러그인이 더 이상 활성화되지 않음"
             }
           },
           {
@@ -173,7 +194,9 @@
             "type": "leaf",
             "state": {
               "type": "custom-frames-chatgpt",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "플러그인이 더 이상 활성화되지 않음"
             }
           },
           {
@@ -185,7 +208,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ],
@@ -211,11 +236,14 @@
       "obsidian-advanced-slides:Show Slide Preview": false,
       "random-note:랜덤 노트 열기": false,
       "workspaces:작업 공간 레이아웃 관리": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:새 보드 만들기": false
     }
   },
   "active": "0e6e9e156fa16352",
   "lastOpenFiles": [
+    "4학년 1학기/블체/기말.md",
     "3학년 2학기/컴퓨터 보안/족보 중간/2016 Midterm A.md",
     "3학년 2학기/컴퓨터 보안/족보 기말/족보 기말.md",
     "3학년 2학기/데이터베이스 설계/기말/기말 족보.md",
@@ -232,7 +260,6 @@
     "3학년 2학기/데이터베이스 설계/중간/LIKE.md",
     "3학년 2학기/데이터베이스 설계/중간/4.BCNF.md",
     "4학년 1학기/기학/기학.md",
-    "4학년 1학기/블체/기말.md",
     "4학년 1학기/기학/기말/1. end to end part 2.md",
     "4학년 1학기/기학/기말/6. training ml model prt 2.md",
     "4학년 1학기/기학/기말/기말.md",
