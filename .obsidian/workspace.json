@@ -11,12 +11,14 @@
             "id": "3c17e9b5965e087b",
             "type": "leaf",
             "state": {
-              "type": "mk-uri-view",
+              "type": "markdown",
               "state": {
-                "path": "https://www.make.md/static/latest.md"
+                "file": "4학년 2학기/모프/액티비티와 인텐트.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "https://www.make.md/static/latest.md"
+              "title": "액티비티와 인텐트"
             }
           }
         ]
@@ -82,16 +84,6 @@
             }
           },
           {
-            "id": "11d6f739bb313ac5",
-            "type": "leaf",
-            "state": {
-              "type": "mk-file-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "플러그인이 더 이상 활성화되지 않음"
-            }
-          },
-          {
             "id": "e08b67404851c707",
             "type": "leaf",
             "state": {
@@ -101,7 +93,8 @@
               "title": "Spaces"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -236,13 +229,23 @@
       "obsidian-advanced-slides:Show Slide Preview": false,
       "random-note:랜덤 노트 열기": false,
       "workspaces:작업 공간 레이아웃 관리": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:새 보드 만들기": false
+      "obsidian-kanban:새 보드 만들기": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0e6e9e156fa16352",
+  "active": "3c17e9b5965e087b",
   "lastOpenFiles": [
+    "4학년 2학기/모프/액티비티와 인텐트.md",
+    "4학년 2학기/무제 파일 1.md",
+    "4학년 2학기/무제 파일.md",
+    "4학년 2학기/특론/특론.md",
+    "4학년 2학기/특론",
+    "4학년 2학기/모프/모프.md",
+    "4학년 2학기/모프",
+    "4학년 2학기/4학년 2학기.md",
+    "4학년 2학기",
+    "무제 파일.md",
     "4학년 1학기/블체/기말.md",
     "3학년 2학기/컴퓨터 보안/족보 중간/2016 Midterm A.md",
     "3학년 2학기/컴퓨터 보안/족보 기말/족보 기말.md",
@@ -262,13 +265,6 @@
     "4학년 1학기/기학/기학.md",
     "4학년 1학기/기학/기말/1. end to end part 2.md",
     "4학년 1학기/기학/기말/6. training ml model prt 2.md",
-    "4학년 1학기/기학/기말/기말.md",
-    "4학년 1학기/기학/기말/5. training ml model part 1.md",
-    "4학년 1학기/기학/기말/4. classification part 2.md",
-    "4학년 1학기/기학/기말/3. classification part 1.md",
-    "4학년 1학기/기학/기말/2. end to end part 3.md",
-    "4학년 1학기/기학/기말/end to end part 1.md",
-    "4학년 1학기/시클보/기말/buffer overflow.md",
     "4학년 1학기/시클보/기말",
     "Attached Files/Pasted image 20240610165102.png",
     "Attached Files/Pasted image 20240605141319.png",
@@ -286,9 +282,6 @@
     "4학년 1학기/시클보/기말/04.ShellShock 2",
     "4학년 1학기/시클보/중간",
     "4학년 1학기/시클보/중간/chap.3",
-    "4학년 1학기/시클보/중간/chap.2",
-    "프론트엔드/Next.js",
-    "4학년 1학기/시클보/중간/chap.1",
     "Task Dashboard.canvas"
   ]
 }
