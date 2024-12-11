@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4학년 2학기/모프/3.프래그먼트.md",
+                "file": "4학년 2학기/모프/4.프래그먼트 액티비티 통신.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.프래그먼트"
+              "title": "4.프래그먼트 액티비티 통신"
             }
           }
         ]
@@ -236,8 +236,9 @@
   },
   "active": "3c17e9b5965e087b",
   "lastOpenFiles": [
-    "4학년 2학기/모프/2. 액티비티와 인텐트 응용.md",
     "4학년 2학기/모프/3.프래그먼트.md",
+    "4학년 2학기/모프/4.프래그먼트 액티비티 통신.md",
+    "4학년 2학기/모프/2.액티비티와 인텐트 응용.md",
     "Attached Files/Pasted image 20241211130815.png",
     "Attached Files/Pasted image 20241211130741.png",
     "Attached Files/Pasted image 20241211130649.png",
@@ -270,7 +271,6 @@
     "3학년 2학기/데이터베이스 설계/중간/block nested loop join.md",
     "3학년 2학기/데이터베이스 설계/중간/NVL.md",
     "3학년 2학기/데이터베이스 설계/중간/LIKE.md",
-    "3학년 2학기/데이터베이스 설계/중간/4.BCNF.md",
     "4학년 1학기/시클보/기말",
     "Attached Files/Pasted image 20240610165102.png",
     "Attached Files/Pasted image 20240605141319.png",
