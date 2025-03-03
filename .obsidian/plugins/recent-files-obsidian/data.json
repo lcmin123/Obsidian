@@ -1,6 +1,82 @@
 {
   "recentFiles": [
     {
+      "basename": "무제 파일",
+      "path": "쉬운 코드/데이터베이스/무제 파일.md"
+    },
+    {
+      "basename": "DDL",
+      "path": "3학년 2학기/데이터베이스 설계/중간/DDL.md"
+    },
+    {
+      "basename": "DCL",
+      "path": "3학년 2학기/데이터베이스 설계/중간/DCL.md"
+    },
+    {
+      "basename": "DBMS",
+      "path": "3학년 2학기/데이터베이스 설계/중간/DBMS.md"
+    },
+    {
+      "basename": "4.BCNF",
+      "path": "3학년 2학기/데이터베이스 설계/중간/4.BCNF.md"
+    },
+    {
+      "basename": "3NF",
+      "path": "3학년 2학기/데이터베이스 설계/중간/3NF.md"
+    },
+    {
+      "basename": "2NF",
+      "path": "3학년 2학기/데이터베이스 설계/중간/2NF.md"
+    },
+    {
+      "basename": "1NF",
+      "path": "3학년 2학기/데이터베이스 설계/중간/1NF.md"
+    },
+    {
+      "basename": "기말 족보",
+      "path": "3학년 2학기/데이터베이스 설계/기말/기말 족보.md"
+    },
+    {
+      "basename": "Two phase locking protocol",
+      "path": "3학년 2학기/데이터베이스 설계/기말/Two phase locking protocol.md"
+    },
+    {
+      "basename": "transaction",
+      "path": "3학년 2학기/데이터베이스 설계/기말/transaction.md"
+    },
+    {
+      "basename": "snapshot isolation",
+      "path": "3학년 2학기/데이터베이스 설계/기말/snapshot isolation.md"
+    },
+    {
+      "basename": "materialized view - 수업필기",
+      "path": "3학년 2학기/데이터베이스 설계/기말/materialized view - 수업필기.md"
+    },
+    {
+      "basename": "Stable Storage",
+      "path": "3학년 2학기/데이터베이스 설계/기말/Stable Storage.md"
+    },
+    {
+      "basename": "Recovery Sytstem",
+      "path": "3학년 2학기/데이터베이스 설계/기말/Recovery Sytstem.md"
+    },
+    {
+      "basename": "Query Optimization",
+      "path": "3학년 2학기/데이터베이스 설계/기말/Query Optimization.md"
+    },
+    {
+      "basename": "Materialized view - 강의자료",
+      "path": "3학년 2학기/데이터베이스 설계/기말/Materialized view - 강의자료.md"
+    },
+    {
+      "basename": "Concurrency Control",
+      "path": "3학년 2학기/데이터베이스 설계/기말/Concurrency Control.md"
+    },
+    {
+      "basename": "Cascading Rollback",
+      "path": "3학년 2학기/데이터베이스 설계/기말/Cascading Rollback.md"
+    },
+    {
       "basename": "7.어댑터뷰",
       "path": "4학년 2학기/모프/7.어댑터뷰.md"
     },
@@ -45,10 +121,6 @@
       "path": "4학년 2학기/모프/6. 네비게이션 컴포넌트.md"
     },
     {
-      "basename": "무제 파일",
-      "path": "무제 파일.md"
-    },
-    {
       "basename": "4학년 2학기",
       "path": "4학년 2학기/4학년 2학기.md"
     },
@@ -63,10 +135,6 @@
     {
       "basename": "족보 기말",
       "path": "3학년 2학기/컴퓨터 보안/족보 기말/족보 기말.md"
-    },
-    {
-      "basename": "기말 족보",
-      "path": "3학년 2학기/데이터베이스 설계/기말/기말 족보.md"
     },
     {
       "basename": "인덱스",
@@ -113,10 +181,6 @@
       "path": "3학년 2학기/데이터베이스 설계/중간/LIKE.md"
     },
     {
-      "basename": "4.BCNF",
-      "path": "3학년 2학기/데이터베이스 설계/중간/4.BCNF.md"
-    },
-    {
       "basename": "기학",
       "path": "4학년 1학기/기학/기학.md"
     },
@@ -131,74 +195,6 @@
     {
       "basename": "기말",
       "path": "4학년 1학기/기학/기말/기말.md"
-    },
-    {
-      "basename": "5. training ml model part 1",
-      "path": "4학년 1학기/기학/기말/5. training ml model part 1.md"
-    },
-    {
-      "basename": "4. classification part 2",
-      "path": "4학년 1학기/기학/기말/4. classification part 2.md"
-    },
-    {
-      "basename": "3. classification part 1",
-      "path": "4학년 1학기/기학/기말/3. classification part 1.md"
-    },
-    {
-      "basename": "2. end to end part 3",
-      "path": "4학년 1학기/기학/기말/2. end to end part 3.md"
-    },
-    {
-      "basename": "buffer overflow",
-      "path": "4학년 1학기/시클보/기말/buffer overflow.md"
-    },
-    {
-      "basename": "ShellShock Attack Remind",
-      "path": "4학년 1학기/시클보/기말/ShellShock Attack Remind.md"
-    },
-    {
-      "basename": "03_ShellShock Attack",
-      "path": "4학년 1학기/시클보/중간/chap.3/03_ShellShock Attack.md"
-    },
-    {
-      "basename": "chap.3",
-      "path": "4학년 1학기/시클보/중간/chap.3/chap.3.md"
-    },
-    {
-      "basename": "중간",
-      "path": "4학년 1학기/시클보/중간/중간.md"
-    },
-    {
-      "basename": "기말",
-      "path": "4학년 1학기/시클보/기말/기말.md"
-    },
-    {
-      "basename": "chap.2",
-      "path": "4학년 1학기/시클보/중간/chap.2/chap.2.md"
-    },
-    {
-      "basename": "기말 공부",
-      "path": "4학년 1학기/시분설/기말 공부.md"
-    },
-    {
-      "basename": "시분설 기말",
-      "path": "4학년 1학기/시분설/시분설 기말.md"
-    },
-    {
-      "basename": "02_Environment Variables",
-      "path": "4학년 1학기/시클보/중간/chap.2/02_Environment Variables.md"
-    },
-    {
-      "basename": "01_SetUID",
-      "path": "4학년 1학기/시클보/중간/chap.1/01_SetUID.md"
-    },
-    {
-      "basename": "chap.1",
-      "path": "4학년 1학기/시클보/중간/chap.1/chap.1.md"
-    },
-    {
-      "basename": "chap.0",
-      "path": "4학년 1학기/시클보/중간/chap.0/chap.0.md"
     }
   ],
   "omittedPaths": [],
