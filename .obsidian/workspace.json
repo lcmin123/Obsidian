@@ -97,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.5
+    "width": 258.5,
+    "collapsed": true
   },
   "right": {
     "id": "25192bdd3f6894eb",
@@ -235,6 +236,7 @@
   },
   "active": "3c17e9b5965e087b",
   "lastOpenFiles": [
+    "Attached Files/Pasted image 20250303172914.png",
     "쉬운 코드/데이터베이스/1강   .md",
     "쉬운 코드/데이터베이스/1강강.md",
     "무제 파일 1.md",
@@ -262,7 +264,6 @@
     "4학년 2학기/모프/7.어댑터뷰.md",
     "4학년 2학기/모프/99.리사이클러 뷰.md",
     "4학년 2학기/모프/9.스피너.md",
-    "4학년 2학기/모프/8.그리드뷰.md",
     "Attached Files/Pasted image 20241211130815.png",
     "Attached Files/Pasted image 20241211130741.png",
     "Attached Files/Pasted image 20241211130649.png",
